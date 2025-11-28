@@ -1,0 +1,490 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Boulder Events Calendar</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+        
+        header {
+            text-align: center;
+            color: white;
+            margin-bottom: 40px;
+        }
+        
+        h1 {
+            font-size: 3em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+        }
+        
+        .subtitle {
+            font-size: 1.2em;
+            opacity: 0.9;
+        }
+        
+        .filters {
+            background: white;
+            border-radius: 15px;
+            padding: 25px;
+            margin-bottom: 30px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+        }
+        
+        .filter-section {
+            margin-bottom: 20px;
+        }
+        
+        .filter-section:last-child {
+            margin-bottom: 0;
+        }
+        
+        .filter-label {
+            font-weight: 600;
+            color: #333;
+            margin-bottom: 10px;
+            display: block;
+            font-size: 0.95em;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        
+        .filter-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+        
+        .tag {
+            padding: 8px 16px;
+            border-radius: 20px;
+            border: 2px solid #e0e0e0;
+            background: white;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-size: 0.9em;
+            user-select: none;
+        }
+        
+        .tag:hover {
+            border-color: #667eea;
+            background: #f0f4ff;
+        }
+        
+        .tag.active {
+            background: #667eea;
+            color: white;
+            border-color: #667eea;
+        }
+        
+        .search-box {
+            width: 100%;
+            padding: 12px 20px;
+            border: 2px solid #e0e0e0;
+            border-radius: 10px;
+            font-size: 1em;
+            transition: border-color 0.3s ease;
+        }
+        
+        .search-box:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+        
+        .stats {
+            background: rgba(255,255,255,0.2);
+            color: white;
+            padding: 15px 20px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            text-align: center;
+            font-size: 1.1em;
+            backdrop-filter: blur(10px);
+        }
+        
+        .events-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 25px;
+            margin-bottom: 40px;
+        }
+        
+        .event-card {
+            background: white;
+            border-radius: 15px;
+            overflow: hidden;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.15);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            display: flex;
+            flex-direction: column;
+        }
+        
+        .event-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 30px rgba(0,0,0,0.25);
+        }
+        
+        .event-image {
+            width: 100%;
+            height: 200px;
+            object-fit: cover;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
+        
+        .event-content {
+            padding: 20px;
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+        }
+        
+        .event-title {
+            font-size: 1.3em;
+            font-weight: 600;
+            color: #333;
+            margin-bottom: 10px;
+            line-height: 1.3;
+        }
+        
+        .event-venue {
+            color: #667eea;
+            font-weight: 600;
+            margin-bottom: 8px;
+            font-size: 0.95em;
+        }
+        
+        .event-location {
+            color: #666;
+            font-size: 0.9em;
+            margin-bottom: 12px;
+        }
+        
+        .event-date, .event-time {
+            color: #555;
+            margin-bottom: 5px;
+            font-size: 0.95em;
+        }
+        
+        .event-recurring {
+            background: #ffeaa7;
+            color: #d63031;
+            padding: 4px 10px;
+            border-radius: 5px;
+            font-size: 0.85em;
+            font-weight: 600;
+            display: inline-block;
+            margin-bottom: 10px;
+        }
+        
+        .event-description {
+            color: #666;
+            line-height: 1.5;
+            margin-bottom: 15px;
+            flex-grow: 1;
+            font-size: 0.95em;
+        }
+        
+        .event-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 5px;
+            margin-top: 10px;
+        }
+        
+        .event-tag {
+            background: #f0f4ff;
+            color: #667eea;
+            padding: 4px 10px;
+            border-radius: 12px;
+            font-size: 0.8em;
+            font-weight: 500;
+        }
+        
+        .event-link {
+            display: inline-block;
+            margin-top: 10px;
+            color: #667eea;
+            text-decoration: none;
+            font-weight: 600;
+            transition: color 0.3s ease;
+        }
+        
+        .event-link:hover {
+            color: #764ba2;
+        }
+        
+        .no-events {
+            text-align: center;
+            color: white;
+            font-size: 1.3em;
+            padding: 60px 20px;
+            background: rgba(255,255,255,0.2);
+            border-radius: 15px;
+            backdrop-filter: blur(10px);
+        }
+        
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2em;
+            }
+            
+            .events-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🎉 Boulder Events Calendar</h1>
+            <p class="subtitle">Discover what's happening in Boulder & Longmont</p>
+        </header>
+        
+        <div class="filters">
+            <div class="filter-section">
+                <label class="filter-label">Search Events</label>
+                <input type="text" class="search-box" id="searchBox" placeholder="Search by title, venue, or description...">
+            </div>
+            
+            <div class="filter-section">
+                <label class="filter-label">Venue</label>
+                <div class="filter-tags" id="venueFilters"></div>
+            </div>
+            
+            <div class="filter-section">
+                <label class="filter-label">Location</label>
+                <div class="filter-tags" id="locationFilters"></div>
+            </div>
+            
+            <div class="filter-section">
+                <label class="filter-label">Event Type</label>
+                <div class="filter-tags" id="eventTypeFilters"></div>
+            </div>
+        </div>
+        
+        <div class="stats" id="stats"></div>
+        
+        <div class="events-grid" id="eventsGrid"></div>
+        
+        <div class="no-events" id="noEvents" style="display: none;">
+            No events found matching your filters. Try adjusting your search!
+        </div>
+    </div>
+    
+    <script>
+        let allEvents = [];
+        let filteredEvents = [];
+        let activeFilters = {
+            venue: new Set(),
+            location: new Set(),
+            eventType: new Set(),
+            search: ''
+        };
+        
+        // Load events from JSON
+        async function loadEvents() {
+            try {
+                const response = await fetch('all_boulder_events.json');
+                const data = await response.json();
+                allEvents = data.events;
+                
+                // Initialize filters
+                initializeFilters(data.tags);
+                
+                // Show all events initially
+                filteredEvents = allEvents;
+                renderEvents();
+                updateStats();
+            } catch (error) {
+                console.error('Error loading events:', error);
+                document.getElementById('noEvents').style.display = 'block';
+                document.getElementById('noEvents').textContent = 'Error loading events. Please make sure all_boulder_events.json is in the same directory.';
+            }
+        }
+        
+        function initializeFilters(tags) {
+            // Venue filters
+            const venueFilters = document.getElementById('venueFilters');
+            tags.venues.forEach(venue => {
+                const tag = createFilterTag(venue, 'venue');
+                venueFilters.appendChild(tag);
+            });
+            
+            // Location filters
+            const locationFilters = document.getElementById('locationFilters');
+            tags.locations.forEach(location => {
+                const tag = createFilterTag(location, 'location');
+                locationFilters.appendChild(tag);
+            });
+            
+            // Event type filters
+            const eventTypeFilters = document.getElementById('eventTypeFilters');
+            // Combine venue types and event types
+            const allTypes = new Set([...tags.venue_types, ...tags.event_types]);
+            Array.from(allTypes).sort().forEach(type => {
+                const tag = createFilterTag(type, 'eventType');
+                eventTypeFilters.appendChild(tag);
+            });
+        }
+        
+        function createFilterTag(text, filterType) {
+            const tag = document.createElement('div');
+            tag.className = 'tag';
+            tag.textContent = text;
+            tag.onclick = () => toggleFilter(filterType, text, tag);
+            return tag;
+        }
+        
+        function toggleFilter(filterType, value, element) {
+            if (activeFilters[filterType].has(value)) {
+                activeFilters[filterType].delete(value);
+                element.classList.remove('active');
+            } else {
+                activeFilters[filterType].add(value);
+                element.classList.add('active');
+            }
+            
+            applyFilters();
+        }
+        
+        // Search box
+        document.getElementById('searchBox').addEventListener('input', (e) => {
+            activeFilters.search = e.target.value.toLowerCase();
+            applyFilters();
+        });
+        
+        function applyFilters() {
+            filteredEvents = allEvents.filter(event => {
+                // Venue filter
+                if (activeFilters.venue.size > 0 && !activeFilters.venue.has(event.venue)) {
+                    return false;
+                }
+                
+                // Location filter
+                if (activeFilters.location.size > 0 && !activeFilters.location.has(event.location)) {
+                    return false;
+                }
+                
+                // Event type filter
+                if (activeFilters.eventType.size > 0) {
+                    const eventTags = [...event.venue_type_tags, ...event.event_type_tags];
+                    const hasMatch = Array.from(activeFilters.eventType).some(filter => 
+                        eventTags.includes(filter)
+                    );
+                    if (!hasMatch) return false;
+                }
+                
+                // Search filter
+                if (activeFilters.search) {
+                    const searchText = activeFilters.search;
+                    const searchableText = `${event.title} ${event.venue} ${event.description}`.toLowerCase();
+                    if (!searchableText.includes(searchText)) {
+                        return false;
+                    }
+                }
+                
+                return true;
+            });
+            
+            renderEvents();
+            updateStats();
+        }
+        
+        function renderEvents() {
+            const grid = document.getElementById('eventsGrid');
+            const noEvents = document.getElementById('noEvents');
+            
+            if (filteredEvents.length === 0) {
+                grid.style.display = 'none';
+                noEvents.style.display = 'block';
+                return;
+            }
+            
+            grid.style.display = 'grid';
+            noEvents.style.display = 'none';
+            
+            grid.innerHTML = filteredEvents.map(event => createEventCard(event)).join('');
+        }
+        
+        function createEventCard(event) {
+            const imageHtml = event.image 
+                ? `<img src="${event.image}" alt="${event.title}" class="event-image">`
+                : `<div class="event-image"></div>`;
+            
+            const recurringHtml = event.recurring 
+                ? `<div class="event-recurring">🔄 ${event.recurring}</div>`
+                : '';
+            
+            const dateHtml = event.date 
+                ? `<div class="event-date">📅 ${event.date}</div>`
+                : '';
+            
+            const timeHtml = event.time 
+                ? `<div class="event-time">🕐 ${event.time}</div>`
+                : '';
+            
+            const descriptionHtml = event.description 
+                ? `<div class="event-description">${truncateText(event.description, 120)}</div>`
+                : '';
+            
+            const linkHtml = event.link 
+                ? `<a href="${event.link}" target="_blank" class="event-link">More Info →</a>`
+                : '';
+            
+            // Combine all tags
+            const allTags = [...new Set([...event.venue_type_tags, ...event.event_type_tags])];
+            const tagsHtml = allTags.length > 0
+                ? `<div class="event-tags">${allTags.map(tag => `<span class="event-tag">${tag}</span>`).join('')}</div>`
+                : '';
+            
+            return `
+                <div class="event-card">
+                    ${imageHtml}
+                    <div class="event-content">
+                        <div class="event-title">${event.title}</div>
+                        <div class="event-venue">📍 ${event.venue}</div>
+                        <div class="event-location">${event.location}</div>
+                        ${recurringHtml}
+                        ${dateHtml}
+                        ${timeHtml}
+                        ${descriptionHtml}
+                        ${tagsHtml}
+                        ${linkHtml}
+                    </div>
+                </div>
+            `;
+        }
+        
+        function truncateText(text, maxLength) {
+            if (text.length <= maxLength) return text;
+            return text.substr(0, maxLength) + '...';
+        }
+        
+        function updateStats() {
+            const stats = document.getElementById('stats');
+            stats.textContent = `Showing ${filteredEvents.length} of ${allEvents.length} events`;
+        }
+        
+        // Load events on page load
+        loadEvents();
+    </script>
+</body>
+</html>

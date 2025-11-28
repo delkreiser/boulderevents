@@ -1,0 +1,1661 @@
+{
+  "generated_at": "2025-11-28T15:35:01.274161",
+  "total_events": 60,
+  "tags": {
+    "venues": [
+      "Junkyard Social Club",
+      "Longs Peak Pub",
+      "Mountain Sun Pub on Pearl",
+      "Southern Sun Pub",
+      "Velvet Elk Lounge",
+      "Vine Street Pub"
+    ],
+    "locations": [
+      "Boulder",
+      "Longmont"
+    ],
+    "venue_types": [
+      "All Ages",
+      "Arts",
+      "Bar",
+      "Community",
+      "Dance",
+      "Food & Drink",
+      "Games",
+      "Live Music",
+      "Music",
+      "Nightlife",
+      "Performance",
+      "Pub"
+    ],
+    "event_types": [
+      "21+",
+      "All Ages",
+      "Community",
+      "Educational",
+      "Family Friendly",
+      "Music",
+      "Performance"
+    ]
+  },
+  "events": [
+    {
+      "id": "velvet_elk_lounge_dec_31_luxe_lounge_nov_24",
+      "title": "Dec 31, Luxe Lounge",
+      "venue": "Velvet Elk Lounge",
+      "location": "Boulder",
+      "date": "Nov 24",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.velvetelklounge.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Velvet Elk Lounge",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Live Music",
+        "Bar",
+        "Nightlife"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "velvet_elk_lounge_home_for_the_holidaze_featuring_los_cheesies_november_26",
+      "title": "Home for the Holidaze featuring Los Cheesies",
+      "venue": "Velvet Elk Lounge",
+      "location": "Boulder",
+      "date": "November 26",
+      "normalized_date": "2025-11-26T00:00:00",
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.velvetelklounge.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Velvet Elk Lounge",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Live Music",
+        "Bar",
+        "Nightlife"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "velvet_elk_lounge_black_sabbath_friday_featuring_rat_salad_a_black_sabbath_tribute_november_28",
+      "title": "Black Sabbath Friday featuring Rat Salad a Black Sabbath Tribute",
+      "venue": "Velvet Elk Lounge",
+      "location": "Boulder",
+      "date": "November 28",
+      "normalized_date": "2025-11-28T00:00:00",
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.velvetelklounge.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Velvet Elk Lounge",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Live Music",
+        "Bar",
+        "Nightlife"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "velvet_elk_lounge_steve_knight_band_november_29th",
+      "title": "Steve Knight Band",
+      "venue": "Velvet Elk Lounge",
+      "location": "Boulder",
+      "date": "November 29th",
+      "normalized_date": "2025-11-29T00:00:00",
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.velvetelklounge.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Velvet Elk Lounge",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Live Music",
+        "Bar",
+        "Nightlife"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "velvet_elk_lounge_second_annual_ugly_er_sweater_party_december_4th",
+      "title": "Second Annual Ugly-er Sweater Party",
+      "venue": "Velvet Elk Lounge",
+      "location": "Boulder",
+      "date": "December 4th",
+      "normalized_date": "2025-12-04T00:00:00",
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.velvetelklounge.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Velvet Elk Lounge",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Live Music",
+        "Bar",
+        "Nightlife"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "velvet_elk_lounge_latkepalooza_ii_a_chanukah_celebration_december_18",
+      "title": "LatkePalooza II: A Chanukah Celebration!",
+      "venue": "Velvet Elk Lounge",
+      "location": "Boulder",
+      "date": "December 18",
+      "normalized_date": "2025-12-18T00:00:00",
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.velvetelklounge.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Velvet Elk Lounge",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Live Music",
+        "Bar",
+        "Nightlife"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "velvet_elk_lounge_rapidgrass_december_27",
+      "title": "Rapidgrass",
+      "venue": "Velvet Elk Lounge",
+      "location": "Boulder",
+      "date": "December 27",
+      "normalized_date": "2025-12-27T00:00:00",
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.velvetelklounge.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Velvet Elk Lounge",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Live Music",
+        "Bar",
+        "Nightlife"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "velvet_elk_lounge_kings_of_prussia_january_2",
+      "title": "Kings of Prussia",
+      "venue": "Velvet Elk Lounge",
+      "location": "Boulder",
+      "date": "January 2",
+      "normalized_date": "2025-01-02T00:00:00",
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.velvetelklounge.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Velvet Elk Lounge",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Live Music",
+        "Bar",
+        "Nightlife"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "velvet_elk_lounge_jimkata_with_terrawave_january_24",
+      "title": "JIMKATA with Terrawave",
+      "venue": "Velvet Elk Lounge",
+      "location": "Boulder",
+      "date": "January 24",
+      "normalized_date": "2025-01-24T00:00:00",
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.velvetelklounge.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Velvet Elk Lounge",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Live Music",
+        "Bar",
+        "Nightlife"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_good_music_medicine_student_open_mic_monday_october_6_2025",
+      "title": "Good Music Medicine Student Open Mic",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Monday, October 6, 2025",
+      "normalized_date": "2025-10-06T00:00:00",
+      "recurring": null,
+      "time": "3:00 7:00 PM",
+      "description": "",
+      "link": null,
+      "image": null,
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": "All Ages are Welcome",
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Dance",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "All Ages",
+        "Community",
+        "Educational",
+        "Music"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_pop_up_bachata_night_monday_october_6_2025",
+      "title": "Pop-Up Bachata night",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Monday, October 6, 2025",
+      "normalized_date": "2025-10-06T00:00:00",
+      "recurring": null,
+      "time": "7:00 PM 9:00 PM",
+      "description": "",
+      "link": null,
+      "image": null,
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": "All Ages are Welcome",
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Dance",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Music",
+        "Educational",
+        "All Ages",
+        "Community",
+        "Family Friendly"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_junkyard_game_night_thursday_october_9_2025",
+      "title": "Junkyard Game Night",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Thursday, October 9, 2025",
+      "normalized_date": "2025-10-09T00:00:00",
+      "recurring": null,
+      "time": "6:00 9:00 PM",
+      "description": "",
+      "link": null,
+      "image": null,
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": "All Ages are Welcome",
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Dance",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "All Ages",
+        "Community",
+        "Family Friendly"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_fusion_partner_dance_thursday_october_9_2025",
+      "title": "Fusion Partner Dance",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Thursday, October 9, 2025",
+      "normalized_date": "2025-10-09T00:00:00",
+      "recurring": null,
+      "time": "Doors 6:30 | Class 6:45 PM | Social Dance 7:15",
+      "description": "",
+      "link": null,
+      "image": null,
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": "All Ages are Welcome",
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Dance",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "All Ages",
+        "Community",
+        "Music"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_speak_up_studio_no_king_s_day_wednesday_october_15_2025",
+      "title": "SPEAK UP STUDIO: NO KING'S DAY",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Wednesday, October 15, 2025",
+      "normalized_date": "2025-10-15T00:00:00",
+      "recurring": null,
+      "time": "4:00 6:00 PM",
+      "description": "",
+      "link": null,
+      "image": null,
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": "All Ages are Welcome",
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Dance",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "All Ages",
+        "Community"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_house_of_fire_grave_rave_friday_october_17_2025",
+      "title": "House of Fire \u2013 Grave Rave",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Friday, October 17, 2025",
+      "normalized_date": "2025-10-17T00:00:00",
+      "recurring": null,
+      "time": "8:00 PM Doors | Ends at 1 AM",
+      "description": "",
+      "link": null,
+      "image": null,
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": "All Ages are Welcome",
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Dance",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "All Ages",
+        "Music"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_creativemornings_soft_with_textile_artist_steven_frost_friday_october_17_2025",
+      "title": "CreativeMornings: SOFT with textile artist Steven Frost",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Friday, October 17, 2025",
+      "normalized_date": "2025-10-17T00:00:00",
+      "recurring": null,
+      "time": "8:00 am doors | 9:00 am talk | 10:00 am off to work",
+      "description": "",
+      "link": null,
+      "image": null,
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": "Family Friendly",
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Dance",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "All Ages",
+        "Community"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_masquerade_mermaid_ball_sunday_october_19_2025",
+      "title": "Masquerade Mermaid Ball",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Sunday, October 19, 2025",
+      "normalized_date": "2025-10-19T00:00:00",
+      "recurring": null,
+      "time": "5:00 PM 7:30 PM",
+      "description": "",
+      "link": null,
+      "image": null,
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": "Family Friendly",
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Dance",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "All Ages",
+        "Community",
+        "Family Friendly",
+        "Music"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_dance_and_dream_uplevel_your_reality_tuesday_october_21_2025",
+      "title": "DANCE AND DREAM: Uplevel Your reality",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Tuesday, October 21, 2025",
+      "normalized_date": "2025-10-21T00:00:00",
+      "recurring": null,
+      "time": "6:00 9:00 PM",
+      "description": "",
+      "link": null,
+      "image": null,
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": "13+ for workshop | All ages for dance",
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Dance",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Community",
+        "Educational",
+        "Music"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_rocky_horror_picture_show_friday_october_24_2025",
+      "title": "Rocky Horror Picture Show",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Friday, October 24, 2025",
+      "normalized_date": "2025-10-24T00:00:00",
+      "recurring": null,
+      "time": "7:30 11:00 PM",
+      "description": "",
+      "link": null,
+      "image": null,
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": "Family Friendly",
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Dance",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Music",
+        "Performance",
+        "All Ages",
+        "Community",
+        "Family Friendly"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_queer_art_organics_open_mic_sunday_october_26_2025",
+      "title": "Queer Art Organics Open Mic",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Sunday, October 26, 2025",
+      "normalized_date": "2025-10-26T00:00:00",
+      "recurring": null,
+      "time": "4:30 8:00 PM",
+      "description": "",
+      "link": null,
+      "image": null,
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": null,
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Dance",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Performance",
+        "Community"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_ghosts_of_the_junkyard_sunday_october_26_2025",
+      "title": "Ghosts of the Junkyard",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Sunday, October 26, 2025",
+      "normalized_date": "2025-10-26T00:00:00",
+      "recurring": null,
+      "time": "3:00 6:00 PM",
+      "description": "",
+      "link": null,
+      "image": null,
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": "All Ages are Welcome",
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Dance",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Performance",
+        "All Ages",
+        "Community",
+        "Family Friendly"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_rocky_mountain_synthesizer_meet_halloween_groovebox_invasion_wednesday_october_29_2025",
+      "title": "Rocky Mountain Synthesizer Meet: Halloween Groovebox Invasion",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Wednesday, October 29, 2025",
+      "normalized_date": "2025-10-29T00:00:00",
+      "recurring": null,
+      "time": "7:00 9:00 PM",
+      "description": "",
+      "link": null,
+      "image": null,
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": "Must be age 18+",
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Dance",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Performance",
+        "Community",
+        "21+",
+        "Music"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_la_muerta_a_salsa_samba_and_zouk_party_thursday_november_6_2025",
+      "title": "La Muerta: A Salsa, Samba, and Zouk Party",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Thursday, November 6, 2025",
+      "normalized_date": "2025-11-06T00:00:00",
+      "recurring": null,
+      "time": "7:00 PM Doors | 8:00 PM Show",
+      "description": "",
+      "link": null,
+      "image": null,
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": "All Ages are Welcome",
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Dance",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Performance",
+        "All Ages",
+        "Community",
+        "Music"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_story_collective_boundaries_saturday_november_8_2025",
+      "title": "Story Collective: Boundaries",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Saturday, November 8, 2025",
+      "normalized_date": "2025-11-08T00:00:00",
+      "recurring": null,
+      "time": "7:00 PM Doors | 7:45 PM Show",
+      "description": "",
+      "link": null,
+      "image": null,
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": "16+ (mature content)",
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Dance",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Performance",
+        "Community"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_speed_dating_with_the_big_dream_sunday_november_9_2025",
+      "title": "Speed Dating with The Big Dream",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Sunday, November 9, 2025",
+      "normalized_date": "2025-11-09T00:00:00",
+      "recurring": null,
+      "time": "6:00 8:30 PM",
+      "description": "",
+      "link": null,
+      "image": null,
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": "Must be age 18+",
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Dance",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Community",
+        "21+"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_simon_shackleton_open_to_close_chptr_004_saturday_november_22_2025",
+      "title": "Simon Shackleton \u2013 Open To Close \u2013 CHPTR 004",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Saturday, November 22, 2025",
+      "normalized_date": "2025-11-22T00:00:00",
+      "recurring": null,
+      "time": "7:00 PM Midnight",
+      "description": "",
+      "link": null,
+      "image": null,
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": "Must be age 18+",
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Dance",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "21+",
+        "Music"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_christmas_movie_the_play_the_beginning_sunday_december_7_2025",
+      "title": "Christmas Movie the Play: The Beginning",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Sunday, December 7, 2025",
+      "normalized_date": "2025-12-07T00:00:00",
+      "recurring": null,
+      "time": "6:30 Doors | 7:00 Show",
+      "description": "",
+      "link": null,
+      "image": null,
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": "Must be age 18+",
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Dance",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Performance",
+        "21+"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_the_dose_a_psychedelic_comedy_experience_saturday_december_13_2025",
+      "title": "THE DOSE: A Psychedelic Comedy Experience",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Saturday, December 13, 2025",
+      "normalized_date": "2025-12-13T00:00:00",
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "link": null,
+      "image": null,
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": "Must be age 18+",
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Dance",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Performance",
+        "21+",
+        "Music"
+      ]
+    },
+    {
+      "id": "southern_sun_pub_the_bluegrass_pick_every_thursday",
+      "title": "The BLUEGRASS PICK",
+      "venue": "Southern Sun Pub",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": "Every Thursday",
+      "time": "7:30 - 9:30 pm",
+      "description": "Hosted by Max Kabat of Bowregard. Never a cover, always a good time!",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Southern Sun Pub",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Pub",
+        "Bar",
+        "Food & Drink"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "vine_street_pub_vinyl_night_every_monday",
+      "title": "Vinyl Night",
+      "venue": "Vine Street Pub",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": "Every Monday",
+      "time": "5-9 pm",
+      "description": "Join us for an intentional listening experience. Share your favorite tunes and discover new music while enjoying house-made beer and snacks. Bring in a record from your collection and in exchange, we will play it for the pub and give you a free beer.",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Vine Street Pub",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Pub",
+        "Bar",
+        "Food & Drink"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "longs_peak_pub_game_night_monday_nights",
+      "title": "Game Night",
+      "venue": "Longs Peak Pub",
+      "location": "Longmont",
+      "date": null,
+      "normalized_date": null,
+      "recurring": "Monday Nights",
+      "time": "5pm-10pm",
+      "description": "Free Fries and Happy Hour prices for all game tables!",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Longs Peak Pub",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Pub",
+        "Bar",
+        "Games",
+        "Food & Drink"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "vine_street_pub_music_night_every_saturday",
+      "title": "Music Night",
+      "venue": "Vine Street Pub",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": "Every Saturday",
+      "time": "8pm",
+      "description": "In collaboration with Stir Fry Sessions, a Denver based artist collective, we showcase local talent while offering a community space to dance and mingle.",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Vine Street Pub",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Pub",
+        "Bar",
+        "Food & Drink"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "mountain_sun_pub_on_pearl_free_live_music_goodtime_funk_friday_november_7th",
+      "title": "Free Live Music: Goodtime Funk",
+      "venue": "Mountain Sun Pub on Pearl",
+      "location": "Boulder",
+      "date": "Friday, November 7th",
+      "normalized_date": "2025-11-07T00:00:00",
+      "recurring": null,
+      "time": "9pm-Midnight",
+      "description": "NO COVER!",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Mountain Sun Pub on Pearl",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Pub",
+        "Bar",
+        "Food & Drink"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "mountain_sun_pub_on_pearl_free_live_music_jason_brandt_the_build_out_friday_november_14th",
+      "title": "Free Live Music: Jason Brandt & the Build-Out",
+      "venue": "Mountain Sun Pub on Pearl",
+      "location": "Boulder",
+      "date": "Friday, November 14th",
+      "normalized_date": "2025-11-14T00:00:00",
+      "recurring": null,
+      "time": "9pm-Midnight",
+      "description": "NO COVER!",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Mountain Sun Pub on Pearl",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Pub",
+        "Bar",
+        "Food & Drink"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "mountain_sun_pub_on_pearl_free_live_music_brandy_wine_the_mighty_fines_friday_november_21st",
+      "title": "Free Live Music: Brandy Wine & The Mighty Fines",
+      "venue": "Mountain Sun Pub on Pearl",
+      "location": "Boulder",
+      "date": "Friday, November 21st",
+      "normalized_date": "2025-11-21T00:00:00",
+      "recurring": null,
+      "time": "9pm-Midnight",
+      "description": "NO COVER!",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Mountain Sun Pub on Pearl",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Pub",
+        "Bar",
+        "Food & Drink"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "mountain_sun_pub_on_pearl_free_live_music_crick_wooder_friday_november_28th",
+      "title": "Free Live Music: Crick Wooder",
+      "venue": "Mountain Sun Pub on Pearl",
+      "location": "Boulder",
+      "date": "Friday, November 28th",
+      "normalized_date": "2025-11-28T00:00:00",
+      "recurring": null,
+      "time": "9pm-Midnight",
+      "description": "NO COVER!",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Mountain Sun Pub on Pearl",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Pub",
+        "Bar",
+        "Food & Drink"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "southern_sun_pub_the_bluegrass_pick_every_thursday",
+      "title": "The BLUEGRASS PICK",
+      "venue": "Southern Sun Pub",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": "Every Thursday",
+      "time": "7:30 - 9:30 pm",
+      "description": "Hosted by Max Kabat of Bowregard. Never a cover, always a good time!",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Southern Sun Pub",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Pub",
+        "Bar",
+        "Food & Drink"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "vine_street_pub_vinyl_night_every_monday",
+      "title": "Vinyl Night",
+      "venue": "Vine Street Pub",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": "Every Monday",
+      "time": "5-9 pm",
+      "description": "Join us for an intentional listening experience. Share your favorite tunes and discover new music while enjoying house-made beer and snacks. Bring in a record from your collection and in exchange, we will play it for the pub and give you a free beer.",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Vine Street Pub",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Pub",
+        "Bar",
+        "Food & Drink"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "longs_peak_pub_game_night_monday_nights",
+      "title": "Game Night",
+      "venue": "Longs Peak Pub",
+      "location": "Longmont",
+      "date": null,
+      "normalized_date": null,
+      "recurring": "Monday Nights",
+      "time": "5pm-10pm",
+      "description": "Free Fries and Happy Hour prices for all game tables!",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Longs Peak Pub",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Pub",
+        "Bar",
+        "Games",
+        "Food & Drink"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "vine_street_pub_music_night_every_saturday",
+      "title": "Music Night",
+      "venue": "Vine Street Pub",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": "Every Saturday",
+      "time": "8pm",
+      "description": "In collaboration with Stir Fry Sessions, a Denver based artist collective, we showcase local talent while offering a community space to dance and mingle.",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Vine Street Pub",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Pub",
+        "Bar",
+        "Food & Drink"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "mountain_sun_pub_on_pearl_free_live_music_goodtime_funk_friday_november_7th",
+      "title": "Free Live Music: Goodtime Funk",
+      "venue": "Mountain Sun Pub on Pearl",
+      "location": "Boulder",
+      "date": "Friday, November 7th",
+      "normalized_date": "2025-11-07T00:00:00",
+      "recurring": null,
+      "time": "9pm-Midnight",
+      "description": "NO COVER!",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Mountain Sun Pub on Pearl",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Pub",
+        "Bar",
+        "Food & Drink"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "mountain_sun_pub_on_pearl_free_live_music_jason_brandt_the_build_out_friday_november_14th",
+      "title": "Free Live Music: Jason Brandt & the Build-Out",
+      "venue": "Mountain Sun Pub on Pearl",
+      "location": "Boulder",
+      "date": "Friday, November 14th",
+      "normalized_date": "2025-11-14T00:00:00",
+      "recurring": null,
+      "time": "9pm-Midnight",
+      "description": "NO COVER!",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Mountain Sun Pub on Pearl",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Pub",
+        "Bar",
+        "Food & Drink"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "mountain_sun_pub_on_pearl_free_live_music_brandy_wine_the_mighty_fines_friday_november_21st",
+      "title": "Free Live Music: Brandy Wine & The Mighty Fines",
+      "venue": "Mountain Sun Pub on Pearl",
+      "location": "Boulder",
+      "date": "Friday, November 21st",
+      "normalized_date": "2025-11-21T00:00:00",
+      "recurring": null,
+      "time": "9pm-Midnight",
+      "description": "NO COVER!",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Mountain Sun Pub on Pearl",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Pub",
+        "Bar",
+        "Food & Drink"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "mountain_sun_pub_on_pearl_free_live_music_crick_wooder_friday_november_28th",
+      "title": "Free Live Music: Crick Wooder",
+      "venue": "Mountain Sun Pub on Pearl",
+      "location": "Boulder",
+      "date": "Friday, November 28th",
+      "normalized_date": "2025-11-28T00:00:00",
+      "recurring": null,
+      "time": "9pm-Midnight",
+      "description": "NO COVER!",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Mountain Sun Pub on Pearl",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Pub",
+        "Bar",
+        "Food & Drink"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "southern_sun_pub_the_bluegrass_pick_every_thursday",
+      "title": "The BLUEGRASS PICK",
+      "venue": "Southern Sun Pub",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": "Every Thursday",
+      "time": "7:30 - 9:30 pm",
+      "description": "Hosted by Max Kabat of Bowregard. Never a cover, always a good time!",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Southern Sun Pub",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Pub",
+        "Bar",
+        "Food & Drink"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "vine_street_pub_vinyl_night_every_monday",
+      "title": "Vinyl Night",
+      "venue": "Vine Street Pub",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": "Every Monday",
+      "time": "5-9 pm",
+      "description": "Join us for an intentional listening experience. Share your favorite tunes and discover new music while enjoying house-made beer and snacks. Bring in a record from your collection and in exchange, we will play it for the pub and give you a free beer.",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Vine Street Pub",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Pub",
+        "Bar",
+        "Food & Drink"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "longs_peak_pub_game_night_monday_nights",
+      "title": "Game Night",
+      "venue": "Longs Peak Pub",
+      "location": "Longmont",
+      "date": null,
+      "normalized_date": null,
+      "recurring": "Monday Nights",
+      "time": "5pm-10pm",
+      "description": "Free Fries and Happy Hour prices for all game tables!",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Longs Peak Pub",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Pub",
+        "Bar",
+        "Games",
+        "Food & Drink"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "vine_street_pub_music_night_every_saturday",
+      "title": "Music Night",
+      "venue": "Vine Street Pub",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": "Every Saturday",
+      "time": "8pm",
+      "description": "In collaboration with Stir Fry Sessions, a Denver based artist collective, we showcase local talent while offering a community space to dance and mingle.",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Vine Street Pub",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Pub",
+        "Bar",
+        "Food & Drink"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "mountain_sun_pub_on_pearl_free_live_music_goodtime_funk_friday_november_7th",
+      "title": "Free Live Music: Goodtime Funk",
+      "venue": "Mountain Sun Pub on Pearl",
+      "location": "Boulder",
+      "date": "Friday, November 7th",
+      "normalized_date": "2025-11-07T00:00:00",
+      "recurring": null,
+      "time": "9pm-Midnight",
+      "description": "NO COVER!",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Mountain Sun Pub on Pearl",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Pub",
+        "Bar",
+        "Food & Drink"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "mountain_sun_pub_on_pearl_free_live_music_jason_brandt_the_build_out_friday_november_14th",
+      "title": "Free Live Music: Jason Brandt & the Build-Out",
+      "venue": "Mountain Sun Pub on Pearl",
+      "location": "Boulder",
+      "date": "Friday, November 14th",
+      "normalized_date": "2025-11-14T00:00:00",
+      "recurring": null,
+      "time": "9pm-Midnight",
+      "description": "NO COVER!",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Mountain Sun Pub on Pearl",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Pub",
+        "Bar",
+        "Food & Drink"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "mountain_sun_pub_on_pearl_free_live_music_brandy_wine_the_mighty_fines_friday_november_21st",
+      "title": "Free Live Music: Brandy Wine & The Mighty Fines",
+      "venue": "Mountain Sun Pub on Pearl",
+      "location": "Boulder",
+      "date": "Friday, November 21st",
+      "normalized_date": "2025-11-21T00:00:00",
+      "recurring": null,
+      "time": "9pm-Midnight",
+      "description": "NO COVER!",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Mountain Sun Pub on Pearl",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Pub",
+        "Bar",
+        "Food & Drink"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "mountain_sun_pub_on_pearl_free_live_music_crick_wooder_friday_november_28th",
+      "title": "Free Live Music: Crick Wooder",
+      "venue": "Mountain Sun Pub on Pearl",
+      "location": "Boulder",
+      "date": "Friday, November 28th",
+      "normalized_date": "2025-11-28T00:00:00",
+      "recurring": null,
+      "time": "9pm-Midnight",
+      "description": "NO COVER!",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Mountain Sun Pub on Pearl",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Pub",
+        "Bar",
+        "Food & Drink"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "southern_sun_pub_the_bluegrass_pick_every_thursday",
+      "title": "The BLUEGRASS PICK",
+      "venue": "Southern Sun Pub",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": "Every Thursday",
+      "time": "7:30 - 9:30 pm",
+      "description": "Hosted by Max Kabat of Bowregard. Never a cover, always a good time!",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Southern Sun Pub",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Pub",
+        "Bar",
+        "Food & Drink"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "vine_street_pub_vinyl_night_every_monday",
+      "title": "Vinyl Night",
+      "venue": "Vine Street Pub",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": "Every Monday",
+      "time": "5-9 pm",
+      "description": "Join us for an intentional listening experience. Share your favorite tunes and discover new music while enjoying house-made beer and snacks. Bring in a record from your collection and in exchange, we will play it for the pub and give you a free beer.",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Vine Street Pub",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Pub",
+        "Bar",
+        "Food & Drink"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "longs_peak_pub_game_night_monday_nights",
+      "title": "Game Night",
+      "venue": "Longs Peak Pub",
+      "location": "Longmont",
+      "date": null,
+      "normalized_date": null,
+      "recurring": "Monday Nights",
+      "time": "5pm-10pm",
+      "description": "Free Fries and Happy Hour prices for all game tables!",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Longs Peak Pub",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Pub",
+        "Bar",
+        "Games",
+        "Food & Drink"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "vine_street_pub_music_night_every_saturday",
+      "title": "Music Night",
+      "venue": "Vine Street Pub",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": "Every Saturday",
+      "time": "8pm",
+      "description": "In collaboration with Stir Fry Sessions, a Denver based artist collective, we showcase local talent while offering a community space to dance and mingle.",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Vine Street Pub",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Pub",
+        "Bar",
+        "Food & Drink"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "mountain_sun_pub_on_pearl_free_live_music_goodtime_funk_friday_november_7th",
+      "title": "Free Live Music: Goodtime Funk",
+      "venue": "Mountain Sun Pub on Pearl",
+      "location": "Longmont",
+      "date": "Friday, November 7th",
+      "normalized_date": "2025-11-07T00:00:00",
+      "recurring": null,
+      "time": "9pm-Midnight",
+      "description": "NO COVER!",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Mountain Sun Pub on Pearl",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Pub",
+        "Bar",
+        "Games",
+        "Food & Drink"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "mountain_sun_pub_on_pearl_free_live_music_jason_brandt_the_build_out_friday_november_14th",
+      "title": "Free Live Music: Jason Brandt & the Build-Out",
+      "venue": "Mountain Sun Pub on Pearl",
+      "location": "Longmont",
+      "date": "Friday, November 14th",
+      "normalized_date": "2025-11-14T00:00:00",
+      "recurring": null,
+      "time": "9pm-Midnight",
+      "description": "NO COVER!",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Mountain Sun Pub on Pearl",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Pub",
+        "Bar",
+        "Games",
+        "Food & Drink"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "mountain_sun_pub_on_pearl_free_live_music_brandy_wine_the_mighty_fines_friday_november_21st",
+      "title": "Free Live Music: Brandy Wine & The Mighty Fines",
+      "venue": "Mountain Sun Pub on Pearl",
+      "location": "Longmont",
+      "date": "Friday, November 21st",
+      "normalized_date": "2025-11-21T00:00:00",
+      "recurring": null,
+      "time": "9pm-Midnight",
+      "description": "NO COVER!",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Mountain Sun Pub on Pearl",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Pub",
+        "Bar",
+        "Games",
+        "Food & Drink"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "mountain_sun_pub_on_pearl_free_live_music_crick_wooder_friday_november_28th",
+      "title": "Free Live Music: Crick Wooder",
+      "venue": "Mountain Sun Pub on Pearl",
+      "location": "Longmont",
+      "date": "Friday, November 28th",
+      "normalized_date": "2025-11-28T00:00:00",
+      "recurring": null,
+      "time": "9pm-Midnight",
+      "description": "NO COVER!",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Mountain Sun Pub on Pearl",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Pub",
+        "Bar",
+        "Games",
+        "Food & Drink"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    }
+  ]
+}
