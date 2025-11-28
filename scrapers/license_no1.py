@@ -181,7 +181,7 @@ if __name__ == "__main__":
             print(f"  Link: {event.get('link', 'N/A')}")
         
         # Save to JSON
-        output_file = '/home/claude/license_no1_events.json'
+        output_file = './license_no1_events.json'
         with open(output_file, 'w') as f:
             json.dump(events, f, indent=2)
         print(f"\n\nEvents saved to {output_file}")
