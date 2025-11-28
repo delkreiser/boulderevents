@@ -18,47 +18,47 @@ class EventAggregator:
             'Velvet Elk Lounge': {
                 'location': 'Boulder',
                 'tags': ['Music', 'Live Music', 'Bar', 'Nightlife'],
-                'scraper_output': '/home/claude/velvet_elk_events.json'
+                'scraper_output': 'velvet_elk_events.json'
             },
             'Junkyard Social Club': {
                 'location': 'Boulder',
                 'tags': ['Community', 'Arts', 'Dance', 'Performance', 'All Ages'],
-                'scraper_output': '/home/claude/junkyard_events.json'
+                'scraper_output': 'junkyard_events.json'
             },
             'Mountain Sun Pub': {
                 'location': 'Boulder',
                 'tags': ['Music', 'Pub', 'Bar', 'Food & Drink'],
-                'scraper_output': '/home/claude/mountain_sun_events.json'
+                'scraper_output': 'mountain_sun_events.json'
             },
             'Southern Sun Pub': {
                 'location': 'Boulder',
                 'tags': ['Music', 'Pub', 'Bar', 'Food & Drink'],
-                'scraper_output': '/home/claude/mountain_sun_events.json'
+                'scraper_output': 'mountain_sun_events.json'
             },
             'Vine Street Pub': {
                 'location': 'Boulder',
                 'tags': ['Music', 'Pub', 'Bar', 'Food & Drink'],
-                'scraper_output': '/home/claude/mountain_sun_events.json'
+                'scraper_output': 'mountain_sun_events.json'
             },
             'Longs Peak Pub': {
                 'location': 'Longmont',
                 'tags': ['Pub', 'Bar', 'Games', 'Food & Drink'],
-                'scraper_output': '/home/claude/mountain_sun_events.json'
+                'scraper_output': 'mountain_sun_events.json'
             },
             'St Julien Hotel & Spa': {
                 'location': 'Boulder',
                 'tags': ['Entertainment', 'Hotel', 'Upscale'],
-                'scraper_output': '/home/claude/st_julien_events.json'  # Will exist when run with Playwright
+                'scraper_output': 'st_julien_events.json'
             },
             'Trident Booksellers & Cafe': {
                 'location': 'Boulder',
                 'tags': ['Books', 'Literary', 'Cafe', 'Arts'],
-                'scraper_output': '/home/claude/trident_events.json'  # Will exist when run with Playwright
+                'scraper_output': 'trident_events.json'
             },
             'License No 1': {
                 'location': 'Boulder',
                 'tags': ['Nightlife', 'Bar', '21+', 'Music'],
-                'scraper_output': '/home/claude/license_no1_events.json'  # Will exist when run with Playwright
+                'scraper_output': 'license_no1_events.json'
             },
         }
     
@@ -236,7 +236,7 @@ class EventAggregator:
             'event_types': sorted(list(event_type_tags))
         }
     
-    def save_aggregated_events(self, output_file='/home/claude/all_boulder_events.json'):
+    def save_aggregated_events(self, output_file='all_boulder_events.json'):
         """Save all aggregated events to a single JSON file"""
         output_data = {
             'generated_at': datetime.now().isoformat(),
