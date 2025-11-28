@@ -1,12 +1,14 @@
 {
-  "generated_at": "2025-11-28T16:40:30.277337",
-  "total_events": 163,
+  "generated_at": "2025-11-28T16:48:56.183141",
+  "total_events": 222,
   "tags": {
     "venues": [
       "Junkyard Social Club",
+      "License No 1",
       "Longs Peak Pub",
       "Mountain Sun Pub on Pearl",
       "Southern Sun Pub",
+      "St Julien Hotel & Spa",
       "Trident Booksellers & Cafe",
       "Velvet Elk Lounge",
       "Vine Street Pub"
@@ -16,6 +18,7 @@
       "Longmont"
     ],
     "venue_types": [
+      "21+",
       "All Ages",
       "Arts",
       "Bar",
@@ -23,14 +26,17 @@
       "Cafe",
       "Community",
       "Dance",
+      "Entertainment",
       "Food & Drink",
       "Games",
+      "Hotel",
       "Literary",
       "Live Music",
       "Music",
       "Nightlife",
       "Performance",
-      "Pub"
+      "Pub",
+      "Upscale"
     ],
     "event_types": [
       "21+",
@@ -38,8 +44,10 @@
       "Books & Literary",
       "Community",
       "Educational",
+      "Entertainment",
       "Family Friendly",
       "Music",
+      "Nightlife",
       "Performance"
     ]
   },
@@ -302,9 +310,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Community",
         "All Ages",
         "Educational",
-        "Community",
         "Music"
       ]
     },
@@ -333,9 +341,9 @@
       ],
       "event_type_tags": [
         "Educational",
-        "Community",
         "All Ages",
         "Family Friendly",
+        "Community",
         "Music"
       ]
     },
@@ -363,9 +371,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
         "Community",
-        "All Ages"
+        "All Ages",
+        "Family Friendly"
       ]
     },
     {
@@ -392,8 +400,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
         "Community",
+        "All Ages",
         "Music"
       ]
     },
@@ -505,10 +513,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Family Friendly",
         "Community",
-        "Music"
+        "All Ages",
+        "Music",
+        "Family Friendly"
       ]
     },
     {
@@ -535,8 +543,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Educational",
         "Community",
+        "Educational",
         "Music"
       ]
     },
@@ -564,10 +572,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Community",
         "All Ages",
         "Family Friendly",
+        "Performance",
+        "Community",
         "Music"
       ]
     },
@@ -595,8 +603,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -623,10 +631,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
-        "Performance",
         "Community",
-        "All Ages"
+        "Family Friendly",
+        "All Ages",
+        "Performance"
       ]
     },
     {
@@ -653,10 +661,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "21+",
-        "Performance",
         "Community",
-        "Music"
+        "Music",
+        "Performance",
+        "21+"
       ]
     },
     {
@@ -683,10 +691,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Performance",
         "Community",
-        "Music"
+        "All Ages",
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -713,8 +721,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -741,8 +749,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "21+",
-        "Community"
+        "Community",
+        "21+"
       ]
     },
     {
@@ -769,8 +777,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "21+",
-        "Music"
+        "Music",
+        "21+"
       ]
     },
     {
@@ -797,8 +805,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "21+",
-        "Performance"
+        "Performance",
+        "21+"
       ]
     },
     {
@@ -825,9 +833,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "21+",
+        "Music",
         "Performance",
-        "Music"
+        "21+"
       ]
     },
     {
@@ -1660,6 +1668,656 @@
       ],
       "event_type_tags": [
         "Music"
+      ]
+    },
+    {
+      "id": "st_julien_hotel_spa_rachel_alena_6_00_pm_9_00_pm",
+      "title": "Rachel Alena",
+      "venue": "St Julien Hotel & Spa",
+      "location": "Boulder",
+      "date": "6:00 pm-9:00 pm",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "link": "https://stjulien.com/series/rachel-alena/",
+      "image": null,
+      "source_url": "https://stjulien.com/boulder-colorado-events/category/entertainment-events/",
+      "age_restriction": null,
+      "venue_tag": "St Julien Hotel & Spa",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Entertainment",
+        "Hotel",
+        "Upscale"
+      ],
+      "event_type_tags": [
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "st_julien_hotel_spa_strange_byrds_6_00_pm_9_00_pm",
+      "title": "Strange Byrds",
+      "venue": "St Julien Hotel & Spa",
+      "location": "Boulder",
+      "date": "6:00 pm-9:00 pm",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "link": "https://stjulien.com/series/strange-byrds/",
+      "image": null,
+      "source_url": "https://stjulien.com/boulder-colorado-events/category/entertainment-events/",
+      "age_restriction": null,
+      "venue_tag": "St Julien Hotel & Spa",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Entertainment",
+        "Hotel",
+        "Upscale"
+      ],
+      "event_type_tags": [
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "st_julien_hotel_spa_grown_a_man_band_6_00_pm_9_00_pm",
+      "title": "Grown A** Man Band",
+      "venue": "St Julien Hotel & Spa",
+      "location": "Boulder",
+      "date": "6:00 pm-9:00 pm",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "link": "https://stjulien.com/series/grown-a-man-band/",
+      "image": null,
+      "source_url": "https://stjulien.com/boulder-colorado-events/category/entertainment-events/",
+      "age_restriction": null,
+      "venue_tag": "St Julien Hotel & Spa",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Entertainment",
+        "Hotel",
+        "Upscale"
+      ],
+      "event_type_tags": [
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "st_julien_hotel_spa_adam_bodine_6_00_pm_9_00_pm",
+      "title": "Adam Bodine",
+      "venue": "St Julien Hotel & Spa",
+      "location": "Boulder",
+      "date": "6:00 pm-9:00 pm",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "link": "https://stjulien.com/series/adam-bodine-trio/",
+      "image": null,
+      "source_url": "https://stjulien.com/boulder-colorado-events/category/entertainment-events/",
+      "age_restriction": null,
+      "venue_tag": "St Julien Hotel & Spa",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Entertainment",
+        "Hotel",
+        "Upscale"
+      ],
+      "event_type_tags": [
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "st_julien_hotel_spa_amy_biondo_bill_kopper_6_00_pm_9_00_pm",
+      "title": "Amy Biondo & Bill Kopper",
+      "venue": "St Julien Hotel & Spa",
+      "location": "Boulder",
+      "date": "6:00 pm-9:00 pm",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "link": "https://stjulien.com/series/amy-biondo-bill-kopper/",
+      "image": null,
+      "source_url": "https://stjulien.com/boulder-colorado-events/category/entertainment-events/",
+      "age_restriction": null,
+      "venue_tag": "St Julien Hotel & Spa",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Entertainment",
+        "Hotel",
+        "Upscale"
+      ],
+      "event_type_tags": [
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "st_julien_hotel_spa_jacob_mcgann_6_00_pm_9_00_pm",
+      "title": "Jacob McGann",
+      "venue": "St Julien Hotel & Spa",
+      "location": "Boulder",
+      "date": "6:00 pm-9:00 pm",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "link": "https://stjulien.com/series/jacob-mcgann-piano-jam/",
+      "image": null,
+      "source_url": "https://stjulien.com/boulder-colorado-events/category/entertainment-events/",
+      "age_restriction": null,
+      "venue_tag": "St Julien Hotel & Spa",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Entertainment",
+        "Hotel",
+        "Upscale"
+      ],
+      "event_type_tags": [
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "st_julien_hotel_spa_nice_work_jazz_quartet_6_00_pm_9_00_pm",
+      "title": "Nice Work Jazz Quartet",
+      "venue": "St Julien Hotel & Spa",
+      "location": "Boulder",
+      "date": "6:00 pm-9:00 pm",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "link": "https://stjulien.com/series/nice-work-jazz-quartet/",
+      "image": null,
+      "source_url": "https://stjulien.com/boulder-colorado-events/category/entertainment-events/",
+      "age_restriction": null,
+      "venue_tag": "St Julien Hotel & Spa",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Entertainment",
+        "Hotel",
+        "Upscale"
+      ],
+      "event_type_tags": [
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "st_julien_hotel_spa_the_good_kind_6_00_pm_9_00_pm",
+      "title": "The Good Kind",
+      "venue": "St Julien Hotel & Spa",
+      "location": "Boulder",
+      "date": "6:00 pm-9:00 pm",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "link": "https://stjulien.com/series/the-good-kind/",
+      "image": null,
+      "source_url": "https://stjulien.com/boulder-colorado-events/category/entertainment-events/",
+      "age_restriction": null,
+      "venue_tag": "St Julien Hotel & Spa",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Entertainment",
+        "Hotel",
+        "Upscale"
+      ],
+      "event_type_tags": [
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "st_julien_hotel_spa_bill_mckay_piano_6_00_pm_9_00_pm",
+      "title": "Bill McKay Piano",
+      "venue": "St Julien Hotel & Spa",
+      "location": "Boulder",
+      "date": "6:00 pm-9:00 pm",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "link": "https://stjulien.com/series/bill-mckay/",
+      "image": null,
+      "source_url": "https://stjulien.com/boulder-colorado-events/category/entertainment-events/",
+      "age_restriction": null,
+      "venue_tag": "St Julien Hotel & Spa",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Entertainment",
+        "Hotel",
+        "Upscale"
+      ],
+      "event_type_tags": [
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "st_julien_hotel_spa_housecats_6_00_pm_9_00_pm",
+      "title": "HouseCats",
+      "venue": "St Julien Hotel & Spa",
+      "location": "Boulder",
+      "date": "6:00 pm-9:00 pm",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "link": "https://stjulien.com/event/housecats-6/",
+      "image": null,
+      "source_url": "https://stjulien.com/boulder-colorado-events/category/entertainment-events/",
+      "age_restriction": null,
+      "venue_tag": "St Julien Hotel & Spa",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Entertainment",
+        "Hotel",
+        "Upscale"
+      ],
+      "event_type_tags": [
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "st_julien_hotel_spa_brooks_lewis_jazz_10_00_am_2_00_pm",
+      "title": "Brooks Lewis Jazz",
+      "venue": "St Julien Hotel & Spa",
+      "location": "Boulder",
+      "date": "10:00 am-2:00 pm",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "link": "https://stjulien.com/series/brooks-lewis-trio/",
+      "image": null,
+      "source_url": "https://stjulien.com/boulder-colorado-events/category/entertainment-events/",
+      "age_restriction": null,
+      "venue_tag": "St Julien Hotel & Spa",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Entertainment",
+        "Hotel",
+        "Upscale"
+      ],
+      "event_type_tags": [
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "st_julien_hotel_spa_david_lawrence_and_the_spoonful_6_00_pm_9_00_pm",
+      "title": "David Lawrence and the Spoonful",
+      "venue": "St Julien Hotel & Spa",
+      "location": "Boulder",
+      "date": "6:00 pm-9:00 pm",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "link": "https://stjulien.com/series/david-lawrence-and-the-spoonful/",
+      "image": null,
+      "source_url": "https://stjulien.com/boulder-colorado-events/category/entertainment-events/",
+      "age_restriction": null,
+      "venue_tag": "St Julien Hotel & Spa",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Entertainment",
+        "Hotel",
+        "Upscale"
+      ],
+      "event_type_tags": [
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "st_julien_hotel_spa_casey_kleeman_6_00_pm_9_00_pm",
+      "title": "Casey Kleeman",
+      "venue": "St Julien Hotel & Spa",
+      "location": "Boulder",
+      "date": "6:00 pm-9:00 pm",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "link": "https://stjulien.com/series/casey-kleeman/",
+      "image": null,
+      "source_url": "https://stjulien.com/boulder-colorado-events/category/entertainment-events/",
+      "age_restriction": null,
+      "venue_tag": "St Julien Hotel & Spa",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Entertainment",
+        "Hotel",
+        "Upscale"
+      ],
+      "event_type_tags": [
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "st_julien_hotel_spa_rachel_alena_october_29_6_00_pm_9_00_pm",
+      "title": "Rachel Alena",
+      "venue": "St Julien Hotel & Spa",
+      "location": "Boulder",
+      "date": "October 29 @ 6:00 pm-9:00 pm",
+      "normalized_date": "2025-10-29T00:00:00",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "link": "https://stjulien.com/series/rachel-alena/",
+      "image": null,
+      "source_url": "https://stjulien.com/boulder-colorado-events/category/entertainment-events/",
+      "age_restriction": null,
+      "venue_tag": "St Julien Hotel & Spa",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Entertainment",
+        "Hotel",
+        "Upscale"
+      ],
+      "event_type_tags": [
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "st_julien_hotel_spa_strange_byrds_october_30_6_00_pm_9_00_pm",
+      "title": "Strange Byrds",
+      "venue": "St Julien Hotel & Spa",
+      "location": "Boulder",
+      "date": "October 30 @ 6:00 pm-9:00 pm",
+      "normalized_date": "2025-10-30T00:00:00",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "link": "https://stjulien.com/series/strange-byrds/",
+      "image": null,
+      "source_url": "https://stjulien.com/boulder-colorado-events/category/entertainment-events/",
+      "age_restriction": null,
+      "venue_tag": "St Julien Hotel & Spa",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Entertainment",
+        "Hotel",
+        "Upscale"
+      ],
+      "event_type_tags": [
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "st_julien_hotel_spa_grown_a_man_band_october_31_6_00_pm_9_00_pm",
+      "title": "Grown A** Man Band",
+      "venue": "St Julien Hotel & Spa",
+      "location": "Boulder",
+      "date": "October 31 @ 6:00 pm-9:00 pm",
+      "normalized_date": "2025-10-31T00:00:00",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "link": "https://stjulien.com/series/grown-a-man-band/",
+      "image": null,
+      "source_url": "https://stjulien.com/boulder-colorado-events/category/entertainment-events/",
+      "age_restriction": null,
+      "venue_tag": "St Julien Hotel & Spa",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Entertainment",
+        "Hotel",
+        "Upscale"
+      ],
+      "event_type_tags": [
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "st_julien_hotel_spa_adam_bodine_november_5_6_00_pm_9_00_pm",
+      "title": "Adam Bodine",
+      "venue": "St Julien Hotel & Spa",
+      "location": "Boulder",
+      "date": "November 5 @ 6:00 pm-9:00 pm",
+      "normalized_date": "2025-11-05T00:00:00",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "link": "https://stjulien.com/series/adam-bodine-trio/",
+      "image": null,
+      "source_url": "https://stjulien.com/boulder-colorado-events/category/entertainment-events/",
+      "age_restriction": null,
+      "venue_tag": "St Julien Hotel & Spa",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Entertainment",
+        "Hotel",
+        "Upscale"
+      ],
+      "event_type_tags": [
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "st_julien_hotel_spa_amy_biondo_bill_kopper_november_8_6_00_pm_9_00_pm",
+      "title": "Amy Biondo & Bill Kopper",
+      "venue": "St Julien Hotel & Spa",
+      "location": "Boulder",
+      "date": "November 8 @ 6:00 pm-9:00 pm",
+      "normalized_date": "2025-11-08T00:00:00",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "link": "https://stjulien.com/series/amy-biondo-bill-kopper/",
+      "image": null,
+      "source_url": "https://stjulien.com/boulder-colorado-events/category/entertainment-events/",
+      "age_restriction": null,
+      "venue_tag": "St Julien Hotel & Spa",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Entertainment",
+        "Hotel",
+        "Upscale"
+      ],
+      "event_type_tags": [
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "st_julien_hotel_spa_jacob_mcgann_november_12_6_00_pm_9_00_pm",
+      "title": "Jacob McGann",
+      "venue": "St Julien Hotel & Spa",
+      "location": "Boulder",
+      "date": "November 12 @ 6:00 pm-9:00 pm",
+      "normalized_date": "2025-11-12T00:00:00",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "link": "https://stjulien.com/series/jacob-mcgann-piano-jam/",
+      "image": null,
+      "source_url": "https://stjulien.com/boulder-colorado-events/category/entertainment-events/",
+      "age_restriction": null,
+      "venue_tag": "St Julien Hotel & Spa",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Entertainment",
+        "Hotel",
+        "Upscale"
+      ],
+      "event_type_tags": [
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "st_julien_hotel_spa_nice_work_jazz_quartet_november_13_6_00_pm_9_00_pm",
+      "title": "Nice Work Jazz Quartet",
+      "venue": "St Julien Hotel & Spa",
+      "location": "Boulder",
+      "date": "November 13 @ 6:00 pm-9:00 pm",
+      "normalized_date": "2025-11-13T00:00:00",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "link": "https://stjulien.com/series/nice-work-jazz-quartet/",
+      "image": null,
+      "source_url": "https://stjulien.com/boulder-colorado-events/category/entertainment-events/",
+      "age_restriction": null,
+      "venue_tag": "St Julien Hotel & Spa",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Entertainment",
+        "Hotel",
+        "Upscale"
+      ],
+      "event_type_tags": [
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "st_julien_hotel_spa_the_good_kind_november_14_6_00_pm_9_00_pm",
+      "title": "The Good Kind",
+      "venue": "St Julien Hotel & Spa",
+      "location": "Boulder",
+      "date": "November 14 @ 6:00 pm-9:00 pm",
+      "normalized_date": "2025-11-14T00:00:00",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "link": "https://stjulien.com/series/the-good-kind/",
+      "image": null,
+      "source_url": "https://stjulien.com/boulder-colorado-events/category/entertainment-events/",
+      "age_restriction": null,
+      "venue_tag": "St Julien Hotel & Spa",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Entertainment",
+        "Hotel",
+        "Upscale"
+      ],
+      "event_type_tags": [
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "st_julien_hotel_spa_bill_mckay_piano_november_19_6_00_pm_9_00_pm",
+      "title": "Bill McKay Piano",
+      "venue": "St Julien Hotel & Spa",
+      "location": "Boulder",
+      "date": "November 19 @ 6:00 pm-9:00 pm",
+      "normalized_date": "2025-11-19T00:00:00",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "link": "https://stjulien.com/series/bill-mckay/",
+      "image": null,
+      "source_url": "https://stjulien.com/boulder-colorado-events/category/entertainment-events/",
+      "age_restriction": null,
+      "venue_tag": "St Julien Hotel & Spa",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Entertainment",
+        "Hotel",
+        "Upscale"
+      ],
+      "event_type_tags": [
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "st_julien_hotel_spa_housecats_november_21_6_00_pm_9_00_pm",
+      "title": "HouseCats",
+      "venue": "St Julien Hotel & Spa",
+      "location": "Boulder",
+      "date": "November 21 @ 6:00 pm-9:00 pm",
+      "normalized_date": "2025-11-21T00:00:00",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "link": "https://stjulien.com/event/housecats-6/",
+      "image": null,
+      "source_url": "https://stjulien.com/boulder-colorado-events/category/entertainment-events/",
+      "age_restriction": null,
+      "venue_tag": "St Julien Hotel & Spa",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Entertainment",
+        "Hotel",
+        "Upscale"
+      ],
+      "event_type_tags": [
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "st_julien_hotel_spa_brooks_lewis_jazz_november_27_10_00_am_2_00_pm",
+      "title": "Brooks Lewis Jazz",
+      "venue": "St Julien Hotel & Spa",
+      "location": "Boulder",
+      "date": "November 27 @ 10:00 am-2:00 pm",
+      "normalized_date": "2025-11-27T00:00:00",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "link": "https://stjulien.com/series/brooks-lewis-trio/",
+      "image": null,
+      "source_url": "https://stjulien.com/boulder-colorado-events/category/entertainment-events/",
+      "age_restriction": null,
+      "venue_tag": "St Julien Hotel & Spa",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Entertainment",
+        "Hotel",
+        "Upscale"
+      ],
+      "event_type_tags": [
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "st_julien_hotel_spa_david_lawrence_and_the_spoonful_november_28_6_00_pm_9_00_pm",
+      "title": "David Lawrence and the Spoonful",
+      "venue": "St Julien Hotel & Spa",
+      "location": "Boulder",
+      "date": "November 28 @ 6:00 pm-9:00 pm",
+      "normalized_date": "2025-11-28T00:00:00",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "link": "https://stjulien.com/series/david-lawrence-and-the-spoonful/",
+      "image": null,
+      "source_url": "https://stjulien.com/boulder-colorado-events/category/entertainment-events/",
+      "age_restriction": null,
+      "venue_tag": "St Julien Hotel & Spa",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Entertainment",
+        "Hotel",
+        "Upscale"
+      ],
+      "event_type_tags": [
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "st_julien_hotel_spa_casey_kleeman_november_29_6_00_pm_9_00_pm",
+      "title": "Casey Kleeman",
+      "venue": "St Julien Hotel & Spa",
+      "location": "Boulder",
+      "date": "November 29 @ 6:00 pm-9:00 pm",
+      "normalized_date": "2025-11-29T00:00:00",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "link": "https://stjulien.com/series/casey-kleeman/",
+      "image": null,
+      "source_url": "https://stjulien.com/boulder-colorado-events/category/entertainment-events/",
+      "age_restriction": null,
+      "venue_tag": "St Julien Hotel & Spa",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Entertainment",
+        "Hotel",
+        "Upscale"
+      ],
+      "event_type_tags": [
+        "Entertainment"
       ]
     },
     {
@@ -4338,6 +4996,864 @@
       ],
       "event_type_tags": [
         "Books & Literary"
+      ]
+    },
+    {
+      "id": "license_no_1_the_underground_comedy_show_7_30_pm",
+      "title": "The Underground Comedy Show",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "7:30\u202fPM",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "DrinksFoodHappy Hour",
+      "link": "https://www.license1boulderado.com/cart",
+      "image": "//images.squarespace-cdn.com/content/v1/6091b19ba5da29701edc5ada/1620161035114-EY686JN7US5Z1BDOUEUH/LicenseNO1_Logo+White.png?format=1500w",
+      "source_url": "https://www.license1boulderado.com/events-1",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+",
+        "Music"
+      ],
+      "event_type_tags": [
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_the_underground_comedy_show_7_30_pm",
+      "title": "The Underground Comedy Show",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "7:30\u202fPM",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-fd65x-2x4z6-pjfxj-ze78w-34ghp",
+      "image": null,
+      "source_url": "https://www.license1boulderado.com/events-1",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+",
+        "Music"
+      ],
+      "event_type_tags": [
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_the_underground_comedy_show_7_30_pm_8_30_pm",
+      "title": "The Underground Comedy Show",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "7:30\u202fPM \u2013 8:30\u202fPM",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-fd65x-2x4z6-pjfxj-ze78w-34ghp",
+      "image": null,
+      "source_url": "https://www.license1boulderado.com/events-1",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+",
+        "Music"
+      ],
+      "event_type_tags": [
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_live_music_with_george_nelson_band_8_00_pm",
+      "title": "Live Music with George Nelson Band",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "8:00\u202fPM",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-62s74",
+      "image": null,
+      "source_url": "https://www.license1boulderado.com/events-1",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+",
+        "Music"
+      ],
+      "event_type_tags": [
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_live_music_with_george_nelson_band_8_00_pm_11_59_pm",
+      "title": "Live Music with George Nelson Band",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "8:00\u202fPM \u2013 11:59\u202fPM",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-62s74",
+      "image": null,
+      "source_url": "https://www.license1boulderado.com/events-1",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+",
+        "Music"
+      ],
+      "event_type_tags": [
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_the_underground_comedy_show_8_00_pm",
+      "title": "The Underground Comedy Show",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "8:00\u202fPM",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-556r9-pz7ad",
+      "image": null,
+      "source_url": "https://www.license1boulderado.com/events-1",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+",
+        "Music"
+      ],
+      "event_type_tags": [
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_the_underground_comedy_show_8_00_pm_9_00_pm",
+      "title": "The Underground Comedy Show",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "8:00\u202fPM \u2013 9:00\u202fPM",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-556r9-pz7ad",
+      "image": null,
+      "source_url": "https://www.license1boulderado.com/events-1",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+",
+        "Music"
+      ],
+      "event_type_tags": [
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_the_underground_comedy_show_8_00_pm",
+      "title": "The Underground Comedy Show",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "8:00\u202fPM",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-5j687-6wwda-e4mpt-f3jwf-w6zgg",
+      "image": null,
+      "source_url": "https://www.license1boulderado.com/events-1",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+",
+        "Music"
+      ],
+      "event_type_tags": [
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_the_underground_comedy_show_8_00_pm_9_00_pm",
+      "title": "The Underground Comedy Show",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "8:00\u202fPM \u2013 9:00\u202fPM",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-5j687-6wwda-e4mpt-f3jwf-w6zgg",
+      "image": null,
+      "source_url": "https://www.license1boulderado.com/events-1",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+",
+        "Music"
+      ],
+      "event_type_tags": [
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_the_underground_comedy_show_7_30_pm",
+      "title": "The Underground Comedy Show",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "7:30\u202fPM",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-fd65x-2x4z6-pjfxj-ze78w-cfx5m",
+      "image": null,
+      "source_url": "https://www.license1boulderado.com/events-1",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+",
+        "Music"
+      ],
+      "event_type_tags": [
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_the_underground_comedy_show_7_30_pm_8_30_pm",
+      "title": "The Underground Comedy Show",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "7:30\u202fPM \u2013 8:30\u202fPM",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-fd65x-2x4z6-pjfxj-ze78w-cfx5m",
+      "image": null,
+      "source_url": "https://www.license1boulderado.com/events-1",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+",
+        "Music"
+      ],
+      "event_type_tags": [
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_live_music_with_george_nelson_band_8_00_pm",
+      "title": "Live Music with George Nelson Band",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "8:00\u202fPM",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-r546h",
+      "image": null,
+      "source_url": "https://www.license1boulderado.com/events-1",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+",
+        "Music"
+      ],
+      "event_type_tags": [
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_live_music_with_george_nelson_band_8_00_pm_11_59_pm",
+      "title": "Live Music with George Nelson Band",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "8:00\u202fPM \u2013 11:59\u202fPM",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-r546h",
+      "image": null,
+      "source_url": "https://www.license1boulderado.com/events-1",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+",
+        "Music"
+      ],
+      "event_type_tags": [
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_the_underground_comedy_show_8_00_pm",
+      "title": "The Underground Comedy Show",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "8:00\u202fPM",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-556r9-n4dwa",
+      "image": null,
+      "source_url": "https://www.license1boulderado.com/events-1",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+",
+        "Music"
+      ],
+      "event_type_tags": [
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_the_underground_comedy_show_8_00_pm_9_00_pm",
+      "title": "The Underground Comedy Show",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "8:00\u202fPM \u2013 9:00\u202fPM",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-556r9-n4dwa",
+      "image": null,
+      "source_url": "https://www.license1boulderado.com/events-1",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+",
+        "Music"
+      ],
+      "event_type_tags": [
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_the_underground_comedy_show_8_00_pm",
+      "title": "The Underground Comedy Show",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "8:00\u202fPM",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-5j687-6wwda-e4mpt-f3jwf-tlkyc",
+      "image": null,
+      "source_url": "https://www.license1boulderado.com/events-1",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+",
+        "Music"
+      ],
+      "event_type_tags": [
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_the_underground_comedy_show_8_00_pm_9_00_pm",
+      "title": "The Underground Comedy Show",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "8:00\u202fPM \u2013 9:00\u202fPM",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-5j687-6wwda-e4mpt-f3jwf-tlkyc",
+      "image": null,
+      "source_url": "https://www.license1boulderado.com/events-1",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+",
+        "Music"
+      ],
+      "event_type_tags": [
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_the_underground_comedy_show_7_30_pm",
+      "title": "The Underground Comedy Show",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "7:30\u202fPM",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-fd65x-2x4z6-pjfxj-ze78w-n74tj",
+      "image": null,
+      "source_url": "https://www.license1boulderado.com/events-1",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+",
+        "Music"
+      ],
+      "event_type_tags": [
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_the_underground_comedy_show_7_30_pm_8_30_pm",
+      "title": "The Underground Comedy Show",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "7:30\u202fPM \u2013 8:30\u202fPM",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-fd65x-2x4z6-pjfxj-ze78w-n74tj",
+      "image": null,
+      "source_url": "https://www.license1boulderado.com/events-1",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+",
+        "Music"
+      ],
+      "event_type_tags": [
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_live_music_with_george_nelson_band_8_00_pm",
+      "title": "Live Music with George Nelson Band",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "8:00\u202fPM",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-mxp2g",
+      "image": null,
+      "source_url": "https://www.license1boulderado.com/events-1",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+",
+        "Music"
+      ],
+      "event_type_tags": [
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_live_music_with_george_nelson_band_8_00_pm_11_59_pm",
+      "title": "Live Music with George Nelson Band",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "8:00\u202fPM \u2013 11:59\u202fPM",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-mxp2g",
+      "image": null,
+      "source_url": "https://www.license1boulderado.com/events-1",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+",
+        "Music"
+      ],
+      "event_type_tags": [
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_the_underground_comedy_show_8_00_pm",
+      "title": "The Underground Comedy Show",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "8:00\u202fPM",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-556r9-xnf68",
+      "image": null,
+      "source_url": "https://www.license1boulderado.com/events-1",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+",
+        "Music"
+      ],
+      "event_type_tags": [
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_the_underground_comedy_show_8_00_pm_9_00_pm",
+      "title": "The Underground Comedy Show",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "8:00\u202fPM \u2013 9:00\u202fPM",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-556r9-xnf68",
+      "image": null,
+      "source_url": "https://www.license1boulderado.com/events-1",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+",
+        "Music"
+      ],
+      "event_type_tags": [
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_the_underground_comedy_show_8_00_pm",
+      "title": "The Underground Comedy Show",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "8:00\u202fPM",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-5j687-6wwda-e4mpt-f3jwf-z3dx7",
+      "image": null,
+      "source_url": "https://www.license1boulderado.com/events-1",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+",
+        "Music"
+      ],
+      "event_type_tags": [
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_the_underground_comedy_show_8_00_pm_9_00_pm",
+      "title": "The Underground Comedy Show",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "8:00\u202fPM \u2013 9:00\u202fPM",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-5j687-6wwda-e4mpt-f3jwf-z3dx7",
+      "image": null,
+      "source_url": "https://www.license1boulderado.com/events-1",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+",
+        "Music"
+      ],
+      "event_type_tags": [
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_the_underground_comedy_show_7_30_pm",
+      "title": "The Underground Comedy Show",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "7:30\u202fPM",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-fd65x-2x4z6-pjfxj-ze78w-bdm98",
+      "image": null,
+      "source_url": "https://www.license1boulderado.com/events-1",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+",
+        "Music"
+      ],
+      "event_type_tags": [
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_the_underground_comedy_show_7_30_pm_8_30_pm",
+      "title": "The Underground Comedy Show",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "7:30\u202fPM \u2013 8:30\u202fPM",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-fd65x-2x4z6-pjfxj-ze78w-bdm98",
+      "image": null,
+      "source_url": "https://www.license1boulderado.com/events-1",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+",
+        "Music"
+      ],
+      "event_type_tags": [
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_live_music_with_george_nelson_band_8_00_pm",
+      "title": "Live Music with George Nelson Band",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "8:00\u202fPM",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-zc9k8",
+      "image": null,
+      "source_url": "https://www.license1boulderado.com/events-1",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+",
+        "Music"
+      ],
+      "event_type_tags": [
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_live_music_with_george_nelson_band_8_00_pm_9_00_pm",
+      "title": "Live Music with George Nelson Band",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "8:00\u202fPM \u2013 9:00\u202fPM",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-zc9k8",
+      "image": null,
+      "source_url": "https://www.license1boulderado.com/events-1",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+",
+        "Music"
+      ],
+      "event_type_tags": [
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_the_underground_comedy_show_8_00_pm",
+      "title": "The Underground Comedy Show",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "8:00\u202fPM",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-5j687-6wwda-e4mpt-f3jwf-gwe7l",
+      "image": null,
+      "source_url": "https://www.license1boulderado.com/events-1",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+",
+        "Music"
+      ],
+      "event_type_tags": [
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_the_underground_comedy_show_8_00_pm_9_00_pm",
+      "title": "The Underground Comedy Show",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "8:00\u202fPM \u2013 9:00\u202fPM",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-5j687-6wwda-e4mpt-f3jwf-gwe7l",
+      "image": null,
+      "source_url": "https://www.license1boulderado.com/events-1",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+",
+        "Music"
+      ],
+      "event_type_tags": [
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_the_underground_comedy_show_7_30_pm",
+      "title": "The Underground Comedy Show",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "7:30\u202fPM",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-fd65x-2x4z6-pjfxj-ze78w-8lb93",
+      "image": null,
+      "source_url": "https://www.license1boulderado.com/events-1",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+",
+        "Music"
+      ],
+      "event_type_tags": [
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_the_underground_comedy_show_7_30_pm_8_30_pm",
+      "title": "The Underground Comedy Show",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "7:30\u202fPM \u2013 8:30\u202fPM",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-fd65x-2x4z6-pjfxj-ze78w-8lb93",
+      "image": null,
+      "source_url": "https://www.license1boulderado.com/events-1",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+",
+        "Music"
+      ],
+      "event_type_tags": [
+        "Nightlife"
       ]
     }
   ]
