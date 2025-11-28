@@ -1,301 +1,104 @@
 [
   {
-    "title": "The Underground Comedy Show",
-    "link": "https://www.license1boulderado.com/cart",
-    "date": null,
-    "description": "DrinksFoodHappy Hour",
-    "image": "//images.squarespace-cdn.com/content/v1/6091b19ba5da29701edc5ada/1620161035114-EY686JN7US5Z1BDOUEUH/LicenseNO1_Logo+White.png?format=1500w",
-    "venue": "License No 1",
-    "category": "Nightlife",
-    "source_url": "https://www.license1boulderado.com/events-1",
-    "time": "7:30\u202fPM"
-  },
-  {
-    "title": "The Underground Comedy Show",
-    "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-fd65x-2x4z6-pjfxj-ze78w-34ghp",
-    "date": null,
-    "venue": "License No 1",
-    "category": "Nightlife",
-    "source_url": "https://www.license1boulderado.com/events-1",
-    "time": "7:30\u202fPM"
-  },
-  {
-    "title": "The Underground Comedy Show",
-    "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-fd65x-2x4z6-pjfxj-ze78w-34ghp",
-    "date": null,
-    "venue": "License No 1",
-    "category": "Nightlife",
-    "source_url": "https://www.license1boulderado.com/events-1",
-    "time": "7:30\u202fPM \u2013 8:30\u202fPM"
-  },
-  {
-    "title": "Live Music with George Nelson Band",
-    "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-62s74",
-    "date": null,
-    "venue": "License No 1",
-    "category": "Nightlife",
-    "source_url": "https://www.license1boulderado.com/events-1",
-    "time": "8:00\u202fPM"
-  },
-  {
-    "title": "Live Music with George Nelson Band",
-    "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-62s74",
-    "date": null,
-    "venue": "License No 1",
-    "category": "Nightlife",
-    "source_url": "https://www.license1boulderado.com/events-1",
-    "time": "8:00\u202fPM \u2013 11:59\u202fPM"
-  },
-  {
-    "title": "The Underground Comedy Show",
-    "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-556r9-pz7ad",
-    "date": null,
-    "venue": "License No 1",
-    "category": "Nightlife",
-    "source_url": "https://www.license1boulderado.com/events-1",
-    "time": "8:00\u202fPM"
-  },
-  {
-    "title": "The Underground Comedy Show",
-    "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-556r9-pz7ad",
-    "date": null,
-    "venue": "License No 1",
-    "category": "Nightlife",
-    "source_url": "https://www.license1boulderado.com/events-1",
-    "time": "8:00\u202fPM \u2013 9:00\u202fPM"
-  },
-  {
-    "title": "The Underground Comedy Show",
-    "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-5j687-6wwda-e4mpt-f3jwf-w6zgg",
-    "date": null,
-    "venue": "License No 1",
-    "category": "Nightlife",
-    "source_url": "https://www.license1boulderado.com/events-1",
-    "time": "8:00\u202fPM"
-  },
-  {
-    "title": "The Underground Comedy Show",
-    "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-5j687-6wwda-e4mpt-f3jwf-w6zgg",
-    "date": null,
-    "venue": "License No 1",
-    "category": "Nightlife",
-    "source_url": "https://www.license1boulderado.com/events-1",
-    "time": "8:00\u202fPM \u2013 9:00\u202fPM"
-  },
-  {
-    "title": "The Underground Comedy Show",
-    "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-fd65x-2x4z6-pjfxj-ze78w-cfx5m",
-    "date": null,
-    "venue": "License No 1",
-    "category": "Nightlife",
-    "source_url": "https://www.license1boulderado.com/events-1",
-    "time": "7:30\u202fPM"
-  },
-  {
-    "title": "The Underground Comedy Show",
-    "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-fd65x-2x4z6-pjfxj-ze78w-cfx5m",
-    "date": null,
-    "venue": "License No 1",
-    "category": "Nightlife",
-    "source_url": "https://www.license1boulderado.com/events-1",
-    "time": "7:30\u202fPM \u2013 8:30\u202fPM"
-  },
-  {
-    "title": "Live Music with George Nelson Band",
-    "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-r546h",
-    "date": null,
-    "venue": "License No 1",
-    "category": "Nightlife",
-    "source_url": "https://www.license1boulderado.com/events-1",
-    "time": "8:00\u202fPM"
-  },
-  {
-    "title": "Live Music with George Nelson Band",
-    "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-r546h",
-    "date": null,
-    "venue": "License No 1",
-    "category": "Nightlife",
-    "source_url": "https://www.license1boulderado.com/events-1",
-    "time": "8:00\u202fPM \u2013 11:59\u202fPM"
-  },
-  {
-    "title": "The Underground Comedy Show",
-    "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-556r9-n4dwa",
-    "date": null,
-    "venue": "License No 1",
-    "category": "Nightlife",
-    "source_url": "https://www.license1boulderado.com/events-1",
-    "time": "8:00\u202fPM"
-  },
-  {
-    "title": "The Underground Comedy Show",
-    "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-556r9-n4dwa",
-    "date": null,
-    "venue": "License No 1",
-    "category": "Nightlife",
-    "source_url": "https://www.license1boulderado.com/events-1",
-    "time": "8:00\u202fPM \u2013 9:00\u202fPM"
-  },
-  {
-    "title": "The Underground Comedy Show",
-    "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-5j687-6wwda-e4mpt-f3jwf-tlkyc",
-    "date": null,
-    "venue": "License No 1",
-    "category": "Nightlife",
-    "source_url": "https://www.license1boulderado.com/events-1",
-    "time": "8:00\u202fPM"
-  },
-  {
-    "title": "The Underground Comedy Show",
-    "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-5j687-6wwda-e4mpt-f3jwf-tlkyc",
-    "date": null,
-    "venue": "License No 1",
-    "category": "Nightlife",
-    "source_url": "https://www.license1boulderado.com/events-1",
-    "time": "8:00\u202fPM \u2013 9:00\u202fPM"
-  },
-  {
-    "title": "The Underground Comedy Show",
-    "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-fd65x-2x4z6-pjfxj-ze78w-n74tj",
-    "date": null,
-    "venue": "License No 1",
-    "category": "Nightlife",
-    "source_url": "https://www.license1boulderado.com/events-1",
-    "time": "7:30\u202fPM"
-  },
-  {
-    "title": "The Underground Comedy Show",
-    "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-fd65x-2x4z6-pjfxj-ze78w-n74tj",
-    "date": null,
-    "venue": "License No 1",
-    "category": "Nightlife",
-    "source_url": "https://www.license1boulderado.com/events-1",
-    "time": "7:30\u202fPM \u2013 8:30\u202fPM"
-  },
-  {
-    "title": "Live Music with George Nelson Band",
-    "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-mxp2g",
-    "date": null,
-    "venue": "License No 1",
-    "category": "Nightlife",
-    "source_url": "https://www.license1boulderado.com/events-1",
-    "time": "8:00\u202fPM"
-  },
-  {
-    "title": "Live Music with George Nelson Band",
-    "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-mxp2g",
-    "date": null,
-    "venue": "License No 1",
-    "category": "Nightlife",
-    "source_url": "https://www.license1boulderado.com/events-1",
-    "time": "8:00\u202fPM \u2013 11:59\u202fPM"
-  },
-  {
-    "title": "The Underground Comedy Show",
-    "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-556r9-xnf68",
-    "date": null,
-    "venue": "License No 1",
-    "category": "Nightlife",
-    "source_url": "https://www.license1boulderado.com/events-1",
-    "time": "8:00\u202fPM"
-  },
-  {
-    "title": "The Underground Comedy Show",
-    "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-556r9-xnf68",
-    "date": null,
-    "venue": "License No 1",
-    "category": "Nightlife",
-    "source_url": "https://www.license1boulderado.com/events-1",
-    "time": "8:00\u202fPM \u2013 9:00\u202fPM"
-  },
-  {
-    "title": "The Underground Comedy Show",
-    "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-5j687-6wwda-e4mpt-f3jwf-z3dx7",
-    "date": null,
-    "venue": "License No 1",
-    "category": "Nightlife",
-    "source_url": "https://www.license1boulderado.com/events-1",
-    "time": "8:00\u202fPM"
-  },
-  {
-    "title": "The Underground Comedy Show",
-    "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-5j687-6wwda-e4mpt-f3jwf-z3dx7",
-    "date": null,
-    "venue": "License No 1",
-    "category": "Nightlife",
-    "source_url": "https://www.license1boulderado.com/events-1",
-    "time": "8:00\u202fPM \u2013 9:00\u202fPM"
-  },
-  {
-    "title": "The Underground Comedy Show",
-    "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-fd65x-2x4z6-pjfxj-ze78w-bdm98",
-    "date": null,
-    "venue": "License No 1",
-    "category": "Nightlife",
-    "source_url": "https://www.license1boulderado.com/events-1",
-    "time": "7:30\u202fPM"
-  },
-  {
-    "title": "The Underground Comedy Show",
-    "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-fd65x-2x4z6-pjfxj-ze78w-bdm98",
-    "date": null,
-    "venue": "License No 1",
-    "category": "Nightlife",
-    "source_url": "https://www.license1boulderado.com/events-1",
-    "time": "7:30\u202fPM \u2013 8:30\u202fPM"
-  },
-  {
-    "title": "Live Music with George Nelson Band",
-    "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-zc9k8",
-    "date": null,
-    "venue": "License No 1",
-    "category": "Nightlife",
-    "source_url": "https://www.license1boulderado.com/events-1",
-    "time": "8:00\u202fPM"
-  },
-  {
-    "title": "Live Music with George Nelson Band",
-    "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-zc9k8",
-    "date": null,
-    "venue": "License No 1",
-    "category": "Nightlife",
-    "source_url": "https://www.license1boulderado.com/events-1",
-    "time": "8:00\u202fPM \u2013 9:00\u202fPM"
-  },
-  {
-    "title": "The Underground Comedy Show",
     "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-5j687-6wwda-e4mpt-f3jwf-gwe7l",
-    "date": null,
+    "title": "The Underground Comedy Show",
+    "date": "November 28, 2025",
+    "time": "12:00 AM",
+    "description": "Select \u201cAccept all\u201d to agree to our use of cookies and similar technologies to enhance your browsing experience, security, analytics and customization. Select \u201dManage cookies\u201d to make more choices or opt out.Manage cookiesDecline allAccept all0Skip to ContentMenusDrinksFoodHappy HourAboutContact UsP",
     "venue": "License No 1",
     "category": "Nightlife",
-    "source_url": "https://www.license1boulderado.com/events-1",
-    "time": "8:00\u202fPM"
+    "source_url": "https://www.license1boulderado.com/calendar"
   },
   {
-    "title": "The Underground Comedy Show",
-    "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-5j687-6wwda-e4mpt-f3jwf-gwe7l",
-    "date": null,
+    "link": "http://www.google.com/calendar/event?action=TEMPLATE&text=The%20Underground%20Comedy%20Show&dates=20251129T030000Z/20251129T040000Z",
+    "title": "Sign in",
     "venue": "License No 1",
     "category": "Nightlife",
-    "source_url": "https://www.license1boulderado.com/events-1",
-    "time": "8:00\u202fPM \u2013 9:00\u202fPM"
+    "source_url": "https://www.license1boulderado.com/calendar"
   },
   {
-    "title": "The Underground Comedy Show",
+    "link": "https://www.license1boulderado.com/calendar/live-music-with-phoebe-nix-1-wkm45-87zdz",
+    "title": "Live Music with Phoebe Nix",
+    "date": "November 28, 2025",
+    "time": "12:00 AM",
+    "description": "Select \u201cAccept all\u201d to agree to our use of cookies and similar technologies to enhance your browsing experience, security, analytics and customization. Select \u201dManage cookies\u201d to make more choices or opt out.Manage cookiesDecline allAccept all0Skip to ContentMenusDrinksFoodHappy HourAboutContact UsP",
+    "venue": "License No 1",
+    "category": "Nightlife",
+    "source_url": "https://www.license1boulderado.com/calendar"
+  },
+  {
+    "link": "http://www.google.com/calendar/event?action=TEMPLATE&text=Live%20Music%20with%20Phoebe%20Nix&dates=20251129T040000Z/20251129T065900Z",
+    "title": "Sign in",
+    "venue": "License No 1",
+    "category": "Nightlife",
+    "source_url": "https://www.license1boulderado.com/calendar"
+  },
+  {
     "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-fd65x-2x4z6-pjfxj-ze78w-8lb93",
-    "date": null,
+    "title": "The Underground Comedy Show",
+    "date": "November 29, 2025",
+    "time": "12:00 AM",
+    "description": "Select \u201cAccept all\u201d to agree to our use of cookies and similar technologies to enhance your browsing experience, security, analytics and customization. Select \u201dManage cookies\u201d to make more choices or opt out.Manage cookiesDecline allAccept all0Skip to ContentMenusDrinksFoodHappy HourAboutContact UsP",
     "venue": "License No 1",
     "category": "Nightlife",
-    "source_url": "https://www.license1boulderado.com/events-1",
-    "time": "7:30\u202fPM"
+    "source_url": "https://www.license1boulderado.com/calendar"
   },
   {
-    "title": "The Underground Comedy Show",
-    "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-fd65x-2x4z6-pjfxj-ze78w-8lb93",
-    "date": null,
+    "link": "http://www.google.com/calendar/event?action=TEMPLATE&text=The%20Underground%20Comedy%20Show&dates=20251130T023000Z/20251130T033000Z",
+    "title": "Sign in",
     "venue": "License No 1",
     "category": "Nightlife",
-    "source_url": "https://www.license1boulderado.com/events-1",
-    "time": "7:30\u202fPM \u2013 8:30\u202fPM"
+    "source_url": "https://www.license1boulderado.com/calendar"
+  },
+  {
+    "link": "https://www.license1boulderado.com/calendar/live-music-with-superimposition-3-tzj3w-ragmp-n3wp5-bm6da-7238m-r3mpg-2tk4t-etj9j-x52nl-43zhr-rta6x-7xyzy-w592k-7rgwt-p2ga6-yg2m3-ybk7a-3fxsm-kg2b8-r54sk-5639t-fw4a8-t9cwn-rg6f3-m6fre",
+    "title": "Live Music with Blove",
+    "date": "November 29, 2025",
+    "time": "12:00 AM",
+    "description": "Select \u201cAccept all\u201d to agree to our use of cookies and similar technologies to enhance your browsing experience, security, analytics and customization. Select \u201dManage cookies\u201d to make more choices or opt out.Manage cookiesDecline allAccept all0Skip to ContentMenusDrinksFoodHappy HourAboutContact UsP",
+    "venue": "License No 1",
+    "category": "Nightlife",
+    "source_url": "https://www.license1boulderado.com/calendar"
+  },
+  {
+    "link": "http://www.google.com/calendar/event?action=TEMPLATE&text=Live%20Music%20with%20Blove&dates=20251130T040000Z/20251130T065900Z",
+    "title": "Sign in",
+    "venue": "License No 1",
+    "category": "Nightlife",
+    "source_url": "https://www.license1boulderado.com/calendar"
+  },
+  {
+    "link": "https://www.license1boulderado.com/calendar/lj824kawfej4rbl-ygrxa-6afcr-95jfl-3dams",
+    "title": "The Underground Comedy Show",
+    "date": "November 29, 2025",
+    "time": "12:00 AM",
+    "description": "Select \u201cAccept all\u201d to agree to our use of cookies and similar technologies to enhance your browsing experience, security, analytics and customization. Select \u201dManage cookies\u201d to make more choices or opt out.Manage cookiesDecline allAccept all0Skip to ContentMenusDrinksFoodHappy HourAboutContact UsP",
+    "venue": "License No 1",
+    "category": "Nightlife",
+    "source_url": "https://www.license1boulderado.com/calendar"
+  },
+  {
+    "link": "http://www.google.com/calendar/event?action=TEMPLATE&text=The%20Underground%20Comedy%20Show&dates=20251130T041500Z/20251130T051500Z",
+    "title": "Sign in",
+    "venue": "License No 1",
+    "category": "Nightlife",
+    "source_url": "https://www.license1boulderado.com/calendar"
+  },
+  {
+    "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-pfwhs",
+    "title": "Live Music with George Nelson Band",
+    "date": "December 03, 2025",
+    "time": "12:00 AM",
+    "description": "Select \u201cAccept all\u201d to agree to our use of cookies and similar technologies to enhance your browsing experience, security, analytics and customization. Select \u201dManage cookies\u201d to make more choices or opt out.Manage cookiesDecline allAccept all0Skip to ContentMenusDrinksFoodHappy HourAboutContact UsP",
+    "venue": "License No 1",
+    "category": "Nightlife",
+    "source_url": "https://www.license1boulderado.com/calendar"
+  },
+  {
+    "link": "http://www.google.com/calendar/event?action=TEMPLATE&text=Live%20Music%20with%20George%20Nelson%20Band&dates=20251204T030000Z/20251204T065900Z",
+    "title": "Sign in",
+    "venue": "License No 1",
+    "category": "Nightlife",
+    "source_url": "https://www.license1boulderado.com/calendar"
   }
 ]
