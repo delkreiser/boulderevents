@@ -164,13 +164,50 @@ def scrape_with_selenium(url):
 
 
 if __name__ == "__main__":
-    # Test the scraper
+    import json
+    from playwright.sync_api import sync_playwright
+    
     print("St Julien Entertainment Scraper")
     print("=" * 60)
-    print("\nTo use this scraper:")
-    print("1. Pass HTML content to scrape_st_julien_entertainment()")
-    print("2. Or use scrape_with_selenium() for JavaScript-rendered content")
-    print("\nExample:")
-    print("  events = scrape_st_julien_entertainment(html_content)")
-    print("  for event in events:")
-    print("      print(event['title'])")
+    
+    events = []
+    
+    try:
+        with sync_playwright() as p:
+            print("Launching browser...")
+            browser = p.chromium.launch(
+                headless=True,
+                args=['--no-sandbox', '--disable-setuid-sandbox']
+            )
+            page = browser.new_page()
+            page.set_default_timeout(30000)
+            
+            print("Loading St Julien events page...")
+            page.goto('https://stjulien.com/boulder-colorado-events/category/entertainment-events/', 
+                     wait_until='domcontentloaded', timeout=30000)
+            page.wait_for_timeout(5000)
+            
+            html_content = page.content()
+            browser.close()
+            
+            print("Parsing events...")
+            events = scrape_st_julien_entertainment(html_content)
+            
+    except Exception as e:
+        print(f"Error: {e}")
+        import traceback
+        traceback.print_exc()
+    
+    print(f"\nFound {len(events)} events")
+    
+    # Save to JSON
+    output_file = 'st_julien_events.json'
+    with open(output_file, 'w') as f:
+        json.dump(events, f, indent=2)
+    
+    if events:
+        print(f"✅ Events saved to {output_file}")
+        for i, event in enumerate(events[:3], 1):
+            print(f"\nEvent {i}: {event.get('title', 'N/A')}")
+    else:
+        print(f"⚠️  No events found - created empty {output_file}")
