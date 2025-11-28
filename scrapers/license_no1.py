@@ -30,25 +30,51 @@ def scrape_license_no1_calendar():
             print("Loading License No 1 calendar...")
             page.goto('https://www.license1boulderado.com/calendar', 
                      wait_until='domcontentloaded', timeout=30000)
-            page.wait_for_timeout(5000)
+            page.wait_for_timeout(3000)
             
-            # Find all event links
+            # Scroll down to load more events
+            print("Scrolling to load all events...")
+            for i in range(5):
+                page.evaluate('window.scrollTo(0, document.body.scrollHeight)')
+                page.wait_for_timeout(1000)
+            
+            # Click "Load More" button if it exists
+            try:
+                load_more = page.locator('button:has-text("Load More")').first
+                for i in range(3):
+                    if load_more.is_visible(timeout=2000):
+                        load_more.click()
+                        page.wait_for_timeout(2000)
+            except:
+                print("No 'Load More' button found")
+            
+            # Find all event links (but exclude Google Calendar links)
             print("Finding event links...")
             event_links = page.locator('a[href*="/calendar/"]').all()
-            print(f"Found {len(event_links)} event links")
+            print(f"Found {len(event_links)} potential event links")
             
             seen_urls = set()
+            skipped_count = 0
             
-            for i, link in enumerate(event_links[:30]):  # Limit to 30
+            for i, link in enumerate(event_links):
                 try:
                     href = link.get_attribute('href')
                     if not href or href in seen_urls:
                         continue
                     
-                    seen_urls.add(href)
-                    full_url = f"https://www.license1boulderado.com{href}" if not href.startswith('http') else href
+                    # Skip Google Calendar export links
+                    if 'google.com/calendar' in href or 'action=TEMPLATE' in href:
+                        skipped_count += 1
+                        continue
                     
-                    print(f"Event {i+1}/{min(30, len(event_links))}: Fetching...")
+                    # Skip if it's not a proper event URL
+                    if not href.startswith('/calendar/') or href == '/calendar' or href == '/calendar/':
+                        continue
+                    
+                    seen_urls.add(href)
+                    full_url = f"https://www.license1boulderado.com{href}"
+                    
+                    print(f"Event {len(events)+1}: Fetching...")
                     
                     # Visit event page
                     event_page = browser.new_page()
@@ -59,11 +85,17 @@ def scrape_license_no1_calendar():
                     event = parse_license_event_page(event_html, full_url)
                     
                     if event and event.get('title'):
+                        # Skip if title is "Sign in" or other navigation text
+                        if event['title'].lower() in ['sign in', 'log in', 'login', 'sign up', 'calendar']:
+                            skipped_count += 1
+                            event_page.close()
+                            continue
+                        
                         event['venue'] = 'License No 1'
                         event['category'] = 'Nightlife'
                         event['source_url'] = 'https://www.license1boulderado.com/calendar'
                         events.append(event)
-                        print(f"  ✓ {event['title'][:50]}")
+                        print(f"  ✓ {event['title'][:60]}")
                     
                     event_page.close()
                     
@@ -71,6 +103,7 @@ def scrape_license_no1_calendar():
                     print(f"  ✗ Error: {e}")
                     continue
             
+            print(f"\nSkipped {skipped_count} non-event links (Google Calendar exports, etc.)")
             browser.close()
             
     except Exception as e:
