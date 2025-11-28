@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-28T17:15:21.572124",
+  "generated_at": "2025-11-28T17:21:48.139708",
   "total_events": 222,
   "tags": {
     "venues": [
@@ -310,10 +310,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "All Ages",
+        "Educational",
         "Community",
-        "Educational"
+        "Music",
+        "All Ages"
       ]
     },
     {
@@ -340,11 +340,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "All Ages",
         "Family Friendly",
+        "Community",
         "Music",
-        "Educational"
+        "Educational",
+        "All Ages"
       ]
     },
     {
@@ -371,9 +371,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
+        "Family Friendly",
         "Community",
-        "Family Friendly"
+        "All Ages"
       ]
     },
     {
@@ -400,9 +400,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Community",
         "Music",
-        "All Ages",
-        "Community"
+        "All Ages"
       ]
     },
     {
@@ -429,8 +429,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Community"
+        "Community",
+        "All Ages"
       ]
     },
     {
@@ -485,8 +485,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Community"
+        "Community",
+        "All Ages"
       ]
     },
     {
@@ -513,10 +513,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "All Ages",
+        "Family Friendly",
         "Community",
-        "Family Friendly"
+        "Music",
+        "All Ages"
       ]
     },
     {
@@ -543,9 +543,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
+        "Educational",
         "Community",
-        "Educational"
+        "Music"
       ]
     },
     {
@@ -572,11 +572,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "All Ages",
+        "Performance",
         "Family Friendly",
+        "Community",
         "Music",
-        "Performance"
+        "All Ages"
       ]
     },
     {
@@ -631,10 +631,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
+        "Family Friendly",
         "Performance",
         "Community",
-        "Family Friendly"
+        "All Ages"
       ]
     },
     {
@@ -661,10 +661,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
+        "21+",
         "Performance",
         "Community",
-        "21+"
+        "Music"
       ]
     },
     {
@@ -691,10 +691,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "All Ages",
         "Performance",
-        "Community"
+        "Community",
+        "Music",
+        "All Ages"
       ]
     },
     {
@@ -749,8 +749,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "21+",
-        "Community"
+        "Community",
+        "21+"
       ]
     },
     {
@@ -777,8 +777,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "21+"
+        "21+",
+        "Music"
       ]
     },
     {
@@ -833,216 +833,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
+        "21+",
         "Performance",
-        "21+"
-      ]
-    },
-    {
-      "id": "southern_sun_pub_the_bluegrass_pick_every_thursday",
-      "title": "The BLUEGRASS PICK",
-      "venue": "Southern Sun Pub",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": "Every Thursday",
-      "time": "7:30 - 9:30 pm",
-      "description": "Hosted by Max Kabat of Bowregard. Never a cover, always a good time!",
-      "link": null,
-      "image": null,
-      "source_url": "https://www.mountainsunpub.com/events/",
-      "age_restriction": null,
-      "venue_tag": "Southern Sun Pub",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Music",
-        "Pub",
-        "Bar",
-        "Food & Drink"
-      ],
-      "event_type_tags": [
-        "Music"
-      ]
-    },
-    {
-      "id": "vine_street_pub_vinyl_night_every_monday",
-      "title": "Vinyl Night",
-      "venue": "Vine Street Pub",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": "Every Monday",
-      "time": "5-9 pm",
-      "description": "Join us for an intentional listening experience. Share your favorite tunes and discover new music while enjoying house-made beer and snacks. Bring in a record from your collection and in exchange, we will play it for the pub and give you a free beer.",
-      "link": null,
-      "image": null,
-      "source_url": "https://www.mountainsunpub.com/events/",
-      "age_restriction": null,
-      "venue_tag": "Vine Street Pub",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Music",
-        "Pub",
-        "Bar",
-        "Food & Drink"
-      ],
-      "event_type_tags": [
-        "Music"
-      ]
-    },
-    {
-      "id": "longs_peak_pub_game_night_monday_nights",
-      "title": "Game Night",
-      "venue": "Longs Peak Pub",
-      "location": "Longmont",
-      "date": null,
-      "normalized_date": null,
-      "recurring": "Monday Nights",
-      "time": "5pm-10pm",
-      "description": "Free Fries and Happy Hour prices for all game tables!",
-      "link": null,
-      "image": null,
-      "source_url": "https://www.mountainsunpub.com/events/",
-      "age_restriction": null,
-      "venue_tag": "Longs Peak Pub",
-      "location_tag": "Longmont",
-      "venue_type_tags": [
-        "Pub",
-        "Bar",
-        "Games",
-        "Food & Drink"
-      ],
-      "event_type_tags": [
-        "Music"
-      ]
-    },
-    {
-      "id": "vine_street_pub_music_night_every_saturday",
-      "title": "Music Night",
-      "venue": "Vine Street Pub",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": "Every Saturday",
-      "time": "8pm",
-      "description": "In collaboration with Stir Fry Sessions, a Denver based artist collective, we showcase local talent while offering a community space to dance and mingle.",
-      "link": null,
-      "image": null,
-      "source_url": "https://www.mountainsunpub.com/events/",
-      "age_restriction": null,
-      "venue_tag": "Vine Street Pub",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Music",
-        "Pub",
-        "Bar",
-        "Food & Drink"
-      ],
-      "event_type_tags": [
-        "Music"
-      ]
-    },
-    {
-      "id": "mountain_sun_pub_on_pearl_free_live_music_goodtime_funk_friday_november_7th",
-      "title": "Free Live Music: Goodtime Funk",
-      "venue": "Mountain Sun Pub on Pearl",
-      "location": "Boulder",
-      "date": "Friday, November 7th",
-      "normalized_date": "2025-11-07T00:00:00",
-      "recurring": null,
-      "time": "9pm-Midnight",
-      "description": "NO COVER!",
-      "link": null,
-      "image": null,
-      "source_url": "https://www.mountainsunpub.com/events/",
-      "age_restriction": null,
-      "venue_tag": "Mountain Sun Pub on Pearl",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Music",
-        "Pub",
-        "Bar",
-        "Food & Drink"
-      ],
-      "event_type_tags": [
-        "Music"
-      ]
-    },
-    {
-      "id": "mountain_sun_pub_on_pearl_free_live_music_jason_brandt_the_build_out_friday_november_14th",
-      "title": "Free Live Music: Jason Brandt & the Build-Out",
-      "venue": "Mountain Sun Pub on Pearl",
-      "location": "Boulder",
-      "date": "Friday, November 14th",
-      "normalized_date": "2025-11-14T00:00:00",
-      "recurring": null,
-      "time": "9pm-Midnight",
-      "description": "NO COVER!",
-      "link": null,
-      "image": null,
-      "source_url": "https://www.mountainsunpub.com/events/",
-      "age_restriction": null,
-      "venue_tag": "Mountain Sun Pub on Pearl",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Music",
-        "Pub",
-        "Bar",
-        "Food & Drink"
-      ],
-      "event_type_tags": [
-        "Music"
-      ]
-    },
-    {
-      "id": "mountain_sun_pub_on_pearl_free_live_music_brandy_wine_the_mighty_fines_friday_november_21st",
-      "title": "Free Live Music: Brandy Wine & The Mighty Fines",
-      "venue": "Mountain Sun Pub on Pearl",
-      "location": "Boulder",
-      "date": "Friday, November 21st",
-      "normalized_date": "2025-11-21T00:00:00",
-      "recurring": null,
-      "time": "9pm-Midnight",
-      "description": "NO COVER!",
-      "link": null,
-      "image": null,
-      "source_url": "https://www.mountainsunpub.com/events/",
-      "age_restriction": null,
-      "venue_tag": "Mountain Sun Pub on Pearl",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Music",
-        "Pub",
-        "Bar",
-        "Food & Drink"
-      ],
-      "event_type_tags": [
-        "Music"
-      ]
-    },
-    {
-      "id": "mountain_sun_pub_on_pearl_free_live_music_crick_wooder_friday_november_28th",
-      "title": "Free Live Music: Crick Wooder",
-      "venue": "Mountain Sun Pub on Pearl",
-      "location": "Boulder",
-      "date": "Friday, November 28th",
-      "normalized_date": "2025-11-28T00:00:00",
-      "recurring": null,
-      "time": "9pm-Midnight",
-      "description": "NO COVER!",
-      "link": null,
-      "image": null,
-      "source_url": "https://www.mountainsunpub.com/events/",
-      "age_restriction": null,
-      "venue_tag": "Mountain Sun Pub on Pearl",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Music",
-        "Pub",
-        "Bar",
-        "Food & Drink"
-      ],
-      "event_type_tags": [
         "Music"
       ]
     },
@@ -1570,6 +1362,214 @@
       "id": "mountain_sun_pub_on_pearl_free_live_music_goodtime_funk_friday_november_7th",
       "title": "Free Live Music: Goodtime Funk",
       "venue": "Mountain Sun Pub on Pearl",
+      "location": "Boulder",
+      "date": "Friday, November 7th",
+      "normalized_date": "2025-11-07T00:00:00",
+      "recurring": null,
+      "time": "9pm-Midnight",
+      "description": "NO COVER!",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Mountain Sun Pub on Pearl",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Pub",
+        "Bar",
+        "Food & Drink"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "mountain_sun_pub_on_pearl_free_live_music_jason_brandt_the_build_out_friday_november_14th",
+      "title": "Free Live Music: Jason Brandt & the Build-Out",
+      "venue": "Mountain Sun Pub on Pearl",
+      "location": "Boulder",
+      "date": "Friday, November 14th",
+      "normalized_date": "2025-11-14T00:00:00",
+      "recurring": null,
+      "time": "9pm-Midnight",
+      "description": "NO COVER!",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Mountain Sun Pub on Pearl",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Pub",
+        "Bar",
+        "Food & Drink"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "mountain_sun_pub_on_pearl_free_live_music_brandy_wine_the_mighty_fines_friday_november_21st",
+      "title": "Free Live Music: Brandy Wine & The Mighty Fines",
+      "venue": "Mountain Sun Pub on Pearl",
+      "location": "Boulder",
+      "date": "Friday, November 21st",
+      "normalized_date": "2025-11-21T00:00:00",
+      "recurring": null,
+      "time": "9pm-Midnight",
+      "description": "NO COVER!",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Mountain Sun Pub on Pearl",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Pub",
+        "Bar",
+        "Food & Drink"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "mountain_sun_pub_on_pearl_free_live_music_crick_wooder_friday_november_28th",
+      "title": "Free Live Music: Crick Wooder",
+      "venue": "Mountain Sun Pub on Pearl",
+      "location": "Boulder",
+      "date": "Friday, November 28th",
+      "normalized_date": "2025-11-28T00:00:00",
+      "recurring": null,
+      "time": "9pm-Midnight",
+      "description": "NO COVER!",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Mountain Sun Pub on Pearl",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Pub",
+        "Bar",
+        "Food & Drink"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "southern_sun_pub_the_bluegrass_pick_every_thursday",
+      "title": "The BLUEGRASS PICK",
+      "venue": "Southern Sun Pub",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": "Every Thursday",
+      "time": "7:30 - 9:30 pm",
+      "description": "Hosted by Max Kabat of Bowregard. Never a cover, always a good time!",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Southern Sun Pub",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Pub",
+        "Bar",
+        "Food & Drink"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "vine_street_pub_vinyl_night_every_monday",
+      "title": "Vinyl Night",
+      "venue": "Vine Street Pub",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": "Every Monday",
+      "time": "5-9 pm",
+      "description": "Join us for an intentional listening experience. Share your favorite tunes and discover new music while enjoying house-made beer and snacks. Bring in a record from your collection and in exchange, we will play it for the pub and give you a free beer.",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Vine Street Pub",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Pub",
+        "Bar",
+        "Food & Drink"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "longs_peak_pub_game_night_monday_nights",
+      "title": "Game Night",
+      "venue": "Longs Peak Pub",
+      "location": "Longmont",
+      "date": null,
+      "normalized_date": null,
+      "recurring": "Monday Nights",
+      "time": "5pm-10pm",
+      "description": "Free Fries and Happy Hour prices for all game tables!",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Longs Peak Pub",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Pub",
+        "Bar",
+        "Games",
+        "Food & Drink"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "vine_street_pub_music_night_every_saturday",
+      "title": "Music Night",
+      "venue": "Vine Street Pub",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": "Every Saturday",
+      "time": "8pm",
+      "description": "In collaboration with Stir Fry Sessions, a Denver based artist collective, we showcase local talent while offering a community space to dance and mingle.",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Vine Street Pub",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Pub",
+        "Bar",
+        "Food & Drink"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "mountain_sun_pub_on_pearl_free_live_music_goodtime_funk_friday_november_7th",
+      "title": "Free Live Music: Goodtime Funk",
+      "venue": "Mountain Sun Pub on Pearl",
       "location": "Longmont",
       "date": "Friday, November 7th",
       "normalized_date": "2025-11-07T00:00:00",
@@ -1671,14 +1671,14 @@
       ]
     },
     {
-      "id": "st_julien_hotel_spa_rachel_alena_6_00_pm_9_00_pm",
+      "id": "st_julien_hotel_spa_rachel_alena_none",
       "title": "Rachel Alena",
       "venue": "St Julien Hotel & Spa",
       "location": "Boulder",
-      "date": "6:00 pm-9:00 pm",
+      "date": null,
       "normalized_date": null,
       "recurring": null,
-      "time": null,
+      "time": "6:00 pm-9:00 pm",
       "description": null,
       "link": "https://stjulien.com/series/rachel-alena/",
       "image": null,
@@ -1696,14 +1696,14 @@
       ]
     },
     {
-      "id": "st_julien_hotel_spa_strange_byrds_6_00_pm_9_00_pm",
+      "id": "st_julien_hotel_spa_strange_byrds_none",
       "title": "Strange Byrds",
       "venue": "St Julien Hotel & Spa",
       "location": "Boulder",
-      "date": "6:00 pm-9:00 pm",
+      "date": null,
       "normalized_date": null,
       "recurring": null,
-      "time": null,
+      "time": "6:00 pm-9:00 pm",
       "description": null,
       "link": "https://stjulien.com/series/strange-byrds/",
       "image": null,
@@ -1721,14 +1721,14 @@
       ]
     },
     {
-      "id": "st_julien_hotel_spa_grown_a_man_band_6_00_pm_9_00_pm",
+      "id": "st_julien_hotel_spa_grown_a_man_band_none",
       "title": "Grown A** Man Band",
       "venue": "St Julien Hotel & Spa",
       "location": "Boulder",
-      "date": "6:00 pm-9:00 pm",
+      "date": null,
       "normalized_date": null,
       "recurring": null,
-      "time": null,
+      "time": "6:00 pm-9:00 pm",
       "description": null,
       "link": "https://stjulien.com/series/grown-a-man-band/",
       "image": null,
@@ -1746,14 +1746,14 @@
       ]
     },
     {
-      "id": "st_julien_hotel_spa_adam_bodine_6_00_pm_9_00_pm",
+      "id": "st_julien_hotel_spa_adam_bodine_none",
       "title": "Adam Bodine",
       "venue": "St Julien Hotel & Spa",
       "location": "Boulder",
-      "date": "6:00 pm-9:00 pm",
+      "date": null,
       "normalized_date": null,
       "recurring": null,
-      "time": null,
+      "time": "6:00 pm-9:00 pm",
       "description": null,
       "link": "https://stjulien.com/series/adam-bodine-trio/",
       "image": null,
@@ -1771,14 +1771,14 @@
       ]
     },
     {
-      "id": "st_julien_hotel_spa_amy_biondo_bill_kopper_6_00_pm_9_00_pm",
+      "id": "st_julien_hotel_spa_amy_biondo_bill_kopper_none",
       "title": "Amy Biondo & Bill Kopper",
       "venue": "St Julien Hotel & Spa",
       "location": "Boulder",
-      "date": "6:00 pm-9:00 pm",
+      "date": null,
       "normalized_date": null,
       "recurring": null,
-      "time": null,
+      "time": "6:00 pm-9:00 pm",
       "description": null,
       "link": "https://stjulien.com/series/amy-biondo-bill-kopper/",
       "image": null,
@@ -1796,14 +1796,14 @@
       ]
     },
     {
-      "id": "st_julien_hotel_spa_jacob_mcgann_6_00_pm_9_00_pm",
+      "id": "st_julien_hotel_spa_jacob_mcgann_none",
       "title": "Jacob McGann",
       "venue": "St Julien Hotel & Spa",
       "location": "Boulder",
-      "date": "6:00 pm-9:00 pm",
+      "date": null,
       "normalized_date": null,
       "recurring": null,
-      "time": null,
+      "time": "6:00 pm-9:00 pm",
       "description": null,
       "link": "https://stjulien.com/series/jacob-mcgann-piano-jam/",
       "image": null,
@@ -1821,14 +1821,14 @@
       ]
     },
     {
-      "id": "st_julien_hotel_spa_nice_work_jazz_quartet_6_00_pm_9_00_pm",
+      "id": "st_julien_hotel_spa_nice_work_jazz_quartet_none",
       "title": "Nice Work Jazz Quartet",
       "venue": "St Julien Hotel & Spa",
       "location": "Boulder",
-      "date": "6:00 pm-9:00 pm",
+      "date": null,
       "normalized_date": null,
       "recurring": null,
-      "time": null,
+      "time": "6:00 pm-9:00 pm",
       "description": null,
       "link": "https://stjulien.com/series/nice-work-jazz-quartet/",
       "image": null,
@@ -1846,14 +1846,14 @@
       ]
     },
     {
-      "id": "st_julien_hotel_spa_the_good_kind_6_00_pm_9_00_pm",
+      "id": "st_julien_hotel_spa_the_good_kind_none",
       "title": "The Good Kind",
       "venue": "St Julien Hotel & Spa",
       "location": "Boulder",
-      "date": "6:00 pm-9:00 pm",
+      "date": null,
       "normalized_date": null,
       "recurring": null,
-      "time": null,
+      "time": "6:00 pm-9:00 pm",
       "description": null,
       "link": "https://stjulien.com/series/the-good-kind/",
       "image": null,
@@ -1871,14 +1871,14 @@
       ]
     },
     {
-      "id": "st_julien_hotel_spa_bill_mckay_piano_6_00_pm_9_00_pm",
+      "id": "st_julien_hotel_spa_bill_mckay_piano_none",
       "title": "Bill McKay Piano",
       "venue": "St Julien Hotel & Spa",
       "location": "Boulder",
-      "date": "6:00 pm-9:00 pm",
+      "date": null,
       "normalized_date": null,
       "recurring": null,
-      "time": null,
+      "time": "6:00 pm-9:00 pm",
       "description": null,
       "link": "https://stjulien.com/series/bill-mckay/",
       "image": null,
@@ -1896,14 +1896,14 @@
       ]
     },
     {
-      "id": "st_julien_hotel_spa_housecats_6_00_pm_9_00_pm",
+      "id": "st_julien_hotel_spa_housecats_none",
       "title": "HouseCats",
       "venue": "St Julien Hotel & Spa",
       "location": "Boulder",
-      "date": "6:00 pm-9:00 pm",
+      "date": null,
       "normalized_date": null,
       "recurring": null,
-      "time": null,
+      "time": "6:00 pm-9:00 pm",
       "description": null,
       "link": "https://stjulien.com/event/housecats-6/",
       "image": null,
@@ -1921,14 +1921,14 @@
       ]
     },
     {
-      "id": "st_julien_hotel_spa_brooks_lewis_jazz_10_00_am_2_00_pm",
+      "id": "st_julien_hotel_spa_brooks_lewis_jazz_none",
       "title": "Brooks Lewis Jazz",
       "venue": "St Julien Hotel & Spa",
       "location": "Boulder",
-      "date": "10:00 am-2:00 pm",
+      "date": null,
       "normalized_date": null,
       "recurring": null,
-      "time": null,
+      "time": "10:00 am-2:00 pm",
       "description": null,
       "link": "https://stjulien.com/series/brooks-lewis-trio/",
       "image": null,
@@ -1946,14 +1946,14 @@
       ]
     },
     {
-      "id": "st_julien_hotel_spa_david_lawrence_and_the_spoonful_6_00_pm_9_00_pm",
+      "id": "st_julien_hotel_spa_david_lawrence_and_the_spoonful_none",
       "title": "David Lawrence and the Spoonful",
       "venue": "St Julien Hotel & Spa",
       "location": "Boulder",
-      "date": "6:00 pm-9:00 pm",
+      "date": null,
       "normalized_date": null,
       "recurring": null,
-      "time": null,
+      "time": "6:00 pm-9:00 pm",
       "description": null,
       "link": "https://stjulien.com/series/david-lawrence-and-the-spoonful/",
       "image": null,
@@ -1971,14 +1971,14 @@
       ]
     },
     {
-      "id": "st_julien_hotel_spa_casey_kleeman_6_00_pm_9_00_pm",
+      "id": "st_julien_hotel_spa_casey_kleeman_none",
       "title": "Casey Kleeman",
       "venue": "St Julien Hotel & Spa",
       "location": "Boulder",
-      "date": "6:00 pm-9:00 pm",
+      "date": null,
       "normalized_date": null,
       "recurring": null,
-      "time": null,
+      "time": "6:00 pm-9:00 pm",
       "description": null,
       "link": "https://stjulien.com/series/casey-kleeman/",
       "image": null,
@@ -4999,14 +4999,14 @@
       ]
     },
     {
-      "id": "license_no_1_the_underground_comedy_show_7_30_pm",
+      "id": "license_no_1_the_underground_comedy_show_none",
       "title": "The Underground Comedy Show",
       "venue": "License No 1",
       "location": "Boulder",
-      "date": "7:30\u202fPM",
+      "date": null,
       "normalized_date": null,
       "recurring": null,
-      "time": null,
+      "time": "7:30\u202fPM",
       "description": "DrinksFoodHappy Hour",
       "link": "https://www.license1boulderado.com/cart",
       "image": "//images.squarespace-cdn.com/content/v1/6091b19ba5da29701edc5ada/1620161035114-EY686JN7US5Z1BDOUEUH/LicenseNO1_Logo+White.png?format=1500w",
@@ -5025,14 +5025,14 @@
       ]
     },
     {
-      "id": "license_no_1_the_underground_comedy_show_7_30_pm",
+      "id": "license_no_1_the_underground_comedy_show_none",
       "title": "The Underground Comedy Show",
       "venue": "License No 1",
       "location": "Boulder",
-      "date": "7:30\u202fPM",
+      "date": null,
       "normalized_date": null,
       "recurring": null,
-      "time": null,
+      "time": "7:30\u202fPM",
       "description": "",
       "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-fd65x-2x4z6-pjfxj-ze78w-34ghp",
       "image": null,
@@ -5051,14 +5051,14 @@
       ]
     },
     {
-      "id": "license_no_1_the_underground_comedy_show_7_30_pm_8_30_pm",
+      "id": "license_no_1_the_underground_comedy_show_none",
       "title": "The Underground Comedy Show",
       "venue": "License No 1",
       "location": "Boulder",
-      "date": "7:30\u202fPM \u2013 8:30\u202fPM",
+      "date": null,
       "normalized_date": null,
       "recurring": null,
-      "time": null,
+      "time": "7:30\u202fPM \u2013 8:30\u202fPM",
       "description": "",
       "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-fd65x-2x4z6-pjfxj-ze78w-34ghp",
       "image": null,
@@ -5077,14 +5077,14 @@
       ]
     },
     {
-      "id": "license_no_1_live_music_with_george_nelson_band_8_00_pm",
+      "id": "license_no_1_live_music_with_george_nelson_band_none",
       "title": "Live Music with George Nelson Band",
       "venue": "License No 1",
       "location": "Boulder",
-      "date": "8:00\u202fPM",
+      "date": null,
       "normalized_date": null,
       "recurring": null,
-      "time": null,
+      "time": "8:00\u202fPM",
       "description": "",
       "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-62s74",
       "image": null,
@@ -5103,14 +5103,14 @@
       ]
     },
     {
-      "id": "license_no_1_live_music_with_george_nelson_band_8_00_pm_11_59_pm",
+      "id": "license_no_1_live_music_with_george_nelson_band_none",
       "title": "Live Music with George Nelson Band",
       "venue": "License No 1",
       "location": "Boulder",
-      "date": "8:00\u202fPM \u2013 11:59\u202fPM",
+      "date": null,
       "normalized_date": null,
       "recurring": null,
-      "time": null,
+      "time": "8:00\u202fPM \u2013 11:59\u202fPM",
       "description": "",
       "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-62s74",
       "image": null,
@@ -5129,14 +5129,14 @@
       ]
     },
     {
-      "id": "license_no_1_the_underground_comedy_show_8_00_pm",
+      "id": "license_no_1_the_underground_comedy_show_none",
       "title": "The Underground Comedy Show",
       "venue": "License No 1",
       "location": "Boulder",
-      "date": "8:00\u202fPM",
+      "date": null,
       "normalized_date": null,
       "recurring": null,
-      "time": null,
+      "time": "8:00\u202fPM",
       "description": "",
       "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-556r9-pz7ad",
       "image": null,
@@ -5155,14 +5155,14 @@
       ]
     },
     {
-      "id": "license_no_1_the_underground_comedy_show_8_00_pm_9_00_pm",
+      "id": "license_no_1_the_underground_comedy_show_none",
       "title": "The Underground Comedy Show",
       "venue": "License No 1",
       "location": "Boulder",
-      "date": "8:00\u202fPM \u2013 9:00\u202fPM",
+      "date": null,
       "normalized_date": null,
       "recurring": null,
-      "time": null,
+      "time": "8:00\u202fPM \u2013 9:00\u202fPM",
       "description": "",
       "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-556r9-pz7ad",
       "image": null,
@@ -5181,14 +5181,14 @@
       ]
     },
     {
-      "id": "license_no_1_the_underground_comedy_show_8_00_pm",
+      "id": "license_no_1_the_underground_comedy_show_none",
       "title": "The Underground Comedy Show",
       "venue": "License No 1",
       "location": "Boulder",
-      "date": "8:00\u202fPM",
+      "date": null,
       "normalized_date": null,
       "recurring": null,
-      "time": null,
+      "time": "8:00\u202fPM",
       "description": "",
       "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-5j687-6wwda-e4mpt-f3jwf-w6zgg",
       "image": null,
@@ -5207,14 +5207,14 @@
       ]
     },
     {
-      "id": "license_no_1_the_underground_comedy_show_8_00_pm_9_00_pm",
+      "id": "license_no_1_the_underground_comedy_show_none",
       "title": "The Underground Comedy Show",
       "venue": "License No 1",
       "location": "Boulder",
-      "date": "8:00\u202fPM \u2013 9:00\u202fPM",
+      "date": null,
       "normalized_date": null,
       "recurring": null,
-      "time": null,
+      "time": "8:00\u202fPM \u2013 9:00\u202fPM",
       "description": "",
       "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-5j687-6wwda-e4mpt-f3jwf-w6zgg",
       "image": null,
@@ -5233,14 +5233,14 @@
       ]
     },
     {
-      "id": "license_no_1_the_underground_comedy_show_7_30_pm",
+      "id": "license_no_1_the_underground_comedy_show_none",
       "title": "The Underground Comedy Show",
       "venue": "License No 1",
       "location": "Boulder",
-      "date": "7:30\u202fPM",
+      "date": null,
       "normalized_date": null,
       "recurring": null,
-      "time": null,
+      "time": "7:30\u202fPM",
       "description": "",
       "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-fd65x-2x4z6-pjfxj-ze78w-cfx5m",
       "image": null,
@@ -5259,14 +5259,14 @@
       ]
     },
     {
-      "id": "license_no_1_the_underground_comedy_show_7_30_pm_8_30_pm",
+      "id": "license_no_1_the_underground_comedy_show_none",
       "title": "The Underground Comedy Show",
       "venue": "License No 1",
       "location": "Boulder",
-      "date": "7:30\u202fPM \u2013 8:30\u202fPM",
+      "date": null,
       "normalized_date": null,
       "recurring": null,
-      "time": null,
+      "time": "7:30\u202fPM \u2013 8:30\u202fPM",
       "description": "",
       "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-fd65x-2x4z6-pjfxj-ze78w-cfx5m",
       "image": null,
@@ -5285,14 +5285,14 @@
       ]
     },
     {
-      "id": "license_no_1_live_music_with_george_nelson_band_8_00_pm",
+      "id": "license_no_1_live_music_with_george_nelson_band_none",
       "title": "Live Music with George Nelson Band",
       "venue": "License No 1",
       "location": "Boulder",
-      "date": "8:00\u202fPM",
+      "date": null,
       "normalized_date": null,
       "recurring": null,
-      "time": null,
+      "time": "8:00\u202fPM",
       "description": "",
       "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-r546h",
       "image": null,
@@ -5311,14 +5311,14 @@
       ]
     },
     {
-      "id": "license_no_1_live_music_with_george_nelson_band_8_00_pm_11_59_pm",
+      "id": "license_no_1_live_music_with_george_nelson_band_none",
       "title": "Live Music with George Nelson Band",
       "venue": "License No 1",
       "location": "Boulder",
-      "date": "8:00\u202fPM \u2013 11:59\u202fPM",
+      "date": null,
       "normalized_date": null,
       "recurring": null,
-      "time": null,
+      "time": "8:00\u202fPM \u2013 11:59\u202fPM",
       "description": "",
       "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-r546h",
       "image": null,
@@ -5337,14 +5337,14 @@
       ]
     },
     {
-      "id": "license_no_1_the_underground_comedy_show_8_00_pm",
+      "id": "license_no_1_the_underground_comedy_show_none",
       "title": "The Underground Comedy Show",
       "venue": "License No 1",
       "location": "Boulder",
-      "date": "8:00\u202fPM",
+      "date": null,
       "normalized_date": null,
       "recurring": null,
-      "time": null,
+      "time": "8:00\u202fPM",
       "description": "",
       "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-556r9-n4dwa",
       "image": null,
@@ -5363,14 +5363,14 @@
       ]
     },
     {
-      "id": "license_no_1_the_underground_comedy_show_8_00_pm_9_00_pm",
+      "id": "license_no_1_the_underground_comedy_show_none",
       "title": "The Underground Comedy Show",
       "venue": "License No 1",
       "location": "Boulder",
-      "date": "8:00\u202fPM \u2013 9:00\u202fPM",
+      "date": null,
       "normalized_date": null,
       "recurring": null,
-      "time": null,
+      "time": "8:00\u202fPM \u2013 9:00\u202fPM",
       "description": "",
       "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-556r9-n4dwa",
       "image": null,
@@ -5389,14 +5389,14 @@
       ]
     },
     {
-      "id": "license_no_1_the_underground_comedy_show_8_00_pm",
+      "id": "license_no_1_the_underground_comedy_show_none",
       "title": "The Underground Comedy Show",
       "venue": "License No 1",
       "location": "Boulder",
-      "date": "8:00\u202fPM",
+      "date": null,
       "normalized_date": null,
       "recurring": null,
-      "time": null,
+      "time": "8:00\u202fPM",
       "description": "",
       "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-5j687-6wwda-e4mpt-f3jwf-tlkyc",
       "image": null,
@@ -5415,14 +5415,14 @@
       ]
     },
     {
-      "id": "license_no_1_the_underground_comedy_show_8_00_pm_9_00_pm",
+      "id": "license_no_1_the_underground_comedy_show_none",
       "title": "The Underground Comedy Show",
       "venue": "License No 1",
       "location": "Boulder",
-      "date": "8:00\u202fPM \u2013 9:00\u202fPM",
+      "date": null,
       "normalized_date": null,
       "recurring": null,
-      "time": null,
+      "time": "8:00\u202fPM \u2013 9:00\u202fPM",
       "description": "",
       "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-5j687-6wwda-e4mpt-f3jwf-tlkyc",
       "image": null,
@@ -5441,14 +5441,14 @@
       ]
     },
     {
-      "id": "license_no_1_the_underground_comedy_show_7_30_pm",
+      "id": "license_no_1_the_underground_comedy_show_none",
       "title": "The Underground Comedy Show",
       "venue": "License No 1",
       "location": "Boulder",
-      "date": "7:30\u202fPM",
+      "date": null,
       "normalized_date": null,
       "recurring": null,
-      "time": null,
+      "time": "7:30\u202fPM",
       "description": "",
       "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-fd65x-2x4z6-pjfxj-ze78w-n74tj",
       "image": null,
@@ -5467,14 +5467,14 @@
       ]
     },
     {
-      "id": "license_no_1_the_underground_comedy_show_7_30_pm_8_30_pm",
+      "id": "license_no_1_the_underground_comedy_show_none",
       "title": "The Underground Comedy Show",
       "venue": "License No 1",
       "location": "Boulder",
-      "date": "7:30\u202fPM \u2013 8:30\u202fPM",
+      "date": null,
       "normalized_date": null,
       "recurring": null,
-      "time": null,
+      "time": "7:30\u202fPM \u2013 8:30\u202fPM",
       "description": "",
       "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-fd65x-2x4z6-pjfxj-ze78w-n74tj",
       "image": null,
@@ -5493,14 +5493,14 @@
       ]
     },
     {
-      "id": "license_no_1_live_music_with_george_nelson_band_8_00_pm",
+      "id": "license_no_1_live_music_with_george_nelson_band_none",
       "title": "Live Music with George Nelson Band",
       "venue": "License No 1",
       "location": "Boulder",
-      "date": "8:00\u202fPM",
+      "date": null,
       "normalized_date": null,
       "recurring": null,
-      "time": null,
+      "time": "8:00\u202fPM",
       "description": "",
       "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-mxp2g",
       "image": null,
@@ -5519,14 +5519,14 @@
       ]
     },
     {
-      "id": "license_no_1_live_music_with_george_nelson_band_8_00_pm_11_59_pm",
+      "id": "license_no_1_live_music_with_george_nelson_band_none",
       "title": "Live Music with George Nelson Band",
       "venue": "License No 1",
       "location": "Boulder",
-      "date": "8:00\u202fPM \u2013 11:59\u202fPM",
+      "date": null,
       "normalized_date": null,
       "recurring": null,
-      "time": null,
+      "time": "8:00\u202fPM \u2013 11:59\u202fPM",
       "description": "",
       "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-mxp2g",
       "image": null,
@@ -5545,14 +5545,14 @@
       ]
     },
     {
-      "id": "license_no_1_the_underground_comedy_show_8_00_pm",
+      "id": "license_no_1_the_underground_comedy_show_none",
       "title": "The Underground Comedy Show",
       "venue": "License No 1",
       "location": "Boulder",
-      "date": "8:00\u202fPM",
+      "date": null,
       "normalized_date": null,
       "recurring": null,
-      "time": null,
+      "time": "8:00\u202fPM",
       "description": "",
       "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-556r9-xnf68",
       "image": null,
@@ -5571,14 +5571,14 @@
       ]
     },
     {
-      "id": "license_no_1_the_underground_comedy_show_8_00_pm_9_00_pm",
+      "id": "license_no_1_the_underground_comedy_show_none",
       "title": "The Underground Comedy Show",
       "venue": "License No 1",
       "location": "Boulder",
-      "date": "8:00\u202fPM \u2013 9:00\u202fPM",
+      "date": null,
       "normalized_date": null,
       "recurring": null,
-      "time": null,
+      "time": "8:00\u202fPM \u2013 9:00\u202fPM",
       "description": "",
       "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-556r9-xnf68",
       "image": null,
@@ -5597,14 +5597,14 @@
       ]
     },
     {
-      "id": "license_no_1_the_underground_comedy_show_8_00_pm",
+      "id": "license_no_1_the_underground_comedy_show_none",
       "title": "The Underground Comedy Show",
       "venue": "License No 1",
       "location": "Boulder",
-      "date": "8:00\u202fPM",
+      "date": null,
       "normalized_date": null,
       "recurring": null,
-      "time": null,
+      "time": "8:00\u202fPM",
       "description": "",
       "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-5j687-6wwda-e4mpt-f3jwf-z3dx7",
       "image": null,
@@ -5623,14 +5623,14 @@
       ]
     },
     {
-      "id": "license_no_1_the_underground_comedy_show_8_00_pm_9_00_pm",
+      "id": "license_no_1_the_underground_comedy_show_none",
       "title": "The Underground Comedy Show",
       "venue": "License No 1",
       "location": "Boulder",
-      "date": "8:00\u202fPM \u2013 9:00\u202fPM",
+      "date": null,
       "normalized_date": null,
       "recurring": null,
-      "time": null,
+      "time": "8:00\u202fPM \u2013 9:00\u202fPM",
       "description": "",
       "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-5j687-6wwda-e4mpt-f3jwf-z3dx7",
       "image": null,
@@ -5649,14 +5649,14 @@
       ]
     },
     {
-      "id": "license_no_1_the_underground_comedy_show_7_30_pm",
+      "id": "license_no_1_the_underground_comedy_show_none",
       "title": "The Underground Comedy Show",
       "venue": "License No 1",
       "location": "Boulder",
-      "date": "7:30\u202fPM",
+      "date": null,
       "normalized_date": null,
       "recurring": null,
-      "time": null,
+      "time": "7:30\u202fPM",
       "description": "",
       "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-fd65x-2x4z6-pjfxj-ze78w-bdm98",
       "image": null,
@@ -5675,14 +5675,14 @@
       ]
     },
     {
-      "id": "license_no_1_the_underground_comedy_show_7_30_pm_8_30_pm",
+      "id": "license_no_1_the_underground_comedy_show_none",
       "title": "The Underground Comedy Show",
       "venue": "License No 1",
       "location": "Boulder",
-      "date": "7:30\u202fPM \u2013 8:30\u202fPM",
+      "date": null,
       "normalized_date": null,
       "recurring": null,
-      "time": null,
+      "time": "7:30\u202fPM \u2013 8:30\u202fPM",
       "description": "",
       "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-fd65x-2x4z6-pjfxj-ze78w-bdm98",
       "image": null,
@@ -5701,14 +5701,14 @@
       ]
     },
     {
-      "id": "license_no_1_live_music_with_george_nelson_band_8_00_pm",
+      "id": "license_no_1_live_music_with_george_nelson_band_none",
       "title": "Live Music with George Nelson Band",
       "venue": "License No 1",
       "location": "Boulder",
-      "date": "8:00\u202fPM",
+      "date": null,
       "normalized_date": null,
       "recurring": null,
-      "time": null,
+      "time": "8:00\u202fPM",
       "description": "",
       "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-zc9k8",
       "image": null,
@@ -5727,14 +5727,14 @@
       ]
     },
     {
-      "id": "license_no_1_live_music_with_george_nelson_band_8_00_pm_9_00_pm",
+      "id": "license_no_1_live_music_with_george_nelson_band_none",
       "title": "Live Music with George Nelson Band",
       "venue": "License No 1",
       "location": "Boulder",
-      "date": "8:00\u202fPM \u2013 9:00\u202fPM",
+      "date": null,
       "normalized_date": null,
       "recurring": null,
-      "time": null,
+      "time": "8:00\u202fPM \u2013 9:00\u202fPM",
       "description": "",
       "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-zc9k8",
       "image": null,
@@ -5753,14 +5753,14 @@
       ]
     },
     {
-      "id": "license_no_1_the_underground_comedy_show_8_00_pm",
+      "id": "license_no_1_the_underground_comedy_show_none",
       "title": "The Underground Comedy Show",
       "venue": "License No 1",
       "location": "Boulder",
-      "date": "8:00\u202fPM",
+      "date": null,
       "normalized_date": null,
       "recurring": null,
-      "time": null,
+      "time": "8:00\u202fPM",
       "description": "",
       "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-5j687-6wwda-e4mpt-f3jwf-gwe7l",
       "image": null,
@@ -5779,14 +5779,14 @@
       ]
     },
     {
-      "id": "license_no_1_the_underground_comedy_show_8_00_pm_9_00_pm",
+      "id": "license_no_1_the_underground_comedy_show_none",
       "title": "The Underground Comedy Show",
       "venue": "License No 1",
       "location": "Boulder",
-      "date": "8:00\u202fPM \u2013 9:00\u202fPM",
+      "date": null,
       "normalized_date": null,
       "recurring": null,
-      "time": null,
+      "time": "8:00\u202fPM \u2013 9:00\u202fPM",
       "description": "",
       "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-5j687-6wwda-e4mpt-f3jwf-gwe7l",
       "image": null,
@@ -5805,14 +5805,14 @@
       ]
     },
     {
-      "id": "license_no_1_the_underground_comedy_show_7_30_pm",
+      "id": "license_no_1_the_underground_comedy_show_none",
       "title": "The Underground Comedy Show",
       "venue": "License No 1",
       "location": "Boulder",
-      "date": "7:30\u202fPM",
+      "date": null,
       "normalized_date": null,
       "recurring": null,
-      "time": null,
+      "time": "7:30\u202fPM",
       "description": "",
       "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-fd65x-2x4z6-pjfxj-ze78w-8lb93",
       "image": null,
@@ -5831,14 +5831,14 @@
       ]
     },
     {
-      "id": "license_no_1_the_underground_comedy_show_7_30_pm_8_30_pm",
+      "id": "license_no_1_the_underground_comedy_show_none",
       "title": "The Underground Comedy Show",
       "venue": "License No 1",
       "location": "Boulder",
-      "date": "7:30\u202fPM \u2013 8:30\u202fPM",
+      "date": null,
       "normalized_date": null,
       "recurring": null,
-      "time": null,
+      "time": "7:30\u202fPM \u2013 8:30\u202fPM",
       "description": "",
       "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-fd65x-2x4z6-pjfxj-ze78w-8lb93",
       "image": null,
