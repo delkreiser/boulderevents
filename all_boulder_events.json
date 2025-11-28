@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T17:21:48.139708",
-  "total_events": 222,
+  "generated_at": "2025-11-28T17:32:05.484519",
+  "total_events": 201,
   "tags": {
     "venues": [
       "Junkyard Social Club",
@@ -310,8 +310,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Educational",
         "Community",
+        "Educational",
         "Music",
         "All Ages"
       ]
@@ -340,10 +340,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
-        "Community",
-        "Music",
         "Educational",
+        "Community",
+        "Family Friendly",
+        "Music",
         "All Ages"
       ]
     },
@@ -371,8 +371,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
         "Community",
+        "Family Friendly",
         "All Ages"
       ]
     },
@@ -513,8 +513,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
         "Community",
+        "Family Friendly",
         "Music",
         "All Ages"
       ]
@@ -543,8 +543,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Educational",
         "Community",
+        "Educational",
         "Music"
       ]
     },
@@ -573,8 +573,8 @@
       ],
       "event_type_tags": [
         "Performance",
-        "Family Friendly",
         "Community",
+        "Family Friendly",
         "Music",
         "All Ages"
       ]
@@ -603,8 +603,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -631,10 +631,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
-        "Performance",
+        "All Ages",
         "Community",
-        "All Ages"
+        "Family Friendly",
+        "Performance"
       ]
     },
     {
@@ -661,10 +661,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "21+",
-        "Performance",
         "Community",
-        "Music"
+        "Music",
+        "Performance",
+        "21+"
       ]
     },
     {
@@ -691,10 +691,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "Community",
+        "All Ages",
         "Music",
-        "All Ages"
+        "Performance"
       ]
     },
     {
@@ -721,8 +721,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -777,8 +777,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "21+",
-        "Music"
+        "Music",
+        "21+"
       ]
     },
     {
@@ -833,9 +833,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "21+",
+        "Music",
         "Performance",
-        "Music"
+        "21+"
       ]
     },
     {
@@ -4999,772 +4999,18 @@
       ]
     },
     {
-      "id": "license_no_1_the_underground_comedy_show_none",
+      "id": "license_no_1_the_underground_comedy_show_november_28_2025",
       "title": "The Underground Comedy Show",
       "venue": "License No 1",
       "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
+      "date": "November 28, 2025",
+      "normalized_date": "2025-11-28T00:00:00",
       "recurring": null,
-      "time": "7:30\u202fPM",
-      "description": "DrinksFoodHappy Hour",
-      "link": "https://www.license1boulderado.com/cart",
-      "image": "//images.squarespace-cdn.com/content/v1/6091b19ba5da29701edc5ada/1620161035114-EY686JN7US5Z1BDOUEUH/LicenseNO1_Logo+White.png?format=1500w",
-      "source_url": "https://www.license1boulderado.com/events-1",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+",
-        "Music"
-      ],
-      "event_type_tags": [
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "license_no_1_the_underground_comedy_show_none",
-      "title": "The Underground Comedy Show",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": null,
-      "time": "7:30\u202fPM",
-      "description": "",
-      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-fd65x-2x4z6-pjfxj-ze78w-34ghp",
-      "image": null,
-      "source_url": "https://www.license1boulderado.com/events-1",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+",
-        "Music"
-      ],
-      "event_type_tags": [
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "license_no_1_the_underground_comedy_show_none",
-      "title": "The Underground Comedy Show",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": null,
-      "time": "7:30\u202fPM \u2013 8:30\u202fPM",
-      "description": "",
-      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-fd65x-2x4z6-pjfxj-ze78w-34ghp",
-      "image": null,
-      "source_url": "https://www.license1boulderado.com/events-1",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+",
-        "Music"
-      ],
-      "event_type_tags": [
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "license_no_1_live_music_with_george_nelson_band_none",
-      "title": "Live Music with George Nelson Band",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": null,
-      "time": "8:00\u202fPM",
-      "description": "",
-      "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-62s74",
-      "image": null,
-      "source_url": "https://www.license1boulderado.com/events-1",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+",
-        "Music"
-      ],
-      "event_type_tags": [
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "license_no_1_live_music_with_george_nelson_band_none",
-      "title": "Live Music with George Nelson Band",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": null,
-      "time": "8:00\u202fPM \u2013 11:59\u202fPM",
-      "description": "",
-      "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-62s74",
-      "image": null,
-      "source_url": "https://www.license1boulderado.com/events-1",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+",
-        "Music"
-      ],
-      "event_type_tags": [
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "license_no_1_the_underground_comedy_show_none",
-      "title": "The Underground Comedy Show",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": null,
-      "time": "8:00\u202fPM",
-      "description": "",
-      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-556r9-pz7ad",
-      "image": null,
-      "source_url": "https://www.license1boulderado.com/events-1",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+",
-        "Music"
-      ],
-      "event_type_tags": [
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "license_no_1_the_underground_comedy_show_none",
-      "title": "The Underground Comedy Show",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": null,
-      "time": "8:00\u202fPM \u2013 9:00\u202fPM",
-      "description": "",
-      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-556r9-pz7ad",
-      "image": null,
-      "source_url": "https://www.license1boulderado.com/events-1",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+",
-        "Music"
-      ],
-      "event_type_tags": [
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "license_no_1_the_underground_comedy_show_none",
-      "title": "The Underground Comedy Show",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": null,
-      "time": "8:00\u202fPM",
-      "description": "",
-      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-5j687-6wwda-e4mpt-f3jwf-w6zgg",
-      "image": null,
-      "source_url": "https://www.license1boulderado.com/events-1",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+",
-        "Music"
-      ],
-      "event_type_tags": [
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "license_no_1_the_underground_comedy_show_none",
-      "title": "The Underground Comedy Show",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": null,
-      "time": "8:00\u202fPM \u2013 9:00\u202fPM",
-      "description": "",
-      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-5j687-6wwda-e4mpt-f3jwf-w6zgg",
-      "image": null,
-      "source_url": "https://www.license1boulderado.com/events-1",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+",
-        "Music"
-      ],
-      "event_type_tags": [
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "license_no_1_the_underground_comedy_show_none",
-      "title": "The Underground Comedy Show",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": null,
-      "time": "7:30\u202fPM",
-      "description": "",
-      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-fd65x-2x4z6-pjfxj-ze78w-cfx5m",
-      "image": null,
-      "source_url": "https://www.license1boulderado.com/events-1",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+",
-        "Music"
-      ],
-      "event_type_tags": [
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "license_no_1_the_underground_comedy_show_none",
-      "title": "The Underground Comedy Show",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": null,
-      "time": "7:30\u202fPM \u2013 8:30\u202fPM",
-      "description": "",
-      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-fd65x-2x4z6-pjfxj-ze78w-cfx5m",
-      "image": null,
-      "source_url": "https://www.license1boulderado.com/events-1",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+",
-        "Music"
-      ],
-      "event_type_tags": [
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "license_no_1_live_music_with_george_nelson_band_none",
-      "title": "Live Music with George Nelson Band",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": null,
-      "time": "8:00\u202fPM",
-      "description": "",
-      "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-r546h",
-      "image": null,
-      "source_url": "https://www.license1boulderado.com/events-1",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+",
-        "Music"
-      ],
-      "event_type_tags": [
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "license_no_1_live_music_with_george_nelson_band_none",
-      "title": "Live Music with George Nelson Band",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": null,
-      "time": "8:00\u202fPM \u2013 11:59\u202fPM",
-      "description": "",
-      "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-r546h",
-      "image": null,
-      "source_url": "https://www.license1boulderado.com/events-1",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+",
-        "Music"
-      ],
-      "event_type_tags": [
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "license_no_1_the_underground_comedy_show_none",
-      "title": "The Underground Comedy Show",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": null,
-      "time": "8:00\u202fPM",
-      "description": "",
-      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-556r9-n4dwa",
-      "image": null,
-      "source_url": "https://www.license1boulderado.com/events-1",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+",
-        "Music"
-      ],
-      "event_type_tags": [
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "license_no_1_the_underground_comedy_show_none",
-      "title": "The Underground Comedy Show",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": null,
-      "time": "8:00\u202fPM \u2013 9:00\u202fPM",
-      "description": "",
-      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-556r9-n4dwa",
-      "image": null,
-      "source_url": "https://www.license1boulderado.com/events-1",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+",
-        "Music"
-      ],
-      "event_type_tags": [
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "license_no_1_the_underground_comedy_show_none",
-      "title": "The Underground Comedy Show",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": null,
-      "time": "8:00\u202fPM",
-      "description": "",
-      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-5j687-6wwda-e4mpt-f3jwf-tlkyc",
-      "image": null,
-      "source_url": "https://www.license1boulderado.com/events-1",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+",
-        "Music"
-      ],
-      "event_type_tags": [
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "license_no_1_the_underground_comedy_show_none",
-      "title": "The Underground Comedy Show",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": null,
-      "time": "8:00\u202fPM \u2013 9:00\u202fPM",
-      "description": "",
-      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-5j687-6wwda-e4mpt-f3jwf-tlkyc",
-      "image": null,
-      "source_url": "https://www.license1boulderado.com/events-1",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+",
-        "Music"
-      ],
-      "event_type_tags": [
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "license_no_1_the_underground_comedy_show_none",
-      "title": "The Underground Comedy Show",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": null,
-      "time": "7:30\u202fPM",
-      "description": "",
-      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-fd65x-2x4z6-pjfxj-ze78w-n74tj",
-      "image": null,
-      "source_url": "https://www.license1boulderado.com/events-1",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+",
-        "Music"
-      ],
-      "event_type_tags": [
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "license_no_1_the_underground_comedy_show_none",
-      "title": "The Underground Comedy Show",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": null,
-      "time": "7:30\u202fPM \u2013 8:30\u202fPM",
-      "description": "",
-      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-fd65x-2x4z6-pjfxj-ze78w-n74tj",
-      "image": null,
-      "source_url": "https://www.license1boulderado.com/events-1",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+",
-        "Music"
-      ],
-      "event_type_tags": [
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "license_no_1_live_music_with_george_nelson_band_none",
-      "title": "Live Music with George Nelson Band",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": null,
-      "time": "8:00\u202fPM",
-      "description": "",
-      "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-mxp2g",
-      "image": null,
-      "source_url": "https://www.license1boulderado.com/events-1",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+",
-        "Music"
-      ],
-      "event_type_tags": [
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "license_no_1_live_music_with_george_nelson_band_none",
-      "title": "Live Music with George Nelson Band",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": null,
-      "time": "8:00\u202fPM \u2013 11:59\u202fPM",
-      "description": "",
-      "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-mxp2g",
-      "image": null,
-      "source_url": "https://www.license1boulderado.com/events-1",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+",
-        "Music"
-      ],
-      "event_type_tags": [
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "license_no_1_the_underground_comedy_show_none",
-      "title": "The Underground Comedy Show",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": null,
-      "time": "8:00\u202fPM",
-      "description": "",
-      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-556r9-xnf68",
-      "image": null,
-      "source_url": "https://www.license1boulderado.com/events-1",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+",
-        "Music"
-      ],
-      "event_type_tags": [
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "license_no_1_the_underground_comedy_show_none",
-      "title": "The Underground Comedy Show",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": null,
-      "time": "8:00\u202fPM \u2013 9:00\u202fPM",
-      "description": "",
-      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-556r9-xnf68",
-      "image": null,
-      "source_url": "https://www.license1boulderado.com/events-1",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+",
-        "Music"
-      ],
-      "event_type_tags": [
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "license_no_1_the_underground_comedy_show_none",
-      "title": "The Underground Comedy Show",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": null,
-      "time": "8:00\u202fPM",
-      "description": "",
-      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-5j687-6wwda-e4mpt-f3jwf-z3dx7",
-      "image": null,
-      "source_url": "https://www.license1boulderado.com/events-1",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+",
-        "Music"
-      ],
-      "event_type_tags": [
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "license_no_1_the_underground_comedy_show_none",
-      "title": "The Underground Comedy Show",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": null,
-      "time": "8:00\u202fPM \u2013 9:00\u202fPM",
-      "description": "",
-      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-5j687-6wwda-e4mpt-f3jwf-z3dx7",
-      "image": null,
-      "source_url": "https://www.license1boulderado.com/events-1",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+",
-        "Music"
-      ],
-      "event_type_tags": [
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "license_no_1_the_underground_comedy_show_none",
-      "title": "The Underground Comedy Show",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": null,
-      "time": "7:30\u202fPM",
-      "description": "",
-      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-fd65x-2x4z6-pjfxj-ze78w-bdm98",
-      "image": null,
-      "source_url": "https://www.license1boulderado.com/events-1",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+",
-        "Music"
-      ],
-      "event_type_tags": [
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "license_no_1_the_underground_comedy_show_none",
-      "title": "The Underground Comedy Show",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": null,
-      "time": "7:30\u202fPM \u2013 8:30\u202fPM",
-      "description": "",
-      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-fd65x-2x4z6-pjfxj-ze78w-bdm98",
-      "image": null,
-      "source_url": "https://www.license1boulderado.com/events-1",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+",
-        "Music"
-      ],
-      "event_type_tags": [
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "license_no_1_live_music_with_george_nelson_band_none",
-      "title": "Live Music with George Nelson Band",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": null,
-      "time": "8:00\u202fPM",
-      "description": "",
-      "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-zc9k8",
-      "image": null,
-      "source_url": "https://www.license1boulderado.com/events-1",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+",
-        "Music"
-      ],
-      "event_type_tags": [
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "license_no_1_live_music_with_george_nelson_band_none",
-      "title": "Live Music with George Nelson Band",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": null,
-      "time": "8:00\u202fPM \u2013 9:00\u202fPM",
-      "description": "",
-      "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-zc9k8",
-      "image": null,
-      "source_url": "https://www.license1boulderado.com/events-1",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+",
-        "Music"
-      ],
-      "event_type_tags": [
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "license_no_1_the_underground_comedy_show_none",
-      "title": "The Underground Comedy Show",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": null,
-      "time": "8:00\u202fPM",
-      "description": "",
+      "time": "12:00 AM",
+      "description": "Select \u201cAccept all\u201d to agree to our use of cookies and similar technologies to enhance your browsing experience, security, analytics and customization. Select \u201dManage cookies\u201d to make more choices or opt out.Manage cookiesDecline allAccept all0Skip to ContentMenusDrinksFoodHappy HourAboutContact UsP",
       "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-5j687-6wwda-e4mpt-f3jwf-gwe7l",
       "image": null,
-      "source_url": "https://www.license1boulderado.com/events-1",
+      "source_url": "https://www.license1boulderado.com/calendar",
       "age_restriction": null,
       "venue_tag": "License No 1",
       "location_tag": "Boulder",
@@ -5779,18 +5025,18 @@
       ]
     },
     {
-      "id": "license_no_1_the_underground_comedy_show_none",
-      "title": "The Underground Comedy Show",
+      "id": "license_no_1_sign_in_recurring",
+      "title": "Sign in",
       "venue": "License No 1",
       "location": "Boulder",
       "date": null,
       "normalized_date": null,
       "recurring": null,
-      "time": "8:00\u202fPM \u2013 9:00\u202fPM",
+      "time": null,
       "description": "",
-      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-5j687-6wwda-e4mpt-f3jwf-gwe7l",
+      "link": "http://www.google.com/calendar/event?action=TEMPLATE&text=The%20Underground%20Comedy%20Show&dates=20251129T030000Z/20251129T040000Z",
       "image": null,
-      "source_url": "https://www.license1boulderado.com/events-1",
+      "source_url": "https://www.license1boulderado.com/calendar",
       "age_restriction": null,
       "venue_tag": "License No 1",
       "location_tag": "Boulder",
@@ -5805,18 +5051,70 @@
       ]
     },
     {
-      "id": "license_no_1_the_underground_comedy_show_none",
-      "title": "The Underground Comedy Show",
+      "id": "license_no_1_live_music_with_phoebe_nix_november_28_2025",
+      "title": "Live Music with Phoebe Nix",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "November 28, 2025",
+      "normalized_date": "2025-11-28T00:00:00",
+      "recurring": null,
+      "time": "12:00 AM",
+      "description": "Select \u201cAccept all\u201d to agree to our use of cookies and similar technologies to enhance your browsing experience, security, analytics and customization. Select \u201dManage cookies\u201d to make more choices or opt out.Manage cookiesDecline allAccept all0Skip to ContentMenusDrinksFoodHappy HourAboutContact UsP",
+      "link": "https://www.license1boulderado.com/calendar/live-music-with-phoebe-nix-1-wkm45-87zdz",
+      "image": null,
+      "source_url": "https://www.license1boulderado.com/calendar",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+",
+        "Music"
+      ],
+      "event_type_tags": [
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_sign_in_recurring",
+      "title": "Sign in",
       "venue": "License No 1",
       "location": "Boulder",
       "date": null,
       "normalized_date": null,
       "recurring": null,
-      "time": "7:30\u202fPM",
+      "time": null,
       "description": "",
+      "link": "http://www.google.com/calendar/event?action=TEMPLATE&text=Live%20Music%20with%20Phoebe%20Nix&dates=20251129T040000Z/20251129T065900Z",
+      "image": null,
+      "source_url": "https://www.license1boulderado.com/calendar",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+",
+        "Music"
+      ],
+      "event_type_tags": [
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_the_underground_comedy_show_november_29_2025",
+      "title": "The Underground Comedy Show",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "November 29, 2025",
+      "normalized_date": "2025-11-29T00:00:00",
+      "recurring": null,
+      "time": "12:00 AM",
+      "description": "Select \u201cAccept all\u201d to agree to our use of cookies and similar technologies to enhance your browsing experience, security, analytics and customization. Select \u201dManage cookies\u201d to make more choices or opt out.Manage cookiesDecline allAccept all0Skip to ContentMenusDrinksFoodHappy HourAboutContact UsP",
       "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-fd65x-2x4z6-pjfxj-ze78w-8lb93",
       "image": null,
-      "source_url": "https://www.license1boulderado.com/events-1",
+      "source_url": "https://www.license1boulderado.com/calendar",
       "age_restriction": null,
       "venue_tag": "License No 1",
       "location_tag": "Boulder",
@@ -5831,18 +5129,174 @@
       ]
     },
     {
-      "id": "license_no_1_the_underground_comedy_show_none",
-      "title": "The Underground Comedy Show",
+      "id": "license_no_1_sign_in_recurring",
+      "title": "Sign in",
       "venue": "License No 1",
       "location": "Boulder",
       "date": null,
       "normalized_date": null,
       "recurring": null,
-      "time": "7:30\u202fPM \u2013 8:30\u202fPM",
+      "time": null,
       "description": "",
-      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-fd65x-2x4z6-pjfxj-ze78w-8lb93",
+      "link": "http://www.google.com/calendar/event?action=TEMPLATE&text=The%20Underground%20Comedy%20Show&dates=20251130T023000Z/20251130T033000Z",
       "image": null,
-      "source_url": "https://www.license1boulderado.com/events-1",
+      "source_url": "https://www.license1boulderado.com/calendar",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+",
+        "Music"
+      ],
+      "event_type_tags": [
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_live_music_with_blove_november_29_2025",
+      "title": "Live Music with Blove",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "November 29, 2025",
+      "normalized_date": "2025-11-29T00:00:00",
+      "recurring": null,
+      "time": "12:00 AM",
+      "description": "Select \u201cAccept all\u201d to agree to our use of cookies and similar technologies to enhance your browsing experience, security, analytics and customization. Select \u201dManage cookies\u201d to make more choices or opt out.Manage cookiesDecline allAccept all0Skip to ContentMenusDrinksFoodHappy HourAboutContact UsP",
+      "link": "https://www.license1boulderado.com/calendar/live-music-with-superimposition-3-tzj3w-ragmp-n3wp5-bm6da-7238m-r3mpg-2tk4t-etj9j-x52nl-43zhr-rta6x-7xyzy-w592k-7rgwt-p2ga6-yg2m3-ybk7a-3fxsm-kg2b8-r54sk-5639t-fw4a8-t9cwn-rg6f3-m6fre",
+      "image": null,
+      "source_url": "https://www.license1boulderado.com/calendar",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+",
+        "Music"
+      ],
+      "event_type_tags": [
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_sign_in_recurring",
+      "title": "Sign in",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "link": "http://www.google.com/calendar/event?action=TEMPLATE&text=Live%20Music%20with%20Blove&dates=20251130T040000Z/20251130T065900Z",
+      "image": null,
+      "source_url": "https://www.license1boulderado.com/calendar",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+",
+        "Music"
+      ],
+      "event_type_tags": [
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_the_underground_comedy_show_november_29_2025",
+      "title": "The Underground Comedy Show",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "November 29, 2025",
+      "normalized_date": "2025-11-29T00:00:00",
+      "recurring": null,
+      "time": "12:00 AM",
+      "description": "Select \u201cAccept all\u201d to agree to our use of cookies and similar technologies to enhance your browsing experience, security, analytics and customization. Select \u201dManage cookies\u201d to make more choices or opt out.Manage cookiesDecline allAccept all0Skip to ContentMenusDrinksFoodHappy HourAboutContact UsP",
+      "link": "https://www.license1boulderado.com/calendar/lj824kawfej4rbl-ygrxa-6afcr-95jfl-3dams",
+      "image": null,
+      "source_url": "https://www.license1boulderado.com/calendar",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+",
+        "Music"
+      ],
+      "event_type_tags": [
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_sign_in_recurring",
+      "title": "Sign in",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "link": "http://www.google.com/calendar/event?action=TEMPLATE&text=The%20Underground%20Comedy%20Show&dates=20251130T041500Z/20251130T051500Z",
+      "image": null,
+      "source_url": "https://www.license1boulderado.com/calendar",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+",
+        "Music"
+      ],
+      "event_type_tags": [
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_live_music_with_george_nelson_band_december_03_2025",
+      "title": "Live Music with George Nelson Band",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "December 03, 2025",
+      "normalized_date": "2025-12-03T00:00:00",
+      "recurring": null,
+      "time": "12:00 AM",
+      "description": "Select \u201cAccept all\u201d to agree to our use of cookies and similar technologies to enhance your browsing experience, security, analytics and customization. Select \u201dManage cookies\u201d to make more choices or opt out.Manage cookiesDecline allAccept all0Skip to ContentMenusDrinksFoodHappy HourAboutContact UsP",
+      "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-pfwhs",
+      "image": null,
+      "source_url": "https://www.license1boulderado.com/calendar",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+",
+        "Music"
+      ],
+      "event_type_tags": [
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_sign_in_recurring",
+      "title": "Sign in",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "link": "http://www.google.com/calendar/event?action=TEMPLATE&text=Live%20Music%20with%20George%20Nelson%20Band&dates=20251204T030000Z/20251204T065900Z",
+      "image": null,
+      "source_url": "https://www.license1boulderado.com/calendar",
       "age_restriction": null,
       "venue_tag": "License No 1",
       "location_tag": "Boulder",
