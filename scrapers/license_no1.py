@@ -165,12 +165,17 @@ def parse_license_event_page(html, url):
                 if time_match:
                     event['time'] = time_match.group(0)
     
-    # 3. Search all text on page for time as last resort
+    # 3. Search visible event details for time
     if not event.get('time'):
-        page_text = soup.get_text()
-        time_match = re.search(r'\d{1,2}:\d{2}\s*(?:AM|PM|am|pm)', page_text, re.I)
-        if time_match:
-            event['time'] = time_match.group(0)
+        # Look specifically in elements that typically contain event details
+        detail_containers = soup.find_all(class_=re.compile(r'detail|info|meta', re.I))
+        for container in detail_containers:
+            text = container.get_text(strip=True)
+            # Match proper time format: 7:30 PM, 12:00 AM, etc. (not 58:00 PM)
+            time_match = re.search(r'\b([1-9]|1[0-2]):[0-5][0-9]\s*(?:AM|PM|am|pm)\b', text, re.I)
+            if time_match:
+                event['time'] = time_match.group(0)
+                break
     
     # Description
     desc_elem = soup.find(class_=re.compile(r'description|content|excerpt', re.I))
