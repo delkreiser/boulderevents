@@ -168,13 +168,36 @@ def parse_license_event_page(html, url):
     # 3. Search visible event details for time
     if not event.get('time'):
         # Look specifically in elements that typically contain event details
-        detail_containers = soup.find_all(class_=re.compile(r'detail|info|meta', re.I))
+        detail_containers = soup.find_all(class_=re.compile(r'detail|info|meta|time|schedule', re.I))
         for container in detail_containers:
             text = container.get_text(strip=True)
-            # Match proper time format: 7:30 PM, 12:00 AM, etc. (not 58:00 PM)
-            time_match = re.search(r'\b([1-9]|1[0-2]):[0-5][0-9]\s*(?:AM|PM|am|pm)\b', text, re.I)
+            # Match proper time format with any kind of space (including Unicode spaces)
+            # Use \s* to match any whitespace including \u202f
+            time_match = re.search(r'\b([1-9]|1[0-2]):([0-5][0-9])\s*(?:AM|PM|am|pm)\b', text, re.I)
             if time_match:
-                event['time'] = time_match.group(0)
+                hour = int(time_match.group(1))
+                minute = int(time_match.group(2))
+                # Validate hour and minute ranges
+                if 1 <= hour <= 12 and 0 <= minute <= 59:
+                    event['time'] = time_match.group(0)
+                    break
+    
+    # 4. Last resort: look for time in visible text, but validate strictly
+    if not event.get('time'):
+        # Get only visible text (not scripts, styles, etc)
+        for tag in soup(['script', 'style', 'meta', 'link']):
+            tag.decompose()
+        visible_text = soup.get_text(separator=' ', strip=True)
+        
+        # Find all potential times
+        all_times = re.findall(r'\b([1-9]|1[0-2]):([0-5][0-9])\s*(?:AM|PM|am|pm)\b', visible_text, re.I)
+        for hour, minute in all_times:
+            hour_int = int(hour)
+            minute_int = int(minute)
+            # Only accept valid times
+            if 1 <= hour_int <= 12 and 0 <= minute_int <= 59:
+                # Format it properly
+                event['time'] = f"{hour_int}:{minute:0>2} {'PM' if 'pm' in visible_text.lower() else 'AM'}"
                 break
     
     # Description
