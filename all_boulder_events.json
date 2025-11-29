@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T17:44:23.656166",
-  "total_events": 251,
+  "generated_at": "2025-11-29T06:41:41.984706",
+  "total_events": 252,
   "tags": {
     "venues": [
       "Junkyard Social Club",
@@ -310,10 +310,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Music",
         "All Ages",
-        "Educational"
+        "Educational",
+        "Community"
       ]
     },
     {
@@ -341,10 +341,10 @@
       ],
       "event_type_tags": [
         "All Ages",
-        "Family Friendly",
-        "Community",
         "Music",
-        "Educational"
+        "Educational",
+        "Community",
+        "Family Friendly"
       ]
     },
     {
@@ -371,8 +371,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "All Ages",
+        "Community",
         "Family Friendly"
       ]
     },
@@ -400,9 +400,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Music",
-        "All Ages"
+        "All Ages",
+        "Community"
       ]
     },
     {
@@ -429,8 +429,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "All Ages"
+        "All Ages",
+        "Community"
       ]
     },
     {
@@ -485,8 +485,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "All Ages"
+        "All Ages",
+        "Community"
       ]
     },
     {
@@ -513,10 +513,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Music",
-        "Family Friendly",
-        "All Ages"
+        "All Ages",
+        "Community",
+        "Family Friendly"
       ]
     },
     {
@@ -543,9 +543,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Music",
-        "Educational"
+        "Educational",
+        "Community"
       ]
     },
     {
@@ -573,10 +573,10 @@
       ],
       "event_type_tags": [
         "All Ages",
-        "Family Friendly",
-        "Performance",
+        "Music",
         "Community",
-        "Music"
+        "Performance",
+        "Family Friendly"
       ]
     },
     {
@@ -631,8 +631,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "All Ages",
+        "Community",
         "Performance",
         "Family Friendly"
       ]
@@ -661,10 +661,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Music",
-        "Performance",
-        "21+"
+        "21+",
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -691,10 +691,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Music",
-        "Performance",
-        "All Ages"
+        "All Ages",
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -805,8 +805,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "21+"
+        "21+",
+        "Performance"
       ]
     },
     {
@@ -834,8 +834,8 @@
       ],
       "event_type_tags": [
         "Music",
-        "Performance",
-        "21+"
+        "21+",
+        "Performance"
       ]
     },
     {
@@ -6101,6 +6101,32 @@
       "time": "12:00 AM",
       "description": "Select \u201cAccept all\u201d to agree to our use of cookies and similar technologies to enhance your browsing experience, security, analytics and customization. Select \u201dManage cookies\u201d to make more choices or opt out.Manage cookiesDecline allAccept all0Skip to ContentMenusDrinksFoodHappy HourAboutContact UsP",
       "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-5j687-6wwda-e4mpt-f3jwf-tlkyc",
+      "image": null,
+      "source_url": "https://www.license1boulderado.com/calendar",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+",
+        "Music"
+      ],
+      "event_type_tags": [
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_503_service_unavailable_recurring",
+      "title": "503 Service Unavailable",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-5j687-6wwda-e4mpt-f3jwf-tlkyc?format=ical",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
       "age_restriction": null,
