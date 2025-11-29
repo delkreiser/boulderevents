@@ -168,7 +168,28 @@ def parse_license_event_page(html, url):
     # Description
     desc_elem = soup.find(class_=re.compile(r'description|content|excerpt', re.I))
     if desc_elem:
-        event['description'] = desc_elem.get_text(strip=True)[:300]
+        desc_text = desc_elem.get_text(strip=True)[:300]
+        # Filter out cookie consent and other unwanted text
+        unwanted_phrases = [
+            'select "accept all"',
+            'accept all',
+            'use of cookies',
+            'cookie',
+            'browsing experience',
+            'privacy policy',
+            'terms of service'
+        ]
+        # Skip if description is mainly cookie/legal text
+        if not any(phrase in desc_text.lower() for phrase in unwanted_phrases):
+            event['description'] = desc_text
+        else:
+            # Try to find actual event description in a different element
+            paragraphs = soup.find_all('p')
+            for p in paragraphs:
+                p_text = p.get_text(strip=True)
+                if len(p_text) > 50 and not any(phrase in p_text.lower() for phrase in unwanted_phrases):
+                    event['description'] = p_text[:300]
+                    break
     
     # Image
     img_elem = soup.find('img')
