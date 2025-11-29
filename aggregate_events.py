@@ -36,7 +36,7 @@ class EventAggregator:
                 'scraper_output': 'mountain_sun_events.json'
             },
             'Vine Street Pub': {
-                'location': 'Boulder',
+                'location': 'Denver',
                 'tags': ['Music', 'Pub', 'Bar', 'Food & Drink'],
                 'scraper_output': 'mountain_sun_events.json'
             },
@@ -158,6 +158,7 @@ class EventAggregator:
     def aggregate_all_events(self):
         """Load and aggregate all events from all venues"""
         all_events = []
+        today = datetime.now().date()
         
         for venue_name, config in self.venue_configs.items():
             print(f"\nProcessing {venue_name}...")
@@ -171,6 +172,15 @@ class EventAggregator:
                 
                 # Get venue config (handle cases where event venue might be more specific)
                 venue_config = self.venue_configs.get(event_venue, config)
+                
+                # Skip past events
+                if event.get('normalized_date'):
+                    try:
+                        event_date = datetime.fromisoformat(event['normalized_date']).date()
+                        if event_date < today:
+                            continue  # Skip past events
+                    except:
+                        pass  # If parsing fails, include the event anyway
                 
                 # Create enriched event
                 enriched_event = {

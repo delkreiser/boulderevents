@@ -136,7 +136,9 @@ def parse_license_event_page(html, url):
             try:
                 dt = datetime.fromisoformat(datetime_attr.replace('Z', '+00:00'))
                 event['date'] = dt.strftime('%B %d, %Y')
-                event['time'] = dt.strftime('%I:%M %p')
+                # Only set time if it's not midnight (actual event time, not default)
+                if not (dt.hour == 0 and dt.minute == 0):
+                    event['time'] = dt.strftime('%I:%M %p').lstrip('0')
             except:
                 # Fallback to text content
                 time_text = time_elem.get_text(strip=True)
@@ -169,7 +171,7 @@ def parse_license_event_page(html, url):
     desc_elem = soup.find(class_=re.compile(r'description|content|excerpt', re.I))
     if desc_elem:
         desc_text = desc_elem.get_text(strip=True)[:300]
-        # Filter out cookie consent and other unwanted text
+        # Filter out unwanted text
         unwanted_phrases = [
             'select "accept all"',
             'accept all',
@@ -177,9 +179,14 @@ def parse_license_event_page(html, url):
             'cookie',
             'browsing experience',
             'privacy policy',
-            'terms of service'
+            'terms of service',
+            'join our email list',
+            'get the latest news',
+            'subscribe',
+            'newsletter',
+            'sign up',
         ]
-        # Skip if description is mainly cookie/legal text
+        # Skip if description contains unwanted text
         if not any(phrase in desc_text.lower() for phrase in unwanted_phrases):
             event['description'] = desc_text
         else:
