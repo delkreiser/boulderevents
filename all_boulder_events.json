@@ -1,12 +1,12 @@
 {
-  "generated_at": "2025-11-29T14:06:24.205373",
+  "generated_at": "2025-11-29T15:44:07.348550",
   "total_events": 250,
   "tags": {
     "venues": [
       "Junkyard Social Club",
       "License No 1",
       "Longs Peak Pub",
-      "Mountain Sun Pub on Pearl",
+      "Mountain Sun Pub",
       "Southern Sun Pub",
       "St Julien Hotel & Spa",
       "Trident Booksellers & Cafe",
@@ -15,6 +15,7 @@
     ],
     "locations": [
       "Boulder",
+      "Denver",
       "Longmont"
     ],
     "venue_types": [
@@ -310,10 +311,10 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Music",
         "Educational",
-        "All Ages",
         "Community",
-        "Music"
+        "All Ages"
       ]
     },
     {
@@ -340,11 +341,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "Educational",
-        "Family Friendly",
         "All Ages",
-        "Community"
+        "Community",
+        "Family Friendly",
+        "Music",
+        "Educational"
       ]
     },
     {
@@ -371,9 +372,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
         "All Ages",
-        "Community"
+        "Community",
+        "Family Friendly"
       ]
     },
     {
@@ -400,9 +401,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Music",
         "All Ages",
-        "Community",
-        "Music"
+        "Community"
       ]
     },
     {
@@ -457,8 +458,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Music"
+        "Music",
+        "All Ages"
       ]
     },
     {
@@ -513,10 +514,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
+        "Music",
         "All Ages",
         "Community",
-        "Music"
+        "Family Friendly"
       ]
     },
     {
@@ -543,9 +544,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Music",
         "Educational",
-        "Community",
-        "Music"
+        "Community"
       ]
     },
     {
@@ -572,11 +573,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "Family Friendly",
         "All Ages",
         "Community",
-        "Performance"
+        "Performance",
+        "Family Friendly",
+        "Music"
       ]
     },
     {
@@ -603,8 +604,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -631,10 +632,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Family Friendly",
         "All Ages",
-        "Community"
+        "Community",
+        "Family Friendly",
+        "Performance"
       ]
     },
     {
@@ -661,10 +662,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "21+",
+        "Music",
         "Community",
-        "Music"
+        "Performance",
+        "21+"
       ]
     },
     {
@@ -691,10 +692,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
+        "Music",
         "All Ages",
         "Community",
-        "Music"
+        "Performance"
       ]
     },
     {
@@ -721,8 +722,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -777,8 +778,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "21+",
-        "Music"
+        "Music",
+        "21+"
       ]
     },
     {
@@ -833,9 +834,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Music",
         "Performance",
-        "21+",
-        "Music"
+        "21+"
       ]
     },
     {
@@ -868,7 +869,7 @@
       "id": "vine_street_pub_vinyl_night_every_monday",
       "title": "Vinyl Night",
       "venue": "Vine Street Pub",
-      "location": "Boulder",
+      "location": "Denver",
       "date": null,
       "normalized_date": null,
       "recurring": "Every Monday",
@@ -879,7 +880,7 @@
       "source_url": "https://www.mountainsunpub.com/events/",
       "age_restriction": null,
       "venue_tag": "Vine Street Pub",
-      "location_tag": "Boulder",
+      "location_tag": "Denver",
       "venue_type_tags": [
         "Music",
         "Pub",
@@ -920,7 +921,7 @@
       "id": "vine_street_pub_music_night_every_saturday",
       "title": "Music Night",
       "venue": "Vine Street Pub",
-      "location": "Boulder",
+      "location": "Denver",
       "date": null,
       "normalized_date": null,
       "recurring": "Every Saturday",
@@ -931,7 +932,7 @@
       "source_url": "https://www.mountainsunpub.com/events/",
       "age_restriction": null,
       "venue_tag": "Vine Street Pub",
-      "location_tag": "Boulder",
+      "location_tag": "Denver",
       "venue_type_tags": [
         "Music",
         "Pub",
@@ -943,9 +944,9 @@
       ]
     },
     {
-      "id": "mountain_sun_pub_on_pearl_free_live_music_goodtime_funk_friday_november_7th",
+      "id": "mountain_sun_pub_free_live_music_goodtime_funk_friday_november_7th",
       "title": "Free Live Music: Goodtime Funk",
-      "venue": "Mountain Sun Pub on Pearl",
+      "venue": "Mountain Sun Pub",
       "location": "Boulder",
       "date": "Friday, November 7th",
       "normalized_date": "2025-11-07T00:00:00",
@@ -956,7 +957,7 @@
       "image": null,
       "source_url": "https://www.mountainsunpub.com/events/",
       "age_restriction": null,
-      "venue_tag": "Mountain Sun Pub on Pearl",
+      "venue_tag": "Mountain Sun Pub",
       "location_tag": "Boulder",
       "venue_type_tags": [
         "Music",
@@ -969,9 +970,9 @@
       ]
     },
     {
-      "id": "mountain_sun_pub_on_pearl_free_live_music_jason_brandt_the_build_out_friday_november_14th",
+      "id": "mountain_sun_pub_free_live_music_jason_brandt_the_build_out_friday_november_14th",
       "title": "Free Live Music: Jason Brandt & the Build-Out",
-      "venue": "Mountain Sun Pub on Pearl",
+      "venue": "Mountain Sun Pub",
       "location": "Boulder",
       "date": "Friday, November 14th",
       "normalized_date": "2025-11-14T00:00:00",
@@ -982,7 +983,7 @@
       "image": null,
       "source_url": "https://www.mountainsunpub.com/events/",
       "age_restriction": null,
-      "venue_tag": "Mountain Sun Pub on Pearl",
+      "venue_tag": "Mountain Sun Pub",
       "location_tag": "Boulder",
       "venue_type_tags": [
         "Music",
@@ -995,9 +996,9 @@
       ]
     },
     {
-      "id": "mountain_sun_pub_on_pearl_free_live_music_brandy_wine_the_mighty_fines_friday_november_21st",
+      "id": "mountain_sun_pub_free_live_music_brandy_wine_the_mighty_fines_friday_november_21st",
       "title": "Free Live Music: Brandy Wine & The Mighty Fines",
-      "venue": "Mountain Sun Pub on Pearl",
+      "venue": "Mountain Sun Pub",
       "location": "Boulder",
       "date": "Friday, November 21st",
       "normalized_date": "2025-11-21T00:00:00",
@@ -1008,7 +1009,7 @@
       "image": null,
       "source_url": "https://www.mountainsunpub.com/events/",
       "age_restriction": null,
-      "venue_tag": "Mountain Sun Pub on Pearl",
+      "venue_tag": "Mountain Sun Pub",
       "location_tag": "Boulder",
       "venue_type_tags": [
         "Music",
@@ -1021,9 +1022,9 @@
       ]
     },
     {
-      "id": "mountain_sun_pub_on_pearl_free_live_music_crick_wooder_friday_november_28th",
+      "id": "mountain_sun_pub_free_live_music_crick_wooder_friday_november_28th",
       "title": "Free Live Music: Crick Wooder",
-      "venue": "Mountain Sun Pub on Pearl",
+      "venue": "Mountain Sun Pub",
       "location": "Boulder",
       "date": "Friday, November 28th",
       "normalized_date": "2025-11-28T00:00:00",
@@ -1034,215 +1035,7 @@
       "image": null,
       "source_url": "https://www.mountainsunpub.com/events/",
       "age_restriction": null,
-      "venue_tag": "Mountain Sun Pub on Pearl",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Music",
-        "Pub",
-        "Bar",
-        "Food & Drink"
-      ],
-      "event_type_tags": [
-        "Music"
-      ]
-    },
-    {
-      "id": "southern_sun_pub_the_bluegrass_pick_every_thursday",
-      "title": "The BLUEGRASS PICK",
-      "venue": "Southern Sun Pub",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": "Every Thursday",
-      "time": "7:30 - 9:30 pm",
-      "description": "Hosted by Max Kabat of Bowregard. Never a cover, always a good time!",
-      "link": null,
-      "image": null,
-      "source_url": "https://www.mountainsunpub.com/events/",
-      "age_restriction": null,
-      "venue_tag": "Southern Sun Pub",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Music",
-        "Pub",
-        "Bar",
-        "Food & Drink"
-      ],
-      "event_type_tags": [
-        "Music"
-      ]
-    },
-    {
-      "id": "vine_street_pub_vinyl_night_every_monday",
-      "title": "Vinyl Night",
-      "venue": "Vine Street Pub",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": "Every Monday",
-      "time": "5-9 pm",
-      "description": "Join us for an intentional listening experience. Share your favorite tunes and discover new music while enjoying house-made beer and snacks. Bring in a record from your collection and in exchange, we will play it for the pub and give you a free beer.",
-      "link": null,
-      "image": null,
-      "source_url": "https://www.mountainsunpub.com/events/",
-      "age_restriction": null,
-      "venue_tag": "Vine Street Pub",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Music",
-        "Pub",
-        "Bar",
-        "Food & Drink"
-      ],
-      "event_type_tags": [
-        "Music"
-      ]
-    },
-    {
-      "id": "longs_peak_pub_game_night_monday_nights",
-      "title": "Game Night",
-      "venue": "Longs Peak Pub",
-      "location": "Longmont",
-      "date": null,
-      "normalized_date": null,
-      "recurring": "Monday Nights",
-      "time": "5pm-10pm",
-      "description": "Free Fries and Happy Hour prices for all game tables!",
-      "link": null,
-      "image": null,
-      "source_url": "https://www.mountainsunpub.com/events/",
-      "age_restriction": null,
-      "venue_tag": "Longs Peak Pub",
-      "location_tag": "Longmont",
-      "venue_type_tags": [
-        "Pub",
-        "Bar",
-        "Games",
-        "Food & Drink"
-      ],
-      "event_type_tags": [
-        "Music"
-      ]
-    },
-    {
-      "id": "vine_street_pub_music_night_every_saturday",
-      "title": "Music Night",
-      "venue": "Vine Street Pub",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": "Every Saturday",
-      "time": "8pm",
-      "description": "In collaboration with Stir Fry Sessions, a Denver based artist collective, we showcase local talent while offering a community space to dance and mingle.",
-      "link": null,
-      "image": null,
-      "source_url": "https://www.mountainsunpub.com/events/",
-      "age_restriction": null,
-      "venue_tag": "Vine Street Pub",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Music",
-        "Pub",
-        "Bar",
-        "Food & Drink"
-      ],
-      "event_type_tags": [
-        "Music"
-      ]
-    },
-    {
-      "id": "mountain_sun_pub_on_pearl_free_live_music_goodtime_funk_friday_november_7th",
-      "title": "Free Live Music: Goodtime Funk",
-      "venue": "Mountain Sun Pub on Pearl",
-      "location": "Boulder",
-      "date": "Friday, November 7th",
-      "normalized_date": "2025-11-07T00:00:00",
-      "recurring": null,
-      "time": "9pm-Midnight",
-      "description": "NO COVER!",
-      "link": null,
-      "image": null,
-      "source_url": "https://www.mountainsunpub.com/events/",
-      "age_restriction": null,
-      "venue_tag": "Mountain Sun Pub on Pearl",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Music",
-        "Pub",
-        "Bar",
-        "Food & Drink"
-      ],
-      "event_type_tags": [
-        "Music"
-      ]
-    },
-    {
-      "id": "mountain_sun_pub_on_pearl_free_live_music_jason_brandt_the_build_out_friday_november_14th",
-      "title": "Free Live Music: Jason Brandt & the Build-Out",
-      "venue": "Mountain Sun Pub on Pearl",
-      "location": "Boulder",
-      "date": "Friday, November 14th",
-      "normalized_date": "2025-11-14T00:00:00",
-      "recurring": null,
-      "time": "9pm-Midnight",
-      "description": "NO COVER!",
-      "link": null,
-      "image": null,
-      "source_url": "https://www.mountainsunpub.com/events/",
-      "age_restriction": null,
-      "venue_tag": "Mountain Sun Pub on Pearl",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Music",
-        "Pub",
-        "Bar",
-        "Food & Drink"
-      ],
-      "event_type_tags": [
-        "Music"
-      ]
-    },
-    {
-      "id": "mountain_sun_pub_on_pearl_free_live_music_brandy_wine_the_mighty_fines_friday_november_21st",
-      "title": "Free Live Music: Brandy Wine & The Mighty Fines",
-      "venue": "Mountain Sun Pub on Pearl",
-      "location": "Boulder",
-      "date": "Friday, November 21st",
-      "normalized_date": "2025-11-21T00:00:00",
-      "recurring": null,
-      "time": "9pm-Midnight",
-      "description": "NO COVER!",
-      "link": null,
-      "image": null,
-      "source_url": "https://www.mountainsunpub.com/events/",
-      "age_restriction": null,
-      "venue_tag": "Mountain Sun Pub on Pearl",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Music",
-        "Pub",
-        "Bar",
-        "Food & Drink"
-      ],
-      "event_type_tags": [
-        "Music"
-      ]
-    },
-    {
-      "id": "mountain_sun_pub_on_pearl_free_live_music_crick_wooder_friday_november_28th",
-      "title": "Free Live Music: Crick Wooder",
-      "venue": "Mountain Sun Pub on Pearl",
-      "location": "Boulder",
-      "date": "Friday, November 28th",
-      "normalized_date": "2025-11-28T00:00:00",
-      "recurring": null,
-      "time": "9pm-Midnight",
-      "description": "NO COVER!",
-      "link": null,
-      "image": null,
-      "source_url": "https://www.mountainsunpub.com/events/",
-      "age_restriction": null,
-      "venue_tag": "Mountain Sun Pub on Pearl",
+      "venue_tag": "Mountain Sun Pub",
       "location_tag": "Boulder",
       "venue_type_tags": [
         "Music",
@@ -1284,7 +1077,7 @@
       "id": "vine_street_pub_vinyl_night_every_monday",
       "title": "Vinyl Night",
       "venue": "Vine Street Pub",
-      "location": "Boulder",
+      "location": "Denver",
       "date": null,
       "normalized_date": null,
       "recurring": "Every Monday",
@@ -1295,7 +1088,7 @@
       "source_url": "https://www.mountainsunpub.com/events/",
       "age_restriction": null,
       "venue_tag": "Vine Street Pub",
-      "location_tag": "Boulder",
+      "location_tag": "Denver",
       "venue_type_tags": [
         "Music",
         "Pub",
@@ -1336,7 +1129,7 @@
       "id": "vine_street_pub_music_night_every_saturday",
       "title": "Music Night",
       "venue": "Vine Street Pub",
-      "location": "Boulder",
+      "location": "Denver",
       "date": null,
       "normalized_date": null,
       "recurring": "Every Saturday",
@@ -1347,7 +1140,7 @@
       "source_url": "https://www.mountainsunpub.com/events/",
       "age_restriction": null,
       "venue_tag": "Vine Street Pub",
-      "location_tag": "Boulder",
+      "location_tag": "Denver",
       "venue_type_tags": [
         "Music",
         "Pub",
@@ -1359,9 +1152,9 @@
       ]
     },
     {
-      "id": "mountain_sun_pub_on_pearl_free_live_music_goodtime_funk_friday_november_7th",
+      "id": "mountain_sun_pub_free_live_music_goodtime_funk_friday_november_7th",
       "title": "Free Live Music: Goodtime Funk",
-      "venue": "Mountain Sun Pub on Pearl",
+      "venue": "Mountain Sun Pub",
       "location": "Boulder",
       "date": "Friday, November 7th",
       "normalized_date": "2025-11-07T00:00:00",
@@ -1372,7 +1165,7 @@
       "image": null,
       "source_url": "https://www.mountainsunpub.com/events/",
       "age_restriction": null,
-      "venue_tag": "Mountain Sun Pub on Pearl",
+      "venue_tag": "Mountain Sun Pub",
       "location_tag": "Boulder",
       "venue_type_tags": [
         "Music",
@@ -1385,9 +1178,9 @@
       ]
     },
     {
-      "id": "mountain_sun_pub_on_pearl_free_live_music_jason_brandt_the_build_out_friday_november_14th",
+      "id": "mountain_sun_pub_free_live_music_jason_brandt_the_build_out_friday_november_14th",
       "title": "Free Live Music: Jason Brandt & the Build-Out",
-      "venue": "Mountain Sun Pub on Pearl",
+      "venue": "Mountain Sun Pub",
       "location": "Boulder",
       "date": "Friday, November 14th",
       "normalized_date": "2025-11-14T00:00:00",
@@ -1398,7 +1191,7 @@
       "image": null,
       "source_url": "https://www.mountainsunpub.com/events/",
       "age_restriction": null,
-      "venue_tag": "Mountain Sun Pub on Pearl",
+      "venue_tag": "Mountain Sun Pub",
       "location_tag": "Boulder",
       "venue_type_tags": [
         "Music",
@@ -1411,9 +1204,9 @@
       ]
     },
     {
-      "id": "mountain_sun_pub_on_pearl_free_live_music_brandy_wine_the_mighty_fines_friday_november_21st",
+      "id": "mountain_sun_pub_free_live_music_brandy_wine_the_mighty_fines_friday_november_21st",
       "title": "Free Live Music: Brandy Wine & The Mighty Fines",
-      "venue": "Mountain Sun Pub on Pearl",
+      "venue": "Mountain Sun Pub",
       "location": "Boulder",
       "date": "Friday, November 21st",
       "normalized_date": "2025-11-21T00:00:00",
@@ -1424,7 +1217,7 @@
       "image": null,
       "source_url": "https://www.mountainsunpub.com/events/",
       "age_restriction": null,
-      "venue_tag": "Mountain Sun Pub on Pearl",
+      "venue_tag": "Mountain Sun Pub",
       "location_tag": "Boulder",
       "venue_type_tags": [
         "Music",
@@ -1437,9 +1230,9 @@
       ]
     },
     {
-      "id": "mountain_sun_pub_on_pearl_free_live_music_crick_wooder_friday_november_28th",
+      "id": "mountain_sun_pub_free_live_music_crick_wooder_friday_november_28th",
       "title": "Free Live Music: Crick Wooder",
-      "venue": "Mountain Sun Pub on Pearl",
+      "venue": "Mountain Sun Pub",
       "location": "Boulder",
       "date": "Friday, November 28th",
       "normalized_date": "2025-11-28T00:00:00",
@@ -1450,7 +1243,7 @@
       "image": null,
       "source_url": "https://www.mountainsunpub.com/events/",
       "age_restriction": null,
-      "venue_tag": "Mountain Sun Pub on Pearl",
+      "venue_tag": "Mountain Sun Pub",
       "location_tag": "Boulder",
       "venue_type_tags": [
         "Music",
@@ -1492,7 +1285,7 @@
       "id": "vine_street_pub_vinyl_night_every_monday",
       "title": "Vinyl Night",
       "venue": "Vine Street Pub",
-      "location": "Boulder",
+      "location": "Denver",
       "date": null,
       "normalized_date": null,
       "recurring": "Every Monday",
@@ -1503,7 +1296,7 @@
       "source_url": "https://www.mountainsunpub.com/events/",
       "age_restriction": null,
       "venue_tag": "Vine Street Pub",
-      "location_tag": "Boulder",
+      "location_tag": "Denver",
       "venue_type_tags": [
         "Music",
         "Pub",
@@ -1544,7 +1337,7 @@
       "id": "vine_street_pub_music_night_every_saturday",
       "title": "Music Night",
       "venue": "Vine Street Pub",
-      "location": "Boulder",
+      "location": "Denver",
       "date": null,
       "normalized_date": null,
       "recurring": "Every Saturday",
@@ -1555,6 +1348,32 @@
       "source_url": "https://www.mountainsunpub.com/events/",
       "age_restriction": null,
       "venue_tag": "Vine Street Pub",
+      "location_tag": "Denver",
+      "venue_type_tags": [
+        "Music",
+        "Pub",
+        "Bar",
+        "Food & Drink"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "mountain_sun_pub_free_live_music_goodtime_funk_friday_november_7th",
+      "title": "Free Live Music: Goodtime Funk",
+      "venue": "Mountain Sun Pub",
+      "location": "Boulder",
+      "date": "Friday, November 7th",
+      "normalized_date": "2025-11-07T00:00:00",
+      "recurring": null,
+      "time": "9pm-Midnight",
+      "description": "NO COVER!",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Mountain Sun Pub",
       "location_tag": "Boulder",
       "venue_type_tags": [
         "Music",
@@ -1567,36 +1386,10 @@
       ]
     },
     {
-      "id": "mountain_sun_pub_on_pearl_free_live_music_goodtime_funk_friday_november_7th",
-      "title": "Free Live Music: Goodtime Funk",
-      "venue": "Mountain Sun Pub on Pearl",
-      "location": "Longmont",
-      "date": "Friday, November 7th",
-      "normalized_date": "2025-11-07T00:00:00",
-      "recurring": null,
-      "time": "9pm-Midnight",
-      "description": "NO COVER!",
-      "link": null,
-      "image": null,
-      "source_url": "https://www.mountainsunpub.com/events/",
-      "age_restriction": null,
-      "venue_tag": "Mountain Sun Pub on Pearl",
-      "location_tag": "Longmont",
-      "venue_type_tags": [
-        "Pub",
-        "Bar",
-        "Games",
-        "Food & Drink"
-      ],
-      "event_type_tags": [
-        "Music"
-      ]
-    },
-    {
-      "id": "mountain_sun_pub_on_pearl_free_live_music_jason_brandt_the_build_out_friday_november_14th",
+      "id": "mountain_sun_pub_free_live_music_jason_brandt_the_build_out_friday_november_14th",
       "title": "Free Live Music: Jason Brandt & the Build-Out",
-      "venue": "Mountain Sun Pub on Pearl",
-      "location": "Longmont",
+      "venue": "Mountain Sun Pub",
+      "location": "Boulder",
       "date": "Friday, November 14th",
       "normalized_date": "2025-11-14T00:00:00",
       "recurring": null,
@@ -1606,12 +1399,12 @@
       "image": null,
       "source_url": "https://www.mountainsunpub.com/events/",
       "age_restriction": null,
-      "venue_tag": "Mountain Sun Pub on Pearl",
-      "location_tag": "Longmont",
+      "venue_tag": "Mountain Sun Pub",
+      "location_tag": "Boulder",
       "venue_type_tags": [
+        "Music",
         "Pub",
         "Bar",
-        "Games",
         "Food & Drink"
       ],
       "event_type_tags": [
@@ -1619,10 +1412,10 @@
       ]
     },
     {
-      "id": "mountain_sun_pub_on_pearl_free_live_music_brandy_wine_the_mighty_fines_friday_november_21st",
+      "id": "mountain_sun_pub_free_live_music_brandy_wine_the_mighty_fines_friday_november_21st",
       "title": "Free Live Music: Brandy Wine & The Mighty Fines",
-      "venue": "Mountain Sun Pub on Pearl",
-      "location": "Longmont",
+      "venue": "Mountain Sun Pub",
+      "location": "Boulder",
       "date": "Friday, November 21st",
       "normalized_date": "2025-11-21T00:00:00",
       "recurring": null,
@@ -1632,7 +1425,111 @@
       "image": null,
       "source_url": "https://www.mountainsunpub.com/events/",
       "age_restriction": null,
-      "venue_tag": "Mountain Sun Pub on Pearl",
+      "venue_tag": "Mountain Sun Pub",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Pub",
+        "Bar",
+        "Food & Drink"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "mountain_sun_pub_free_live_music_crick_wooder_friday_november_28th",
+      "title": "Free Live Music: Crick Wooder",
+      "venue": "Mountain Sun Pub",
+      "location": "Boulder",
+      "date": "Friday, November 28th",
+      "normalized_date": "2025-11-28T00:00:00",
+      "recurring": null,
+      "time": "9pm-Midnight",
+      "description": "NO COVER!",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Mountain Sun Pub",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Pub",
+        "Bar",
+        "Food & Drink"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "southern_sun_pub_the_bluegrass_pick_every_thursday",
+      "title": "The BLUEGRASS PICK",
+      "venue": "Southern Sun Pub",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": "Every Thursday",
+      "time": "7:30 - 9:30 pm",
+      "description": "Hosted by Max Kabat of Bowregard. Never a cover, always a good time!",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Southern Sun Pub",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Pub",
+        "Bar",
+        "Food & Drink"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "vine_street_pub_vinyl_night_every_monday",
+      "title": "Vinyl Night",
+      "venue": "Vine Street Pub",
+      "location": "Denver",
+      "date": null,
+      "normalized_date": null,
+      "recurring": "Every Monday",
+      "time": "5-9 pm",
+      "description": "Join us for an intentional listening experience. Share your favorite tunes and discover new music while enjoying house-made beer and snacks. Bring in a record from your collection and in exchange, we will play it for the pub and give you a free beer.",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Vine Street Pub",
+      "location_tag": "Denver",
+      "venue_type_tags": [
+        "Music",
+        "Pub",
+        "Bar",
+        "Food & Drink"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "longs_peak_pub_game_night_monday_nights",
+      "title": "Game Night",
+      "venue": "Longs Peak Pub",
+      "location": "Longmont",
+      "date": null,
+      "normalized_date": null,
+      "recurring": "Monday Nights",
+      "time": "5pm-10pm",
+      "description": "Free Fries and Happy Hour prices for all game tables!",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Longs Peak Pub",
       "location_tag": "Longmont",
       "venue_type_tags": [
         "Pub",
@@ -1645,10 +1542,114 @@
       ]
     },
     {
-      "id": "mountain_sun_pub_on_pearl_free_live_music_crick_wooder_friday_november_28th",
+      "id": "vine_street_pub_music_night_every_saturday",
+      "title": "Music Night",
+      "venue": "Vine Street Pub",
+      "location": "Denver",
+      "date": null,
+      "normalized_date": null,
+      "recurring": "Every Saturday",
+      "time": "8pm",
+      "description": "In collaboration with Stir Fry Sessions, a Denver based artist collective, we showcase local talent while offering a community space to dance and mingle.",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Vine Street Pub",
+      "location_tag": "Denver",
+      "venue_type_tags": [
+        "Music",
+        "Pub",
+        "Bar",
+        "Food & Drink"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "mountain_sun_pub_free_live_music_goodtime_funk_friday_november_7th",
+      "title": "Free Live Music: Goodtime Funk",
+      "venue": "Mountain Sun Pub",
+      "location": "Boulder",
+      "date": "Friday, November 7th",
+      "normalized_date": "2025-11-07T00:00:00",
+      "recurring": null,
+      "time": "9pm-Midnight",
+      "description": "NO COVER!",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Mountain Sun Pub",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Pub",
+        "Bar",
+        "Food & Drink"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "mountain_sun_pub_free_live_music_jason_brandt_the_build_out_friday_november_14th",
+      "title": "Free Live Music: Jason Brandt & the Build-Out",
+      "venue": "Mountain Sun Pub",
+      "location": "Boulder",
+      "date": "Friday, November 14th",
+      "normalized_date": "2025-11-14T00:00:00",
+      "recurring": null,
+      "time": "9pm-Midnight",
+      "description": "NO COVER!",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Mountain Sun Pub",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Pub",
+        "Bar",
+        "Food & Drink"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "mountain_sun_pub_free_live_music_brandy_wine_the_mighty_fines_friday_november_21st",
+      "title": "Free Live Music: Brandy Wine & The Mighty Fines",
+      "venue": "Mountain Sun Pub",
+      "location": "Boulder",
+      "date": "Friday, November 21st",
+      "normalized_date": "2025-11-21T00:00:00",
+      "recurring": null,
+      "time": "9pm-Midnight",
+      "description": "NO COVER!",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Mountain Sun Pub",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Pub",
+        "Bar",
+        "Food & Drink"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "mountain_sun_pub_free_live_music_crick_wooder_friday_november_28th",
       "title": "Free Live Music: Crick Wooder",
-      "venue": "Mountain Sun Pub on Pearl",
-      "location": "Longmont",
+      "venue": "Mountain Sun Pub",
+      "location": "Boulder",
       "date": "Friday, November 28th",
       "normalized_date": "2025-11-28T00:00:00",
       "recurring": null,
@@ -1658,12 +1659,12 @@
       "image": null,
       "source_url": "https://www.mountainsunpub.com/events/",
       "age_restriction": null,
-      "venue_tag": "Mountain Sun Pub on Pearl",
-      "location_tag": "Longmont",
+      "venue_tag": "Mountain Sun Pub",
+      "location_tag": "Boulder",
       "venue_type_tags": [
+        "Music",
         "Pub",
         "Bar",
-        "Games",
         "Food & Drink"
       ],
       "event_type_tags": [
@@ -2321,16 +2322,16 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_salads_sunbeams_nov286_00_pm18_00",
-      "title": "Salads & Sunbeams",
+      "id": "trident_booksellers_cafe_bethylovelight_justin_roots_nov296_00_pm18_00",
+      "title": "BethyLoveLight & Justin Roots",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
-      "date": "Nov286:00\u202fPM18:00",
+      "date": "Nov296:00\u202fPM18:00",
       "normalized_date": null,
       "recurring": null,
       "time": null,
-      "description": "Salads and Sunbeams is a psych-pop group based in Denver, Colorado. Salads\u2019 primary singer/songwriter, Nathan Brazil, started the band in 2014 as an outlet for the simplistic, poppy, retro songs that didn\u2019t quite fit with the bands he was involved in at the time. Members have come and gone, though Denver music fixture and Brazil\u2019s longtime collaborator, Suzi Allegra, has been involved with nearly everything the group has done.The first incarnation of the group released a self-titled EP in 2014 with little fanfare, though it was very good and captures the original, sloppy/poppy thrust of the group. Shortly thereafter, life intervened. The death of someone close to Brazil and a shared desire for change and growth scattered the group across the country and the world. After the shakeup, as the world slowly came back into focus, Brazil headed to the basement and recorded another Salads and Sunbeams album, Tintinnabulation, almost entirely on his own, though with notable additions from Allegra. This new album sprawled beyond simple pop to encompass ambient pieces, covers of Victorian comic-opera, the use of a professional string quartet, synthesizers, and general experimentation.Very proud of the album, Brazil released it digitally in early 2020, just in time for the Covid pandemic to eclipse and redefine its relevance.Returning to Denver in late 2021, Brazil reconnected with Suzi Allegra and the larger Denver music scene and restarted the group as a live project, writing and rehearsing new material in addition to previously unperformed material from Tintinnabulation.The new group made its debut at Down In Denver 2022 and continues to play shows in and around Denver. Their new full-length album, Into the Starless Night was released March, 18 2025.\u200bThe current lineup is: Nathan Brazil (guitar/keys/vocals), Suzi Allegra (bass/keys/vocals), Justin Drummond (drums), and Eric Thompson (guitar/keys)",
-      "link": "https://www.tridentcafe.com/events/2025/11/28/salads-amp-sunbeams",
+      "description": "BethyLoveLight is an intergalactic star-rockin' musician who loves to rock out for Truth, beauty, goodness and the One Love! Living as a multifaceted artist, she composes, records and co-produces all of her original audio creations.\u00a0 BethyLoveLight offers a stellar variety of music from angelic downtempo to hip-hop/reggae/rock.\u00a0\u00a0Singing with the utmost Light of Love, she intentionally catalyzes\u00a0ecstatic ascension through her sonic art.\u00a0 You can find her music on Spotify, Apple Music, SoundCloud, Bandcamp, FB, IG, TikTok and on her websitewww.bethylovelight.comJustin Roots, AKA Rootsie, plays a blend of roots, reggae, rock, folk, and funk. With a mix of songwriting, looping, and improvisation, Rootsie's sets are raw, authentic, and bring the good vibes.",
+      "link": "https://www.tridentcafe.com/events/2025/11/7/third-turn",
       "image": null,
       "source_url": "https://www.tridentcafe.com/events",
       "age_restriction": null,
@@ -2347,42 +2348,16 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_salads_sunbeams_nov286_00_pm18_00",
-      "title": "Salads & Sunbeams",
+      "id": "trident_booksellers_cafe_bethylovelight_justin_roots_nov296_00_pm18_00",
+      "title": "BethyLoveLight & Justin Roots",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
-      "date": "Nov286:00\u202fPM18:00",
+      "date": "Nov296:00\u202fPM18:00",
       "normalized_date": null,
       "recurring": null,
       "time": null,
-      "description": "Salads and Sunbeams is a psych-pop group based in Denver, Colorado. Salads\u2019 primary singer/songwriter, Nathan Brazil, started the band in 2014 as an outlet for the simplistic, poppy, retro songs that didn\u2019t quite fit with the bands he was involved in at the time. Members have come and gone, though Denver music fixture and Brazil\u2019s longtime collaborator, Suzi Allegra, has been involved with nearly everything the group has done.The first incarnation of the group released a self-titled EP in 2014 with little fanfare, though it was very good and captures the original, sloppy/poppy thrust of the group. Shortly thereafter, life intervened. The death of someone close to Brazil and a shared desire for change and growth scattered the group across the country and the world. After the shakeup, as the world slowly came back into focus, Brazil headed to the basement and recorded another Salads and Sunbeams album, Tintinnabulation, almost entirely on his own, though with notable additions from Allegra. This new album sprawled beyond simple pop to encompass ambient pieces, covers of Victorian comic-opera, the use of a professional string quartet, synthesizers, and general experimentation.Very proud of the album, Brazil released it digitally in early 2020, just in time for the Covid pandemic to eclipse and redefine its relevance.Returning to Denver in late 2021, Brazil reconnected with Suzi Allegra and the larger Denver music scene and restarted the group as a live project, writing and rehearsing new material in addition to previously unperformed material from Tintinnabulation.The new group made its debut at Down In Denver 2022 and continues to play shows in and around Denver. Their new full-length album, Into the Starless Night was released March, 18 2025.\u200bThe current lineup is: Nathan Brazil (guitar/keys/vocals), Suzi Allegra (bass/keys/vocals), Justin Drummond (drums), and Eric Thompson (guitar/keys)",
-      "link": "https://www.tridentcafe.com/events/2025/11/28/salads-amp-sunbeams",
-      "image": null,
-      "source_url": "https://www.tridentcafe.com/events",
-      "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
-      ],
-      "event_type_tags": [
-        "Books & Literary"
-      ]
-    },
-    {
-      "id": "trident_booksellers_cafe_salads_sunbeams_friday_november_28_2025",
-      "title": "Salads & Sunbeams",
-      "venue": "Trident Booksellers & Cafe",
-      "location": "Boulder",
-      "date": "Friday, November 28, 2025",
-      "normalized_date": "2025-11-28T00:00:00",
-      "recurring": null,
-      "time": null,
-      "description": "Salads and Sunbeams is a psych-pop group based in Denver, Colorado. Salads\u2019 primary singer/songwriter, Nathan Brazil, started the band in 2014 as an outlet for the simplistic, poppy, retro songs that didn\u2019t quite fit with the bands he was involved in at the time. Members have come and gone, though Denver music fixture and Brazil\u2019s longtime collaborator, Suzi Allegra, has been involved with nearly everything the group has done.The first incarnation of the group released a self-titled EP in 2014 with little fanfare, though it was very good and captures the original, sloppy/poppy thrust of the group. Shortly thereafter, life intervened. The death of someone close to Brazil and a shared desire for change and growth scattered the group across the country and the world. After the shakeup, as the world slowly came back into focus, Brazil headed to the basement and recorded another Salads and Sunbeams album, Tintinnabulation, almost entirely on his own, though with notable additions from Allegra. This new album sprawled beyond simple pop to encompass ambient pieces, covers of Victorian comic-opera, the use of a professional string quartet, synthesizers, and general experimentation.Very proud of the album, Brazil released it digitally in early 2020, just in time for the Covid pandemic to eclipse and redefine its relevance.Returning to Denver in late 2021, Brazil reconnected with Suzi Allegra and the larger Denver music scene and restarted the group as a live project, writing and rehearsing new material in addition to previously unperformed material from Tintinnabulation.The new group made its debut at Down In Denver 2022 and continues to play shows in and around Denver. Their new full-length album, Into the Starless Night was released March, 18 2025.\u200bThe current lineup is: Nathan Brazil (guitar/keys/vocals), Suzi Allegra (bass/keys/vocals), Justin Drummond (drums), and Eric Thompson (guitar/keys)",
-      "link": "https://www.tridentcafe.com/events/2025/11/28/salads-amp-sunbeams",
+      "description": "BethyLoveLight is an intergalactic star-rockin' musician who loves to rock out for Truth, beauty, goodness and the One Love! Living as a multifaceted artist, she composes, records and co-produces all of her original audio creations.\u00a0 BethyLoveLight offers a stellar variety of music from angelic downtempo to hip-hop/reggae/rock.\u00a0\u00a0Singing with the utmost Light of Love, she intentionally catalyzes\u00a0ecstatic ascension through her sonic art.\u00a0 You can find her music on Spotify, Apple Music, SoundCloud, Bandcamp, FB, IG, TikTok and on her websitewww.bethylovelight.comJustin Roots, AKA Rootsie, plays a blend of roots, reggae, rock, folk, and funk. With a mix of songwriting, looping, and improvisation, Rootsie's sets are raw, authentic, and bring the good vibes.",
+      "link": "https://www.tridentcafe.com/events/2025/11/7/third-turn",
       "image": null,
       "source_url": "https://www.tridentcafe.com/events",
       "age_restriction": null,
@@ -4193,16 +4168,42 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_language_exchange_night_nov247_00_pm19_00",
-      "title": "Language Exchange Night",
+      "id": "trident_booksellers_cafe_salads_sunbeams_nov286_00_pm18_00",
+      "title": "Salads & Sunbeams",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
-      "date": "Nov247:00\u202fPM19:00",
+      "date": "Nov286:00\u202fPM18:00",
       "normalized_date": null,
       "recurring": null,
       "time": null,
-      "description": "Free!Every Monday evening, 7-9p.m.All languages welcome. Facilitated by Kelvin Tavarez.",
-      "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-p95zc-n2als-t7axs-4fcl2",
+      "description": "Salads and Sunbeams is a psych-pop group based in Denver, Colorado. Salads\u2019 primary singer/songwriter, Nathan Brazil, started the band in 2014 as an outlet for the simplistic, poppy, retro songs that didn\u2019t quite fit with the bands he was involved in at the time. Members have come and gone, though Denver music fixture and Brazil\u2019s longtime collaborator, Suzi Allegra, has been involved with nearly everything the group has done.The first incarnation of the group released a self-titled EP in 2014 with little fanfare, though it was very good and captures the original, sloppy/poppy thrust of the group. Shortly thereafter, life intervened. The death of someone close to Brazil and a shared desire for change and growth scattered the group across the country and the world. After the shakeup, as the world slowly came back into focus, Brazil headed to the basement and recorded another Salads and Sunbeams album, Tintinnabulation, almost entirely on his own, though with notable additions from Allegra. This new album sprawled beyond simple pop to encompass ambient pieces, covers of Victorian comic-opera, the use of a professional string quartet, synthesizers, and general experimentation.Very proud of the album, Brazil released it digitally in early 2020, just in time for the Covid pandemic to eclipse and redefine its relevance.Returning to Denver in late 2021, Brazil reconnected with Suzi Allegra and the larger Denver music scene and restarted the group as a live project, writing and rehearsing new material in addition to previously unperformed material from Tintinnabulation.The new group made its debut at Down In Denver 2022 and continues to play shows in and around Denver. Their new full-length album, Into the Starless Night was released March, 18 2025.\u200bThe current lineup is: Nathan Brazil (guitar/keys/vocals), Suzi Allegra (bass/keys/vocals), Justin Drummond (drums), and Eric Thompson (guitar/keys)",
+      "link": "https://www.tridentcafe.com/events/2025/11/28/salads-amp-sunbeams",
+      "image": null,
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Books & Literary"
+      ]
+    },
+    {
+      "id": "trident_booksellers_cafe_salads_sunbeams_friday_november_28_2025",
+      "title": "Salads & Sunbeams",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "Friday, November 28, 2025",
+      "normalized_date": "2025-11-28T00:00:00",
+      "recurring": null,
+      "time": null,
+      "description": "Salads and Sunbeams is a psych-pop group based in Denver, Colorado. Salads\u2019 primary singer/songwriter, Nathan Brazil, started the band in 2014 as an outlet for the simplistic, poppy, retro songs that didn\u2019t quite fit with the bands he was involved in at the time. Members have come and gone, though Denver music fixture and Brazil\u2019s longtime collaborator, Suzi Allegra, has been involved with nearly everything the group has done.The first incarnation of the group released a self-titled EP in 2014 with little fanfare, though it was very good and captures the original, sloppy/poppy thrust of the group. Shortly thereafter, life intervened. The death of someone close to Brazil and a shared desire for change and growth scattered the group across the country and the world. After the shakeup, as the world slowly came back into focus, Brazil headed to the basement and recorded another Salads and Sunbeams album, Tintinnabulation, almost entirely on his own, though with notable additions from Allegra. This new album sprawled beyond simple pop to encompass ambient pieces, covers of Victorian comic-opera, the use of a professional string quartet, synthesizers, and general experimentation.Very proud of the album, Brazil released it digitally in early 2020, just in time for the Covid pandemic to eclipse and redefine its relevance.Returning to Denver in late 2021, Brazil reconnected with Suzi Allegra and the larger Denver music scene and restarted the group as a live project, writing and rehearsing new material in addition to previously unperformed material from Tintinnabulation.The new group made its debut at Down In Denver 2022 and continues to play shows in and around Denver. Their new full-length album, Into the Starless Night was released March, 18 2025.\u200bThe current lineup is: Nathan Brazil (guitar/keys/vocals), Suzi Allegra (bass/keys/vocals), Justin Drummond (drums), and Eric Thompson (guitar/keys)",
+      "link": "https://www.tridentcafe.com/events/2025/11/28/salads-amp-sunbeams",
       "image": null,
       "source_url": "https://www.tridentcafe.com/events",
       "age_restriction": null,
@@ -4973,29 +4974,29 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_jack_yoder_the_double_wide_disaster_saturday_october_25_2025",
-      "title": "Jack Yoder & The Double Wide Disaster",
-      "venue": "Trident Booksellers & Cafe",
+      "id": "license_no_1_the_underground_comedy_show_november_28_2025",
+      "title": "The Underground Comedy Show",
+      "venue": "License No 1",
       "location": "Boulder",
-      "date": "Saturday, October 25, 2025",
-      "normalized_date": "2025-10-25T00:00:00",
+      "date": "November 28, 2025",
+      "normalized_date": "2025-11-28T00:00:00",
       "recurring": null,
       "time": null,
-      "description": "Their sound will be familiar to you if you\u2019re a fan of Americana and Alt-Country (mixed with Honky-Tonk and a little bit of Cowpunk). Their sound will be familiar if you listen to bands like Whiskeytown and Drive-By Truckers. Raw and polished at the same time, with loud guitars, 3 part harmonies, and a passion for Songwriting, storytelling, and bringing all of that to the stage.Less than a year after their formation, Jack Yoder & the Doublewide Disaster have pulled off their first Midwest tour. 7 states, 11 shows, and 14 days on the road, honing in on their sound at every venue. You may have heard them recently, but you haven't heard them like this before.The shows that the Doublewide Disaster put on are described as a whole lot of fun.\u00a0 Fans see a band onstage having a great time performing, adding in storytelling and engaging with the crowd, who gets drawn into the moment. To the point where the crowd is singing the lyrics and participating in sing-alongs as loudly as they can. Think about how hard it is to get a group of people to sing along in a crowd participation chant. At a Doublewide show, they do it all the time. You\u2019ll hear and see a band that loves what they do, is engaging, and is grateful to be onstage every time.Built around Jack Yoder's Solo acoustic show and his years of touring throughout the country, Jack Yoder & the Doublewide Disaster bring that catalog to an all-new, higher level that\u2019s a must-see.",
-      "link": "https://www.tridentcafe.com/events/2025/8/19/jack-yoder-amp-the-double-wide-disaster",
+      "description": "",
+      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-5j687-6wwda-e4mpt-f3jwf-gwe7l",
       "image": null,
-      "source_url": "https://www.tridentcafe.com/events",
+      "source_url": "https://www.license1boulderado.com/calendar",
       "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
+      "venue_tag": "License No 1",
       "location_tag": "Boulder",
       "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
+        "Nightlife",
+        "Bar",
+        "21+",
+        "Music"
       ],
       "event_type_tags": [
-        "Books & Literary"
+        "Nightlife"
       ]
     },
     {
@@ -5006,8 +5007,8 @@
       "date": "November 28, 2025",
       "normalized_date": "2025-11-28T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
-      "description": "Join our email list to get the latest news from License No. 1,",
+      "time": null,
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/live-music-with-phoebe-nix-1-wkm45-87zdz",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -5032,8 +5033,8 @@
       "date": "November 29, 2025",
       "normalized_date": "2025-11-29T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
-      "description": "Join our email list to get the latest news from License No. 1,",
+      "time": null,
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-fd65x-2x4z6-pjfxj-ze78w-8lb93",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -5058,8 +5059,8 @@
       "date": "November 29, 2025",
       "normalized_date": "2025-11-29T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
-      "description": "Join our email list to get the latest news from License No. 1,",
+      "time": null,
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/live-music-with-superimposition-3-tzj3w-ragmp-n3wp5-bm6da-7238m-r3mpg-2tk4t-etj9j-x52nl-43zhr-rta6x-7xyzy-w592k-7rgwt-p2ga6-yg2m3-ybk7a-3fxsm-kg2b8-r54sk-5639t-fw4a8-t9cwn-rg6f3-m6fre",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -5084,8 +5085,8 @@
       "date": "November 29, 2025",
       "normalized_date": "2025-11-29T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
-      "description": "Join our email list to get the latest news from License No. 1,",
+      "time": null,
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/lj824kawfej4rbl-ygrxa-6afcr-95jfl-3dams",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -5110,7 +5111,7 @@
       "date": "December 03, 2025",
       "normalized_date": "2025-12-03T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
+      "time": null,
       "description": "George and the band play every Wednesday at License No.1 in the catacombs of the Boulderado Hotel. Come hear this legend play a unique mix of American music from the likes of Ray Charles and Louis Armstrong. It doesn't get more real than this.",
       "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-pfwhs",
       "image": null,
@@ -5136,8 +5137,8 @@
       "date": "December 04, 2025",
       "normalized_date": "2025-12-04T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
-      "description": "Join our email list to get the latest news from License No. 1,",
+      "time": null,
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-556r9-wknk6",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -5162,8 +5163,8 @@
       "date": "December 04, 2025",
       "normalized_date": "2025-12-04T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
-      "description": "Join our email list to get the latest news from License No. 1,",
+      "time": null,
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/live-music-with-superimposition-3-tzj3w-ragmp-n3wp5-bm6da-7238m-r3mpg-2tk4t-etj9j-x52nl-43zhr-rta6x-7xyzy-w592k-7rgwt-p2ga6-yg2m3-ybk7a-3fxsm-kg2b8-r54sk-5639t-stm8r-dskyt",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -5188,8 +5189,8 @@
       "date": "December 05, 2025",
       "normalized_date": "2025-12-05T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
-      "description": "Join our email list to get the latest news from License No. 1,",
+      "time": null,
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-5j687-6wwda-e4mpt-f3jwf-5z8jp",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -5214,8 +5215,8 @@
       "date": "December 05, 2025",
       "normalized_date": "2025-12-05T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
-      "description": "Join our email list to get the latest news from License No. 1,",
+      "time": null,
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/live-music-with-von-disco-1-5wyha-g5yg8-clwwl-r33ay-xc93y-yncmj-nfk8m-tnnnz-8bc5j-agb4t-35ac9-fp97e-at67x",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -5240,8 +5241,8 @@
       "date": "December 06, 2025",
       "normalized_date": "2025-12-06T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
-      "description": "Join our email list to get the latest news from License No. 1,",
+      "time": null,
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-fd65x-2x4z6-pjfxj-ze78w-dfzeh",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -5266,8 +5267,8 @@
       "date": "December 06, 2025",
       "normalized_date": "2025-12-06T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
-      "description": "Join our email list to get the latest news from License No. 1,",
+      "time": null,
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/live-music-with-superimposition-3-tzj3w-ragmp-n3wp5-bm6da-7238m-r3mpg-2tk4t-etj9j-x52nl-43zhr-rta6x-7xyzy-w592k-7rgwt-p2ga6-yg2m3-b23k7-9d9ln-47w3j-7f2be-a3ek8",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -5292,8 +5293,8 @@
       "date": "December 06, 2025",
       "normalized_date": "2025-12-06T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
-      "description": "Join our email list to get the latest news from License No. 1,",
+      "time": null,
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/lj824kawfej4rbl-ygrxa-6afcr-95jfl-a4ahs",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -5318,7 +5319,7 @@
       "date": "December 10, 2025",
       "normalized_date": "2025-12-10T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
+      "time": null,
       "description": "George and the band play every Wednesday at License No.1 in the catacombs of the Boulderado Hotel. Come hear this legend play a unique mix of American music from the likes of Ray Charles and Louis Armstrong. It doesn't get more real than this.",
       "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-ecp99",
       "image": null,
@@ -5344,8 +5345,8 @@
       "date": "December 11, 2025",
       "normalized_date": "2025-12-11T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
-      "description": "Join our email list to get the latest news from License No. 1,",
+      "time": null,
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-556r9-emndm",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -5370,8 +5371,8 @@
       "date": "December 11, 2025",
       "normalized_date": "2025-12-11T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
-      "description": "Join our email list to get the latest news from License No. 1,",
+      "time": null,
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/live-music-with-superimposition-3-tzj3w-ragmp-n3wp5-bm6da-7238m-r3mpg-2tk4t-etj9j-x52nl-43zhr-rta6x-7xyzy-w592k-7rgwt-p2ga6-yg2m3-ybk7a-3fxsm-kg2b8-r54sk-5639t-stm8r-xl2wt",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -5396,8 +5397,8 @@
       "date": "December 12, 2025",
       "normalized_date": "2025-12-12T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
-      "description": "Join our email list to get the latest news from License No. 1,",
+      "time": null,
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-5j687-6wwda-e4mpt-f3jwf-5bg69",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -5422,8 +5423,8 @@
       "date": "December 12, 2025",
       "normalized_date": "2025-12-12T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
-      "description": "Join our email list to get the latest news from License No. 1,",
+      "time": null,
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/live-music-with-lauren-joy-1-jpyyr-tt4w5-bl8gb-6w646-3e9j7-r6fjg-hcwc5-zxxa4-ptpll-fh4c2-st64t",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -5448,8 +5449,8 @@
       "date": "December 13, 2025",
       "normalized_date": "2025-12-13T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
-      "description": "Join our email list to get the latest news from License No. 1,",
+      "time": null,
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-fd65x-2x4z6-pjfxj-ze78w-5pprl",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -5474,8 +5475,8 @@
       "date": "December 13, 2025",
       "normalized_date": "2025-12-13T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
-      "description": "Join our email list to get the latest news from License No. 1,",
+      "time": null,
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/lj824kawfej4rbl-ygrxa-6afcr-95jfl-7zw38",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -5500,8 +5501,8 @@
       "date": "December 18, 2025",
       "normalized_date": "2025-12-18T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
-      "description": "Join our email list to get the latest news from License No. 1,",
+      "time": null,
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-556r9-26krb",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -5526,8 +5527,8 @@
       "date": "December 18, 2025",
       "normalized_date": "2025-12-18T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
-      "description": "Join our email list to get the latest news from License No. 1,",
+      "time": null,
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/live-music-with-superimposition-3-tzj3w-ragmp-n3wp5-bm6da-7238m-r3mpg-2tk4t-etj9j-x52nl-43zhr-rta6x-7xyzy-w592k-7rgwt-p2ga6-yg2m3-ybk7a-3fxsm-kg2b8-r54sk-5639t-stm8r-6brnm",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -5552,8 +5553,8 @@
       "date": "December 19, 2025",
       "normalized_date": "2025-12-19T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
-      "description": "Join our email list to get the latest news from License No. 1,",
+      "time": null,
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-5j687-6wwda-e4mpt-f3jwf-rcsgj",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -5578,8 +5579,8 @@
       "date": "December 20, 2025",
       "normalized_date": "2025-12-20T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
-      "description": "Join our email list to get the latest news from License No. 1,",
+      "time": null,
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-fd65x-2x4z6-pjfxj-ze78w-7n25y",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -5604,8 +5605,8 @@
       "date": "December 20, 2025",
       "normalized_date": "2025-12-20T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
-      "description": "Join our email list to get the latest news from License No. 1,",
+      "time": null,
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/live-music-with-the-rhythm-allstars",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -5630,8 +5631,8 @@
       "date": "December 20, 2025",
       "normalized_date": "2025-12-20T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
-      "description": "Join our email list to get the latest news from License No. 1,",
+      "time": null,
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/lj824kawfej4rbl-ygrxa-6afcr-95jfl-727ce",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -5656,7 +5657,7 @@
       "date": "December 24, 2025",
       "normalized_date": "2025-12-24T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
+      "time": null,
       "description": "George and the band play every Wednesday at License No.1 in the catacombs of the Boulderado Hotel. Come hear this legend play a unique mix of American music from the likes of Ray Charles and Louis Armstrong. It doesn't get more real than this.",
       "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-wddhd",
       "image": null,
@@ -5682,8 +5683,8 @@
       "date": "December 26, 2025",
       "normalized_date": "2025-12-26T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
-      "description": "Join our email list to get the latest news from License No. 1,",
+      "time": null,
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-5j687-6wwda-e4mpt-f3jwf-9d769",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -5708,8 +5709,8 @@
       "date": "December 26, 2025",
       "normalized_date": "2025-12-26T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
-      "description": "Join our email list to get the latest news from License No. 1,",
+      "time": null,
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/live-music-with-phoebe-nix-1-wkm45-c8ct8",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -5734,8 +5735,8 @@
       "date": "December 27, 2025",
       "normalized_date": "2025-12-27T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
-      "description": "Join our email list to get the latest news from License No. 1,",
+      "time": null,
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-fd65x-2x4z6-pjfxj-ze78w-ln5r2",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -5760,8 +5761,8 @@
       "date": "December 27, 2025",
       "normalized_date": "2025-12-27T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
-      "description": "Join our email list to get the latest news from License No. 1,",
+      "time": null,
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/live-music-with-superimposition-3-tzj3w-ragmp-n3wp5-bm6da-7238m-r3mpg-2tk4t-etj9j-x52nl-43zhr-rta6x-7xyzy-w592k-7rgwt-p2ga6-yg2m3-ybk7a-3fxsm-kg2b8-r54sk-5639t-fw4a8-t9cwn-rg6f3-n2jr4",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -5786,35 +5787,9 @@
       "date": "December 27, 2025",
       "normalized_date": "2025-12-27T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
-      "description": "Join our email list to get the latest news from License No. 1,",
+      "time": null,
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/lj824kawfej4rbl-ygrxa-6afcr-95jfl-dn4wm",
-      "image": null,
-      "source_url": "https://www.license1boulderado.com/calendar",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+",
-        "Music"
-      ],
-      "event_type_tags": [
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "license_no_1_the_underground_comedy_show_november_28_2025",
-      "title": "The Underground Comedy Show",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": "November 28, 2025",
-      "normalized_date": "2025-11-28T00:00:00",
-      "recurring": null,
-      "time": "12:00 AM",
-      "description": "Join our email list to get the latest news from License No. 1,",
-      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-5j687-6wwda-e4mpt-f3jwf-gwe7l",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
       "age_restriction": null,
@@ -5838,7 +5813,7 @@
       "date": "November 26, 2025",
       "normalized_date": "2025-11-26T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
+      "time": null,
       "description": "George and the band play every Wednesday at License No.1 in the catacombs of the Boulderado Hotel. Come hear this legend play a unique mix of American music from the likes of Ray Charles and Louis Armstrong. It doesn't get more real than this.",
       "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-zc9k8",
       "image": null,
@@ -5864,8 +5839,8 @@
       "date": "November 22, 2025",
       "normalized_date": "2025-11-22T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
-      "description": "Join our email list to get the latest news from License No. 1,",
+      "time": null,
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/lj824kawfej4rbl-ygrxa-6afcr-95jfl-spxzf",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -5890,8 +5865,8 @@
       "date": "November 22, 2025",
       "normalized_date": "2025-11-22T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
-      "description": "Join our email list to get the latest news from License No. 1,",
+      "time": null,
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-fd65x-2x4z6-pjfxj-ze78w-bdm98",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -5916,8 +5891,8 @@
       "date": "November 21, 2025",
       "normalized_date": "2025-11-21T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
-      "description": "Join our email list to get the latest news from License No. 1,",
+      "time": null,
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-5j687-6wwda-e4mpt-f3jwf-z3dx7",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -5942,8 +5917,8 @@
       "date": "November 20, 2025",
       "normalized_date": "2025-11-20T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
-      "description": "Join our email list to get the latest news from License No. 1,",
+      "time": null,
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/live-music-with-superimposition-3-tzj3w-ragmp-n3wp5-bm6da-7238m-r3mpg-2tk4t-etj9j-x52nl-43zhr-rta6x-7xyzy-w592k-7rgwt-p2ga6-yg2m3-ybk7a-3fxsm-kg2b8-r54sk-5639t-stm8r-yn47l",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -5968,8 +5943,8 @@
       "date": "November 20, 2025",
       "normalized_date": "2025-11-20T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
-      "description": "Join our email list to get the latest news from License No. 1,",
+      "time": null,
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-556r9-xnf68",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -5994,7 +5969,7 @@
       "date": "November 19, 2025",
       "normalized_date": "2025-11-19T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
+      "time": null,
       "description": "George and the band play every Wednesday at License No.1 in the catacombs of the Boulderado Hotel. Come hear this legend play a unique mix of American music from the likes of Ray Charles and Louis Armstrong. It doesn't get more real than this.",
       "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-mxp2g",
       "image": null,
@@ -6020,8 +5995,8 @@
       "date": "November 15, 2025",
       "normalized_date": "2025-11-15T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
-      "description": "Join our email list to get the latest news from License No. 1,",
+      "time": null,
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/lj824kawfej4rbl-ygrxa-6afcr-95jfl-975ch",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -6046,8 +6021,8 @@
       "date": "November 15, 2025",
       "normalized_date": "2025-11-15T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
-      "description": "Join our email list to get the latest news from License No. 1,",
+      "time": null,
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-fd65x-2x4z6-pjfxj-ze78w-n74tj",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -6072,8 +6047,8 @@
       "date": "November 14, 2025",
       "normalized_date": "2025-11-14T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
-      "description": "Join our email list to get the latest news from License No. 1,",
+      "time": null,
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/live-music-with-lauren-joy-1-jpyyr-tt4w5-bl8gb-6w646-3e9j7-r6fjg-hcwc5-zxxa4-ptpll-fh4c2-29d93",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -6098,8 +6073,8 @@
       "date": "November 14, 2025",
       "normalized_date": "2025-11-14T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
-      "description": "Join our email list to get the latest news from License No. 1,",
+      "time": null,
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-5j687-6wwda-e4mpt-f3jwf-tlkyc",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -6124,8 +6099,8 @@
       "date": "November 13, 2025",
       "normalized_date": "2025-11-13T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
-      "description": "Join our email list to get the latest news from License No. 1,",
+      "time": null,
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/live-music-with-superimposition-3-tzj3w-ragmp-n3wp5-bm6da-7238m-r3mpg-2tk4t-etj9j-x52nl-43zhr-rta6x-7xyzy-w592k-7rgwt-p2ga6-yg2m3-ybk7a-3fxsm-kg2b8-r54sk-5639t-stm8r-5zx3n",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -6150,8 +6125,8 @@
       "date": "November 13, 2025",
       "normalized_date": "2025-11-13T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
-      "description": "Join our email list to get the latest news from License No. 1,",
+      "time": null,
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-556r9-n4dwa",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -6176,7 +6151,7 @@
       "date": "November 12, 2025",
       "normalized_date": "2025-11-12T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
+      "time": null,
       "description": "George and the band play every Wednesday at License No.1 in the catacombs of the Boulderado Hotel. Come hear this legend play a unique mix of American music from the likes of Ray Charles and Louis Armstrong. It doesn't get more real than this.",
       "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-r546h",
       "image": null,
@@ -6202,8 +6177,8 @@
       "date": "November 08, 2025",
       "normalized_date": "2025-11-08T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
-      "description": "Join our email list to get the latest news from License No. 1,",
+      "time": null,
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/lj824kawfej4rbl-ygrxa-6afcr-95jfl-skeys",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -6228,8 +6203,8 @@
       "date": "November 08, 2025",
       "normalized_date": "2025-11-08T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
-      "description": "Join our email list to get the latest news from License No. 1,",
+      "time": null,
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-fd65x-2x4z6-pjfxj-ze78w-cfx5m",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -6254,8 +6229,8 @@
       "date": "November 07, 2025",
       "normalized_date": "2025-11-07T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
-      "description": "Join our email list to get the latest news from License No. 1,",
+      "time": null,
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/live-music-with-von-disco-1-5wyha-g5yg8-clwwl-r33ay-xc93y-yncmj-nfk8m-tnnnz-8bc5j-agb4t-35ac9-fp97e-e95lx",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -6280,8 +6255,8 @@
       "date": "November 07, 2025",
       "normalized_date": "2025-11-07T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
-      "description": "Join our email list to get the latest news from License No. 1,",
+      "time": null,
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-5j687-6wwda-e4mpt-f3jwf-w6zgg",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -6306,8 +6281,8 @@
       "date": "November 06, 2025",
       "normalized_date": "2025-11-06T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
-      "description": "Join our email list to get the latest news from License No. 1,",
+      "time": null,
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/live-music-with-superimposition-3-tzj3w-ragmp-n3wp5-bm6da-7238m-r3mpg-2tk4t-etj9j-x52nl-43zhr-rta6x-7xyzy-w592k-7rgwt-p2ga6-yg2m3-ybk7a-3fxsm-kg2b8-r54sk-5639t-stm8r-78ws7",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -6332,8 +6307,8 @@
       "date": "November 06, 2025",
       "normalized_date": "2025-11-06T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
-      "description": "Join our email list to get the latest news from License No. 1,",
+      "time": null,
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-556r9-pz7ad",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -6358,7 +6333,7 @@
       "date": "November 05, 2025",
       "normalized_date": "2025-11-05T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
+      "time": null,
       "description": "George and the band play every Wednesday at License No.1 in the catacombs of the Boulderado Hotel. Come hear this legend play a unique mix of American music from the likes of Ray Charles and Louis Armstrong. It doesn't get more real than this.",
       "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-62s74",
       "image": null,
@@ -6384,8 +6359,8 @@
       "date": "November 01, 2025",
       "normalized_date": "2025-11-01T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
-      "description": "Join our email list to get the latest news from License No. 1,",
+      "time": null,
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/lj824kawfej4rbl-ygrxa-6afcr-95jfl-x36k2",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -6410,8 +6385,8 @@
       "date": "November 01, 2025",
       "normalized_date": "2025-11-01T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
-      "description": "Join our email list to get the latest news from License No. 1,",
+      "time": null,
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/live-music-with-superimposition-3-tzj3w-ragmp-n3wp5-bm6da-7238m-r3mpg-2tk4t-etj9j-x52nl-43zhr-rta6x-7xyzy-w592k-7rgwt-p2ga6-yg2m3-b23k7-9d9ln-47w3j-7f2be-jnhyp",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -6436,8 +6411,8 @@
       "date": "November 01, 2025",
       "normalized_date": "2025-11-01T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
-      "description": "Join our email list to get the latest news from License No. 1,",
+      "time": null,
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-fd65x-2x4z6-pjfxj-ze78w-34ghp",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -6462,8 +6437,8 @@
       "date": "October 31, 2025",
       "normalized_date": "2025-10-31T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
-      "description": "Join our email list to get the latest news from License No. 1,",
+      "time": null,
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-5j687-6wwda-e4mpt-f3jwf-mgphs-b5ata",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -6488,8 +6463,8 @@
       "date": "October 30, 2025",
       "normalized_date": "2025-10-30T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
-      "description": "Join our email list to get the latest news from License No. 1,",
+      "time": null,
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/live-music-with-superimposition-3-tzj3w-ragmp-n3wp5-bm6da-7238m-r3mpg-2tk4t-etj9j-x52nl-43zhr-rta6x-7xyzy-w592k-7rgwt-p2ga6-yg2m3-ybk7a-3fxsm-kg2b8-r54sk-5639t-stm8r-kf7xz-66aym",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -6514,8 +6489,8 @@
       "date": "October 30, 2025",
       "normalized_date": "2025-10-30T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
-      "description": "Join our email list to get the latest news from License No. 1,",
+      "time": null,
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-556r9-kk7ny-m7nr2",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -6540,7 +6515,7 @@
       "date": "October 29, 2025",
       "normalized_date": "2025-10-29T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
+      "time": null,
       "description": "George and the band play every Wednesday at License No.1 in the catacombs of the Boulderado Hotel. Come hear this legend play a unique mix of American music from the likes of Ray Charles and Louis Armstrong. It doesn't get more real than this.",
       "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-jbzn4",
       "image": null,
@@ -6566,9 +6541,35 @@
       "date": "October 25, 2025",
       "normalized_date": "2025-10-25T00:00:00",
       "recurring": null,
-      "time": "12:00 AM",
-      "description": "Join our email list to get the latest news from License No. 1,",
+      "time": null,
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/lj824kawfej4rbl-ygrxa-6afcr-95jfl-3xtzr",
+      "image": null,
+      "source_url": "https://www.license1boulderado.com/calendar",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+",
+        "Music"
+      ],
+      "event_type_tags": [
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_live_music_with_blove_october_25_2025",
+      "title": "Live Music with Blove",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "October 25, 2025",
+      "normalized_date": "2025-10-25T00:00:00",
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "link": "https://www.license1boulderado.com/calendar/live-music-with-superimposition-3-tzj3w-ragmp-n3wp5-bm6da-7238m-r3mpg-2tk4t-etj9j-x52nl-43zhr-rta6x-7xyzy-w592k-7rgwt-p2ga6-yg2m3-ybk7a-3fxsm-kg2b8-r54sk-5639t-fw4a8-t9cwn-rg6f3-tljx6",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
       "age_restriction": null,
