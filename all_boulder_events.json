@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-29T20:26:39.142615",
+  "generated_at": "2025-11-29T20:41:13.967253",
   "total_events": 75,
   "tags": {
     "venues": [
@@ -202,8 +202,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "21+"
+        "21+",
+        "Performance"
       ]
     },
     {
@@ -230,9 +230,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "21+",
-        "Music"
+        "Music",
+        "Performance"
       ]
     },
     {
