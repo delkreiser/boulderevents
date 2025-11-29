@@ -1,0 +1,72 @@
+name: Update Boulder Events
+
+on:
+  schedule:
+    # Runs every day at 6 AM UTC (11 PM MST / Midnight MDT)
+    - cron: '0 6 * * *'
+  workflow_dispatch:  # Allows manual triggering from GitHub UI
+  push:
+    branches:
+      - main
+    paths:
+      - 'scrapers/**'  # Also run when scrapers are updated
+
+jobs:
+  scrape-and-update:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    
+    - name: Install dependencies
+      run: |
+        pip install playwright beautifulsoup4 requests
+        playwright install chromium
+        playwright install-deps chromium
+    
+    - name: Run all scrapers
+      run: |
+        echo "Running scrapers..."
+        python3 scrapers/velvet_elk.py || echo "Velvet Elk scraper failed"
+        python3 scrapers/junkyard_social_club.py || echo "Junkyard scraper failed"
+        python3 scrapers/mountain_sun_pub.py || echo "Mountain Sun scraper failed"
+        python3 scrapers/st_julien_entertainment.py || echo "St Julien scraper failed"
+        python3 scrapers/trident_cafe.py || echo "Trident scraper failed"
+        python3 scrapers/license_no1.py || echo "License No 1 scraper failed"
+    
+    - name: Fix date/time fields
+      run: |
+        echo "Fixing date/time parsing issues..."
+        python3 fix_dates.py || echo "Date fixing failed"
+    
+    - name: Clean and deduplicate events
+      run: |
+        echo "Removing duplicates and cleaning data..."
+        python3 clean_events.py || echo "Cleaning failed"
+    
+    - name: Aggregate events
+      run: |
+        echo "Aggregating events..."
+        python3 aggregate_events.py
+    
+    - name: Check for changes
+      id: check_changes
+      run: |
+        git diff --quiet all_boulder_events.json && echo "changed=false" >> $GITHUB_OUTPUT || echo "changed=true" >> $GITHUB_OUTPUT
+    
+    - name: Commit and push if changed
+      if: steps.check_changes.outputs.changed == 'true'
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add all_boulder_events.json *_events.json
+        git commit -m "🤖 Auto-update events - $(date +'%Y-%m-%d %H:%M')"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
