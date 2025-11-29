@@ -173,13 +173,18 @@ class EventAggregator:
                 # Get venue config (handle cases where event venue might be more specific)
                 venue_config = self.venue_configs.get(event_venue, config)
                 
+                # Normalize the date first
+                normalized_date = self.normalize_date(event)
+                
                 # Skip past events
-                if event.get('normalized_date'):
+                if normalized_date:
                     try:
-                        event_date = datetime.fromisoformat(event['normalized_date']).date()
+                        event_date = datetime.fromisoformat(normalized_date).date()
                         if event_date < today:
+                            print(f"  Skipping past event: {event.get('title', 'Unknown')} ({event.get('date')})")
                             continue  # Skip past events
-                    except:
+                    except Exception as e:
+                        print(f"  Error parsing date for {event.get('title')}: {e}")
                         pass  # If parsing fails, include the event anyway
                 
                 # Create enriched event
@@ -189,7 +194,7 @@ class EventAggregator:
                     'venue': event_venue,
                     'location': venue_config['location'],
                     'date': event.get('date'),
-                    'normalized_date': self.normalize_date(event),
+                    'normalized_date': normalized_date,
                     'recurring': event.get('recurring'),
                     'time': event.get('time'),
                     'description': event.get('description', ''),

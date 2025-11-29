@@ -136,36 +136,41 @@ def parse_license_event_page(html, url):
             try:
                 dt = datetime.fromisoformat(datetime_attr.replace('Z', '+00:00'))
                 event['date'] = dt.strftime('%B %d, %Y')
-                # Only set time if it's not midnight (actual event time, not default)
+                # Only set time from datetime if it's not midnight
                 if not (dt.hour == 0 and dt.minute == 0):
                     event['time'] = dt.strftime('%I:%M %p').lstrip('0')
             except:
-                # Fallback to text content
-                time_text = time_elem.get_text(strip=True)
-                if time_text:
-                    # Try to separate date and time
-                    date_match = re.search(r'(January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2},?\s+\d{4}', time_text, re.I)
-                    if date_match:
-                        event['date'] = date_match.group(0)
-                    
-                    time_match = re.search(r'\d{1,2}:\d{2}\s*(?:AM|PM|am|pm)', time_text, re.I)
-                    if time_match:
-                        event['time'] = time_match.group(0)
+                pass
+        
+        # Always check text content for time (datetime might be midnight but text has actual time)
+        time_text = time_elem.get_text(strip=True)
+        if time_text and not event.get('time'):
+            time_match = re.search(r'\d{1,2}:\d{2}\s*(?:AM|PM|am|pm)', time_text, re.I)
+            if time_match:
+                event['time'] = time_match.group(0)
     
     # 2. Look for date/time in class names
-    if not event.get('date'):
-        date_time_elem = soup.find(class_=re.compile(r'date|time|when', re.I))
+    if not event.get('date') or not event.get('time'):
+        date_time_elem = soup.find(class_=re.compile(r'date|time|when|schedule', re.I))
         if date_time_elem:
             text = date_time_elem.get_text(strip=True)
             
-            date_match = re.search(r'(January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2},?\s+\d{4}', text, re.I)
-            if date_match:
-                event['date'] = date_match.group(0)
+            if not event.get('date'):
+                date_match = re.search(r'(January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2},?\s+\d{4}', text, re.I)
+                if date_match:
+                    event['date'] = date_match.group(0)
             
             if not event.get('time'):
                 time_match = re.search(r'\d{1,2}:\d{2}\s*(?:AM|PM|am|pm)', text, re.I)
                 if time_match:
                     event['time'] = time_match.group(0)
+    
+    # 3. Search all text on page for time as last resort
+    if not event.get('time'):
+        page_text = soup.get_text()
+        time_match = re.search(r'\d{1,2}:\d{2}\s*(?:AM|PM|am|pm)', page_text, re.I)
+        if time_match:
+            event['time'] = time_match.group(0)
     
     # Description
     desc_elem = soup.find(class_=re.compile(r'description|content|excerpt', re.I))

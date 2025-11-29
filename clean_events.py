@@ -10,21 +10,31 @@ import json
 def deduplicate_recurring_events(events):
     """Remove duplicate recurring events - keep only one instance"""
     
-    seen_recurring = set()
+    seen_events = {}
     cleaned_events = []
     
     for event in events:
-        # If it's a recurring event, check if we've seen it before
-        if event.get('recurring'):
-            # Create a unique key from venue + title + recurring pattern
-            key = f"{event.get('venue')}|{event.get('title')}|{event.get('recurring')}"
-            
-            if key in seen_recurring:
-                continue  # Skip duplicate
-            
-            seen_recurring.add(key)
+        # Create a unique key from venue + title
+        # This will catch duplicates even if they don't have a "recurring" field
+        key = f"{event.get('venue')}|{event.get('title')}"
         
-        cleaned_events.append(event)
+        if key in seen_events:
+            # This is a duplicate
+            # Keep the one with more information (has description, date, etc.)
+            existing = seen_events[key]
+            
+            # Prefer the event with a description
+            if event.get('description') and not existing.get('description'):
+                seen_events[key] = event
+                continue
+            
+            # Otherwise skip this duplicate
+            continue
+        
+        seen_events[key] = event
+    
+    # Convert back to list
+    cleaned_events = list(seen_events.values())
     
     return cleaned_events
 
