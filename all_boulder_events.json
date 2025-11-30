@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T20:58:21.348478",
-  "total_events": 75,
+  "generated_at": "2025-11-30T06:22:30.488808",
+  "total_events": 73,
   "tags": {
     "venues": [
       "Junkyard Social Club",
@@ -55,32 +55,6 @@
       "location": "Boulder",
       "date": "Nov 24",
       "normalized_date": null,
-      "recurring": null,
-      "time": null,
-      "description": "",
-      "link": null,
-      "image": null,
-      "source_url": "https://www.velvetelklounge.com/events/",
-      "age_restriction": null,
-      "venue_tag": "Velvet Elk Lounge",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Music",
-        "Live Music",
-        "Bar",
-        "Nightlife"
-      ],
-      "event_type_tags": [
-        "Music"
-      ]
-    },
-    {
-      "id": "velvet_elk_lounge_steve_knight_band_november_29th",
-      "title": "Steve Knight Band",
-      "venue": "Velvet Elk Lounge",
-      "location": "Boulder",
-      "date": "November 29th",
-      "normalized_date": "2025-11-29T00:00:00",
       "recurring": null,
       "time": null,
       "description": "",
@@ -230,9 +204,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "21+",
-        "Performance"
+        "Performance",
+        "Music"
       ]
     },
     {
@@ -1806,32 +1780,6 @@
       ],
       "event_type_tags": [
         "Books & Literary"
-      ]
-    },
-    {
-      "id": "license_no_1_live_music_with_blove_november_29_2025",
-      "title": "Live Music with Blove",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": "November 29, 2025",
-      "normalized_date": "2025-11-29T00:00:00",
-      "recurring": null,
-      "time": "59:00\u202fPM",
-      "description": "",
-      "link": "https://www.license1boulderado.com/calendar/live-music-with-superimposition-3-tzj3w-ragmp-n3wp5-bm6da-7238m-r3mpg-2tk4t-etj9j-x52nl-43zhr-rta6x-7xyzy-w592k-7rgwt-p2ga6-yg2m3-ybk7a-3fxsm-kg2b8-r54sk-5639t-fw4a8-t9cwn-rg6f3-m6fre",
-      "image": null,
-      "source_url": "https://www.license1boulderado.com/calendar",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+",
-        "Music"
-      ],
-      "event_type_tags": [
-        "Nightlife"
       ]
     },
     {
