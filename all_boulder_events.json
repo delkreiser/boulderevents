@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T06:24:00.612171",
-  "total_events": 70,
+  "generated_at": "2025-12-04T06:23:42.027973",
+  "total_events": 69,
   "tags": {
     "venues": [
       "Junkyard Social Club",
@@ -734,7 +734,7 @@
       "normalized_date": null,
       "recurring": null,
       "time": "9:00 pm-11:30 pm",
-      "description": "Celebrate New Year\u2019s Eve in Roaring 20s elegance at St Julien with live entertainment, a premium bar, tray-passed bites and champagne toast! New Year\u2019s Eve: A Roaring 20s Celebration Step into the Roaring 20s for a glamorous New Year\u2019s Eve at St Julien Hotel & Spa. Celebrate the night in style with live entertainment by [\u2026]",
+      "description": "Celebrate New Year\u2019s Eve in Roaring 20s elegance at St Julien with live entertainment, a premium bar, tray-passed bites and champagne toast! New Year\u2019s Eve: A Roaring 20s Celebration Step [\u2026]",
       "link": "https://stjulien.com/event/roaring-20s-new-years-eve-party-tickets-required/",
       "image": null,
       "source_url": "https://stjulien.com/boulder-colorado-events/category/entertainment-events/",
@@ -751,38 +751,12 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_trident_poet_series_reed_bye_and_mike_parker_dec26_30_pm18_30",
-      "title": "Trident Poet Series: Reed Bye and Mike Parker",
-      "venue": "Trident Booksellers & Cafe",
-      "location": "Boulder",
-      "date": "Dec26:30\u202fPM18:30",
-      "normalized_date": null,
-      "recurring": null,
-      "time": null,
-      "description": "Reed Bye\u2019s most recent poetry collections includeEarth\u2019s Hollow Breathing; Morning Rites;andAddled Smoke Material:Collaborative Poemswith Jack Collom 1972-2017. He has new album of original songs,Down Here. He is Professor Emeritus at Naropa University where he served on the core faculty of the Jack Kerouac School, teaching poetry writing workshops and courses in classic and contemporary literary studies and contemplative poetics.\u201cThe mind may move faster than the hand can write but Reed Bye\u2019s poems capture the dictates of thought as processed by the conspiratorial and wandering eye, all the light and shadow of the natural world, the peripheral glimpses of people and places where few poets ever go. Lucid, abstract, impulsive, beyond the pale\u2014Fire for Thoughtis both a summing up and a starting over\u2014'what seems to be necessary,' and something much more.\u201d\u2014Lewis WarshMike Parker was born in the brass mill town of Waterbury Connecticut in 1944. D'Spare Press published three collections of his poetry: Don't Fall Off the Mountain, Wallflower Sutra, and Walking on Water in a Razorblade Breeze, and he has three live poetry CDs. He sang in the band Ballistic Kisses, recording two albums on Beggars Banquet Records, Total Access and Wet Moments. He served two terms of Artist in Residence for the Ward Public Library and was the recipient of the Neodata Literary Fellowship from the Boulder County Arts Alliance. He lives with his wife the poet Mary Johnston Parker and daughter Frannie in the town of Ward Colorado on the edge of the Indian Peaks Wilderness.",
-      "link": "https://www.tridentcafe.com/events/2025/12/2/trident-poet-series-reed-bye-and-mike-parker",
-      "image": null,
-      "source_url": "https://www.tridentcafe.com/events",
-      "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
-      ],
-      "event_type_tags": [
-        "Books & Literary"
-      ]
-    },
-    {
-      "id": "trident_booksellers_cafe_boulder_old_time_jam_thursday_december_4_2025",
+      "id": "trident_booksellers_cafe_boulder_old_time_jam_dec46_00_pm18_00",
       "title": "Boulder Old-Time Jam",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
-      "date": "Thursday, December 4, 2025",
-      "normalized_date": "2025-12-04T00:00:00",
+      "date": "Dec46:00\u202fPM18:00",
+      "normalized_date": null,
       "recurring": null,
       "time": null,
       "description": "Bring an acoustic instrument and sit in with Boulder Old-Time Jam! Every first Thursday on the Trident Patio, starting at 6 p.m.",
@@ -1123,7 +1097,7 @@
       "normalized_date": "2025-12-19T00:00:00",
       "recurring": null,
       "time": null,
-      "description": "Share",
+      "description": "Jackson Cloud is a new alternative artist out of Boulder Colorado. His newest releases \"Twisted Faces\" (album) \"I Love You Sometimes\" and \"Let On\" (singles) are produced entirely by Cloud. \"Twisted Faces\" offer's a wide range of genres from synth heavy electronic tracks, melancholic melodies with touching lyrics, to smooth heavy metal with exciting and explosive guitar solos. Cloud's new single \"I Love You Sometimes\", an oasis of familiar retro \u2014 floating beats and vocals recalling 70\u2019s-80\u2019s morsels set in a current rock \u2014 pop milieu, a song that one writer noted has \u201cone of the most provocative song titles in forever. \u2014 Cloud's vocals coursing from Pink Floyd to Jeff Buckley in a breath.\u201d Young Cloud manages all the instruments on the tracks but now has a four piece band backing him with James Davis on bass, Chris Sprunt on guitar, and Frank Giampietro\u00a0on drums.www.jackson-cloud.com",
       "link": "https://www.tridentcafe.com/events/2025/12/19/jackson-cloud",
       "image": null,
       "source_url": "https://www.tridentcafe.com/events",
@@ -1609,6 +1583,32 @@
       ]
     },
     {
+      "id": "trident_booksellers_cafe_trident_poet_series_reed_bye_and_mike_parker_dec26_30_pm18_30",
+      "title": "Trident Poet Series: Reed Bye and Mike Parker",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "Dec26:30\u202fPM18:30",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Reed Bye\u2019s most recent poetry collections includeEarth\u2019s Hollow Breathing; Morning Rites;andAddled Smoke Material:Collaborative Poemswith Jack Collom 1972-2017. He has new album of original songs,Down Here. He is Professor Emeritus at Naropa University where he served on the core faculty of the Jack Kerouac School, teaching poetry writing workshops and courses in classic and contemporary literary studies and contemplative poetics.\u201cThe mind may move faster than the hand can write but Reed Bye\u2019s poems capture the dictates of thought as processed by the conspiratorial and wandering eye, all the light and shadow of the natural world, the peripheral glimpses of people and places where few poets ever go. Lucid, abstract, impulsive, beyond the pale\u2014Fire for Thoughtis both a summing up and a starting over\u2014'what seems to be necessary,' and something much more.\u201d\u2014Lewis WarshMike Parker was born in the brass mill town of Waterbury Connecticut in 1944. D'Spare Press published three collections of his poetry: Don't Fall Off the Mountain, Wallflower Sutra, and Walking on Water in a Razorblade Breeze, and he has three live poetry CDs. He sang in the band Ballistic Kisses, recording two albums on Beggars Banquet Records, Total Access and Wet Moments. He served two terms of Artist in Residence for the Ward Public Library and was the recipient of the Neodata Literary Fellowship from the Boulder County Arts Alliance. He lives with his wife the poet Mary Johnston Parker and daughter Frannie in the town of Ward Colorado on the edge of the Indian Peaks Wilderness.",
+      "link": "https://www.tridentcafe.com/events/2025/12/2/trident-poet-series-reed-bye-and-mike-parker",
+      "image": null,
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Books & Literary"
+      ]
+    },
+    {
       "id": "trident_booksellers_cafe_bethylovelight_is_an_intergalactic_star_rockin_musician_who_loves_to_rock_out_for_truth_beauty_goodness_and_the_one_love_living_as_a_multifaceted_artist_she_composes_records_and_co_produces_all_of_her_original_audio_creations_bethylovelight_offers_a_stellar_variety_of_music_from_angelic_downtempo_to_hip_hop_reggae_rock_singing_with_the_utmost_light_of_love_she_intentionally_catalyzes_ecstatic_ascension_through_her_sonic_art_you_can_find_her_music_on_spotify_apple_music_soundcloud_bandcamp_fb_ig_tiktok_and_on_her_websitewww_bethylovelight_com_recurring",
       "title": "BethyLoveLight is an intergalactic star-rockin' musician who loves to rock out for Truth, beauty, goodness and the One Love! Living as a multifaceted artist, she composes, records and co-produces all of her original audio creations.\u00a0 BethyLoveLight offers a stellar variety of music from angelic downtempo to hip-hop/reggae/rock.\u00a0\u00a0Singing with the utmost Light of Love, she intentionally catalyzes\u00a0ecstatic ascension through her sonic art.\u00a0 You can find her music on Spotify, Apple Music, SoundCloud, Bandcamp, FB, IG, TikTok and on her websitewww.bethylovelight.com",
       "venue": "Trident Booksellers & Cafe",
@@ -1632,32 +1632,6 @@
       ],
       "event_type_tags": [
         "Books & Literary"
-      ]
-    },
-    {
-      "id": "license_no_1_live_music_with_george_nelson_band_december_03_2025",
-      "title": "Live Music with George Nelson Band",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": "December 03, 2025",
-      "normalized_date": "2025-12-03T00:00:00",
-      "recurring": null,
-      "time": "58:00\u202fPM",
-      "description": "George and the band play every Wednesday at License No.1 in the catacombs of the Boulderado Hotel. Come hear this legend play a unique mix of American music from the likes of Ray Charles and Louis Armstrong. It doesn't get more real than this.",
-      "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-pfwhs",
-      "image": null,
-      "source_url": "https://www.license1boulderado.com/calendar",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+",
-        "Music"
-      ],
-      "event_type_tags": [
-        "Nightlife"
       ]
     },
     {
