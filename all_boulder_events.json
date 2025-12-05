@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-04T06:23:42.027973",
-  "total_events": 69,
+  "generated_at": "2025-12-05T06:23:56.291487",
+  "total_events": 67,
   "tags": {
     "venues": [
       "Junkyard Social Club",
@@ -55,32 +55,6 @@
       "location": "Boulder",
       "date": "Nov 24",
       "normalized_date": null,
-      "recurring": null,
-      "time": null,
-      "description": "",
-      "link": null,
-      "image": null,
-      "source_url": "https://www.velvetelklounge.com/events/",
-      "age_restriction": null,
-      "venue_tag": "Velvet Elk Lounge",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Music",
-        "Live Music",
-        "Bar",
-        "Nightlife"
-      ],
-      "event_type_tags": [
-        "Music"
-      ]
-    },
-    {
-      "id": "velvet_elk_lounge_second_annual_ugly_er_sweater_party_december_4th",
-      "title": "Second Annual Ugly-er Sweater Party",
-      "venue": "Velvet Elk Lounge",
-      "location": "Boulder",
-      "date": "December 4th",
-      "normalized_date": "2025-12-04T00:00:00",
       "recurring": null,
       "time": null,
       "description": "",
@@ -204,9 +178,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
+        "21+",
         "Performance",
-        "21+"
+        "Music"
       ]
     },
     {
@@ -726,15 +700,15 @@
       ]
     },
     {
-      "id": "st_julien_hotel_spa_roaring_20_s_new_year_s_eve_party_tickets_required_none",
+      "id": "st_julien_hotel_spa_roaring_20_s_new_year_s_eve_party_tickets_required_december_31_2025_9_00_pm_january_1_2026_1_00_am",
       "title": "Roaring 20's New Year's Eve Party- Tickets Required",
       "venue": "St Julien Hotel & Spa",
       "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
+      "date": "December 31, 2025 @ 9:00 pm-January 1, 2026 @ 1:00 am",
+      "normalized_date": "2025-12-31T00:00:00",
       "recurring": null,
-      "time": "9:00 pm-11:30 pm",
-      "description": "Celebrate New Year\u2019s Eve in Roaring 20s elegance at St Julien with live entertainment, a premium bar, tray-passed bites and champagne toast! New Year\u2019s Eve: A Roaring 20s Celebration Step [\u2026]",
+      "time": null,
+      "description": "Celebrate New Year\u2019s Eve in Roaring 20s elegance at St Julien with live entertainment, a premium bar, tray-passed bites and champagne toast! New Year\u2019s Eve: A Roaring 20s Celebration Step into the Roaring 20s for a glamorous New Year\u2019s Eve at St Julien Hotel & Spa. Celebrate the night in style with live entertainment by [\u2026]",
       "link": "https://stjulien.com/event/roaring-20s-new-years-eve-party-tickets-required/",
       "image": null,
       "source_url": "https://stjulien.com/boulder-colorado-events/category/entertainment-events/",
@@ -1635,58 +1609,6 @@
       ]
     },
     {
-      "id": "license_no_1_the_underground_comedy_show_december_04_2025",
-      "title": "The Underground Comedy Show",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": "December 04, 2025",
-      "normalized_date": "2025-12-04T00:00:00",
-      "recurring": null,
-      "time": "58:00\u202fPM",
-      "description": "",
-      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-556r9-wknk6",
-      "image": null,
-      "source_url": "https://www.license1boulderado.com/calendar",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+",
-        "Music"
-      ],
-      "event_type_tags": [
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "license_no_1_live_music_with_hunter_stone_and_friends_december_04_2025",
-      "title": "Live Music with Hunter Stone and Friends",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": "December 04, 2025",
-      "normalized_date": "2025-12-04T00:00:00",
-      "recurring": null,
-      "time": "59:00\u202fPM",
-      "description": "",
-      "link": "https://www.license1boulderado.com/calendar/live-music-with-superimposition-3-tzj3w-ragmp-n3wp5-bm6da-7238m-r3mpg-2tk4t-etj9j-x52nl-43zhr-rta6x-7xyzy-w592k-7rgwt-p2ga6-yg2m3-ybk7a-3fxsm-kg2b8-r54sk-5639t-stm8r-dskyt",
-      "image": null,
-      "source_url": "https://www.license1boulderado.com/calendar",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+",
-        "Music"
-      ],
-      "event_type_tags": [
-        "Nightlife"
-      ]
-    },
-    {
       "id": "license_no_1_live_music_with_von_disco_december_05_2025",
       "title": "Live Music with Von Disco",
       "venue": "License No 1",
@@ -1723,6 +1645,32 @@
       "time": "59:00\u202fPM",
       "description": "",
       "link": "https://www.license1boulderado.com/calendar/live-music-with-superimposition-3-tzj3w-ragmp-n3wp5-bm6da-7238m-r3mpg-2tk4t-etj9j-x52nl-43zhr-rta6x-7xyzy-w592k-7rgwt-p2ga6-yg2m3-b23k7-9d9ln-47w3j-7f2be-a3ek8",
+      "image": null,
+      "source_url": "https://www.license1boulderado.com/calendar",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+",
+        "Music"
+      ],
+      "event_type_tags": [
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_live_music_with_george_nelson_band_december_10_2025",
+      "title": "Live Music with George Nelson Band",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "December 10, 2025",
+      "normalized_date": "2025-12-10T00:00:00",
+      "recurring": null,
+      "time": "58:00\u202fPM",
+      "description": "George and the band play every Wednesday at License No.1 in the catacombs of the Boulderado Hotel. Come hear this legend play a unique mix of American music from the likes of Ray Charles and Louis Armstrong. It doesn't get more real than this.",
+      "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-ecp99",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
       "age_restriction": null,
