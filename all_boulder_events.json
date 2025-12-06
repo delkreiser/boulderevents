@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T06:23:56.291487",
-  "total_events": 67,
+  "generated_at": "2025-12-06T06:21:23.171898",
+  "total_events": 72,
   "tags": {
     "venues": [
       "Junkyard Social Club",
@@ -150,8 +150,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "21+"
+        "21+",
+        "Performance"
       ]
     },
     {
@@ -178,9 +178,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Music",
         "21+",
-        "Performance",
-        "Music"
+        "Performance"
       ]
     },
     {
@@ -597,6 +597,31 @@
       ],
       "event_type_tags": [
         "Music"
+      ]
+    },
+    {
+      "id": "st_julien_hotel_spa_nancy_maclean_live_jazz_none",
+      "title": "Nancy MacLean Live jazz",
+      "venue": "St Julien Hotel & Spa",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": "6:00 pm-9:00 pm",
+      "description": null,
+      "link": "https://stjulien.com/series/nancy-maclean/",
+      "image": null,
+      "source_url": "https://stjulien.com/boulder-colorado-events/category/entertainment-events/",
+      "age_restriction": null,
+      "venue_tag": "St Julien Hotel & Spa",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Entertainment",
+        "Hotel",
+        "Upscale"
+      ],
+      "event_type_tags": [
+        "Entertainment"
       ]
     },
     {
@@ -700,6 +725,81 @@
       ]
     },
     {
+      "id": "st_julien_hotel_spa_wren_none",
+      "title": "Wren",
+      "venue": "St Julien Hotel & Spa",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": "6:00 pm-9:00 pm",
+      "description": null,
+      "link": "https://stjulien.com/series/wren-van/",
+      "image": null,
+      "source_url": "https://stjulien.com/boulder-colorado-events/category/entertainment-events/",
+      "age_restriction": null,
+      "venue_tag": "St Julien Hotel & Spa",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Entertainment",
+        "Hotel",
+        "Upscale"
+      ],
+      "event_type_tags": [
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "st_julien_hotel_spa_grown_a_man_band_none",
+      "title": "Grown A** Man Band",
+      "venue": "St Julien Hotel & Spa",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": "6:00 pm-9:00 pm",
+      "description": null,
+      "link": "https://stjulien.com/series/grown-a-man-band/",
+      "image": null,
+      "source_url": "https://stjulien.com/boulder-colorado-events/category/entertainment-events/",
+      "age_restriction": null,
+      "venue_tag": "St Julien Hotel & Spa",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Entertainment",
+        "Hotel",
+        "Upscale"
+      ],
+      "event_type_tags": [
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "st_julien_hotel_spa_nice_work_jazz_quartet_none",
+      "title": "Nice Work Jazz Quartet",
+      "venue": "St Julien Hotel & Spa",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": "6:00 pm-9:00 pm",
+      "description": null,
+      "link": "https://stjulien.com/series/nice-work-jazz-quartet/",
+      "image": null,
+      "source_url": "https://stjulien.com/boulder-colorado-events/category/entertainment-events/",
+      "age_restriction": null,
+      "venue_tag": "St Julien Hotel & Spa",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Entertainment",
+        "Hotel",
+        "Upscale"
+      ],
+      "event_type_tags": [
+        "Entertainment"
+      ]
+    },
+    {
       "id": "st_julien_hotel_spa_roaring_20_s_new_year_s_eve_party_tickets_required_december_31_2025_9_00_pm_january_1_2026_1_00_am",
       "title": "Roaring 20's New Year's Eve Party- Tickets Required",
       "venue": "St Julien Hotel & Spa",
@@ -725,38 +825,37 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_boulder_old_time_jam_dec46_00_pm18_00",
-      "title": "Boulder Old-Time Jam",
-      "venue": "Trident Booksellers & Cafe",
+      "id": "st_julien_hotel_spa_elivin_pianist_none",
+      "title": "Elivin Pianist",
+      "venue": "St Julien Hotel & Spa",
       "location": "Boulder",
-      "date": "Dec46:00\u202fPM18:00",
+      "date": null,
       "normalized_date": null,
       "recurring": null,
-      "time": null,
-      "description": "Bring an acoustic instrument and sit in with Boulder Old-Time Jam! Every first Thursday on the Trident Patio, starting at 6 p.m.",
-      "link": "https://www.tridentcafe.com/events/2022/12/8/boulder-old-time-jam-a64x2-aw5n6-sa228-pyc6f-je84d-hgpe2-ckm9k-dddm2-dpm37-pm79k-n36jh-zsm5r-2bazp-4ftff-4ahc9-l7she-a7lex-s5sxa-wmanr-z6myr-y4pf6",
+      "time": "6:00 pm-9:00 pm",
+      "description": null,
+      "link": "https://stjulien.com/event/elivin-pianist/",
       "image": null,
-      "source_url": "https://www.tridentcafe.com/events",
+      "source_url": "https://stjulien.com/boulder-colorado-events/category/entertainment-events/",
       "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
+      "venue_tag": "St Julien Hotel & Spa",
       "location_tag": "Boulder",
       "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
+        "Entertainment",
+        "Hotel",
+        "Upscale"
       ],
       "event_type_tags": [
-        "Books & Literary"
+        "Entertainment"
       ]
     },
     {
-      "id": "trident_booksellers_cafe_jeremy_mohney_band_friday_december_5_2025",
+      "id": "trident_booksellers_cafe_jeremy_mohney_band_dec56_00_pm18_00",
       "title": "Jeremy Mohney Band",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
-      "date": "Friday, December 5, 2025",
-      "normalized_date": "2025-12-05T00:00:00",
+      "date": "Dec56:00\u202fPM18:00",
+      "normalized_date": null,
       "recurring": null,
       "time": null,
       "description": "For over a decade, Jeremy Mohney has led one of Colorado\u2019s most popular Swing Bands. His Spirited renditions of Jazz classics as well as original compositions in the swing style give him a unique and authentic dimension. Whether playing for a jam-packed ballroom for dancers, or playing for lovers of music in an intimate club, Mohney has the charm to capture the attention of any audience.",
@@ -1557,16 +1656,16 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_trident_poet_series_reed_bye_and_mike_parker_dec26_30_pm18_30",
-      "title": "Trident Poet Series: Reed Bye and Mike Parker",
+      "id": "trident_booksellers_cafe_boulder_old_time_jam_dec46_00_pm18_00",
+      "title": "Boulder Old-Time Jam",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
-      "date": "Dec26:30\u202fPM18:30",
+      "date": "Dec46:00\u202fPM18:00",
       "normalized_date": null,
       "recurring": null,
       "time": null,
-      "description": "Reed Bye\u2019s most recent poetry collections includeEarth\u2019s Hollow Breathing; Morning Rites;andAddled Smoke Material:Collaborative Poemswith Jack Collom 1972-2017. He has new album of original songs,Down Here. He is Professor Emeritus at Naropa University where he served on the core faculty of the Jack Kerouac School, teaching poetry writing workshops and courses in classic and contemporary literary studies and contemplative poetics.\u201cThe mind may move faster than the hand can write but Reed Bye\u2019s poems capture the dictates of thought as processed by the conspiratorial and wandering eye, all the light and shadow of the natural world, the peripheral glimpses of people and places where few poets ever go. Lucid, abstract, impulsive, beyond the pale\u2014Fire for Thoughtis both a summing up and a starting over\u2014'what seems to be necessary,' and something much more.\u201d\u2014Lewis WarshMike Parker was born in the brass mill town of Waterbury Connecticut in 1944. D'Spare Press published three collections of his poetry: Don't Fall Off the Mountain, Wallflower Sutra, and Walking on Water in a Razorblade Breeze, and he has three live poetry CDs. He sang in the band Ballistic Kisses, recording two albums on Beggars Banquet Records, Total Access and Wet Moments. He served two terms of Artist in Residence for the Ward Public Library and was the recipient of the Neodata Literary Fellowship from the Boulder County Arts Alliance. He lives with his wife the poet Mary Johnston Parker and daughter Frannie in the town of Ward Colorado on the edge of the Indian Peaks Wilderness.",
-      "link": "https://www.tridentcafe.com/events/2025/12/2/trident-poet-series-reed-bye-and-mike-parker",
+      "description": "Bring an acoustic instrument and sit in with Boulder Old-Time Jam! Every first Thursday on the Trident Patio, starting at 6 p.m.",
+      "link": "https://www.tridentcafe.com/events/2022/12/8/boulder-old-time-jam-a64x2-aw5n6-sa228-pyc6f-je84d-hgpe2-ckm9k-dddm2-dpm37-pm79k-n36jh-zsm5r-2bazp-4ftff-4ahc9-l7she-a7lex-s5sxa-wmanr-z6myr-y4pf6",
       "image": null,
       "source_url": "https://www.tridentcafe.com/events",
       "age_restriction": null,
@@ -1609,32 +1708,6 @@
       ]
     },
     {
-      "id": "license_no_1_live_music_with_von_disco_december_05_2025",
-      "title": "Live Music with Von Disco",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": "December 05, 2025",
-      "normalized_date": "2025-12-05T00:00:00",
-      "recurring": null,
-      "time": "59:00\u202fPM",
-      "description": "",
-      "link": "https://www.license1boulderado.com/calendar/live-music-with-von-disco-1-5wyha-g5yg8-clwwl-r33ay-xc93y-yncmj-nfk8m-tnnnz-8bc5j-agb4t-35ac9-fp97e-at67x",
-      "image": null,
-      "source_url": "https://www.license1boulderado.com/calendar",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+",
-        "Music"
-      ],
-      "event_type_tags": [
-        "Nightlife"
-      ]
-    },
-    {
       "id": "license_no_1_live_music_with_voo_doo_lily_december_06_2025",
       "title": "Live Music with Voo Doo Lily",
       "venue": "License No 1",
@@ -1671,6 +1744,32 @@
       "time": "58:00\u202fPM",
       "description": "George and the band play every Wednesday at License No.1 in the catacombs of the Boulderado Hotel. Come hear this legend play a unique mix of American music from the likes of Ray Charles and Louis Armstrong. It doesn't get more real than this.",
       "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-ecp99",
+      "image": null,
+      "source_url": "https://www.license1boulderado.com/calendar",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+",
+        "Music"
+      ],
+      "event_type_tags": [
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_live_music_with_hunter_stone_and_friends_december_11_2025",
+      "title": "Live Music with Hunter Stone and Friends",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "December 11, 2025",
+      "normalized_date": "2025-12-11T00:00:00",
+      "recurring": null,
+      "time": "59:00\u202fPM",
+      "description": "",
+      "link": "https://www.license1boulderado.com/calendar/live-music-with-superimposition-3-tzj3w-ragmp-n3wp5-bm6da-7238m-r3mpg-2tk4t-etj9j-x52nl-43zhr-rta6x-7xyzy-w592k-7rgwt-p2ga6-yg2m3-ybk7a-3fxsm-kg2b8-r54sk-5639t-stm8r-xl2wt",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
       "age_restriction": null,
@@ -1775,6 +1874,32 @@
       "time": "59:00\u202fPM",
       "description": "",
       "link": "https://www.license1boulderado.com/calendar/live-music-with-superimposition-3-tzj3w-ragmp-n3wp5-bm6da-7238m-r3mpg-2tk4t-etj9j-x52nl-43zhr-rta6x-7xyzy-w592k-7rgwt-p2ga6-yg2m3-ybk7a-3fxsm-kg2b8-r54sk-5639t-fw4a8-t9cwn-rg6f3-n2jr4",
+      "image": null,
+      "source_url": "https://www.license1boulderado.com/calendar",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+",
+        "Music"
+      ],
+      "event_type_tags": [
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_503_service_unavailable_recurring",
+      "title": "503 Service Unavailable",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-r546h?format=ical",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
       "age_restriction": null,
