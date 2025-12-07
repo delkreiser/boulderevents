@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T18:06:24.626781",
-  "total_events": 84,
+  "generated_at": "2025-12-07T18:35:08.284229",
+  "total_events": 88,
   "tags": {
     "venues": [
       "Junkyard Social Club",
@@ -236,8 +236,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
         "All Ages",
+        "Family Friendly",
         "Community"
       ]
     },
@@ -293,11 +293,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Family Friendly",
+        "Community",
         "All Ages",
+        "Family Friendly",
         "Music",
-        "Community"
+        "Performance"
       ]
     },
     {
@@ -324,8 +324,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "21+",
+        "Music",
         "Performance"
       ]
     },
@@ -353,8 +353,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
-        "All Ages"
+        "All Ages",
+        "Family Friendly"
       ]
     },
     {
@@ -411,8 +411,8 @@
       "event_type_tags": [
         "Music",
         "Educational",
-        "Community",
-        "Performance"
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -439,8 +439,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
         "All Ages",
+        "Family Friendly",
         "Music",
         "Community"
       ]
@@ -469,8 +469,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
         "All Ages",
+        "Family Friendly",
         "Music",
         "Performance"
       ]
@@ -528,10 +528,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "21+",
-        "Community",
-        "Performance"
+        "Music",
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -558,10 +558,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "21+",
-        "Community",
-        "Performance"
+        "Music",
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -590,8 +590,8 @@
       "event_type_tags": [
         "All Ages",
         "Music",
-        "Community",
-        "Performance"
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -619,8 +619,8 @@
       ],
       "event_type_tags": [
         "Music",
-        "Community",
-        "Performance"
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -648,34 +648,8 @@
       ],
       "event_type_tags": [
         "Music",
-        "Community",
-        "Performance"
-      ]
-    },
-    {
-      "id": "southern_sun_pub_the_bluegrass_pick_every_thursday",
-      "title": "The BLUEGRASS PICK",
-      "venue": "Southern Sun Pub",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": "Every Thursday",
-      "time": "7:30 - 9:30 pm",
-      "description": "Hosted by Max Kabat of Bowregard. Never a cover, always a good time!",
-      "link": null,
-      "image": null,
-      "source_url": "https://www.mountainsunpub.com/events/",
-      "age_restriction": null,
-      "venue_tag": "Southern Sun Pub",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Music",
-        "Pub",
-        "Bar",
-        "Food & Drink"
-      ],
-      "event_type_tags": [
-        "Music"
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -686,9 +660,9 @@
       "date": null,
       "normalized_date": null,
       "recurring": "Every Monday",
-      "time": "5-9 pm",
-      "description": "Join us for an intentional listening experience. Share your favorite tunes and discover new music while enjoying house-made beer and snacks. Bring in a record from your collection and in exchange, we will play it for the pub and give you a free beer.",
-      "link": null,
+      "time": "5:00 PM - 9:00 PM",
+      "description": "Join us every Monday for an intentional listening experience. Share your favorite tunes and discover new music while enjoying house-made beer and snacks. Bring in a record from your collection and in exchange, we will play it for the pub and give you a free beer to sip on while you sit back and listen.",
+      "link": "https://www.mountainsunpub.com/events/",
       "image": null,
       "source_url": "https://www.mountainsunpub.com/events/",
       "age_restriction": null,
@@ -700,21 +674,43 @@
         "Bar",
         "Food & Drink"
       ],
-      "event_type_tags": [
-        "Music"
-      ]
+      "event_type_tags": []
     },
     {
-      "id": "longs_peak_pub_game_night_monday_nights",
+      "id": "vine_street_pub_music_night_every_saturday",
+      "title": "Music Night",
+      "venue": "Vine Street Pub",
+      "location": "Denver",
+      "date": null,
+      "normalized_date": null,
+      "recurring": "Every Saturday",
+      "time": "8:00 PM",
+      "description": "In collaboration with Stir Fry Sessions, a Denver based artist collective, we showcase local talent while offering a community space to dance and mingle.",
+      "link": "https://www.mountainsunpub.com/events/",
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Vine Street Pub",
+      "location_tag": "Denver",
+      "venue_type_tags": [
+        "Music",
+        "Pub",
+        "Bar",
+        "Food & Drink"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "longs_peak_pub_game_night_every_monday",
       "title": "Game Night",
       "venue": "Longs Peak Pub",
       "location": "Longmont",
       "date": null,
       "normalized_date": null,
-      "recurring": "Monday Nights",
-      "time": "5pm-10pm",
-      "description": "Free Fries and Happy Hour prices for all game tables!",
-      "link": null,
+      "recurring": "Every Monday",
+      "time": "5:00 PM - 10:00 PM",
+      "description": "Monday Nights from 5pm-10pm. Free Fries and Happy Hour prices for all game tables!",
+      "link": "https://www.mountainsunpub.com/events/",
       "image": null,
       "source_url": "https://www.mountainsunpub.com/events/",
       "age_restriction": null,
@@ -726,47 +722,19 @@
         "Games",
         "Food & Drink"
       ],
-      "event_type_tags": [
-        "Music"
-      ]
-    },
-    {
-      "id": "vine_street_pub_music_night_every_saturday",
-      "title": "Music Night",
-      "venue": "Vine Street Pub",
-      "location": "Denver",
-      "date": null,
-      "normalized_date": null,
-      "recurring": "Every Saturday",
-      "time": "8pm",
-      "description": "In collaboration with Stir Fry Sessions, a Denver based artist collective, we showcase local talent while offering a community space to dance and mingle.",
-      "link": null,
-      "image": null,
-      "source_url": "https://www.mountainsunpub.com/events/",
-      "age_restriction": null,
-      "venue_tag": "Vine Street Pub",
-      "location_tag": "Denver",
-      "venue_type_tags": [
-        "Music",
-        "Pub",
-        "Bar",
-        "Food & Drink"
-      ],
-      "event_type_tags": [
-        "Music"
-      ]
+      "event_type_tags": []
     },
     {
       "id": "southern_sun_pub_the_bluegrass_pick_every_thursday",
-      "title": "The BLUEGRASS PICK",
+      "title": "The Bluegrass Pick",
       "venue": "Southern Sun Pub",
       "location": "Boulder",
       "date": null,
       "normalized_date": null,
       "recurring": "Every Thursday",
-      "time": "7:30 - 9:30 pm",
-      "description": "Hosted by Max Kabat of Bowregard. Never a cover, always a good time!",
-      "link": null,
+      "time": "7:30 PM - 9:30 PM",
+      "description": "The Bluegrass Pick is back, hosted by Max Kabat of Bowregard! Join us every Thursday from 7:30pm \u2013 9:30pm for free live music, toe-tappin' energy, and the cozy pub vibe you already love.",
+      "link": "https://www.mountainsunpub.com/events/",
       "image": null,
       "source_url": "https://www.mountainsunpub.com/events/",
       "age_restriction": null,
@@ -778,47 +746,19 @@
         "Bar",
         "Food & Drink"
       ],
-      "event_type_tags": [
-        "Music"
-      ]
+      "event_type_tags": []
     },
     {
-      "id": "vine_street_pub_vinyl_night_every_monday",
-      "title": "Vinyl Night",
-      "venue": "Vine Street Pub",
-      "location": "Denver",
-      "date": null,
-      "normalized_date": null,
-      "recurring": "Every Monday",
-      "time": "5-9 pm",
-      "description": "Join us for an intentional listening experience. Share your favorite tunes and discover new music while enjoying house-made beer and snacks. Bring in a record from your collection and in exchange, we will play it for the pub and give you a free beer.",
-      "link": null,
-      "image": null,
-      "source_url": "https://www.mountainsunpub.com/events/",
-      "age_restriction": null,
-      "venue_tag": "Vine Street Pub",
-      "location_tag": "Denver",
-      "venue_type_tags": [
-        "Music",
-        "Pub",
-        "Bar",
-        "Food & Drink"
-      ],
-      "event_type_tags": [
-        "Music"
-      ]
-    },
-    {
-      "id": "longs_peak_pub_game_night_monday_nights",
-      "title": "Game Night",
+      "id": "longs_peak_pub_xmas_espectacular_12_23_2025",
+      "title": "XMAS Espectacular!",
       "venue": "Longs Peak Pub",
       "location": "Longmont",
-      "date": null,
-      "normalized_date": null,
-      "recurring": "Monday Nights",
-      "time": "5pm-10pm",
-      "description": "Free Fries and Happy Hour prices for all game tables!",
-      "link": null,
+      "date": "12/23/2025",
+      "normalized_date": "2025-12-23T00:00:00",
+      "recurring": null,
+      "time": "6:00 pm - 9:00 pm",
+      "description": "The Desert Furs \"XMAS Espectacular!\"  Longs Peak Pub, Saturday, 12/23/25, 6:00 pm - 9:00 pm",
+      "link": "https://www.mountainsunpub.com/events/",
       "image": null,
       "source_url": "https://www.mountainsunpub.com/events/",
       "age_restriction": null,
@@ -830,21 +770,19 @@
         "Games",
         "Food & Drink"
       ],
-      "event_type_tags": [
-        "Music"
-      ]
+      "event_type_tags": []
     },
     {
-      "id": "vine_street_pub_music_night_every_saturday",
-      "title": "Music Night",
+      "id": "vine_street_pub_vinyl_night_every_monday",
+      "title": "Vinyl Night",
       "venue": "Vine Street Pub",
       "location": "Denver",
       "date": null,
       "normalized_date": null,
-      "recurring": "Every Saturday",
-      "time": "8pm",
-      "description": "In collaboration with Stir Fry Sessions, a Denver based artist collective, we showcase local talent while offering a community space to dance and mingle.",
-      "link": null,
+      "recurring": "Every Monday",
+      "time": "5:00 PM - 9:00 PM",
+      "description": "Join us every Monday for an intentional listening experience. Share your favorite tunes and discover new music while enjoying house-made beer and snacks. Bring in a record from your collection and in exchange, we will play it for the pub and give you a free beer to sip on while you sit back and listen.",
+      "link": "https://www.mountainsunpub.com/events/",
       "image": null,
       "source_url": "https://www.mountainsunpub.com/events/",
       "age_restriction": null,
@@ -856,21 +794,67 @@
         "Bar",
         "Food & Drink"
       ],
-      "event_type_tags": [
-        "Music"
-      ]
+      "event_type_tags": []
+    },
+    {
+      "id": "vine_street_pub_music_night_every_saturday",
+      "title": "Music Night",
+      "venue": "Vine Street Pub",
+      "location": "Denver",
+      "date": null,
+      "normalized_date": null,
+      "recurring": "Every Saturday",
+      "time": "8:00 PM",
+      "description": "In collaboration with Stir Fry Sessions, a Denver based artist collective, we showcase local talent while offering a community space to dance and mingle.",
+      "link": "https://www.mountainsunpub.com/events/",
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Vine Street Pub",
+      "location_tag": "Denver",
+      "venue_type_tags": [
+        "Music",
+        "Pub",
+        "Bar",
+        "Food & Drink"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "longs_peak_pub_game_night_every_monday",
+      "title": "Game Night",
+      "venue": "Longs Peak Pub",
+      "location": "Longmont",
+      "date": null,
+      "normalized_date": null,
+      "recurring": "Every Monday",
+      "time": "5:00 PM - 10:00 PM",
+      "description": "Monday Nights from 5pm-10pm. Free Fries and Happy Hour prices for all game tables!",
+      "link": "https://www.mountainsunpub.com/events/",
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Longs Peak Pub",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Pub",
+        "Bar",
+        "Games",
+        "Food & Drink"
+      ],
+      "event_type_tags": []
     },
     {
       "id": "southern_sun_pub_the_bluegrass_pick_every_thursday",
-      "title": "The BLUEGRASS PICK",
+      "title": "The Bluegrass Pick",
       "venue": "Southern Sun Pub",
       "location": "Boulder",
       "date": null,
       "normalized_date": null,
       "recurring": "Every Thursday",
-      "time": "7:30 - 9:30 pm",
-      "description": "Hosted by Max Kabat of Bowregard. Never a cover, always a good time!",
-      "link": null,
+      "time": "7:30 PM - 9:30 PM",
+      "description": "The Bluegrass Pick is back, hosted by Max Kabat of Bowregard! Join us every Thursday from 7:30pm \u2013 9:30pm for free live music, toe-tappin' energy, and the cozy pub vibe you already love.",
+      "link": "https://www.mountainsunpub.com/events/",
       "image": null,
       "source_url": "https://www.mountainsunpub.com/events/",
       "age_restriction": null,
@@ -882,47 +866,19 @@
         "Bar",
         "Food & Drink"
       ],
-      "event_type_tags": [
-        "Music"
-      ]
+      "event_type_tags": []
     },
     {
-      "id": "vine_street_pub_vinyl_night_every_monday",
-      "title": "Vinyl Night",
-      "venue": "Vine Street Pub",
-      "location": "Denver",
-      "date": null,
-      "normalized_date": null,
-      "recurring": "Every Monday",
-      "time": "5-9 pm",
-      "description": "Join us for an intentional listening experience. Share your favorite tunes and discover new music while enjoying house-made beer and snacks. Bring in a record from your collection and in exchange, we will play it for the pub and give you a free beer.",
-      "link": null,
-      "image": null,
-      "source_url": "https://www.mountainsunpub.com/events/",
-      "age_restriction": null,
-      "venue_tag": "Vine Street Pub",
-      "location_tag": "Denver",
-      "venue_type_tags": [
-        "Music",
-        "Pub",
-        "Bar",
-        "Food & Drink"
-      ],
-      "event_type_tags": [
-        "Music"
-      ]
-    },
-    {
-      "id": "longs_peak_pub_game_night_monday_nights",
-      "title": "Game Night",
+      "id": "longs_peak_pub_xmas_espectacular_12_23_2025",
+      "title": "XMAS Espectacular!",
       "venue": "Longs Peak Pub",
       "location": "Longmont",
-      "date": null,
-      "normalized_date": null,
-      "recurring": "Monday Nights",
-      "time": "5pm-10pm",
-      "description": "Free Fries and Happy Hour prices for all game tables!",
-      "link": null,
+      "date": "12/23/2025",
+      "normalized_date": "2025-12-23T00:00:00",
+      "recurring": null,
+      "time": "6:00 pm - 9:00 pm",
+      "description": "The Desert Furs \"XMAS Espectacular!\"  Longs Peak Pub, Saturday, 12/23/25, 6:00 pm - 9:00 pm",
+      "link": "https://www.mountainsunpub.com/events/",
       "image": null,
       "source_url": "https://www.mountainsunpub.com/events/",
       "age_restriction": null,
@@ -934,21 +890,19 @@
         "Games",
         "Food & Drink"
       ],
-      "event_type_tags": [
-        "Music"
-      ]
+      "event_type_tags": []
     },
     {
-      "id": "vine_street_pub_music_night_every_saturday",
-      "title": "Music Night",
+      "id": "vine_street_pub_vinyl_night_every_monday",
+      "title": "Vinyl Night",
       "venue": "Vine Street Pub",
       "location": "Denver",
       "date": null,
       "normalized_date": null,
-      "recurring": "Every Saturday",
-      "time": "8pm",
-      "description": "In collaboration with Stir Fry Sessions, a Denver based artist collective, we showcase local talent while offering a community space to dance and mingle.",
-      "link": null,
+      "recurring": "Every Monday",
+      "time": "5:00 PM - 9:00 PM",
+      "description": "Join us every Monday for an intentional listening experience. Share your favorite tunes and discover new music while enjoying house-made beer and snacks. Bring in a record from your collection and in exchange, we will play it for the pub and give you a free beer to sip on while you sit back and listen.",
+      "link": "https://www.mountainsunpub.com/events/",
       "image": null,
       "source_url": "https://www.mountainsunpub.com/events/",
       "age_restriction": null,
@@ -960,21 +914,67 @@
         "Bar",
         "Food & Drink"
       ],
-      "event_type_tags": [
-        "Music"
-      ]
+      "event_type_tags": []
+    },
+    {
+      "id": "vine_street_pub_music_night_every_saturday",
+      "title": "Music Night",
+      "venue": "Vine Street Pub",
+      "location": "Denver",
+      "date": null,
+      "normalized_date": null,
+      "recurring": "Every Saturday",
+      "time": "8:00 PM",
+      "description": "In collaboration with Stir Fry Sessions, a Denver based artist collective, we showcase local talent while offering a community space to dance and mingle.",
+      "link": "https://www.mountainsunpub.com/events/",
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Vine Street Pub",
+      "location_tag": "Denver",
+      "venue_type_tags": [
+        "Music",
+        "Pub",
+        "Bar",
+        "Food & Drink"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "longs_peak_pub_game_night_every_monday",
+      "title": "Game Night",
+      "venue": "Longs Peak Pub",
+      "location": "Longmont",
+      "date": null,
+      "normalized_date": null,
+      "recurring": "Every Monday",
+      "time": "5:00 PM - 10:00 PM",
+      "description": "Monday Nights from 5pm-10pm. Free Fries and Happy Hour prices for all game tables!",
+      "link": "https://www.mountainsunpub.com/events/",
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Longs Peak Pub",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Pub",
+        "Bar",
+        "Games",
+        "Food & Drink"
+      ],
+      "event_type_tags": []
     },
     {
       "id": "southern_sun_pub_the_bluegrass_pick_every_thursday",
-      "title": "The BLUEGRASS PICK",
+      "title": "The Bluegrass Pick",
       "venue": "Southern Sun Pub",
       "location": "Boulder",
       "date": null,
       "normalized_date": null,
       "recurring": "Every Thursday",
-      "time": "7:30 - 9:30 pm",
-      "description": "Hosted by Max Kabat of Bowregard. Never a cover, always a good time!",
-      "link": null,
+      "time": "7:30 PM - 9:30 PM",
+      "description": "The Bluegrass Pick is back, hosted by Max Kabat of Bowregard! Join us every Thursday from 7:30pm \u2013 9:30pm for free live music, toe-tappin' energy, and the cozy pub vibe you already love.",
+      "link": "https://www.mountainsunpub.com/events/",
       "image": null,
       "source_url": "https://www.mountainsunpub.com/events/",
       "age_restriction": null,
@@ -986,47 +986,19 @@
         "Bar",
         "Food & Drink"
       ],
-      "event_type_tags": [
-        "Music"
-      ]
+      "event_type_tags": []
     },
     {
-      "id": "vine_street_pub_vinyl_night_every_monday",
-      "title": "Vinyl Night",
-      "venue": "Vine Street Pub",
-      "location": "Denver",
-      "date": null,
-      "normalized_date": null,
-      "recurring": "Every Monday",
-      "time": "5-9 pm",
-      "description": "Join us for an intentional listening experience. Share your favorite tunes and discover new music while enjoying house-made beer and snacks. Bring in a record from your collection and in exchange, we will play it for the pub and give you a free beer.",
-      "link": null,
-      "image": null,
-      "source_url": "https://www.mountainsunpub.com/events/",
-      "age_restriction": null,
-      "venue_tag": "Vine Street Pub",
-      "location_tag": "Denver",
-      "venue_type_tags": [
-        "Music",
-        "Pub",
-        "Bar",
-        "Food & Drink"
-      ],
-      "event_type_tags": [
-        "Music"
-      ]
-    },
-    {
-      "id": "longs_peak_pub_game_night_monday_nights",
-      "title": "Game Night",
+      "id": "longs_peak_pub_xmas_espectacular_12_23_2025",
+      "title": "XMAS Espectacular!",
       "venue": "Longs Peak Pub",
       "location": "Longmont",
-      "date": null,
-      "normalized_date": null,
-      "recurring": "Monday Nights",
-      "time": "5pm-10pm",
-      "description": "Free Fries and Happy Hour prices for all game tables!",
-      "link": null,
+      "date": "12/23/2025",
+      "normalized_date": "2025-12-23T00:00:00",
+      "recurring": null,
+      "time": "6:00 pm - 9:00 pm",
+      "description": "The Desert Furs \"XMAS Espectacular!\"  Longs Peak Pub, Saturday, 12/23/25, 6:00 pm - 9:00 pm",
+      "link": "https://www.mountainsunpub.com/events/",
       "image": null,
       "source_url": "https://www.mountainsunpub.com/events/",
       "age_restriction": null,
@@ -1038,21 +1010,19 @@
         "Games",
         "Food & Drink"
       ],
-      "event_type_tags": [
-        "Music"
-      ]
+      "event_type_tags": []
     },
     {
-      "id": "vine_street_pub_music_night_every_saturday",
-      "title": "Music Night",
+      "id": "vine_street_pub_vinyl_night_every_monday",
+      "title": "Vinyl Night",
       "venue": "Vine Street Pub",
       "location": "Denver",
       "date": null,
       "normalized_date": null,
-      "recurring": "Every Saturday",
-      "time": "8pm",
-      "description": "In collaboration with Stir Fry Sessions, a Denver based artist collective, we showcase local talent while offering a community space to dance and mingle.",
-      "link": null,
+      "recurring": "Every Monday",
+      "time": "5:00 PM - 9:00 PM",
+      "description": "Join us every Monday for an intentional listening experience. Share your favorite tunes and discover new music while enjoying house-made beer and snacks. Bring in a record from your collection and in exchange, we will play it for the pub and give you a free beer to sip on while you sit back and listen.",
+      "link": "https://www.mountainsunpub.com/events/",
       "image": null,
       "source_url": "https://www.mountainsunpub.com/events/",
       "age_restriction": null,
@@ -1064,9 +1034,103 @@
         "Bar",
         "Food & Drink"
       ],
-      "event_type_tags": [
-        "Music"
-      ]
+      "event_type_tags": []
+    },
+    {
+      "id": "vine_street_pub_music_night_every_saturday",
+      "title": "Music Night",
+      "venue": "Vine Street Pub",
+      "location": "Denver",
+      "date": null,
+      "normalized_date": null,
+      "recurring": "Every Saturday",
+      "time": "8:00 PM",
+      "description": "In collaboration with Stir Fry Sessions, a Denver based artist collective, we showcase local talent while offering a community space to dance and mingle.",
+      "link": "https://www.mountainsunpub.com/events/",
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Vine Street Pub",
+      "location_tag": "Denver",
+      "venue_type_tags": [
+        "Music",
+        "Pub",
+        "Bar",
+        "Food & Drink"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "longs_peak_pub_game_night_every_monday",
+      "title": "Game Night",
+      "venue": "Longs Peak Pub",
+      "location": "Longmont",
+      "date": null,
+      "normalized_date": null,
+      "recurring": "Every Monday",
+      "time": "5:00 PM - 10:00 PM",
+      "description": "Monday Nights from 5pm-10pm. Free Fries and Happy Hour prices for all game tables!",
+      "link": "https://www.mountainsunpub.com/events/",
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Longs Peak Pub",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Pub",
+        "Bar",
+        "Games",
+        "Food & Drink"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "southern_sun_pub_the_bluegrass_pick_every_thursday",
+      "title": "The Bluegrass Pick",
+      "venue": "Southern Sun Pub",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": "Every Thursday",
+      "time": "7:30 PM - 9:30 PM",
+      "description": "The Bluegrass Pick is back, hosted by Max Kabat of Bowregard! Join us every Thursday from 7:30pm \u2013 9:30pm for free live music, toe-tappin' energy, and the cozy pub vibe you already love.",
+      "link": "https://www.mountainsunpub.com/events/",
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Southern Sun Pub",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Pub",
+        "Bar",
+        "Food & Drink"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "longs_peak_pub_xmas_espectacular_12_23_2025",
+      "title": "XMAS Espectacular!",
+      "venue": "Longs Peak Pub",
+      "location": "Longmont",
+      "date": "12/23/2025",
+      "normalized_date": "2025-12-23T00:00:00",
+      "recurring": null,
+      "time": "6:00 pm - 9:00 pm",
+      "description": "The Desert Furs \"XMAS Espectacular!\"  Longs Peak Pub, Saturday, 12/23/25, 6:00 pm - 9:00 pm",
+      "link": "https://www.mountainsunpub.com/events/",
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Longs Peak Pub",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Pub",
+        "Bar",
+        "Games",
+        "Food & Drink"
+      ],
+      "event_type_tags": []
     },
     {
       "id": "st_julien_hotel_spa_nancy_maclean_live_jazz_none",
