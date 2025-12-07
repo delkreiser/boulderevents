@@ -27,6 +27,7 @@ RECURRING_EVENTS = [
         'time': '5:00 PM - 9:00 PM',
         'description': 'Join us every Monday for an intentional listening experience. Share your favorite tunes and discover new music while enjoying house-made beer and snacks. Bring in a record from your collection and in exchange, we will play it for the pub and give you a free beer to sip on while you sit back and listen.',
         'link': 'https://www.mountainsunpub.com/events/',
+        'image': 'https://raw.githubusercontent.com/delkreiser/boulderevents/main/images/vinestreetpub.jpg',
         'source_url': 'https://www.mountainsunpub.com/events/',
     },
     {
@@ -37,6 +38,7 @@ RECURRING_EVENTS = [
         'time': '8:00 PM',
         'description': 'In collaboration with Stir Fry Sessions, a Denver based artist collective, we showcase local talent while offering a community space to dance and mingle.',
         'link': 'https://www.mountainsunpub.com/events/',
+        'image': 'https://raw.githubusercontent.com/delkreiser/boulderevents/main/images/vinestreetpub.jpg',
         'source_url': 'https://www.mountainsunpub.com/events/',
     },
     {
@@ -47,6 +49,7 @@ RECURRING_EVENTS = [
         'time': '5:00 PM - 10:00 PM',
         'description': 'Monday Nights from 5pm-10pm. Free Fries and Happy Hour prices for all game tables!',
         'link': 'https://www.mountainsunpub.com/events/',
+        'image': 'https://raw.githubusercontent.com/delkreiser/boulderevents/main/images/longspeakpub.jpg',
         'source_url': 'https://www.mountainsunpub.com/events/',
     },
     {
@@ -57,6 +60,7 @@ RECURRING_EVENTS = [
         'time': '7:30 PM - 9:30 PM',
         'description': 'The Bluegrass Pick is back, hosted by Max Kabat of Bowregard! Join us every Thursday from 7:30pm – 9:30pm for free live music, toe-tappin\' energy, and the cozy pub vibe you already love.',
         'link': 'https://www.mountainsunpub.com/events/',
+        'image': 'https://raw.githubusercontent.com/delkreiser/boulderevents/main/images/southernsunpub.jpg',
         'source_url': 'https://www.mountainsunpub.com/events/',
     },
     {
@@ -67,6 +71,7 @@ RECURRING_EVENTS = [
         'time': '9:00 PM - 12:00 AM',
         'description': 'Join us every Friday night for live music at Mountain Sun Pub on Pearl Street.',
         'link': 'https://www.mountainsunpub.com/events/',
+        'image': 'https://raw.githubusercontent.com/delkreiser/boulderevents/main/images/mountainsunpub.jpg',
         'source_url': 'https://www.mountainsunpub.com/events/',
     },
 ]
