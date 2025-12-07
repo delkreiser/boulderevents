@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T06:21:23.171898",
-  "total_events": 72,
+  "generated_at": "2025-12-07T06:20:53.284078",
+  "total_events": 68,
   "tags": {
     "venues": [
       "Junkyard Social Club",
@@ -178,9 +178,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "21+",
-        "Performance"
+        "Performance",
+        "Music"
       ]
     },
     {
@@ -850,64 +850,12 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_jeremy_mohney_band_dec56_00_pm18_00",
-      "title": "Jeremy Mohney Band",
-      "venue": "Trident Booksellers & Cafe",
-      "location": "Boulder",
-      "date": "Dec56:00\u202fPM18:00",
-      "normalized_date": null,
-      "recurring": null,
-      "time": null,
-      "description": "For over a decade, Jeremy Mohney has led one of Colorado\u2019s most popular Swing Bands. His Spirited renditions of Jazz classics as well as original compositions in the swing style give him a unique and authentic dimension. Whether playing for a jam-packed ballroom for dancers, or playing for lovers of music in an intimate club, Mohney has the charm to capture the attention of any audience.",
-      "link": "https://www.tridentcafe.com/events/2025/12/5/jeremy-mohney-band",
-      "image": null,
-      "source_url": "https://www.tridentcafe.com/events",
-      "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
-      ],
-      "event_type_tags": [
-        "Books & Literary"
-      ]
-    },
-    {
-      "id": "trident_booksellers_cafe_nicaragua_cup_of_excellence_coffee_tasting_saturday_december_6_2025",
-      "title": "Nicaragua Cup of Excellence Coffee Tasting",
-      "venue": "Trident Booksellers & Cafe",
-      "location": "Boulder",
-      "date": "Saturday, December 6, 2025",
-      "normalized_date": "2025-12-06T00:00:00",
-      "recurring": null,
-      "time": null,
-      "description": "JoinIdle Hands Roastingin a free coffee cupping of some of the top coffees from this year\u2019s Nicaragua Cup of Excellence competition. The Cup of Excellence is the premier coffee competition in the world, and coffees that rank in the competition are considered some of the best from each origin country\u2019s harvest.The event is free, but we do askyou sign up for tickets here.",
-      "link": "https://www.tridentcafe.com/events/2025/11/26/nicaragua-cup-of-excellence-coffee-tasting",
-      "image": null,
-      "source_url": "https://www.tridentcafe.com/events",
-      "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
-      ],
-      "event_type_tags": [
-        "Books & Literary"
-      ]
-    },
-    {
-      "id": "trident_booksellers_cafe_branson_anderson_tyler_john_kraehling_saturday_december_6_2025",
+      "id": "trident_booksellers_cafe_branson_anderson_tyler_john_kraehling_dec66_00_pm18_00",
       "title": "Branson Anderson / Tyler John Kraehling",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
-      "date": "Saturday, December 6, 2025",
-      "normalized_date": "2025-12-06T00:00:00",
+      "date": "Dec66:00\u202fPM18:00",
+      "normalized_date": null,
       "recurring": null,
       "time": null,
       "description": "Share",
@@ -1656,16 +1604,16 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_boulder_old_time_jam_dec46_00_pm18_00",
-      "title": "Boulder Old-Time Jam",
+      "id": "trident_booksellers_cafe_nicaragua_cup_of_excellence_coffee_tasting_dec610_00_am10_00",
+      "title": "Nicaragua Cup of Excellence Coffee Tasting",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
-      "date": "Dec46:00\u202fPM18:00",
+      "date": "Dec610:00\u202fAM10:00",
       "normalized_date": null,
       "recurring": null,
       "time": null,
-      "description": "Bring an acoustic instrument and sit in with Boulder Old-Time Jam! Every first Thursday on the Trident Patio, starting at 6 p.m.",
-      "link": "https://www.tridentcafe.com/events/2022/12/8/boulder-old-time-jam-a64x2-aw5n6-sa228-pyc6f-je84d-hgpe2-ckm9k-dddm2-dpm37-pm79k-n36jh-zsm5r-2bazp-4ftff-4ahc9-l7she-a7lex-s5sxa-wmanr-z6myr-y4pf6",
+      "description": "JoinIdle Hands Roastingin a free coffee cupping of some of the top coffees from this year\u2019s Nicaragua Cup of Excellence competition. The Cup of Excellence is the premier coffee competition in the world, and coffees that rank in the competition are considered some of the best from each origin country\u2019s harvest.The event is free, but we do askyou sign up for tickets here.",
+      "link": "https://www.tridentcafe.com/events/2025/11/26/nicaragua-cup-of-excellence-coffee-tasting",
       "image": null,
       "source_url": "https://www.tridentcafe.com/events",
       "age_restriction": null,
@@ -1705,32 +1653,6 @@
       ],
       "event_type_tags": [
         "Books & Literary"
-      ]
-    },
-    {
-      "id": "license_no_1_live_music_with_voo_doo_lily_december_06_2025",
-      "title": "Live Music with Voo Doo Lily",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": "December 06, 2025",
-      "normalized_date": "2025-12-06T00:00:00",
-      "recurring": null,
-      "time": "59:00\u202fPM",
-      "description": "",
-      "link": "https://www.license1boulderado.com/calendar/live-music-with-superimposition-3-tzj3w-ragmp-n3wp5-bm6da-7238m-r3mpg-2tk4t-etj9j-x52nl-43zhr-rta6x-7xyzy-w592k-7rgwt-p2ga6-yg2m3-b23k7-9d9ln-47w3j-7f2be-a3ek8",
-      "image": null,
-      "source_url": "https://www.license1boulderado.com/calendar",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+",
-        "Music"
-      ],
-      "event_type_tags": [
-        "Nightlife"
       ]
     },
     {
@@ -1874,32 +1796,6 @@
       "time": "59:00\u202fPM",
       "description": "",
       "link": "https://www.license1boulderado.com/calendar/live-music-with-superimposition-3-tzj3w-ragmp-n3wp5-bm6da-7238m-r3mpg-2tk4t-etj9j-x52nl-43zhr-rta6x-7xyzy-w592k-7rgwt-p2ga6-yg2m3-ybk7a-3fxsm-kg2b8-r54sk-5639t-fw4a8-t9cwn-rg6f3-n2jr4",
-      "image": null,
-      "source_url": "https://www.license1boulderado.com/calendar",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+",
-        "Music"
-      ],
-      "event_type_tags": [
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "license_no_1_503_service_unavailable_recurring",
-      "title": "503 Service Unavailable",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": null,
-      "time": null,
-      "description": "",
-      "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-r546h?format=ical",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
       "age_restriction": null,
