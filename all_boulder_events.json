@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-07T16:55:56.106117",
+  "generated_at": "2025-12-07T18:06:24.626781",
   "total_events": 84,
   "tags": {
     "venues": [
@@ -140,7 +140,7 @@
       "recurring": null,
       "time": "6:30 Doors | 7:00 Show",
       "description": "",
-      "link": null,
+      "link": "https://junkyardsocialclub.org/event/christmas-movie-the-play/",
       "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/09/Christmas-Movie-the-Play-768x960.jpg",
       "source_url": "https://junkyardsocialclub.org/events/",
       "age_restriction": "Must be age 18+",
@@ -168,7 +168,7 @@
       "recurring": null,
       "time": "6:00 - 7:00 PM",
       "description": "",
-      "link": null,
+      "link": "https://junkyardsocialclub.org/drop-in-event/b-e-a-t-meet-up/",
       "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/06/BEAT-768x768.jpg",
       "source_url": "https://junkyardsocialclub.org/events/",
       "age_restriction": null,
@@ -195,7 +195,7 @@
       "recurring": null,
       "time": "6:30 - 8:30 PM",
       "description": "",
-      "link": null,
+      "link": "https://junkyardsocialclub.org/drop-in-event/burner/",
       "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/07/Burner-768x434.jpg",
       "source_url": "https://junkyardsocialclub.org/events/",
       "age_restriction": null,
@@ -222,7 +222,7 @@
       "recurring": null,
       "time": "6:00 - 9:00 PM",
       "description": "",
-      "link": null,
+      "link": "https://junkyardsocialclub.org/drop-in-event/junkyard-game-night/",
       "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/06/Game-Night-768x768.jpg",
       "source_url": "https://junkyardsocialclub.org/events/",
       "age_restriction": "All Ages are Welcome",
@@ -236,9 +236,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Family Friendly",
-        "All Ages"
+        "All Ages",
+        "Community"
       ]
     },
     {
@@ -251,7 +251,7 @@
       "recurring": null,
       "time": null,
       "description": "",
-      "link": null,
+      "link": "https://junkyardsocialclub.org/product/fusion-partner-dance/",
       "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/06/Fusion-Dance-768x768.jpg",
       "source_url": "https://junkyardsocialclub.org/events/",
       "age_restriction": null,
@@ -265,8 +265,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Music"
+        "Music",
+        "Community"
       ]
     },
     {
@@ -279,7 +279,7 @@
       "recurring": null,
       "time": "7:30 - 11:00 PM",
       "description": "",
-      "link": null,
+      "link": "https://junkyardsocialclub.org/product/salsaton-events/",
       "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/12/Salsaton-Dance-Party-768x644.jpg",
       "source_url": "https://junkyardsocialclub.org/events/",
       "age_restriction": "Family Friendly",
@@ -293,11 +293,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "All Ages",
+        "Performance",
         "Family Friendly",
+        "All Ages",
         "Music",
-        "Performance"
+        "Community"
       ]
     },
     {
@@ -310,7 +310,7 @@
       "recurring": null,
       "time": "7pm Doors/Preshow DJ Set | 8pm Comedy Show | End time 10pm",
       "description": "",
-      "link": null,
+      "link": "https://junkyardsocialclub.org/product/the-dose/",
       "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/08/The-Dose-Psychedelic-Comedy-Show.jpg",
       "source_url": "https://junkyardsocialclub.org/events/",
       "age_restriction": "Must be age 18+",
@@ -339,7 +339,7 @@
       "recurring": null,
       "time": "11:00 AM - Noon",
       "description": "",
-      "link": null,
+      "link": "https://junkyardsocialclub.org/drop-in-event/cheryl-lock/",
       "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/02/Cheryl-Lock-768x484.jpeg",
       "source_url": "https://junkyardsocialclub.org/events/",
       "age_restriction": "Family Friendly",
@@ -353,8 +353,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Family Friendly"
+        "Family Friendly",
+        "All Ages"
       ]
     },
     {
@@ -367,7 +367,7 @@
       "recurring": null,
       "time": "8:00 am doors | 9:00 am talk",
       "description": "",
-      "link": null,
+      "link": "https://junkyardsocialclub.org/event/creative-mornings/",
       "image": null,
       "source_url": "https://junkyardsocialclub.org/events/",
       "age_restriction": "Family Friendly",
@@ -381,8 +381,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "All Ages"
+        "All Ages",
+        "Community"
       ]
     },
     {
@@ -395,7 +395,7 @@
       "recurring": null,
       "time": "3:30 PM Networking | 4:00 - 5:30 PM Showtime",
       "description": "",
-      "link": null,
+      "link": "https://junkyardsocialclub.org/event/uprooting-qahr-live-music-film-and-monologues/",
       "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/12/Uprooting-Qahr-768x540.jpg",
       "source_url": "https://junkyardsocialclub.org/events/",
       "age_restriction": "Ages 9+ (ages 9-14 need adult company)",
@@ -409,9 +409,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Music",
         "Educational",
         "Community",
-        "Music",
         "Performance"
       ]
     },
@@ -425,7 +425,7 @@
       "recurring": null,
       "time": "POSTPONED UNTIL JANUARY",
       "description": "",
-      "link": null,
+      "link": "https://junkyardsocialclub.org/drop-in-event/salsa-sunday/",
       "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/09/Salsa-Sunday-1.jpg",
       "source_url": "https://junkyardsocialclub.org/events/",
       "age_restriction": "Family Friendly",
@@ -439,10 +439,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Music",
+        "Family Friendly",
         "All Ages",
-        "Family Friendly"
+        "Music",
+        "Community"
       ]
     },
     {
@@ -455,7 +455,7 @@
       "recurring": null,
       "time": "1:30 Doors | 2:20 - 3:20 Show",
       "description": "",
-      "link": null,
+      "link": "https://junkyardsocialclub.org/drop-in-event/frosty-family-jam/",
       "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/12/FrostyFamilyJamSmall-Joe-Kremer.jpg",
       "source_url": "https://junkyardsocialclub.org/events/",
       "age_restriction": "Family Friendly",
@@ -469,9 +469,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Family Friendly",
         "All Ages",
         "Music",
-        "Family Friendly",
         "Performance"
       ]
     },
@@ -485,7 +485,7 @@
       "recurring": null,
       "time": "6:00 -9:00 PM",
       "description": "",
-      "link": null,
+      "link": "https://junkyardsocialclub.org/drop-in-event/flow-jam/",
       "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/09/FlowJam-2025-768x768.jpg",
       "source_url": "https://junkyardsocialclub.org/events/",
       "age_restriction": null,
@@ -499,9 +499,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Music",
         "Educational",
-        "Community",
-        "Music"
+        "Community"
       ]
     },
     {
@@ -514,7 +514,7 @@
       "recurring": null,
       "time": "7:30 PM - 11:30 PM",
       "description": "",
-      "link": null,
+      "link": "https://junkyardsocialclub.org/product/new-years-salsa-masquerade/",
       "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/11/New-Years-Salsa-Masquerade.jpg",
       "source_url": "https://junkyardsocialclub.org/events/",
       "age_restriction": "Must be age 18+",
@@ -528,9 +528,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Music",
         "21+",
+        "Community",
         "Performance"
       ]
     },
@@ -544,7 +544,7 @@
       "recurring": null,
       "time": "8:00 PM Doors | 2:00 AM End",
       "description": "",
-      "link": null,
+      "link": "https://junkyardsocialclub.org/product/revolution-nye-2025/",
       "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/11/2025-NYE-rEVOLUTION-768x768.jpg",
       "source_url": "https://junkyardsocialclub.org/events/",
       "age_restriction": "Must be age 21+",
@@ -558,9 +558,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Music",
         "21+",
+        "Community",
         "Performance"
       ]
     },
@@ -574,7 +574,7 @@
       "recurring": null,
       "time": "7:00 PM Doors | 8:00 PM  Show",
       "description": "",
-      "link": null,
+      "link": "https://junkyardsocialclub.org/drop-in-event/stage-party/",
       "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/03/Boulder-Juggling-Stage-Party-768x402.jpg",
       "source_url": "https://junkyardsocialclub.org/events/",
       "age_restriction": "All Ages are Welcome",
@@ -588,9 +588,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Music",
         "All Ages",
+        "Music",
+        "Community",
         "Performance"
       ]
     },
@@ -604,7 +604,7 @@
       "recurring": null,
       "time": "6:00 PM Doors | 7:00 PM Show",
       "description": "",
-      "link": null,
+      "link": "https://junkyardsocialclub.org/product/cathartic-compost-saturday/",
       "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/10/cathARTic-compost.jpg",
       "source_url": "https://junkyardsocialclub.org/events/",
       "age_restriction": "Ages 13+",
@@ -618,8 +618,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Music",
+        "Community",
         "Performance"
       ]
     },
@@ -633,7 +633,7 @@
       "recurring": null,
       "time": "6:00 PM Doors | 7:00 PM Show",
       "description": "",
-      "link": null,
+      "link": "https://junkyardsocialclub.org/product/cathartic-compost-sunday/",
       "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/10/cathARTic-compost.jpg",
       "source_url": "https://junkyardsocialclub.org/events/",
       "age_restriction": "Ages 13+",
@@ -647,8 +647,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Music",
+        "Community",
         "Performance"
       ]
     },
