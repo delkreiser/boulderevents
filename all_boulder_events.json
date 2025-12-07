@@ -1,9 +1,8 @@
 {
-  "generated_at": "2025-12-07T06:20:53.284078",
-  "total_events": 68,
+  "generated_at": "2025-12-07T16:06:57.881167",
+  "total_events": 67,
   "tags": {
     "venues": [
-      "Junkyard Social Club",
       "License No 1",
       "Longs Peak Pub",
       "Southern Sun Pub",
@@ -19,13 +18,10 @@
     ],
     "venue_types": [
       "21+",
-      "All Ages",
       "Arts",
       "Bar",
       "Books",
       "Cafe",
-      "Community",
-      "Dance",
       "Entertainment",
       "Food & Drink",
       "Games",
@@ -34,17 +30,14 @@
       "Live Music",
       "Music",
       "Nightlife",
-      "Performance",
       "Pub",
       "Upscale"
     ],
     "event_types": [
-      "21+",
       "Books & Literary",
       "Entertainment",
       "Music",
-      "Nightlife",
-      "Performance"
+      "Nightlife"
     ]
   },
   "events": [
@@ -123,63 +116,6 @@
         "Nightlife"
       ],
       "event_type_tags": [
-        "Music"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_christmas_movie_the_play_the_beginning_sunday_december_7_2025",
-      "title": "Christmas Movie the Play: The Beginning",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Sunday, December 7, 2025",
-      "normalized_date": "2025-12-07T00:00:00",
-      "recurring": null,
-      "time": "6:30 Doors | 7:00 Show",
-      "description": "",
-      "link": null,
-      "image": null,
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": "Must be age 18+",
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Dance",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "21+",
-        "Performance"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_the_dose_a_psychedelic_comedy_experience_saturday_december_13_2025",
-      "title": "THE DOSE: A Psychedelic Comedy Experience",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Saturday, December 13, 2025",
-      "normalized_date": "2025-12-13T00:00:00",
-      "recurring": null,
-      "time": null,
-      "description": "",
-      "link": null,
-      "image": null,
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": "Must be age 18+",
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Dance",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "21+",
-        "Performance",
         "Music"
       ]
     },
@@ -1666,6 +1602,32 @@
       "time": "58:00\u202fPM",
       "description": "George and the band play every Wednesday at License No.1 in the catacombs of the Boulderado Hotel. Come hear this legend play a unique mix of American music from the likes of Ray Charles and Louis Armstrong. It doesn't get more real than this.",
       "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-ecp99",
+      "image": null,
+      "source_url": "https://www.license1boulderado.com/calendar",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+",
+        "Music"
+      ],
+      "event_type_tags": [
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_the_underground_comedy_show_december_11_2025",
+      "title": "The Underground Comedy Show",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "December 11, 2025",
+      "normalized_date": "2025-12-11T00:00:00",
+      "recurring": null,
+      "time": "58:00\u202fPM",
+      "description": "",
+      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-556r9-emndm",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
       "age_restriction": null,
