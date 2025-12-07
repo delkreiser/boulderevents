@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T20:41:13.967253",
-  "total_events": 75,
+  "generated_at": "2025-12-07T06:20:53.284078",
+  "total_events": 68,
   "tags": {
     "venues": [
       "Junkyard Social Club",
@@ -55,58 +55,6 @@
       "location": "Boulder",
       "date": "Nov 24",
       "normalized_date": null,
-      "recurring": null,
-      "time": null,
-      "description": "",
-      "link": null,
-      "image": null,
-      "source_url": "https://www.velvetelklounge.com/events/",
-      "age_restriction": null,
-      "venue_tag": "Velvet Elk Lounge",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Music",
-        "Live Music",
-        "Bar",
-        "Nightlife"
-      ],
-      "event_type_tags": [
-        "Music"
-      ]
-    },
-    {
-      "id": "velvet_elk_lounge_steve_knight_band_november_29th",
-      "title": "Steve Knight Band",
-      "venue": "Velvet Elk Lounge",
-      "location": "Boulder",
-      "date": "November 29th",
-      "normalized_date": "2025-11-29T00:00:00",
-      "recurring": null,
-      "time": null,
-      "description": "",
-      "link": null,
-      "image": null,
-      "source_url": "https://www.velvetelklounge.com/events/",
-      "age_restriction": null,
-      "venue_tag": "Velvet Elk Lounge",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Music",
-        "Live Music",
-        "Bar",
-        "Nightlife"
-      ],
-      "event_type_tags": [
-        "Music"
-      ]
-    },
-    {
-      "id": "velvet_elk_lounge_second_annual_ugly_er_sweater_party_december_4th",
-      "title": "Second Annual Ugly-er Sweater Party",
-      "venue": "Velvet Elk Lounge",
-      "location": "Boulder",
-      "date": "December 4th",
-      "normalized_date": "2025-12-04T00:00:00",
       "recurring": null,
       "time": null,
       "description": "",
@@ -231,111 +179,7 @@
       ],
       "event_type_tags": [
         "21+",
-        "Music",
-        "Performance"
-      ]
-    },
-    {
-      "id": "southern_sun_pub_the_bluegrass_pick_every_thursday",
-      "title": "The BLUEGRASS PICK",
-      "venue": "Southern Sun Pub",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": "Every Thursday",
-      "time": "7:30 - 9:30 pm",
-      "description": "Hosted by Max Kabat of Bowregard. Never a cover, always a good time!",
-      "link": null,
-      "image": null,
-      "source_url": "https://www.mountainsunpub.com/events/",
-      "age_restriction": null,
-      "venue_tag": "Southern Sun Pub",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Music",
-        "Pub",
-        "Bar",
-        "Food & Drink"
-      ],
-      "event_type_tags": [
-        "Music"
-      ]
-    },
-    {
-      "id": "vine_street_pub_vinyl_night_every_monday",
-      "title": "Vinyl Night",
-      "venue": "Vine Street Pub",
-      "location": "Denver",
-      "date": null,
-      "normalized_date": null,
-      "recurring": "Every Monday",
-      "time": "5-9 pm",
-      "description": "Join us for an intentional listening experience. Share your favorite tunes and discover new music while enjoying house-made beer and snacks. Bring in a record from your collection and in exchange, we will play it for the pub and give you a free beer.",
-      "link": null,
-      "image": null,
-      "source_url": "https://www.mountainsunpub.com/events/",
-      "age_restriction": null,
-      "venue_tag": "Vine Street Pub",
-      "location_tag": "Denver",
-      "venue_type_tags": [
-        "Music",
-        "Pub",
-        "Bar",
-        "Food & Drink"
-      ],
-      "event_type_tags": [
-        "Music"
-      ]
-    },
-    {
-      "id": "longs_peak_pub_game_night_monday_nights",
-      "title": "Game Night",
-      "venue": "Longs Peak Pub",
-      "location": "Longmont",
-      "date": null,
-      "normalized_date": null,
-      "recurring": "Monday Nights",
-      "time": "5pm-10pm",
-      "description": "Free Fries and Happy Hour prices for all game tables!",
-      "link": null,
-      "image": null,
-      "source_url": "https://www.mountainsunpub.com/events/",
-      "age_restriction": null,
-      "venue_tag": "Longs Peak Pub",
-      "location_tag": "Longmont",
-      "venue_type_tags": [
-        "Pub",
-        "Bar",
-        "Games",
-        "Food & Drink"
-      ],
-      "event_type_tags": [
-        "Music"
-      ]
-    },
-    {
-      "id": "vine_street_pub_music_night_every_saturday",
-      "title": "Music Night",
-      "venue": "Vine Street Pub",
-      "location": "Denver",
-      "date": null,
-      "normalized_date": null,
-      "recurring": "Every Saturday",
-      "time": "8pm",
-      "description": "In collaboration with Stir Fry Sessions, a Denver based artist collective, we showcase local talent while offering a community space to dance and mingle.",
-      "link": null,
-      "image": null,
-      "source_url": "https://www.mountainsunpub.com/events/",
-      "age_restriction": null,
-      "venue_tag": "Vine Street Pub",
-      "location_tag": "Denver",
-      "venue_type_tags": [
-        "Music",
-        "Pub",
-        "Bar",
-        "Food & Drink"
-      ],
-      "event_type_tags": [
+        "Performance",
         "Music"
       ]
     },
@@ -652,8 +496,112 @@
       ]
     },
     {
-      "id": "st_julien_hotel_spa_rachel_alena_none",
-      "title": "Rachel Alena",
+      "id": "southern_sun_pub_the_bluegrass_pick_every_thursday",
+      "title": "The BLUEGRASS PICK",
+      "venue": "Southern Sun Pub",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": "Every Thursday",
+      "time": "7:30 - 9:30 pm",
+      "description": "Hosted by Max Kabat of Bowregard. Never a cover, always a good time!",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Southern Sun Pub",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Pub",
+        "Bar",
+        "Food & Drink"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "vine_street_pub_vinyl_night_every_monday",
+      "title": "Vinyl Night",
+      "venue": "Vine Street Pub",
+      "location": "Denver",
+      "date": null,
+      "normalized_date": null,
+      "recurring": "Every Monday",
+      "time": "5-9 pm",
+      "description": "Join us for an intentional listening experience. Share your favorite tunes and discover new music while enjoying house-made beer and snacks. Bring in a record from your collection and in exchange, we will play it for the pub and give you a free beer.",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Vine Street Pub",
+      "location_tag": "Denver",
+      "venue_type_tags": [
+        "Music",
+        "Pub",
+        "Bar",
+        "Food & Drink"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "longs_peak_pub_game_night_monday_nights",
+      "title": "Game Night",
+      "venue": "Longs Peak Pub",
+      "location": "Longmont",
+      "date": null,
+      "normalized_date": null,
+      "recurring": "Monday Nights",
+      "time": "5pm-10pm",
+      "description": "Free Fries and Happy Hour prices for all game tables!",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Longs Peak Pub",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Pub",
+        "Bar",
+        "Games",
+        "Food & Drink"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "vine_street_pub_music_night_every_saturday",
+      "title": "Music Night",
+      "venue": "Vine Street Pub",
+      "location": "Denver",
+      "date": null,
+      "normalized_date": null,
+      "recurring": "Every Saturday",
+      "time": "8pm",
+      "description": "In collaboration with Stir Fry Sessions, a Denver based artist collective, we showcase local talent while offering a community space to dance and mingle.",
+      "link": null,
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Vine Street Pub",
+      "location_tag": "Denver",
+      "venue_type_tags": [
+        "Music",
+        "Pub",
+        "Bar",
+        "Food & Drink"
+      ],
+      "event_type_tags": [
+        "Music"
+      ]
+    },
+    {
+      "id": "st_julien_hotel_spa_nancy_maclean_live_jazz_none",
+      "title": "Nancy MacLean Live jazz",
       "venue": "St Julien Hotel & Spa",
       "location": "Boulder",
       "date": null,
@@ -661,7 +609,7 @@
       "recurring": null,
       "time": "6:00 pm-9:00 pm",
       "description": null,
-      "link": "https://stjulien.com/series/rachel-alena/",
+      "link": "https://stjulien.com/series/nancy-maclean/",
       "image": null,
       "source_url": "https://stjulien.com/boulder-colorado-events/category/entertainment-events/",
       "age_restriction": null,
@@ -677,8 +625,8 @@
       ]
     },
     {
-      "id": "st_julien_hotel_spa_strange_byrds_none",
-      "title": "Strange Byrds",
+      "id": "st_julien_hotel_spa_the_other_things_funk_none",
+      "title": "The Other Things Funk",
       "venue": "St Julien Hotel & Spa",
       "location": "Boulder",
       "date": null,
@@ -686,7 +634,7 @@
       "recurring": null,
       "time": "6:00 pm-9:00 pm",
       "description": null,
-      "link": "https://stjulien.com/series/strange-byrds/",
+      "link": "https://stjulien.com/series/the-other-things/",
       "image": null,
       "source_url": "https://stjulien.com/boulder-colorado-events/category/entertainment-events/",
       "age_restriction": null,
@@ -702,8 +650,8 @@
       ]
     },
     {
-      "id": "st_julien_hotel_spa_grown_a_man_band_none",
-      "title": "Grown A** Man Band",
+      "id": "st_julien_hotel_spa_ron_legualt_s_charlie_brown_goes_to_the_nutcracker_none",
+      "title": "Ron Legualt's Charlie Brown Goes to the Nutcracker",
       "venue": "St Julien Hotel & Spa",
       "location": "Boulder",
       "date": null,
@@ -711,7 +659,7 @@
       "recurring": null,
       "time": "6:00 pm-9:00 pm",
       "description": null,
-      "link": "https://stjulien.com/series/grown-a-man-band/",
+      "link": "https://stjulien.com/series/ron-legaults-charlie-brown-goes-to-the-nutcracker-christmas-jazz-show-2/",
       "image": null,
       "source_url": "https://stjulien.com/boulder-colorado-events/category/entertainment-events/",
       "age_restriction": null,
@@ -752,8 +700,8 @@
       ]
     },
     {
-      "id": "st_julien_hotel_spa_amy_biondo_bill_kopper_none",
-      "title": "Amy Biondo & Bill Kopper",
+      "id": "st_julien_hotel_spa_jon_shepard_jj_murphey_none",
+      "title": "Jon Shepard  &  JJ Murphey",
       "venue": "St Julien Hotel & Spa",
       "location": "Boulder",
       "date": null,
@@ -761,7 +709,7 @@
       "recurring": null,
       "time": "6:00 pm-9:00 pm",
       "description": null,
-      "link": "https://stjulien.com/series/amy-biondo-bill-kopper/",
+      "link": "https://stjulien.com/series/jon-shepard/",
       "image": null,
       "source_url": "https://stjulien.com/boulder-colorado-events/category/entertainment-events/",
       "age_restriction": null,
@@ -777,8 +725,8 @@
       ]
     },
     {
-      "id": "st_julien_hotel_spa_jacob_mcgann_none",
-      "title": "Jacob McGann",
+      "id": "st_julien_hotel_spa_wren_none",
+      "title": "Wren",
       "venue": "St Julien Hotel & Spa",
       "location": "Boulder",
       "date": null,
@@ -786,7 +734,32 @@
       "recurring": null,
       "time": "6:00 pm-9:00 pm",
       "description": null,
-      "link": "https://stjulien.com/series/jacob-mcgann-piano-jam/",
+      "link": "https://stjulien.com/series/wren-van/",
+      "image": null,
+      "source_url": "https://stjulien.com/boulder-colorado-events/category/entertainment-events/",
+      "age_restriction": null,
+      "venue_tag": "St Julien Hotel & Spa",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Entertainment",
+        "Hotel",
+        "Upscale"
+      ],
+      "event_type_tags": [
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "st_julien_hotel_spa_grown_a_man_band_none",
+      "title": "Grown A** Man Band",
+      "venue": "St Julien Hotel & Spa",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": "6:00 pm-9:00 pm",
+      "description": null,
+      "link": "https://stjulien.com/series/grown-a-man-band/",
       "image": null,
       "source_url": "https://stjulien.com/boulder-colorado-events/category/entertainment-events/",
       "age_restriction": null,
@@ -827,8 +800,33 @@
       ]
     },
     {
-      "id": "st_julien_hotel_spa_the_good_kind_none",
-      "title": "The Good Kind",
+      "id": "st_julien_hotel_spa_roaring_20_s_new_year_s_eve_party_tickets_required_december_31_2025_9_00_pm_january_1_2026_1_00_am",
+      "title": "Roaring 20's New Year's Eve Party- Tickets Required",
+      "venue": "St Julien Hotel & Spa",
+      "location": "Boulder",
+      "date": "December 31, 2025 @ 9:00 pm-January 1, 2026 @ 1:00 am",
+      "normalized_date": "2025-12-31T00:00:00",
+      "recurring": null,
+      "time": null,
+      "description": "Celebrate New Year\u2019s Eve in Roaring 20s elegance at St Julien with live entertainment, a premium bar, tray-passed bites and champagne toast! New Year\u2019s Eve: A Roaring 20s Celebration Step into the Roaring 20s for a glamorous New Year\u2019s Eve at St Julien Hotel & Spa. Celebrate the night in style with live entertainment by [\u2026]",
+      "link": "https://stjulien.com/event/roaring-20s-new-years-eve-party-tickets-required/",
+      "image": null,
+      "source_url": "https://stjulien.com/boulder-colorado-events/category/entertainment-events/",
+      "age_restriction": null,
+      "venue_tag": "St Julien Hotel & Spa",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Entertainment",
+        "Hotel",
+        "Upscale"
+      ],
+      "event_type_tags": [
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "st_julien_hotel_spa_elivin_pianist_none",
+      "title": "Elivin Pianist",
       "venue": "St Julien Hotel & Spa",
       "location": "Boulder",
       "date": null,
@@ -836,7 +834,7 @@
       "recurring": null,
       "time": "6:00 pm-9:00 pm",
       "description": null,
-      "link": "https://stjulien.com/series/the-good-kind/",
+      "link": "https://stjulien.com/event/elivin-pianist/",
       "image": null,
       "source_url": "https://stjulien.com/boulder-colorado-events/category/entertainment-events/",
       "age_restriction": null,
@@ -852,319 +850,12 @@
       ]
     },
     {
-      "id": "st_julien_hotel_spa_bill_mckay_piano_none",
-      "title": "Bill McKay Piano",
-      "venue": "St Julien Hotel & Spa",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": null,
-      "time": "6:00 pm-9:00 pm",
-      "description": null,
-      "link": "https://stjulien.com/series/bill-mckay/",
-      "image": null,
-      "source_url": "https://stjulien.com/boulder-colorado-events/category/entertainment-events/",
-      "age_restriction": null,
-      "venue_tag": "St Julien Hotel & Spa",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Entertainment",
-        "Hotel",
-        "Upscale"
-      ],
-      "event_type_tags": [
-        "Entertainment"
-      ]
-    },
-    {
-      "id": "st_julien_hotel_spa_housecats_none",
-      "title": "HouseCats",
-      "venue": "St Julien Hotel & Spa",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": null,
-      "time": "6:00 pm-9:00 pm",
-      "description": null,
-      "link": "https://stjulien.com/event/housecats-6/",
-      "image": null,
-      "source_url": "https://stjulien.com/boulder-colorado-events/category/entertainment-events/",
-      "age_restriction": null,
-      "venue_tag": "St Julien Hotel & Spa",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Entertainment",
-        "Hotel",
-        "Upscale"
-      ],
-      "event_type_tags": [
-        "Entertainment"
-      ]
-    },
-    {
-      "id": "st_julien_hotel_spa_brooks_lewis_jazz_none",
-      "title": "Brooks Lewis Jazz",
-      "venue": "St Julien Hotel & Spa",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": null,
-      "time": "10:00 am-2:00 pm",
-      "description": null,
-      "link": "https://stjulien.com/series/brooks-lewis-trio/",
-      "image": null,
-      "source_url": "https://stjulien.com/boulder-colorado-events/category/entertainment-events/",
-      "age_restriction": null,
-      "venue_tag": "St Julien Hotel & Spa",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Entertainment",
-        "Hotel",
-        "Upscale"
-      ],
-      "event_type_tags": [
-        "Entertainment"
-      ]
-    },
-    {
-      "id": "st_julien_hotel_spa_david_lawrence_and_the_spoonful_none",
-      "title": "David Lawrence and the Spoonful",
-      "venue": "St Julien Hotel & Spa",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": null,
-      "time": "6:00 pm-9:00 pm",
-      "description": null,
-      "link": "https://stjulien.com/series/david-lawrence-and-the-spoonful/",
-      "image": null,
-      "source_url": "https://stjulien.com/boulder-colorado-events/category/entertainment-events/",
-      "age_restriction": null,
-      "venue_tag": "St Julien Hotel & Spa",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Entertainment",
-        "Hotel",
-        "Upscale"
-      ],
-      "event_type_tags": [
-        "Entertainment"
-      ]
-    },
-    {
-      "id": "st_julien_hotel_spa_casey_kleeman_none",
-      "title": "Casey Kleeman",
-      "venue": "St Julien Hotel & Spa",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": null,
-      "time": "6:00 pm-9:00 pm",
-      "description": null,
-      "link": "https://stjulien.com/series/casey-kleeman/",
-      "image": null,
-      "source_url": "https://stjulien.com/boulder-colorado-events/category/entertainment-events/",
-      "age_restriction": null,
-      "venue_tag": "St Julien Hotel & Spa",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Entertainment",
-        "Hotel",
-        "Upscale"
-      ],
-      "event_type_tags": [
-        "Entertainment"
-      ]
-    },
-    {
-      "id": "trident_booksellers_cafe_bethylovelight_justin_roots_nov296_00_pm18_00",
-      "title": "BethyLoveLight & Justin Roots",
-      "venue": "Trident Booksellers & Cafe",
-      "location": "Boulder",
-      "date": "Nov296:00\u202fPM18:00",
-      "normalized_date": null,
-      "recurring": null,
-      "time": null,
-      "description": "BethyLoveLight is an intergalactic star-rockin' musician who loves to rock out for Truth, beauty, goodness and the One Love! Living as a multifaceted artist, she composes, records and co-produces all of her original audio creations.\u00a0 BethyLoveLight offers a stellar variety of music from angelic downtempo to hip-hop/reggae/rock.\u00a0\u00a0Singing with the utmost Light of Love, she intentionally catalyzes\u00a0ecstatic ascension through her sonic art.\u00a0 You can find her music on Spotify, Apple Music, SoundCloud, Bandcamp, FB, IG, TikTok and on her websitewww.bethylovelight.comJustin Roots, AKA Rootsie, plays a blend of roots, reggae, rock, folk, and funk. With a mix of songwriting, looping, and improvisation, Rootsie's sets are raw, authentic, and bring the good vibes.",
-      "link": "https://www.tridentcafe.com/events/2025/11/7/third-turn",
-      "image": null,
-      "source_url": "https://www.tridentcafe.com/events",
-      "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
-      ],
-      "event_type_tags": [
-        "Books & Literary"
-      ]
-    },
-    {
-      "id": "trident_booksellers_cafe_bethylovelight_is_an_intergalactic_star_rockin_musician_who_loves_to_rock_out_for_truth_beauty_goodness_and_the_one_love_living_as_a_multifaceted_artist_she_composes_records_and_co_produces_all_of_her_original_audio_creations_bethylovelight_offers_a_stellar_variety_of_music_from_angelic_downtempo_to_hip_hop_reggae_rock_singing_with_the_utmost_light_of_love_she_intentionally_catalyzes_ecstatic_ascension_through_her_sonic_art_you_can_find_her_music_on_spotify_apple_music_soundcloud_bandcamp_fb_ig_tiktok_and_on_her_websitewww_bethylovelight_com_recurring",
-      "title": "BethyLoveLight is an intergalactic star-rockin' musician who loves to rock out for Truth, beauty, goodness and the One Love! Living as a multifaceted artist, she composes, records and co-produces all of her original audio creations.\u00a0 BethyLoveLight offers a stellar variety of music from angelic downtempo to hip-hop/reggae/rock.\u00a0\u00a0Singing with the utmost Light of Love, she intentionally catalyzes\u00a0ecstatic ascension through her sonic art.\u00a0 You can find her music on Spotify, Apple Music, SoundCloud, Bandcamp, FB, IG, TikTok and on her websitewww.bethylovelight.com",
-      "venue": "Trident Booksellers & Cafe",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": null,
-      "time": null,
-      "description": "BethyLoveLight is an intergalactic star-rockin' musician who loves to rock out for Truth, beauty, goodness and the One Love! Living as a multifaceted artist, she composes, records and co-produces all of her original audio creations.\u00a0 BethyLoveLight offers a stellar variety of music from angelic downtempo to hip-hop/reggae/rock.\u00a0\u00a0Singing with the utmost Light of Love, she intentionally catalyzes\u00a0ecstatic ascension through her sonic art.\u00a0 You can find her music on Spotify, Apple Music, SoundCloud, Bandcamp, FB, IG, TikTok and on her websitewww.bethylovelight.com",
-      "link": "http://www.bethylovelight.com/",
-      "image": null,
-      "source_url": "https://www.tridentcafe.com/events",
-      "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
-      ],
-      "event_type_tags": [
-        "Books & Literary"
-      ]
-    },
-    {
-      "id": "trident_booksellers_cafe_language_exchange_night_monday_december_1_2025",
-      "title": "Language Exchange Night",
-      "venue": "Trident Booksellers & Cafe",
-      "location": "Boulder",
-      "date": "Monday, December 1, 2025",
-      "normalized_date": "2025-12-01T00:00:00",
-      "recurring": null,
-      "time": null,
-      "description": "Free!Every Monday evening, 7-9p.m.All languages welcome. Facilitated by Kelvin Tavarez.",
-      "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-e82fb",
-      "image": null,
-      "source_url": "https://www.tridentcafe.com/events",
-      "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
-      ],
-      "event_type_tags": [
-        "Books & Literary"
-      ]
-    },
-    {
-      "id": "trident_booksellers_cafe_trident_poet_series_reed_bye_and_mike_parker_tuesday_december_2_2025",
-      "title": "Trident Poet Series: Reed Bye and Mike Parker",
-      "venue": "Trident Booksellers & Cafe",
-      "location": "Boulder",
-      "date": "Tuesday, December 2, 2025",
-      "normalized_date": "2025-12-02T00:00:00",
-      "recurring": null,
-      "time": null,
-      "description": "Reed Bye\u2019s most recent poetry collections includeEarth\u2019s Hollow Breathing; Morning Rites;andAddled Smoke Material:Collaborative Poemswith Jack Collom 1972-2017. He has new album of original songs,Down Here. He is Professor Emeritus at Naropa University where he served on the core faculty of the Jack Kerouac School, teaching poetry writing workshops and courses in classic and contemporary literary studies and contemplative poetics.\u201cThe mind may move faster than the hand can write but Reed Bye\u2019s poems capture the dictates of thought as processed by the conspiratorial and wandering eye, all the light and shadow of the natural world, the peripheral glimpses of people and places where few poets ever go. Lucid, abstract, impulsive, beyond the pale\u2014Fire for Thoughtis both a summing up and a starting over\u2014'what seems to be necessary,' and something much more.\u201d\u2014Lewis WarshMike Parker was born in the brass mill town of Waterbury Connecticut in 1944. D'Spare Press published three collections of his poetry: Don't Fall Off the Mountain, Wallflower Sutra, and Walking on Water in a Razorblade Breeze, and he has three live poetry CDs. He sang in the band Ballistic Kisses, recording two albums on Beggars Banquet Records, Total Access and Wet Moments. He served two terms of Artist in Residence for the Ward Public Library and was the recipient of the Neodata Literary Fellowship from the Boulder County Arts Alliance. He lives with his wife the poet Mary Johnston Parker and daughter Frannie in the town of Ward Colorado on the edge of the Indian Peaks Wilderness.",
-      "link": "https://www.tridentcafe.com/events/2025/12/2/trident-poet-series-reed-bye-and-mike-parker",
-      "image": null,
-      "source_url": "https://www.tridentcafe.com/events",
-      "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
-      ],
-      "event_type_tags": [
-        "Books & Literary"
-      ]
-    },
-    {
-      "id": "trident_booksellers_cafe_boulder_old_time_jam_thursday_december_4_2025",
-      "title": "Boulder Old-Time Jam",
-      "venue": "Trident Booksellers & Cafe",
-      "location": "Boulder",
-      "date": "Thursday, December 4, 2025",
-      "normalized_date": "2025-12-04T00:00:00",
-      "recurring": null,
-      "time": null,
-      "description": "Bring an acoustic instrument and sit in with Boulder Old-Time Jam! Every first Thursday on the Trident Patio, starting at 6 p.m.",
-      "link": "https://www.tridentcafe.com/events/2022/12/8/boulder-old-time-jam-a64x2-aw5n6-sa228-pyc6f-je84d-hgpe2-ckm9k-dddm2-dpm37-pm79k-n36jh-zsm5r-2bazp-4ftff-4ahc9-l7she-a7lex-s5sxa-wmanr-z6myr-y4pf6",
-      "image": null,
-      "source_url": "https://www.tridentcafe.com/events",
-      "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
-      ],
-      "event_type_tags": [
-        "Books & Literary"
-      ]
-    },
-    {
-      "id": "trident_booksellers_cafe_jeremy_mohney_band_friday_december_5_2025",
-      "title": "Jeremy Mohney Band",
-      "venue": "Trident Booksellers & Cafe",
-      "location": "Boulder",
-      "date": "Friday, December 5, 2025",
-      "normalized_date": "2025-12-05T00:00:00",
-      "recurring": null,
-      "time": null,
-      "description": "For over a decade, Jeremy Mohney has led one of Colorado\u2019s most popular Swing Bands. His Spirited renditions of Jazz classics as well as original compositions in the swing style give him a unique and authentic dimension. Whether playing for a jam-packed ballroom for dancers, or playing for lovers of music in an intimate club, Mohney has the charm to capture the attention of any audience.",
-      "link": "https://www.tridentcafe.com/events/2025/12/5/jeremy-mohney-band",
-      "image": null,
-      "source_url": "https://www.tridentcafe.com/events",
-      "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
-      ],
-      "event_type_tags": [
-        "Books & Literary"
-      ]
-    },
-    {
-      "id": "trident_booksellers_cafe_nicaragua_cup_of_excellence_coffee_tasting_saturday_december_6_2025",
-      "title": "Nicaragua Cup of Excellence Coffee Tasting",
-      "venue": "Trident Booksellers & Cafe",
-      "location": "Boulder",
-      "date": "Saturday, December 6, 2025",
-      "normalized_date": "2025-12-06T00:00:00",
-      "recurring": null,
-      "time": null,
-      "description": "JoinIdle Hands Roastingin a free coffee cupping of some of the top coffees from this year\u2019s Nicaragua Cup of Excellence competition. The Cup of Excellence is the premier coffee competition in the world, and coffees that rank in the competition are considered some of the best from each origin country\u2019s harvest.The event is free, but we do askyou sign up for tickets here.",
-      "link": "https://www.tridentcafe.com/events/2025/11/26/nicaragua-cup-of-excellence-coffee-tasting",
-      "image": null,
-      "source_url": "https://www.tridentcafe.com/events",
-      "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
-      ],
-      "event_type_tags": [
-        "Books & Literary"
-      ]
-    },
-    {
-      "id": "trident_booksellers_cafe_branson_anderson_tyler_john_kraehling_saturday_december_6_2025",
+      "id": "trident_booksellers_cafe_branson_anderson_tyler_john_kraehling_dec66_00_pm18_00",
       "title": "Branson Anderson / Tyler John Kraehling",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
-      "date": "Saturday, December 6, 2025",
-      "normalized_date": "2025-12-06T00:00:00",
+      "date": "Dec66:00\u202fPM18:00",
+      "normalized_date": null,
       "recurring": null,
       "time": null,
       "description": "Share",
@@ -1195,6 +886,32 @@
       "time": null,
       "description": "Share",
       "link": "https://www.tridentcafe.com/events/2025/12/7/itea-graduation-party",
+      "image": null,
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Books & Literary"
+      ]
+    },
+    {
+      "id": "trident_booksellers_cafe_language_exchange_night_monday_december_8_2025",
+      "title": "Language Exchange Night",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "Monday, December 8, 2025",
+      "normalized_date": "2025-12-08T00:00:00",
+      "recurring": null,
+      "time": null,
+      "description": "Free!Every Monday evening, 7-9p.m.All languages welcome. Facilitated by Kelvin Tavarez.",
+      "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-s7a5x",
       "image": null,
       "source_url": "https://www.tridentcafe.com/events",
       "age_restriction": null,
@@ -1289,16 +1006,16 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_carson_o_keefe_sunday_december_14_2025",
-      "title": "Carson O'Keefe",
+      "id": "trident_booksellers_cafe_death_cafe_a_conversation_on_dealing_with_death_sunday_december_14_2025",
+      "title": "Death Cafe: A Conversation On Dealing with Death",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "Sunday, December 14, 2025",
       "normalized_date": "2025-12-14T00:00:00",
       "recurring": null,
       "time": null,
-      "description": "Singer-songwriter Carson O'Keeffe seeks to speak to something unsung in everyone through radically vulnerable\u00a0songwriting and raw, emotive performances as Lonely Whale. Hauntingly honest songs meditate on the bittersweet nature of life; the beauty and the brevity of existence. A hypnotherapist by day, Carson's lyrics also explore themes of trauma, individuation, spirituality, and loneliness. Carson shares her unique voice in the hopes of providing solidarity and comfort for those experiencing life at the same frequency.\u00a0With an intimate and nostalgic sound reminiscent of the 90s, Lonely Whale's songs are often soft and lulling with peaks that become bold, brash, and wailing. Fans have likened Lonely Whale's sound to Mazzy Star, Modest Mouse, Cat Power, Joanna Newsom, Bright Eyes, and Sufjan Stevens. Carson's debut studio album, a concept album titled In the Cave, was released in 2019 and is available for streaming on any platform. Get lost in a whirlwind of sounds and emotions that offer reprieve from the loneliness of the everyday, and be less lonely with\u00a0Lonely Whale.",
-      "link": "https://www.tridentcafe.com/events/2025/12/14/carson-okeefe",
+      "description": "",
+      "link": "https://www.tridentcafe.com/events/2025/12/14/death-cafe-a-conversation-on-dealing-with-death",
       "image": null,
       "source_url": "https://www.tridentcafe.com/events",
       "age_restriction": null,
@@ -1341,16 +1058,16 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_hollow_head_thursday_december_18_2025",
-      "title": "Hollow Head",
+      "id": "trident_booksellers_cafe_light_technics_friends_ambient_electronic_improv_wednesday_december_17_2025",
+      "title": "Light Technics & Friends (Ambient & Electronic Improv)",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
-      "date": "Thursday, December 18, 2025",
-      "normalized_date": "2025-12-18T00:00:00",
+      "date": "Wednesday, December 17, 2025",
+      "normalized_date": "2025-12-17T00:00:00",
       "recurring": null,
       "time": null,
-      "description": "Hollow Head is a Denver-based rock band. The band is influenced by rock legends like Foo Fighters, Soundgarden and Radiohead, and also alternative folk bands Frightened Rabbit and Wilco.",
-      "link": "https://www.tridentcafe.com/events/2025/12/18/hollow-head",
+      "description": "Light Technics is the experimental alias and project of Ted Stevens. He will be playing some tunes from his upcoming album as well as improvisations. Joining him will be his bandmates; Protorhythm (Will Tyson) doing an improv analog techno set, and WEIRDer (Ryan Schlichtman) doing something of a similar vane.",
+      "link": "https://www.tridentcafe.com/events/2025/12/17/light-technics-amp-friends-ambient-amp-electronic-improv",
       "image": null,
       "source_url": "https://www.tridentcafe.com/events",
       "age_restriction": null,
@@ -1367,16 +1084,16 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_hollow_head_is_a_denver_based_rock_band_the_band_is_influenced_by_rock_legends_like_foo_fighters_soundgarden_and_radiohead_and_also_alternative_folk_bands_frightened_rabbit_and_wilco_recurring",
-      "title": "Hollow Head is a Denver-based rock band. The band is influenced by rock legends like Foo Fighters, Soundgarden and Radiohead, and also alternative folk bands Frightened Rabbit and Wilco.",
+      "id": "trident_booksellers_cafe_variety_show_and_now_featuring_thursday_december_18_2025",
+      "title": "Variety Show: And Now Featuring...",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
+      "date": "Thursday, December 18, 2025",
+      "normalized_date": "2025-12-18T00:00:00",
       "recurring": null,
       "time": null,
-      "description": "Hollow Head is a Denver-based rock band. The band is influenced by rock legends like Foo Fighters, Soundgarden and Radiohead, and also alternative folk bands Frightened Rabbit and Wilco.",
-      "link": null,
+      "description": "Share",
+      "link": "https://www.tridentcafe.com/events/2025/12/18/variety-show-and-now-featuring",
       "image": null,
       "source_url": "https://www.tridentcafe.com/events",
       "age_restriction": null,
@@ -1401,7 +1118,7 @@
       "normalized_date": "2025-12-19T00:00:00",
       "recurring": null,
       "time": null,
-      "description": "Share",
+      "description": "Jackson Cloud is a new alternative artist out of Boulder Colorado. His newest releases \"Twisted Faces\" (album) \"I Love You Sometimes\" and \"Let On\" (singles) are produced entirely by Cloud. \"Twisted Faces\" offer's a wide range of genres from synth heavy electronic tracks, melancholic melodies with touching lyrics, to smooth heavy metal with exciting and explosive guitar solos. Cloud's new single \"I Love You Sometimes\", an oasis of familiar retro \u2014 floating beats and vocals recalling 70\u2019s-80\u2019s morsels set in a current rock \u2014 pop milieu, a song that one writer noted has \u201cone of the most provocative song titles in forever. \u2014 Cloud's vocals coursing from Pink Floyd to Jeff Buckley in a breath.\u201d Young Cloud manages all the instruments on the tracks but now has a four piece band backing him with James Davis on bass, Chris Sprunt on guitar, and Frank Giampietro\u00a0on drums.www.jackson-cloud.com",
       "link": "https://www.tridentcafe.com/events/2025/12/19/jackson-cloud",
       "image": null,
       "source_url": "https://www.tridentcafe.com/events",
@@ -1429,6 +1146,58 @@
       "time": null,
       "description": "Share",
       "link": "https://www.tridentcafe.com/events/2026/1/2/the-local-songwriter-experiment",
+      "image": null,
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Books & Literary"
+      ]
+    },
+    {
+      "id": "trident_booksellers_cafe_sophia_eliana_band_jackson_loam_brigitte_benson_friday_january_9_2026",
+      "title": "Sophia Eliana Band/ Jackson Loam/ Brigitte Benson",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "Friday, January 9, 2026",
+      "normalized_date": "2026-01-09T00:00:00",
+      "recurring": null,
+      "time": null,
+      "description": "Brigitte Benson:Brigitte Benson is a singer/songwriter and jazz musician in Colorado. Having performed all up and down the front range, she loves any opportunity to share her music with others. She works as a board-certified music therapist, getting to mesh her love of music with her love of people. Brigitte is working hard on getting her original music recorded and out in the world, so make sure to follow her social media platforms @BrigitteBensonMusic on Instagram, Facebook, YouTube, and TikTok as not to miss a thing!Jackson Loam:Rooted in the foothills of Boulder, Colorado, Jackson Loam weaves the rhythms of farm life and travels into songs that feel both timeless and deeply personal. A multi-instrumentalist with a love for acoustic textures, he blends traditional instruments into earth-grown melodies alongside his friends to create stories shaped by open skies, rugged seasons, and the quiet resilience of the land. When not playing music you can find Jack tending to his 5-acre Boulder farm, or somewhere driving and camping his way across the West.Sophia Eliana band:Joined by her full band, Sophia Eliana shapes an ambient indie-folk soundscape that will envelop you and warm your belly like a home-cooked meal. Her undergraduate studies began as a voice principal at Berklee College of Music in Valencia, Spain. Among sheep and root vegetables, she concluded her undergraduate studies farming at College of the Atlantic on Mount Desert Island, Maine. Sophia Eliana has embarked on multiple national and international tours, performing at venues across Spain, Canada, Iceland, and the United States. She has opened up for notable artists including The Ballroom Thieves, Emma Klein, Marielle Kraft, and Spectre Jones. Anyone attending Sophia Eliana\u2019s shows is guaranteed to walk away with a belly full of giggles, a softened smile, and an ooey-gooey heart. Listen to her studio sophomore album, \u201cGlitter Bug,\u201d recorded at The Wonderhaus with Jacob Williams and Noah Dearbon, available on any streaming platform now.",
+      "link": "https://www.tridentcafe.com/events/2026/1/9/sophia-eliana-band-jackson-loam-brigitte-benson",
+      "image": null,
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Books & Literary"
+      ]
+    },
+    {
+      "id": "trident_booksellers_cafe_stryder_jones_saturday_january_10_2026",
+      "title": "Stryder Jones",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "Saturday, January 10, 2026",
+      "normalized_date": "2026-01-10T00:00:00",
+      "recurring": null,
+      "time": null,
+      "description": "Share",
+      "link": "https://www.tridentcafe.com/events/2026/1/10/stryder-jones",
       "image": null,
       "source_url": "https://www.tridentcafe.com/events",
       "age_restriction": null,
@@ -1679,6 +1448,32 @@
       ]
     },
     {
+      "id": "trident_booksellers_cafe_salads_sunbeams_friday_february_13_2026",
+      "title": "Salads & Sunbeams",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "Friday, February 13, 2026",
+      "normalized_date": "2026-02-13T00:00:00",
+      "recurring": null,
+      "time": null,
+      "description": "Share",
+      "link": "https://www.tridentcafe.com/events/2026/2/13/salads-amp-sunbeams",
+      "image": null,
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Books & Literary"
+      ]
+    },
+    {
       "id": "trident_booksellers_cafe_trident_author_series_hilary_giovale_becoming_a_good_relative_tuesday_february_17_2026",
       "title": "Trident Author Series: Hilary Giovale - Becoming a Good Relative",
       "venue": "Trident Booksellers & Cafe",
@@ -1809,42 +1604,68 @@
       ]
     },
     {
-      "id": "license_no_1_live_music_with_blove_november_29_2025",
-      "title": "Live Music with Blove",
-      "venue": "License No 1",
+      "id": "trident_booksellers_cafe_nicaragua_cup_of_excellence_coffee_tasting_dec610_00_am10_00",
+      "title": "Nicaragua Cup of Excellence Coffee Tasting",
+      "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
-      "date": "November 29, 2025",
-      "normalized_date": "2025-11-29T00:00:00",
+      "date": "Dec610:00\u202fAM10:00",
+      "normalized_date": null,
       "recurring": null,
-      "time": "59:00\u202fPM",
-      "description": "",
-      "link": "https://www.license1boulderado.com/calendar/live-music-with-superimposition-3-tzj3w-ragmp-n3wp5-bm6da-7238m-r3mpg-2tk4t-etj9j-x52nl-43zhr-rta6x-7xyzy-w592k-7rgwt-p2ga6-yg2m3-ybk7a-3fxsm-kg2b8-r54sk-5639t-fw4a8-t9cwn-rg6f3-m6fre",
+      "time": null,
+      "description": "JoinIdle Hands Roastingin a free coffee cupping of some of the top coffees from this year\u2019s Nicaragua Cup of Excellence competition. The Cup of Excellence is the premier coffee competition in the world, and coffees that rank in the competition are considered some of the best from each origin country\u2019s harvest.The event is free, but we do askyou sign up for tickets here.",
+      "link": "https://www.tridentcafe.com/events/2025/11/26/nicaragua-cup-of-excellence-coffee-tasting",
       "image": null,
-      "source_url": "https://www.license1boulderado.com/calendar",
+      "source_url": "https://www.tridentcafe.com/events",
       "age_restriction": null,
-      "venue_tag": "License No 1",
+      "venue_tag": "Trident Booksellers & Cafe",
       "location_tag": "Boulder",
       "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+",
-        "Music"
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
       ],
       "event_type_tags": [
-        "Nightlife"
+        "Books & Literary"
       ]
     },
     {
-      "id": "license_no_1_live_music_with_george_nelson_band_december_03_2025",
+      "id": "trident_booksellers_cafe_bethylovelight_is_an_intergalactic_star_rockin_musician_who_loves_to_rock_out_for_truth_beauty_goodness_and_the_one_love_living_as_a_multifaceted_artist_she_composes_records_and_co_produces_all_of_her_original_audio_creations_bethylovelight_offers_a_stellar_variety_of_music_from_angelic_downtempo_to_hip_hop_reggae_rock_singing_with_the_utmost_light_of_love_she_intentionally_catalyzes_ecstatic_ascension_through_her_sonic_art_you_can_find_her_music_on_spotify_apple_music_soundcloud_bandcamp_fb_ig_tiktok_and_on_her_websitewww_bethylovelight_com_recurring",
+      "title": "BethyLoveLight is an intergalactic star-rockin' musician who loves to rock out for Truth, beauty, goodness and the One Love! Living as a multifaceted artist, she composes, records and co-produces all of her original audio creations.\u00a0 BethyLoveLight offers a stellar variety of music from angelic downtempo to hip-hop/reggae/rock.\u00a0\u00a0Singing with the utmost Light of Love, she intentionally catalyzes\u00a0ecstatic ascension through her sonic art.\u00a0 You can find her music on Spotify, Apple Music, SoundCloud, Bandcamp, FB, IG, TikTok and on her websitewww.bethylovelight.com",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "BethyLoveLight is an intergalactic star-rockin' musician who loves to rock out for Truth, beauty, goodness and the One Love! Living as a multifaceted artist, she composes, records and co-produces all of her original audio creations.\u00a0 BethyLoveLight offers a stellar variety of music from angelic downtempo to hip-hop/reggae/rock.\u00a0\u00a0Singing with the utmost Light of Love, she intentionally catalyzes\u00a0ecstatic ascension through her sonic art.\u00a0 You can find her music on Spotify, Apple Music, SoundCloud, Bandcamp, FB, IG, TikTok and on her websitewww.bethylovelight.com",
+      "link": "http://www.bethylovelight.com/",
+      "image": null,
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Books & Literary"
+      ]
+    },
+    {
+      "id": "license_no_1_live_music_with_george_nelson_band_december_10_2025",
       "title": "Live Music with George Nelson Band",
       "venue": "License No 1",
       "location": "Boulder",
-      "date": "December 03, 2025",
-      "normalized_date": "2025-12-03T00:00:00",
+      "date": "December 10, 2025",
+      "normalized_date": "2025-12-10T00:00:00",
       "recurring": null,
       "time": "58:00\u202fPM",
       "description": "George and the band play every Wednesday at License No.1 in the catacombs of the Boulderado Hotel. Come hear this legend play a unique mix of American music from the likes of Ray Charles and Louis Armstrong. It doesn't get more real than this.",
-      "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-pfwhs",
+      "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-ecp99",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
       "age_restriction": null,
@@ -1861,68 +1682,16 @@
       ]
     },
     {
-      "id": "license_no_1_live_music_with_hunter_stone_and_friends_december_04_2025",
+      "id": "license_no_1_live_music_with_hunter_stone_and_friends_december_11_2025",
       "title": "Live Music with Hunter Stone and Friends",
       "venue": "License No 1",
       "location": "Boulder",
-      "date": "December 04, 2025",
-      "normalized_date": "2025-12-04T00:00:00",
+      "date": "December 11, 2025",
+      "normalized_date": "2025-12-11T00:00:00",
       "recurring": null,
       "time": "59:00\u202fPM",
       "description": "",
-      "link": "https://www.license1boulderado.com/calendar/live-music-with-superimposition-3-tzj3w-ragmp-n3wp5-bm6da-7238m-r3mpg-2tk4t-etj9j-x52nl-43zhr-rta6x-7xyzy-w592k-7rgwt-p2ga6-yg2m3-ybk7a-3fxsm-kg2b8-r54sk-5639t-stm8r-dskyt",
-      "image": null,
-      "source_url": "https://www.license1boulderado.com/calendar",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+",
-        "Music"
-      ],
-      "event_type_tags": [
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "license_no_1_live_music_with_von_disco_december_05_2025",
-      "title": "Live Music with Von Disco",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": "December 05, 2025",
-      "normalized_date": "2025-12-05T00:00:00",
-      "recurring": null,
-      "time": "59:00\u202fPM",
-      "description": "",
-      "link": "https://www.license1boulderado.com/calendar/live-music-with-von-disco-1-5wyha-g5yg8-clwwl-r33ay-xc93y-yncmj-nfk8m-tnnnz-8bc5j-agb4t-35ac9-fp97e-at67x",
-      "image": null,
-      "source_url": "https://www.license1boulderado.com/calendar",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+",
-        "Music"
-      ],
-      "event_type_tags": [
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "license_no_1_live_music_with_voo_doo_lily_december_06_2025",
-      "title": "Live Music with Voo Doo Lily",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": "December 06, 2025",
-      "normalized_date": "2025-12-06T00:00:00",
-      "recurring": null,
-      "time": "59:00\u202fPM",
-      "description": "",
-      "link": "https://www.license1boulderado.com/calendar/live-music-with-superimposition-3-tzj3w-ragmp-n3wp5-bm6da-7238m-r3mpg-2tk4t-etj9j-x52nl-43zhr-rta6x-7xyzy-w592k-7rgwt-p2ga6-yg2m3-b23k7-9d9ln-47w3j-7f2be-a3ek8",
+      "link": "https://www.license1boulderado.com/calendar/live-music-with-superimposition-3-tzj3w-ragmp-n3wp5-bm6da-7238m-r3mpg-2tk4t-etj9j-x52nl-43zhr-rta6x-7xyzy-w592k-7rgwt-p2ga6-yg2m3-ybk7a-3fxsm-kg2b8-r54sk-5639t-stm8r-xl2wt",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
       "age_restriction": null,
@@ -1975,6 +1744,58 @@
       "time": "59:00\u202fPM",
       "description": "",
       "link": "https://www.license1boulderado.com/calendar/live-music-with-the-rhythm-allstars",
+      "image": null,
+      "source_url": "https://www.license1boulderado.com/calendar",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+",
+        "Music"
+      ],
+      "event_type_tags": [
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_live_music_with_phoebe_nix_december_26_2025",
+      "title": "Live Music with Phoebe Nix",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "December 26, 2025",
+      "normalized_date": "2025-12-26T00:00:00",
+      "recurring": null,
+      "time": "59:00\u202fPM",
+      "description": "",
+      "link": "https://www.license1boulderado.com/calendar/live-music-with-phoebe-nix-1-wkm45-c8ct8",
+      "image": null,
+      "source_url": "https://www.license1boulderado.com/calendar",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+",
+        "Music"
+      ],
+      "event_type_tags": [
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_live_music_with_blove_december_27_2025",
+      "title": "Live Music with Blove",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "December 27, 2025",
+      "normalized_date": "2025-12-27T00:00:00",
+      "recurring": null,
+      "time": "59:00\u202fPM",
+      "description": "",
+      "link": "https://www.license1boulderado.com/calendar/live-music-with-superimposition-3-tzj3w-ragmp-n3wp5-bm6da-7238m-r3mpg-2tk4t-etj9j-x52nl-43zhr-rta6x-7xyzy-w592k-7rgwt-p2ga6-yg2m3-ybk7a-3fxsm-kg2b8-r54sk-5639t-fw4a8-t9cwn-rg6f3-n2jr4",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
       "age_restriction": null,
