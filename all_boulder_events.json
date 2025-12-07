@@ -1,8 +1,9 @@
 {
-  "generated_at": "2025-12-07T16:28:25.490790",
-  "total_events": 66,
+  "generated_at": "2025-12-07T16:39:48.189083",
+  "total_events": 75,
   "tags": {
     "venues": [
+      "Junkyard Social Club",
       "License No 1",
       "Longs Peak Pub",
       "Southern Sun Pub",
@@ -18,10 +19,13 @@
     ],
     "venue_types": [
       "21+",
+      "All Ages",
       "Arts",
       "Bar",
       "Books",
       "Cafe",
+      "Community",
+      "Dance",
       "Entertainment",
       "Food & Drink",
       "Games",
@@ -30,14 +34,20 @@
       "Live Music",
       "Music",
       "Nightlife",
+      "Performance",
       "Pub",
       "Upscale"
     ],
     "event_types": [
+      "21+",
+      "All Ages",
       "Books & Literary",
+      "Community",
       "Entertainment",
+      "Family Friendly",
       "Music",
-      "Nightlife"
+      "Nightlife",
+      "Performance"
     ]
   },
   "events": [
@@ -117,6 +127,261 @@
       ],
       "event_type_tags": [
         "Music"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_christmas_movie_the_play_the_beginning_sunday_december_7_2025",
+      "title": "Christmas Movie the Play: The Beginning",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Sunday, December 7, 2025",
+      "normalized_date": "2025-12-07T00:00:00",
+      "recurring": null,
+      "time": "6:30 Doors | 7:00 Show",
+      "description": "",
+      "link": null,
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/09/Christmas-Movie-the-Play-768x960.jpg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": "Must be age 18+",
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Dance",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "21+",
+        "Performance"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_b_e_a_t_meet_up_wednesday_december_10_2025",
+      "title": "B.E.A.T. Meet-Up",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Wednesday, December 10, 2025",
+      "normalized_date": "2025-12-10T00:00:00",
+      "recurring": null,
+      "time": "6:00 - 7:00 PM",
+      "description": "",
+      "link": null,
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/06/BEAT-768x768.jpg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": null,
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Dance",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Community"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_boulder_burner_meet_up_wednesday_december_10_2025",
+      "title": "Boulder Burner Meet-up",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Wednesday, December 10, 2025",
+      "normalized_date": "2025-12-10T00:00:00",
+      "recurring": null,
+      "time": "6:30 - 8:30 PM",
+      "description": "",
+      "link": null,
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/07/Burner-768x434.jpg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": null,
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Dance",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Community"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_junkyard_game_night_thursday_december_11_2025",
+      "title": "Junkyard Game Night",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Thursday, December 11, 2025",
+      "normalized_date": "2025-12-11T00:00:00",
+      "recurring": null,
+      "time": "6:00 - 9:00 PM",
+      "description": "",
+      "link": null,
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/06/Game-Night-768x768.jpg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": "All Ages are Welcome",
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Dance",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Community",
+        "All Ages",
+        "Family Friendly"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_fusion_partner_dance_thursday_december_11_2025",
+      "title": "Fusion Partner Dance",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Thursday, December 11, 2025",
+      "normalized_date": "2025-12-11T00:00:00",
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "link": null,
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/06/Fusion-Dance-768x768.jpg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": null,
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Dance",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Community",
+        "Music"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_salsaton_events_friday_december_12_2025",
+      "title": "Salsaton Events",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Friday, December 12, 2025",
+      "normalized_date": "2025-12-12T00:00:00",
+      "recurring": null,
+      "time": "7:30 - 11:00 PM",
+      "description": "",
+      "link": null,
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/12/Salsaton-Dance-Party-768x644.jpg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": "Family Friendly",
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Dance",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "All Ages",
+        "Music",
+        "Community",
+        "Performance",
+        "Family Friendly"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_the_dose_a_psychedelic_comedy_experience_saturday_december_13_2025",
+      "title": "THE DOSE: A Psychedelic Comedy Experience",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Saturday, December 13, 2025",
+      "normalized_date": "2025-12-13T00:00:00",
+      "recurring": null,
+      "time": "7pm Doors/Preshow DJ Set | 8pm Comedy Show | End time 10pm",
+      "description": "",
+      "link": null,
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/08/The-Dose-Psychedelic-Comedy-Show.jpg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": "Must be age 18+",
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Dance",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Music",
+        "21+",
+        "Performance"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_cheryl_lock_local_author_taylor_miller_local_illustrator_story_time_book_signing_sunday_december_14_2025",
+      "title": "Cheryl Lock \u2013 Local author & Taylor Miller \u2013 local illustrator: story time & book signing!",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Sunday, December 14, 2025",
+      "normalized_date": "2025-12-14T00:00:00",
+      "recurring": null,
+      "time": "11:00 AM - Noon",
+      "description": "",
+      "link": null,
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/02/Cheryl-Lock-768x484.jpeg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": "Family Friendly",
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Dance",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "All Ages",
+        "Family Friendly"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_creativemornings_friday_december_19_2025",
+      "title": "CreativeMornings",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Friday, December 19, 2025",
+      "normalized_date": "2025-12-19T00:00:00",
+      "recurring": null,
+      "time": "8:00 am doors | 9:00 am talk",
+      "description": "",
+      "link": null,
+      "image": null,
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": "Family Friendly",
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Dance",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Community",
+        "All Ages"
       ]
     },
     {

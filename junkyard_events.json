@@ -1,1 +1,87 @@
-[]
+[
+  {
+    "title": "Christmas Movie the Play: The Beginning",
+    "categories": "Performance",
+    "age_restriction": "Must be age 18+",
+    "date": "Sunday, December 7, 2025",
+    "time": "6:30 Doors | 7:00 Show",
+    "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/09/Christmas-Movie-the-Play-768x960.jpg",
+    "venue": "Junkyard Social Club",
+    "source_url": "https://junkyardsocialclub.org/events/"
+  },
+  {
+    "title": "B.E.A.T. Meet-Up",
+    "categories": "Community",
+    "date": "Wednesday, December 10, 2025",
+    "time": "6:00 - 7:00 PM",
+    "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/06/BEAT-768x768.jpg",
+    "venue": "Junkyard Social Club",
+    "source_url": "https://junkyardsocialclub.org/events/"
+  },
+  {
+    "title": "Boulder Burner Meet-up",
+    "categories": "Community",
+    "date": "Wednesday, December 10, 2025",
+    "time": "6:30 - 8:30 PM",
+    "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/07/Burner-768x434.jpg",
+    "venue": "Junkyard Social Club",
+    "source_url": "https://junkyardsocialclub.org/events/"
+  },
+  {
+    "title": "Junkyard Game Night",
+    "categories": "Community,Family Fun",
+    "age_restriction": "All Ages are Welcome",
+    "date": "Thursday, December 11, 2025",
+    "time": "6:00 - 9:00 PM",
+    "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/06/Game-Night-768x768.jpg",
+    "venue": "Junkyard Social Club",
+    "source_url": "https://junkyardsocialclub.org/events/"
+  },
+  {
+    "title": "Fusion Partner Dance",
+    "categories": "Community,Dance/Music",
+    "date": "Thursday, December 11, 2025",
+    "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/06/Fusion-Dance-768x768.jpg",
+    "venue": "Junkyard Social Club",
+    "source_url": "https://junkyardsocialclub.org/events/"
+  },
+  {
+    "title": "Salsaton Events",
+    "categories": "Community,Dance/Music,Family Fun,Performance",
+    "age_restriction": "Family Friendly",
+    "date": "Friday, December 12, 2025",
+    "time": "7:30 - 11:00 PM",
+    "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/12/Salsaton-Dance-Party-768x644.jpg",
+    "venue": "Junkyard Social Club",
+    "source_url": "https://junkyardsocialclub.org/events/"
+  },
+  {
+    "title": "THE DOSE: A Psychedelic Comedy Experience",
+    "categories": "Dance/Music,Performance",
+    "age_restriction": "Must be age 18+",
+    "date": "Saturday, December 13, 2025",
+    "time": "7pm Doors/Preshow DJ Set | 8pm Comedy Show | End time 10pm",
+    "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/08/The-Dose-Psychedelic-Comedy-Show.jpg",
+    "venue": "Junkyard Social Club",
+    "source_url": "https://junkyardsocialclub.org/events/"
+  },
+  {
+    "title": "Cheryl Lock \u2013 Local author & Taylor Miller \u2013 local illustrator: story time & book signing!",
+    "categories": "Family Fun",
+    "age_restriction": "Family Friendly",
+    "date": "Sunday, December 14, 2025",
+    "time": "11:00 AM - Noon",
+    "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/02/Cheryl-Lock-768x484.jpeg",
+    "venue": "Junkyard Social Club",
+    "source_url": "https://junkyardsocialclub.org/events/"
+  },
+  {
+    "title": "CreativeMornings",
+    "categories": "Community",
+    "age_restriction": "Family Friendly",
+    "date": "Friday, December 19, 2025",
+    "time": "8:00 am doors | 9:00 am talk",
+    "venue": "Junkyard Social Club",
+    "source_url": "https://junkyardsocialclub.org/events/"
+  }
+]
