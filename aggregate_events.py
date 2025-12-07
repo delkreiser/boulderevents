@@ -172,12 +172,15 @@ class EventAggregator:
                         print(f"  Error parsing date for {event.get('title')}: {e}")
                         pass  # If parsing fails, include the event anyway
                 
+                # Get location from event first, fall back to venue config
+                event_location = event.get('location', venue_config['location'])
+                
                 # Create enriched event
                 enriched_event = {
                     'id': self.generate_event_id(event),
                     'title': event.get('title', 'Untitled Event'),
                     'venue': event_venue,
-                    'location': venue_config['location'],
+                    'location': event_location,
                     'date': event.get('date'),
                     'normalized_date': normalized_date,
                     'recurring': event.get('recurring'),
@@ -190,7 +193,7 @@ class EventAggregator:
                     
                     # Tags
                     'venue_tag': event_venue,
-                    'location_tag': venue_config['location'],
+                    'location_tag': event_location,
                     'venue_type_tags': venue_config['tags'],
                     'event_type_tags': self.extract_event_type_tags(event),
                 }

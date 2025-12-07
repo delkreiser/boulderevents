@@ -59,6 +59,16 @@ RECURRING_EVENTS = [
         'link': 'https://www.mountainsunpub.com/events/',
         'source_url': 'https://www.mountainsunpub.com/events/',
     },
+    {
+        'title': 'Live Music',
+        'venue': 'Mountain Sun Pub',
+        'location': 'Boulder',
+        'recurring': 'Friday Nights',
+        'time': '9:00 PM - 12:00 AM',
+        'description': 'Join us every Friday night for live music at Mountain Sun Pub on Pearl Street.',
+        'link': 'https://www.mountainsunpub.com/events/',
+        'source_url': 'https://www.mountainsunpub.com/events/',
+    },
 ]
 
 
