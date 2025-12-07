@@ -80,83 +80,51 @@ def parse_junkyard_event_card(card):
     
     event = {}
     
-    # Get all text from the card
-    card_text = card.get_text(separator='|', strip=True)
+    # Find the event title (h2 heading)
+    title_elem = card.find('h2')
+    if title_elem:
+        event['title'] = title_elem.get_text(strip=True)
+    else:
+        # Skip if no title found
+        return None
     
-    # Split by lines to parse
-    lines = [line.strip() for line in card_text.split('|') if line.strip()]
+    # Get all list items which contain date, time, categories, age info
+    list_items = card.find_all('li')
     
-    # First substantial line is usually the title
-    for line in lines:
-        if len(line) > 5 and line not in ['Dance/Music', 'Community', 'Educational', 'Performance', 'Family Fun', 'All Ages are Welcome', 'All Ages', 'Family Friendly']:
-            if not line.startswith('-') and not re.match(r'^\d', line) and 'ages' not in line.lower():
-                event['title'] = line
-                break
+    for li in list_items:
+        text = li.get_text(strip=True)
+        
+        # Check if this is the date
+        if re.search(r'(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday),\s+(January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2},\s+\d{4}', text, re.I):
+            event['date'] = text
+        
+        # Check if this is the time (contains PM/AM or "Doors")
+        elif re.search(r'\d{1,2}:\d{2}|Doors|POSTPONED|Closed', text, re.I):
+            event['time'] = text
+        
+        # Check if this is categories (contains commas or known category words)
+        elif any(cat in text for cat in ['Community', 'Dance/Music', 'Educational', 'Performance', 'Family Fun']):
+            event['categories'] = text
+        
+        # Check if this is age restriction
+        elif 'age' in text.lower() or 'family friendly' in text.lower():
+            event['age_restriction'] = text
     
-    # Extract date
-    date_patterns = [
-        r'(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday),\s+(January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2}(?:st|nd|rd|th)?,\s+\d{4}',
-        r'(January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2}(?:st|nd|rd|th)?,\s+\d{4}',
-    ]
+    # Find the "Event Info" link
+    link_elem = card.find('a', string=re.compile(r'Event Info', re.I))
+    if link_elem and link_elem.get('href'):
+        href = link_elem['href']
+        if href.startswith('http'):
+            event['link'] = href
+        elif href.startswith('/'):
+            event['link'] = f"https://junkyardsocialclub.org{href}"
     
-    for line in lines:
-        for pattern in date_patterns:
-            match = re.search(pattern, line, re.I)
-            if match:
-                event['date'] = match.group(0)
-                break
-        if event.get('date'):
-            break
-    
-    # Extract time
-    for line in lines:
-        time_match = re.search(r'\d{1,2}:\d{2}\s*(?:AM|PM|am|pm)|Doors\s+\d{1,2}:\d{2}', line, re.I)
-        if time_match:
-            event['time'] = line  # Keep the full time description
-            break
-    
-    # Extract categories
-    categories = []
-    category_keywords = ['Dance/Music', 'Community', 'Educational', 'Performance', 'Family Fun']
-    for line in lines:
-        for keyword in category_keywords:
-            if keyword in line:
-                categories.extend([k.strip() for k in line.split(',')])
-                break
-    if categories:
-        event['categories'] = ', '.join(list(set(categories)))
-    
-    # Extract age restriction
-    for line in lines:
-        if 'age' in line.lower() or 'family friendly' in line.lower():
-            event['age_restriction'] = line
-            break
-    
-    # Look for event link
-    link_elem = card.find('a', href=True)
-    if link_elem:
-        href = link_elem.get('href')
-        if href:
-            # Make sure it's a full URL
-            if href.startswith('http'):
-                event['link'] = href
-            elif href.startswith('/'):
-                event['link'] = f"https://junkyardsocialclub.org{href}"
-    
-    # Get image
+    # Get the event image
     img_elem = card.find('img')
     if img_elem and img_elem.get('src'):
         event['image'] = img_elem['src']
     
-    # Get description if available
-    desc_elem = card.find('p')
-    if desc_elem:
-        desc_text = desc_elem.get_text(strip=True)
-        # Filter out category/age info from description
-        if len(desc_text) > 20 and not any(keyword in desc_text for keyword in category_keywords + ['All Ages', 'Family Friendly']):
-            event['description'] = desc_text[:300]
-    
-    return event
+    return event if event.get('title') and event.get('date') else None
 
 
 if __name__ == "__main__":
