@@ -1,11 +1,12 @@
 {
-  "generated_at": "2025-12-07T18:55:14.277810",
+  "generated_at": "2025-12-07T19:06:51.005737",
   "total_events": 74,
   "tags": {
     "venues": [
       "Junkyard Social Club",
       "License No 1",
       "Longs Peak Pub",
+      "Mountain Sun Pub",
       "Southern Sun Pub",
       "St Julien Hotel & Spa",
       "Trident Booksellers & Cafe",
@@ -13,7 +14,9 @@
       "Vine Street Pub"
     ],
     "locations": [
-      "Boulder"
+      "Boulder",
+      "Denver",
+      "Longmont"
     ],
     "venue_types": [
       "21+",
@@ -151,8 +154,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "21+"
+        "21+",
+        "Performance"
       ]
     },
     {
@@ -233,9 +236,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
+        "Community",
         "All Ages",
-        "Community"
+        "Family Friendly"
       ]
     },
     {
@@ -262,8 +265,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
@@ -291,10 +294,10 @@
       ],
       "event_type_tags": [
         "Music",
-        "All Ages",
         "Family Friendly",
         "Community",
-        "Performance"
+        "Performance",
+        "All Ages"
       ]
     },
     {
@@ -321,9 +324,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "21+",
         "Music",
-        "Performance",
-        "21+"
+        "Performance"
       ]
     },
     {
@@ -350,8 +353,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
-        "All Ages"
+        "All Ages",
+        "Family Friendly"
       ]
     },
     {
@@ -378,8 +381,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Community"
+        "Community",
+        "All Ages"
       ]
     },
     {
@@ -406,10 +409,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "Performance",
         "Community",
-        "Educational"
+        "Educational",
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -436,10 +439,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "Family Friendly",
+        "Community",
         "All Ages",
-        "Community"
+        "Music",
+        "Family Friendly"
       ]
     },
     {
@@ -466,10 +469,10 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "All Ages",
         "Music",
-        "Family Friendly",
         "Performance",
-        "All Ages"
+        "Family Friendly"
       ]
     },
     {
@@ -496,9 +499,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Community",
         "Music",
-        "Educational",
-        "Community"
+        "Educational"
       ]
     },
     {
@@ -525,10 +528,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "Performance",
+        "21+",
         "Community",
-        "21+"
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -555,10 +558,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "Performance",
+        "21+",
         "Community",
-        "21+"
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -585,9 +588,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Community",
         "Music",
         "Performance",
-        "Community",
         "All Ages"
       ]
     },
@@ -615,9 +618,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Community",
         "Music",
-        "Performance",
-        "Community"
+        "Performance"
       ]
     },
     {
@@ -644,16 +647,16 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Community",
         "Music",
-        "Performance",
-        "Community"
+        "Performance"
       ]
     },
     {
       "id": "vine_street_pub_vinyl_night_every_monday",
       "title": "Vinyl Night",
       "venue": "Vine Street Pub",
-      "location": "Boulder",
+      "location": "Denver",
       "date": null,
       "normalized_date": null,
       "recurring": "Every Monday",
@@ -664,7 +667,7 @@
       "source_url": "https://www.mountainsunpub.com/events/",
       "age_restriction": null,
       "venue_tag": "Vine Street Pub",
-      "location_tag": "Boulder",
+      "location_tag": "Denver",
       "venue_type_tags": [
         "Music",
         "Pub",
@@ -677,7 +680,7 @@
       "id": "vine_street_pub_music_night_every_saturday",
       "title": "Music Night",
       "venue": "Vine Street Pub",
-      "location": "Boulder",
+      "location": "Denver",
       "date": null,
       "normalized_date": null,
       "recurring": "Every Saturday",
@@ -688,7 +691,7 @@
       "source_url": "https://www.mountainsunpub.com/events/",
       "age_restriction": null,
       "venue_tag": "Vine Street Pub",
-      "location_tag": "Boulder",
+      "location_tag": "Denver",
       "venue_type_tags": [
         "Music",
         "Pub",
@@ -701,7 +704,7 @@
       "id": "longs_peak_pub_game_night_every_monday",
       "title": "Game Night",
       "venue": "Longs Peak Pub",
-      "location": "Boulder",
+      "location": "Longmont",
       "date": null,
       "normalized_date": null,
       "recurring": "Every Monday",
@@ -712,7 +715,7 @@
       "source_url": "https://www.mountainsunpub.com/events/",
       "age_restriction": null,
       "venue_tag": "Longs Peak Pub",
-      "location_tag": "Boulder",
+      "location_tag": "Longmont",
       "venue_type_tags": [
         "Music",
         "Pub",
@@ -746,10 +749,34 @@
       "event_type_tags": []
     },
     {
+      "id": "mountain_sun_pub_live_music_friday_nights",
+      "title": "Live Music",
+      "venue": "Mountain Sun Pub",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": "Friday Nights",
+      "time": "9:00 PM - 12:00 AM",
+      "description": "Join us every Friday night for live music at Mountain Sun Pub on Pearl Street.",
+      "link": "https://www.mountainsunpub.com/events/",
+      "image": null,
+      "source_url": "https://www.mountainsunpub.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Mountain Sun Pub",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Pub",
+        "Bar",
+        "Food & Drink"
+      ],
+      "event_type_tags": []
+    },
+    {
       "id": "longs_peak_pub_xmas_espectacular_12_23_2025",
       "title": "XMAS Espectacular!",
       "venue": "Longs Peak Pub",
-      "location": "Boulder",
+      "location": "Longmont",
       "date": "12/23/2025",
       "normalized_date": "2025-12-23T00:00:00",
       "recurring": null,
@@ -760,7 +787,7 @@
       "source_url": "https://www.mountainsunpub.com/events/",
       "age_restriction": null,
       "venue_tag": "Longs Peak Pub",
-      "location_tag": "Boulder",
+      "location_tag": "Longmont",
       "venue_type_tags": [
         "Music",
         "Pub",
@@ -1836,32 +1863,6 @@
       "time": "58:00\u202fPM",
       "description": "George and the band play every Wednesday at License No.1 in the catacombs of the Boulderado Hotel. Come hear this legend play a unique mix of American music from the likes of Ray Charles and Louis Armstrong. It doesn't get more real than this.",
       "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-ecp99",
-      "image": null,
-      "source_url": "https://www.license1boulderado.com/calendar",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+",
-        "Music"
-      ],
-      "event_type_tags": [
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "license_no_1_the_underground_comedy_show_december_11_2025",
-      "title": "The Underground Comedy Show",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": "December 11, 2025",
-      "normalized_date": "2025-12-11T00:00:00",
-      "recurring": null,
-      "time": "58:00\u202fPM",
-      "description": "",
-      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-556r9-emndm",
       "image": null,
       "source_url": "https://www.license1boulderado.com/calendar",
       "age_restriction": null,
