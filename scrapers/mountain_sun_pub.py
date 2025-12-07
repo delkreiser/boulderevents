@@ -1,264 +1,239 @@
 """
-Mountain Sun Pub Event Scraper
+Mountain Sun Pub Event Scraper - Hybrid Approach
 URL: https://www.mountainsunpub.com/events/
 
-This scraper extracts events from Mountain Sun Pub and their sister pubs
-(Southern Sun, Vine Street Pub, Longs Peak Pub)
+This scraper combines:
+1. Static recurring events (manually maintained)
+2. Dynamic scraping of special one-off events from page text
 """
 
+from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup
 import json
 import re
 from datetime import datetime
 
 
-def scrape_mountain_sun_events(html_content):
-    """
-    Scrape events from Mountain Sun Pub
+# ============================================================
+# STATIC RECURRING EVENTS - Update these manually as needed
+# ============================================================
+
+RECURRING_EVENTS = [
+    {
+        'title': 'Vinyl Night',
+        'venue': 'Vine Street Pub',
+        'location': 'Denver',
+        'recurring': 'Every Monday',
+        'time': '5:00 PM - 9:00 PM',
+        'description': 'Join us every Monday for an intentional listening experience. Share your favorite tunes and discover new music while enjoying house-made beer and snacks. Bring in a record from your collection and in exchange, we will play it for the pub and give you a free beer to sip on while you sit back and listen.',
+        'link': 'https://www.mountainsunpub.com/events/',
+        'source_url': 'https://www.mountainsunpub.com/events/',
+    },
+    {
+        'title': 'Music Night',
+        'venue': 'Vine Street Pub',
+        'location': 'Denver',
+        'recurring': 'Every Saturday',
+        'time': '8:00 PM',
+        'description': 'In collaboration with Stir Fry Sessions, a Denver based artist collective, we showcase local talent while offering a community space to dance and mingle.',
+        'link': 'https://www.mountainsunpub.com/events/',
+        'source_url': 'https://www.mountainsunpub.com/events/',
+    },
+    {
+        'title': 'Game Night',
+        'venue': 'Longs Peak Pub',
+        'location': 'Longmont',
+        'recurring': 'Every Monday',
+        'time': '5:00 PM - 10:00 PM',
+        'description': 'Monday Nights from 5pm-10pm. Free Fries and Happy Hour prices for all game tables!',
+        'link': 'https://www.mountainsunpub.com/events/',
+        'source_url': 'https://www.mountainsunpub.com/events/',
+    },
+    {
+        'title': 'The Bluegrass Pick',
+        'venue': 'Southern Sun Pub',
+        'location': 'Boulder',
+        'recurring': 'Every Thursday',
+        'time': '7:30 PM - 9:30 PM',
+        'description': 'The Bluegrass Pick is back, hosted by Max Kabat of Bowregard! Join us every Thursday from 7:30pm – 9:30pm for free live music, toe-tappin\' energy, and the cozy pub vibe you already love.',
+        'link': 'https://www.mountainsunpub.com/events/',
+        'source_url': 'https://www.mountainsunpub.com/events/',
+    },
+]
+
+
+def scrape_mountain_sun_events():
+    """Scrape Mountain Sun events - combines static recurring + dynamic special events"""
     
-    Args:
-        html_content: Raw HTML content from the events page
+    events = []
+    
+    # Add static recurring events
+    print("Adding static recurring events...")
+    for event in RECURRING_EVENTS:
+        events.append(event.copy())
+        print(f"  ✓ {event['title']} at {event['venue']}")
+    
+    # Try to scrape special one-off events from page text
+    print("\nSearching for special events on website...")
+    try:
+        with sync_playwright() as p:
+            browser = p.chromium.launch(
+                headless=True,
+                args=['--no-sandbox', '--disable-setuid-sandbox']
+            )
+            page = browser.new_page()
+            
+            print("Loading Mountain Sun events page...")
+            page.goto('https://www.mountainsunpub.com/events/', 
+                     wait_until='domcontentloaded', timeout=30000)
+            page.wait_for_timeout(3000)
+            
+            # Get page text
+            page_text = page.inner_text('body')
+            
+            browser.close()
+            
+            # Look for special events in the text
+            special_events = extract_special_events(page_text)
+            
+            if special_events:
+                print(f"Found {len(special_events)} special event(s):")
+                for event in special_events:
+                    events.append(event)
+                    print(f"  ✓ {event['title']} at {event['venue']}")
+            else:
+                print("  No special events found in text")
+                
+    except Exception as e:
+        print(f"Error scraping special events: {e}")
+        print("Continuing with static events only...")
+    
+    return events
+
+
+def extract_special_events(page_text):
+    """Extract special one-off events from unstructured page text"""
+    
+    special_events = []
+    
+    # Pattern to find events with dates like "12/23/25" or "December 23, 2025"
+    # Looking for patterns like: "Event Name, Venue, Date, Time"
+    
+    # Split text into lines
+    lines = page_text.split('\n')
+    
+    for i, line in enumerate(lines):
+        # Look for date patterns
+        date_match = re.search(r'(\d{1,2}/\d{1,2}/\d{2,4})', line)
         
-    Returns:
-        List of event dictionaries
-    """
-    soup = BeautifulSoup(html_content, 'html.parser')
-    events = []
+        if date_match:
+            # Found a date, try to extract event info from this line and surrounding lines
+            event = parse_special_event_line(line, lines[max(0, i-2):min(len(lines), i+3)])
+            if event:
+                special_events.append(event)
     
-    # Look for event containers
-    event_selectors = [
-        'div.event-item',
-        'div.event',
-        'article.event',
-        'div[class*="event"]',
-    ]
-    
-    event_elements = []
-    for selector in event_selectors:
-        found = soup.select(selector)
-        if found:
-            print(f"Found {len(found)} events using selector: {selector}")
-            event_elements = found
-            break
-    
-    # If no specific containers, look for sections or divs with event info
-    if not event_elements:
-        # Look for headings that might indicate events
-        headings = soup.find_all(['h2', 'h3', 'h4', 'h5'])
-        for heading in headings:
-            # Get the heading and nearby content
-            parent = heading.find_parent(['div', 'section', 'article'])
-            if parent:
-                event_elements.append(parent)
-    
-    print(f"Total event elements found: {len(event_elements)}")
-    
-    # Parse each event
-    for element in event_elements:
-        try:
-            event = parse_mountain_sun_event(element)
-            if event and event.get('title'):
-                event['source_url'] = 'https://www.mountainsunpub.com/events/'
-                events.append(event)
-        except Exception as e:
-            print(f"Error parsing event: {e}")
-            continue
-    
-    return events
+    return special_events
 
 
-def parse_mountain_sun_event(element):
-    """Parse a single event element"""
+def parse_special_event_line(line, context_lines):
+    """Parse a line containing a special event"""
     
-    event = {}
+    # Combine context for better parsing
+    text = ' '.join(context_lines)
     
-    # Get all text
-    text = element.get_text(separator=' | ', strip=True)
+    # Extract date
+    date_match = re.search(r'(\d{1,2}/\d{1,2}/\d{2,4})', text)
+    if not date_match:
+        return None
     
-    # Title - look for headings
-    title_elem = element.find(['h1', 'h2', 'h3', 'h4', 'h5'])
-    if title_elem:
-        event['title'] = title_elem.get_text(strip=True)
+    date_str = date_match.group(1)
     
-    # Determine venue from title or content
-    venue_patterns = {
-        'Mountain Sun Pub': r'Mountain Sun',
-        'Southern Sun Pub': r'Southern Sun',
-        'Vine Street Pub': r'Vine Street',
-        'Longs Peak Pub': r'Longs? Peak',
+    # Try to normalize date to full format
+    try:
+        parts = date_str.split('/')
+        if len(parts[2]) == 2:
+            year = '20' + parts[2]
+        else:
+            year = parts[2]
+        normalized_date = f"{parts[0]}/{parts[1]}/{year}"
+    except:
+        normalized_date = date_str
+    
+    # Extract time (look for patterns like "6:00 pm" or "6:00 pm - 9:00 pm")
+    time_match = re.search(r'(\d{1,2}:\d{2}\s*(?:am|pm)(?:\s*-\s*\d{1,2}:\d{2}\s*(?:am|pm))?)', text, re.I)
+    time_str = time_match.group(1) if time_match else None
+    
+    # Extract venue (look for known venue names)
+    venue_name = None
+    location = None
+    
+    if 'Longs Peak' in text:
+        venue_name = 'Longs Peak Pub'
+        location = 'Longmont'
+    elif 'Vine Street' in text:
+        venue_name = 'Vine Street Pub'
+        location = 'Denver'
+    elif 'Southern Sun' in text:
+        venue_name = 'Southern Sun Pub'
+        location = 'Boulder'
+    elif 'Mountain Sun' in text or 'Pearl' in text:
+        venue_name = 'Mountain Sun Pub'
+        location = 'Boulder'
+    
+    if not venue_name:
+        return None
+    
+    # Extract title (look for text in quotes or bold, or beginning of line)
+    title_match = re.search(r'["""]([^"""]+)["""]', text)
+    if title_match:
+        title = title_match.group(1)
+    else:
+        # Try to get first substantial text before the venue name
+        before_venue = text.split(venue_name)[0].strip()
+        # Take last 2-5 words as potential title
+        words = before_venue.split()
+        if len(words) >= 2:
+            title = ' '.join(words[-5:]) if len(words) >= 5 else ' '.join(words[-2:])
+        else:
+            title = f"Special Event at {venue_name}"
+    
+    # Clean up title
+    title = re.sub(r'^[__\*\-\s]+|[__\*\-\s]+$', '', title)
+    title = title.strip()
+    
+    if not title or len(title) < 3:
+        return None
+    
+    return {
+        'title': title,
+        'venue': venue_name,
+        'location': location,
+        'date': normalized_date,
+        'time': time_str,
+        'description': text.strip()[:200],  # First 200 chars as description
+        'link': 'https://www.mountainsunpub.com/events/',
+        'source_url': 'https://www.mountainsunpub.com/events/',
     }
-    
-    for venue_name, pattern in venue_patterns.items():
-        if re.search(pattern, text, re.IGNORECASE):
-            event['venue'] = venue_name
-            break
-    
-    if 'venue' not in event:
-        event['venue'] = 'Mountain Sun Pub'
-    
-    # Category
-    event['category'] = 'Music & Pub Events'
-    
-    # Look for recurring patterns
-    recurring_patterns = [
-        r'Every (Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)',
-        r'(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday) Nights?',
-    ]
-    
-    for pattern in recurring_patterns:
-        match = re.search(pattern, text, re.IGNORECASE)
-        if match:
-            event['recurring'] = match.group(0)
-            break
-    
-    # Look for specific dates
-    date_patterns = [
-        r'(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday),\s+(January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2}(?:st|nd|rd|th)?',
-        r'(January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2}(?:st|nd|rd|th)?',
-    ]
-    
-    for pattern in date_patterns:
-        match = re.search(pattern, text, re.IGNORECASE)
-        if match:
-            event['date'] = match.group(0)
-            break
-    
-    # Look for time patterns
-    time_patterns = [
-        r'\d{1,2}:\d{2}\s*(?:AM|PM|am|pm)',
-        r'\d{1,2}\s*(?:AM|PM|am|pm)\s*-\s*\d{1,2}:\d{2}\s*(?:AM|PM|am|pm)',
-        r'\d{1,2}:\d{2}\s*-\s*\d{1,2}:\d{2}\s*(?:AM|PM|am|pm)',
-        r'from\s+\d{1,2}:\d{2}\s*-\s*\d{1,2}:\d{2}\s*(?:AM|PM|am|pm)',
-        r'\d{1,2}(?:am|pm|AM|PM)-\d{1,2}(?:am|pm|AM|PM)',
-    ]
-    
-    for pattern in time_patterns:
-        match = re.search(pattern, text, re.IGNORECASE)
-        if match:
-            event['time'] = match.group(0)
-            break
-    
-    # Description - get paragraph content
-    desc_elem = element.find('p')
-    if desc_elem:
-        event['description'] = desc_elem.get_text(strip=True)
-    
-    # Link
-    link_elem = element.find('a', href=True)
-    if link_elem:
-        link = link_elem.get('href', '')
-        if link and not link.startswith('http'):
-            link = f"https://www.mountainsunpub.com{link}"
-        event['link'] = link
-    
-    return event
-
-
-def parse_mountain_sun_simple(text_content):
-    """
-    Parse events from simple text format
-    Based on the web_fetch output we received
-    """
-    events = []
-    
-    # Parse recurring events
-    recurring_events_data = [
-        {
-            'title': 'The BLUEGRASS PICK',
-            'recurring': 'Every Thursday',
-            'time': '7:30 - 9:30 pm',
-            'venue': 'Southern Sun Pub',
-            'description': 'Hosted by Max Kabat of Bowregard. Never a cover, always a good time!',
-        },
-        {
-            'title': 'Vinyl Night',
-            'recurring': 'Every Monday',
-            'time': '5-9 pm',
-            'venue': 'Vine Street Pub',
-            'description': 'Join us for an intentional listening experience. Share your favorite tunes and discover new music while enjoying house-made beer and snacks. Bring in a record from your collection and in exchange, we will play it for the pub and give you a free beer.',
-        },
-        {
-            'title': 'Game Night',
-            'recurring': 'Monday Nights',
-            'time': '5pm-10pm',
-            'venue': 'Longs Peak Pub',
-            'description': 'Free Fries and Happy Hour prices for all game tables!',
-        },
-        {
-            'title': 'Music Night',
-            'recurring': 'Every Saturday',
-            'time': '8pm',
-            'venue': 'Vine Street Pub',
-            'description': 'In collaboration with Stir Fry Sessions, a Denver based artist collective, we showcase local talent while offering a community space to dance and mingle.',
-        },
-    ]
-    
-    # Parse specific Friday music events
-    friday_music = [
-        {
-            'title': 'Free Live Music: Goodtime Funk',
-            'date': 'Friday, November 7th',
-            'time': '9pm-Midnight',
-            'venue': 'Mountain Sun Pub on Pearl',
-            'description': 'NO COVER!',
-        },
-        {
-            'title': 'Free Live Music: Jason Brandt & the Build-Out',
-            'date': 'Friday, November 14th',
-            'time': '9pm-Midnight',
-            'venue': 'Mountain Sun Pub on Pearl',
-            'description': 'NO COVER!',
-        },
-        {
-            'title': 'Free Live Music: Brandy Wine & The Mighty Fines',
-            'date': 'Friday, November 21st',
-            'time': '9pm-Midnight',
-            'venue': 'Mountain Sun Pub on Pearl',
-            'description': 'NO COVER!',
-        },
-        {
-            'title': 'Free Live Music: Crick Wooder',
-            'date': 'Friday, November 28th',
-            'time': '9pm-Midnight',
-            'venue': 'Mountain Sun Pub on Pearl',
-            'description': 'NO COVER!',
-        },
-    ]
-    
-    # Add all events
-    for event_data in recurring_events_data + friday_music:
-        event_data['category'] = 'Music & Pub Events'
-        event_data['source_url'] = 'https://www.mountainsunpub.com/events/'
-        events.append(event_data)
-    
-    return events
 
 
 if __name__ == "__main__":
     print("Mountain Sun Pub Event Scraper")
     print("=" * 60)
     
-    # Use the simple parser with our known data
-    events = parse_mountain_sun_simple("")
+    events = scrape_mountain_sun_events()
     
-    print(f"\nFound {len(events)} events")
-    print("=" * 60)
-    
-    for i, event in enumerate(events, 1):
-        print(f"\nEvent {i}:")
-        print(f"  Title: {event['title']}")
-        print(f"  Venue: {event['venue']}")
-        if event.get('date'):
-            print(f"  Date: {event['date']}")
-        if event.get('recurring'):
-            print(f"  Recurring: {event['recurring']}")
-        print(f"  Time: {event['time']}")
-        if event.get('description'):
-            desc = event['description'][:80] + "..." if len(event['description']) > 80 else event['description']
-            print(f"  Description: {desc}")
+    print(f"\n{'='*60}")
+    print(f"Total events: {len(events)}")
+    print(f"{'='*60}")
     
     # Save to JSON
-    output_file = '/home/claude/mountain_sun_events.json'
-    with open(output_file, 'w') as f:
+    with open('mountain_sun_events.json', 'w') as f:
         json.dump(events, f, indent=2)
-    print(f"\n\nEvents saved to {output_file}")
+    
+    print(f"\n✅ Saved to mountain_sun_events.json")
+    
+    # Show summary
+    print("\nEvent Summary:")
+    for event in events:
+        recurring_tag = f" [{event['recurring']}]" if event.get('recurring') else ""
+        print(f"  • {event['title']} - {event['venue']}{recurring_tag}")
