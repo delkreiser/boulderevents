@@ -69,18 +69,21 @@ def scrape_junkyard_events():
                 
                 print(f"Found {len(event_containers)} containers with h2 + Event Info link")
             
-            for idx, event_card in enumerate(event_containers[:25], 1):  # Limit to 25 to avoid too many
+            for idx, event_card in enumerate(event_containers, 1):  # Process ALL containers
                 try:
                     event = parse_junkyard_event_card(event_card)
                     if event and event.get('title'):
+                        # Accept events even without dates - some might be ongoing/recurring
                         event['venue'] = 'Junkyard Social Club'
                         event['source_url'] = 'https://junkyardsocialclub.org/events/'
                         events.append(event)
                         print(f"  ✓ Event {idx}: {event['title']}")
                     else:
-                        print(f"  ✗ Event {idx}: Failed to parse (missing title or date)")
+                        if idx <= 30:  # Only show first 30 failures to avoid log spam
+                            print(f"  ✗ Event {idx}: Failed to parse (missing title or date)")
                 except Exception as e:
-                    print(f"  ✗ Event {idx}: Error - {e}")
+                    if idx <= 30:
+                        print(f"  ✗ Event {idx}: Error - {e}")
                     continue
             
     except Exception as e:
@@ -140,7 +143,7 @@ def parse_junkyard_event_card(card):
     if img_elem and img_elem.get('src'):
         event['image'] = img_elem['src']
     
-    return event if event.get('title') and event.get('date') else None
+    return event if event.get('title') else None  # Only require title, date is optional
 
 
 if __name__ == "__main__":
