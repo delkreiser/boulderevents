@@ -119,6 +119,47 @@
             box-shadow: 0 10px 30px rgba(0,0,0,0.2);
         }
         
+        /* Today Section */
+        .today-section {
+            background: white;
+            border-radius: 15px;
+            padding: 30px;
+            margin-bottom: 30px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            text-align: center;
+        }
+        
+        .today-title {
+            font-size: 1.8em;
+            color: #333;
+            margin-bottom: 20px;
+            font-weight: 600;
+        }
+        
+        .lets-go-btn {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            padding: 18px 50px;
+            border-radius: 50px;
+            font-size: 1.3em;
+            font-weight: 700;
+            cursor: pointer;
+            box-shadow: 0 8px 20px rgba(102, 126, 234, 0.4);
+            transition: all 0.3s ease;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        
+        .lets-go-btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 12px 30px rgba(102, 126, 234, 0.6);
+        }
+        
+        .lets-go-btn:active {
+            transform: translateY(-1px);
+        }
+        
         /* Mood Section */
         .mood-section {
             background: white;
@@ -138,10 +179,16 @@
         
         .mood-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+            grid-template-columns: repeat(6, 1fr);
             gap: 20px;
-            max-width: 1000px;
+            max-width: 1400px;
             margin: 0 auto;
+        }
+        
+        @media (max-width: 768px) {
+            .mood-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
         }
         
         .mood-button {
@@ -255,9 +302,21 @@
             flex-wrap: wrap;
         }
         
+        @media (max-width: 768px) {
+            .quick-filters {
+                flex-direction: column;
+            }
+        }
+        
         .filter-group {
             flex: 1;
-            min-width: 200px;
+            min-width: 180px;
+        }
+        
+        @media (max-width: 768px) {
+            .filter-group {
+                min-width: 100%;
+            }
         }
         
         .filter-group label {
@@ -607,6 +666,12 @@
             <input type="text" class="search-box" id="searchBox" placeholder="🔍 Search events by name, venue, or keyword...">
         </div>
         
+        <!-- Today Section -->
+        <div class="today-section">
+            <h2 class="today-title">What's happening today?</h2>
+            <button class="lets-go-btn" id="letsGoBtn">Let's go out!</button>
+        </div>
+        
         <!-- Mood Filter Buttons -->
         <div class="mood-section">
             <h2 class="mood-title">✨ What's Your Mood?</h2>
@@ -682,6 +747,13 @@
                     <option value="month">This Month</option>
                 </select>
             </div>
+            
+            <div class="filter-group">
+                <label for="venueFilter">🏢 Venues</label>
+                <select id="venueFilter" class="filter-dropdown" multiple size="1">
+                    <option value="">All Venues</option>
+                </select>
+            </div>
         </div>
         
         <!-- Active Filters Pills -->
@@ -689,19 +761,6 @@
             <div class="active-filters-label">Active Filters:</div>
             <div class="filter-pills" id="filterPills"></div>
             <button class="clear-all-btn" id="clearAllBtn">Clear All</button>
-        </div>
-        
-        <!-- Advanced Filters (Collapsible) -->
-        <div class="advanced-filters">
-            <button class="advanced-toggle" id="advancedToggle">
-                ⚙️ More Filters <span class="toggle-icon">▼</span>
-            </button>
-            <div class="advanced-content" id="advancedContent" style="display: none;">
-                <div class="filter-section">
-                    <label class="filter-label">Specific Venues</label>
-                    <div class="filter-tags" id="venueFilters"></div>
-                </div>
-            </div>
         </div>
         
         <div class="stats" id="stats"></div>
@@ -754,11 +813,13 @@
         }
         
         function initializeFilters(tags) {
-            // Venue filters (in advanced section)
-            const venueFilters = document.getElementById('venueFilters');
+            // Venue dropdown
+            const venueFilter = document.getElementById('venueFilter');
             tags.venues.forEach(venue => {
-                const tag = createFilterTag(venue, 'venue');
-                venueFilters.appendChild(tag);
+                const option = document.createElement('option');
+                option.value = venue;
+                option.textContent = venue;
+                venueFilter.appendChild(option);
             });
             
             // Location dropdown
@@ -769,25 +830,6 @@
                 option.textContent = location;
                 locationFilter.appendChild(option);
             });
-        }
-        
-        function createFilterTag(text, filterType) {
-            const tag = document.createElement('div');
-            tag.className = 'tag';
-            tag.textContent = text;
-            tag.onclick = () => toggleFilter(filterType, text, tag);
-            return tag;
-        }
-        
-        function toggleFilter(filterType, value, element) {
-            if (activeFilters[filterType].has(value)) {
-                activeFilters[filterType].delete(value);
-                element.classList.remove('active');
-            } else {
-                activeFilters[filterType].add(value);
-                element.classList.add('active');
-            }
-            applyFilters();
         }
         
         // Mood button clicks
@@ -802,7 +844,36 @@
                     button.classList.add('active');
                 }
                 applyFilters();
+                scrollToResults();
             });
+        });
+        
+        // "Let's go out!" button
+        document.getElementById('letsGoBtn').addEventListener('click', () => {
+            // Clear all filters first
+            activeFilters = {
+                mood: new Set(),
+                venue: new Set(),
+                location: '',
+                when: 'today',
+                search: ''
+            };
+            
+            // Reset UI
+            document.querySelectorAll('.mood-button.active').forEach(b => b.classList.remove('active'));
+            document.getElementById('locationFilter').value = '';
+            document.getElementById('venueFilter').value = '';
+            document.getElementById('whenFilter').value = 'today';
+            document.getElementById('searchBox').value = '';
+            
+            applyFilters();
+            scrollToResults();
+        });
+        
+        // Venue dropdown
+        document.getElementById('venueFilter').addEventListener('change', (e) => {
+            activeFilters.venue = e.target.value ? new Set([e.target.value]) : new Set();
+            applyFilters();
         });
         
         // Location dropdown
@@ -823,18 +894,13 @@
             applyFilters();
         });
         
-        // Advanced toggle
-        document.getElementById('advancedToggle').addEventListener('click', () => {
-            const content = document.getElementById('advancedContent');
-            const toggle = document.getElementById('advancedToggle');
-            if (content.style.display === 'none') {
-                content.style.display = 'block';
-                toggle.classList.add('open');
-            } else {
-                content.style.display = 'none';
-                toggle.classList.remove('open');
+        // Scroll to results function
+        function scrollToResults() {
+            const stats = document.getElementById('stats');
+            if (stats) {
+                stats.scrollIntoView({ behavior: 'smooth', block: 'start' });
             }
-        });
+        }
         
         // Clear all button
         document.getElementById('clearAllBtn').addEventListener('click', () => {
@@ -847,8 +913,8 @@
             };
             
             document.querySelectorAll('.mood-button.active').forEach(b => b.classList.remove('active'));
-            document.querySelectorAll('.tag.active').forEach(t => t.classList.remove('active'));
             document.getElementById('locationFilter').value = '';
+            document.getElementById('venueFilter').value = '';
             document.getElementById('whenFilter').value = 'all';
             document.getElementById('searchBox').value = '';
             
@@ -948,7 +1014,7 @@
                     return moodMap[mood].some(tag => eventTags.includes(tag));
                 }).length;
                 const countEl = document.getElementById(`${mood}Count`);
-                if (countEl) countEl.textContent = `(${count})`;
+                if (countEl) countEl.textContent = count;
             });
         }
         
@@ -1016,9 +1082,8 @@
                 activeFilters.when = 'all';
                 document.getElementById('whenFilter').value = 'all';
             } else if (type === 'venue') {
-                activeFilters.venue.delete(text);
-                Array.from(document.getElementById('venueFilters').children)
-                    .find(el => el.textContent === text)?.classList.remove('active');
+                activeFilters.venue.clear();
+                document.getElementById('venueFilter').value = '';
             }
             applyFilters();
         }
