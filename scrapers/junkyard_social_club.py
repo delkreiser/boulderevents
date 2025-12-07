@@ -129,14 +129,20 @@ def parse_junkyard_event_card(card):
         elif 'age' in text.lower() or 'family friendly' in text.lower():
             event['age_restriction'] = text
     
-    # Find the "Event Info" link
+    # Find the "Event Info" link - search broadly in the container
     link_elem = card.find('a', string=re.compile(r'Event Info', re.I))
+    if not link_elem:
+        # Try finding any link with 'event' in the href
+        link_elem = card.find('a', href=re.compile(r'/event/|/product/|/drop-in-event/', re.I))
+    
     if link_elem and link_elem.get('href'):
         href = link_elem['href']
         if href.startswith('http'):
             event['link'] = href
         elif href.startswith('/'):
             event['link'] = f"https://junkyardsocialclub.org{href}"
+        else:
+            event['link'] = f"https://junkyardsocialclub.org/{href}"
     
     # Get the event image
     img_elem = card.find('img')
