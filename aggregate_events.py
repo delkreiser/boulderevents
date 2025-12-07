@@ -25,24 +25,9 @@ class EventAggregator:
                 'tags': ['Community', 'Arts', 'Dance', 'Performance', 'All Ages'],
                 'scraper_output': 'junkyard_events.json'
             },
-            'Mountain Sun Pub': {
-                'location': 'Boulder',
+            'Mountain Sun Pubs': {
+                'location': 'Boulder',  # Default location, actual location in each event
                 'tags': ['Music', 'Pub', 'Bar', 'Food & Drink'],
-                'scraper_output': 'mountain_sun_events.json'
-            },
-            'Southern Sun Pub': {
-                'location': 'Boulder',
-                'tags': ['Music', 'Pub', 'Bar', 'Food & Drink'],
-                'scraper_output': 'mountain_sun_events.json'
-            },
-            'Vine Street Pub': {
-                'location': 'Denver',
-                'tags': ['Music', 'Pub', 'Bar', 'Food & Drink'],
-                'scraper_output': 'mountain_sun_events.json'
-            },
-            'Longs Peak Pub': {
-                'location': 'Longmont',
-                'tags': ['Pub', 'Bar', 'Games', 'Food & Drink'],
                 'scraper_output': 'mountain_sun_events.json'
             },
             'St Julien Hotel & Spa': {
