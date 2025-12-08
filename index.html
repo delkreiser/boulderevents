@@ -26,7 +26,7 @@
         header {
             text-align: center;
             color: white;
-            margin-bottom: 40px;
+            margin-bottom: 30px;
         }
         
         h1 {
@@ -38,6 +38,7 @@
         .subtitle {
             font-size: 1.2em;
             opacity: 0.9;
+            margin-bottom: 20px;
         }
         
         .filters {
@@ -115,49 +116,43 @@
             background: white;
             border-radius: 15px;
             padding: 20px;
-            margin-bottom: 30px;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
-        }
-        
-        /* Today Section */
-        .today-section {
-            background: white;
-            border-radius: 15px;
-            padding: 30px;
-            margin-bottom: 30px;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
-            text-align: center;
-        }
-        
-        .today-title {
-            font-size: 1.8em;
-            color: #333;
             margin-bottom: 20px;
-            font-weight: 600;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
         }
         
-        .lets-go-btn {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        /* Smart Status Banner */
+        .status-banner-wrapper {
+            text-align: center;
+            margin-top: 0;
+        }
+        
+        .status-banner {
+            display: inline-block;
+            background: rgba(255, 255, 255, 0.2);
+            backdrop-filter: blur(10px);
+            border-radius: 25px;
+            padding: 10px 24px;
             color: white;
-            border: none;
-            padding: 18px 50px;
-            border-radius: 50px;
-            font-size: 1.3em;
-            font-weight: 700;
+            font-size: 0.95em;
             cursor: pointer;
-            box-shadow: 0 8px 20px rgba(102, 126, 234, 0.4);
             transition: all 0.3s ease;
-            text-transform: uppercase;
-            letter-spacing: 1px;
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            user-select: none;
         }
         
-        .lets-go-btn:hover {
-            transform: translateY(-3px);
-            box-shadow: 0 12px 30px rgba(102, 126, 234, 0.6);
+        .status-banner:hover {
+            background: rgba(255, 255, 255, 0.35);
+            transform: scale(1.05);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
         }
         
-        .lets-go-btn:active {
-            transform: translateY(-1px);
+        .status-banner:active {
+            transform: scale(1.02);
+        }
+        
+        .status-count {
+            font-weight: 700;
+            color: #FFD700;
         }
         
         /* Mood Section */
@@ -811,17 +806,18 @@
         <header>
             <h1>🎉 Boulder Events Calendar</h1>
             <p class="subtitle">Discover what's happening in Boulder County</p>
+            
+            <!-- Smart Status Banner -->
+            <div class="status-banner-wrapper">
+                <div class="status-banner" id="statusBanner">
+                    🎉 <span class="status-count" id="statusCount">0</span> <span id="statusText">events today</span>
+                </div>
+            </div>
         </header>
         
         <!-- Search Bar -->
         <div class="search-section">
             <input type="text" class="search-box" id="searchBox" placeholder="🔍 Search events by name, venue, or keyword...">
-        </div>
-        
-        <!-- Today Section -->
-        <div class="today-section">
-            <h2 class="today-title">What's happening today?</h2>
-            <button class="lets-go-btn" id="letsGoBtn">Let's go out!</button>
         </div>
         
         <!-- Mood Filter Buttons -->
@@ -1020,6 +1016,7 @@
                 renderEvents();
                 updateStats();
                 updateMoodCounts();
+                updateStatusBanner();
             } catch (error) {
                 console.error('Error loading events:', error);
                 document.getElementById('noEvents').style.display = 'block';
@@ -1063,14 +1060,17 @@
             });
         });
         
-        // "Let's go out!" button
-        document.getElementById('letsGoBtn').addEventListener('click', () => {
+        // Smart Status Banner click
+        document.getElementById('statusBanner').addEventListener('click', () => {
+            // Get the current status
+            const statusText = document.getElementById('statusText').textContent;
+            
             // Clear all filters first
             activeFilters = {
                 mood: new Set(),
                 venue: '',
                 location: '',
-                when: 'today',
+                when: statusText.includes('today') ? 'today' : 'all',
                 search: ''
             };
             
@@ -1078,12 +1078,41 @@
             document.querySelectorAll('.mood-button.active').forEach(b => b.classList.remove('active'));
             document.getElementById('locationFilter').value = '';
             document.getElementById('venueFilter').value = '';
-            document.getElementById('whenFilter').value = 'today';
+            document.getElementById('whenFilter').value = activeFilters.when;
             document.getElementById('searchBox').value = '';
             
             applyFilters();
             scrollToResults();
         });
+        
+        // Update status banner with event counts
+        function updateStatusBanner() {
+            const today = new Date();
+            today.setHours(0, 0, 0, 0);
+            
+            // Count today's events
+            const todayEvents = allEvents.filter(event => {
+                if (!event.normalized_date) return false;
+                const eventDate = new Date(event.normalized_date);
+                return eventDate.toDateString() === today.toDateString();
+            });
+            
+            const statusBanner = document.getElementById('statusBanner');
+            
+            if (todayEvents.length > 0) {
+                statusBanner.innerHTML = '🎉 <span class="status-count">' + todayEvents.length + '</span> <span id="statusText">events today</span>';
+            } else {
+                // Count all upcoming events (from tomorrow onwards)
+                const tomorrow = new Date(today);
+                tomorrow.setDate(tomorrow.getDate() + 1);
+                const upcomingEvents = allEvents.filter(event => {
+                    if (!event.normalized_date) return false;
+                    const eventDate = new Date(event.normalized_date);
+                    return eventDate >= tomorrow;
+                });
+                statusBanner.innerHTML = '📅 <span class="status-count">' + upcomingEvents.length + '</span> <span id="statusText">upcoming events</span>';
+            }
+        }
         
         // Venue dropdown
         document.getElementById('venueFilter').addEventListener('change', (e) => {
