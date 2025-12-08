@@ -185,9 +185,41 @@
             margin: 0 auto;
         }
         
+        .mood-label {
+            font-size: 1.1em;
+            font-weight: 600;
+            color: white;
+            text-align: center;
+            z-index: 1;
+        }
+        
+        .mood-icon {
+            width: 48px;
+            height: 48px;
+            color: white;
+            opacity: 0.9;
+            z-index: 1;
+        }
+        
         @media (max-width: 768px) {
             .mood-grid {
                 grid-template-columns: repeat(2, 1fr);
+            }
+        }
+        
+        /* Tablet portrait (600px - 900px) - 3 columns for bigger icons */
+        @media (min-width: 600px) and (max-width: 900px) {
+            .mood-grid {
+                grid-template-columns: repeat(3, 1fr);
+            }
+            
+            .mood-icon {
+                width: 56px;
+                height: 56px;
+            }
+            
+            .mood-label {
+                font-size: 1.15em;
             }
         }
         
@@ -370,22 +402,6 @@
             justify-content: center;
             font-weight: bold;
             font-size: 16px;
-        }
-        
-        .mood-label {
-            font-size: 1.1em;
-            font-weight: 600;
-            color: white;
-            text-align: center;
-            z-index: 1;
-        }
-        
-        .mood-icon {
-            width: 48px;
-            height: 48px;
-            color: white;
-            opacity: 0.9;
-            z-index: 1;
         }
         
         .mood-count {
@@ -814,7 +830,7 @@
             <div class="mood-grid">
                 <button class="mood-button music-mood" data-mood="music">
                     <div class="mood-label">Live Music</div>
-                    <svg class="mood-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <svg class="mood-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
                         <path d="M9 18V5l12-2v13M9 18c0 1.657-1.343 3-3 3s-3-1.343-3-3 1.343-3 3-3 3 1.343 3 3zm12-3c0 1.657-1.343 3-3 3s-3-1.343-3-3 1.343-3 3-3 3 1.343 3 3z"/>
                     </svg>
                     <div class="mood-count" id="musicCount"></div>
@@ -856,7 +872,7 @@
                 
                 <button class="mood-button learning-mood" data-mood="learning">
                     <div class="mood-label">Learn Something</div>
-                    <svg class="mood-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <svg class="mood-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
                         <path d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"/>
                     </svg>
                     <div class="mood-count" id="learningCount"></div>
