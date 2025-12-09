@@ -235,6 +235,27 @@
             }
         }
         
+        /* Mobile landscape - even larger icons for 3-column layout */
+        @media (max-width: 900px) and (orientation: landscape) {
+            .mood-icon {
+                width: 64px;
+                height: 64px;
+            }
+            
+            .mood-label {
+                font-size: 1.3em;
+            }
+            
+            .mood-button {
+                padding: 24px;
+            }
+            
+            .mood-count {
+                font-size: 1em;
+                padding: 6px 14px;
+            }
+        }
+        
         @media (max-width: 768px) {
             .mood-grid {
                 grid-template-columns: repeat(2, 1fr);
