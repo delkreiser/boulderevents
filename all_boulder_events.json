@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T02:17:40.235080",
-  "total_events": 73,
+  "generated_at": "2025-12-09T06:25:48.864134",
+  "total_events": 72,
   "tags": {
     "venues": [
       "Junkyard Social Club",
@@ -209,8 +209,8 @@
       ],
       "event_type_tags": [
         "All Ages",
-        "Community",
-        "Family Friendly"
+        "Family Friendly",
+        "Community"
       ]
     },
     {
@@ -237,8 +237,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Music"
+        "Music",
+        "Community"
       ]
     },
     {
@@ -265,11 +265,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
+        "Family Friendly",
         "All Ages",
-        "Music",
+        "Community",
         "Performance",
-        "Family Friendly"
+        "Music"
       ]
     },
     {
@@ -296,9 +296,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Music",
         "21+",
-        "Performance",
-        "Music"
+        "Performance"
       ]
     },
     {
@@ -325,8 +325,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Family Friendly"
+        "Family Friendly",
+        "All Ages"
       ]
     },
     {
@@ -353,8 +353,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "All Ages"
+        "All Ages",
+        "Community"
       ]
     },
     {
@@ -381,9 +381,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Music",
         "Community",
         "Performance",
-        "Music",
         "Educational"
       ]
     },
@@ -412,9 +412,9 @@
       ],
       "event_type_tags": [
         "All Ages",
-        "Community",
+        "Family Friendly",
         "Music",
-        "Family Friendly"
+        "Community"
       ]
     },
     {
@@ -441,10 +441,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Performance",
+        "Family Friendly",
         "Music",
-        "Family Friendly"
+        "All Ages",
+        "Performance"
       ]
     },
     {
@@ -471,8 +471,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Music",
+        "Community",
         "Educational"
       ]
     },
@@ -500,10 +500,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
+        "Music",
         "21+",
-        "Performance",
-        "Music"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -530,10 +530,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
+        "Music",
         "21+",
-        "Performance",
-        "Music"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -560,10 +560,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Performance",
+        "All Ages",
         "Music",
-        "All Ages"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -590,9 +590,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Music",
         "Community",
-        "Performance",
-        "Music"
+        "Performance"
       ]
     },
     {
@@ -619,9 +619,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Music",
         "Community",
-        "Performance",
-        "Music"
+        "Performance"
       ]
     },
     {
@@ -1019,38 +1019,12 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_language_exchange_night_dec87_00_pm19_00",
-      "title": "Language Exchange Night",
-      "venue": "Trident Booksellers & Cafe",
-      "location": "Boulder",
-      "date": "Dec87:00\u202fPM19:00",
-      "normalized_date": null,
-      "recurring": null,
-      "time": null,
-      "description": "Free!Every Monday evening, 7-9p.m.All languages welcome. Facilitated by Kelvin Tavarez.",
-      "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-s7a5x",
-      "image": null,
-      "source_url": "https://www.tridentcafe.com/events",
-      "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
-      ],
-      "event_type_tags": [
-        "Books & Literary"
-      ]
-    },
-    {
-      "id": "trident_booksellers_cafe_boulder_county_film_commission_filmmaker_support_group_wednesday_december_10_2025",
+      "id": "trident_booksellers_cafe_boulder_county_film_commission_filmmaker_support_group_dec106_30_pm18_30",
       "title": "Boulder County Film Commission: Filmmaker Support Group",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
-      "date": "Wednesday, December 10, 2025",
-      "normalized_date": "2025-12-10T00:00:00",
+      "date": "Dec106:30\u202fPM18:30",
+      "normalized_date": null,
       "recurring": null,
       "time": null,
       "description": "Sponsored by the Boulder County Film Commission, these free events are designed to provide creative support for Boulder-area filmmakers! Maybe you'd like some feedback on a project you're working on, or perhaps you're stuck and need an idea for how to transition from this to that, or - well, you get the idea. We're here for you; let's be there for each other! Bring a script, a rough cut, an idea, or any creative problem.",
@@ -1133,6 +1107,32 @@
       "time": null,
       "description": "",
       "link": "https://www.tridentcafe.com/events/2025/12/14/death-cafe-a-conversation-on-dealing-with-death",
+      "image": null,
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Books & Literary"
+      ]
+    },
+    {
+      "id": "trident_booksellers_cafe_language_exchange_night_monday_december_15_2025",
+      "title": "Language Exchange Night",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "Monday, December 15, 2025",
+      "normalized_date": "2025-12-15T00:00:00",
+      "recurring": null,
+      "time": null,
+      "description": "Free!Every Monday evening, 7-9p.m.All languages welcome. Facilitated by Kelvin Tavarez.",
+      "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-s7a5x-sb4ks",
       "image": null,
       "source_url": "https://www.tridentcafe.com/events",
       "age_restriction": null,
@@ -1705,32 +1705,6 @@
       "time": null,
       "description": "Share",
       "link": "https://www.tridentcafe.com/events/2026/4/28/trident-author-series-michael-sowder-sacred-letters-sanskrit-yoga-and-awakening-the-divine",
-      "image": null,
-      "source_url": "https://www.tridentcafe.com/events",
-      "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
-      ],
-      "event_type_tags": [
-        "Books & Literary"
-      ]
-    },
-    {
-      "id": "trident_booksellers_cafe_itea_graduation_party_dec75_00_pm17_00",
-      "title": "ITEA Graduation Party",
-      "venue": "Trident Booksellers & Cafe",
-      "location": "Boulder",
-      "date": "Dec75:00\u202fPM17:00",
-      "normalized_date": null,
-      "recurring": null,
-      "time": null,
-      "description": "Share",
-      "link": "https://www.tridentcafe.com/events/2025/12/7/itea-graduation-party",
       "image": null,
       "source_url": "https://www.tridentcafe.com/events",
       "age_restriction": null,
