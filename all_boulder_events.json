@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T14:07:52.959175",
-  "total_events": 72,
+  "generated_at": "2025-12-09T14:43:14.732330",
+  "total_events": 76,
   "tags": {
     "venues": [
       "Junkyard Social Club",
@@ -131,6 +131,33 @@
       ]
     },
     {
+      "id": "junkyard_social_club_drop_in_mahjongg_tuesdays_tuesday_december_9_2025",
+      "title": "Drop-In Mahjongg \u2013 Tuesdays",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Tuesday, December 9, 2025",
+      "normalized_date": "2025-12-09T00:00:00",
+      "recurring": null,
+      "time": "12:00 - 2:00 PM",
+      "description": "",
+      "link": "https://junkyardsocialclub.org/drop-in-event/drop-in-mahjongg-tuesdays/",
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/08/Drop-In-MahJongg-Tuesday.jpg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": null,
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Dance",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Community"
+      ]
+    },
+    {
       "id": "junkyard_social_club_b_e_a_t_meet_up_wednesday_december_10_2025",
       "title": "B.E.A.T. Meet-Up",
       "venue": "Junkyard Social Club",
@@ -208,9 +235,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Family Friendly",
         "Community",
-        "All Ages",
-        "Family Friendly"
+        "All Ages"
       ]
     },
     {
@@ -242,6 +269,33 @@
       ]
     },
     {
+      "id": "junkyard_social_club_drop_in_mahjongg_thursdays_thursday_december_11_2025",
+      "title": "Drop-In Mahjongg \u2013 Thursdays",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Thursday, December 11, 2025",
+      "normalized_date": "2025-12-11T00:00:00",
+      "recurring": null,
+      "time": "3:30 - 5:30 PM",
+      "description": "",
+      "link": "https://junkyardsocialclub.org/drop-in-event/drop-in-mahjongg-thursdays/",
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/08/Drop-In-Mah-Jongg-Thursday.jpg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": null,
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Dance",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Community"
+      ]
+    },
+    {
       "id": "junkyard_social_club_salsaton_events_friday_december_12_2025",
       "title": "Salsaton Events",
       "venue": "Junkyard Social Club",
@@ -265,11 +319,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Family Friendly",
+        "Music",
         "All Ages",
         "Performance",
-        "Music"
+        "Community"
       ]
     },
     {
@@ -296,9 +350,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "Music",
-        "21+"
+        "21+",
+        "Performance"
       ]
     },
     {
@@ -325,8 +379,36 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Family Friendly"
+        "Family Friendly",
+        "All Ages"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_community_craft_night_wednesday_december_17_2025",
+      "title": "Community Craft Night",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Wednesday, December 17, 2025",
+      "normalized_date": "2025-12-17T00:00:00",
+      "recurring": null,
+      "time": "6:00 - 8:30 PM",
+      "description": "",
+      "link": "https://junkyardsocialclub.org/drop-in-event/community-craft-night/",
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/10/Community-Craft-Night.jpeg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": "All Ages are Welcome",
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Dance",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Community",
+        "All Ages"
       ]
     },
     {
@@ -382,9 +464,9 @@
       ],
       "event_type_tags": [
         "Community",
-        "Performance",
         "Music",
-        "Educational"
+        "Educational",
+        "Performance"
       ]
     },
     {
@@ -412,9 +494,9 @@
       ],
       "event_type_tags": [
         "Community",
+        "Music",
         "All Ages",
-        "Family Friendly",
-        "Music"
+        "Family Friendly"
       ]
     },
     {
@@ -441,10 +523,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Performance",
+        "Family Friendly",
         "Music",
-        "Family Friendly"
+        "All Ages",
+        "Performance"
       ]
     },
     {
@@ -501,9 +583,37 @@
       ],
       "event_type_tags": [
         "Community",
-        "Performance",
         "Music",
-        "21+"
+        "21+",
+        "Performance"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_queer_art_organics_open_mic_monday_december_29_2025",
+      "title": "Queer Art Organics Open Mic",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Monday, December 29, 2025",
+      "normalized_date": "2025-12-29T00:00:00",
+      "recurring": null,
+      "time": "4:30 - 8:00 PM",
+      "description": "",
+      "link": "https://junkyardsocialclub.org/drop-in-event/queer-art-organics-open-mic/",
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/07/Queer-Art-Organics-Open-Mic.jpg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": null,
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Dance",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -531,9 +641,9 @@
       ],
       "event_type_tags": [
         "Community",
-        "Performance",
         "Music",
-        "21+"
+        "21+",
+        "Performance"
       ]
     },
     {
@@ -561,9 +671,9 @@
       ],
       "event_type_tags": [
         "Community",
+        "Music",
         "All Ages",
-        "Performance",
-        "Music"
+        "Performance"
       ]
     },
     {
@@ -591,8 +701,8 @@
       ],
       "event_type_tags": [
         "Community",
-        "Performance",
-        "Music"
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -620,8 +730,8 @@
       ],
       "event_type_tags": [
         "Community",
-        "Performance",
-        "Music"
+        "Music",
+        "Performance"
       ]
     },
     {
