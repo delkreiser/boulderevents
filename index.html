@@ -196,6 +196,45 @@
             z-index: 1;
         }
         
+        /* Mobile phones - larger text and icons */
+        @media (max-width: 600px) {
+            h1 {
+                font-size: 2.2em;
+            }
+            
+            .mood-icon {
+                width: 56px;
+                height: 56px;
+            }
+            
+            .mood-label {
+                font-size: 1.25em;
+            }
+            
+            .mood-count {
+                font-size: 0.95em;
+                padding: 5px 12px;
+            }
+            
+            .mood-button {
+                padding: 22px;
+            }
+            
+            .mood-title {
+                font-size: 2em;
+            }
+            
+            .search-box {
+                font-size: 1.05em;
+                padding: 16px 20px;
+            }
+            
+            .status-banner {
+                font-size: 1.05em;
+                padding: 12px 26px;
+            }
+        }
+        
         @media (max-width: 768px) {
             .mood-grid {
                 grid-template-columns: repeat(2, 1fr);
