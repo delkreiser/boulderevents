@@ -35,6 +35,16 @@ def scrape_license_no1():
             # Wait for calendar to load
             page.wait_for_timeout(5000)
             
+            # Scroll to load all events (Squarespace uses lazy loading)
+            print("Scrolling to load all events...")
+            for scroll_attempt in range(5):
+                page.evaluate('window.scrollTo(0, document.body.scrollHeight)')
+                page.wait_for_timeout(1500)
+            
+            # Scroll back to top
+            page.evaluate('window.scrollTo(0, 0)')
+            page.wait_for_timeout(1000)
+            
             print("Finding all event links...")
             # Get all event links from the calendar
             event_links = page.locator('a[href*="/calendar/"]').all()

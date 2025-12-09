@@ -1444,8 +1444,14 @@
         }
         
         function createEventCard(event) {
-            const imageHtml = event.image 
-                ? `<img src="${event.image}" alt="${event.title}" class="event-image">`
+            // Fix image path to include images/ folder
+            let imageSrc = event.image;
+            if (imageSrc && !imageSrc.startsWith('http') && !imageSrc.startsWith('images/')) {
+                imageSrc = `images/${imageSrc}`;
+            }
+            
+            const imageHtml = imageSrc 
+                ? `<img src="${imageSrc}" alt="${event.title}" class="event-image">`
                 : `<div class="event-image"></div>`;
             
             const recurringHtml = event.recurring 
