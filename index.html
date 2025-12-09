@@ -196,8 +196,14 @@
             z-index: 1;
         }
         
-        /* Mobile phones - larger text and icons */
-        @media (max-width: 600px) {
+        @media (max-width: 768px) {
+            .mood-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+        
+        /* Mobile phones portrait - larger text and icons */
+        @media (max-width: 600px) and (orientation: portrait) {
             h1 {
                 font-size: 2.2em;
             }
@@ -235,35 +241,8 @@
             }
         }
         
-        /* Mobile landscape - even larger icons for 3-column layout */
-        @media (max-width: 900px) and (orientation: landscape) {
-            .mood-icon {
-                width: 64px;
-                height: 64px;
-            }
-            
-            .mood-label {
-                font-size: 1.3em;
-            }
-            
-            .mood-button {
-                padding: 24px;
-            }
-            
-            .mood-count {
-                font-size: 1em;
-                padding: 6px 14px;
-            }
-        }
-        
-        @media (max-width: 768px) {
-            .mood-grid {
-                grid-template-columns: repeat(2, 1fr);
-            }
-        }
-        
-        /* Tablet portrait (600px - 900px) - 3 columns for bigger icons */
-        @media (min-width: 600px) and (max-width: 900px) {
+        /* Tablet portrait (600px - 900px) - 3 columns */
+        @media (min-width: 600px) and (max-width: 900px) and (orientation: portrait) {
             .mood-grid {
                 grid-template-columns: repeat(3, 1fr);
             }
@@ -275,6 +254,35 @@
             
             .mood-label {
                 font-size: 1.15em;
+            }
+        }
+        
+        /* Mobile landscape - MUST be larger for 3-column view */
+        @media (max-height: 600px) and (orientation: landscape) {
+            .mood-grid {
+                grid-template-columns: repeat(3, 1fr) !important;
+            }
+            
+            .mood-icon {
+                width: 70px !important;
+                height: 70px !important;
+            }
+            
+            .mood-label {
+                font-size: 1.35em !important;
+            }
+            
+            .mood-button {
+                padding: 26px !important;
+            }
+            
+            .mood-count {
+                font-size: 1.05em !important;
+                padding: 6px 14px !important;
+            }
+            
+            .mood-title {
+                font-size: 2.2em !important;
             }
         }
         
