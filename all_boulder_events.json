@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-10T14:08:21.780440",
+  "generated_at": "2025-12-11T06:27:34.543067",
   "total_events": 76,
   "tags": {
     "venues": [
@@ -131,60 +131,6 @@
       ]
     },
     {
-      "id": "junkyard_social_club_b_e_a_t_meet_up_wednesday_december_10_2025",
-      "title": "B.E.A.T. Meet-Up",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Wednesday, December 10, 2025",
-      "normalized_date": "2025-12-10T00:00:00",
-      "recurring": null,
-      "time": "6:00 - 7:00 PM",
-      "description": "",
-      "link": "https://junkyardsocialclub.org/drop-in-event/b-e-a-t-meet-up/",
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/06/BEAT-768x768.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Dance",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Community"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_boulder_burner_meet_up_wednesday_december_10_2025",
-      "title": "Boulder Burner Meet-up",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Wednesday, December 10, 2025",
-      "normalized_date": "2025-12-10T00:00:00",
-      "recurring": null,
-      "time": "6:30 - 8:30 PM",
-      "description": "",
-      "link": "https://junkyardsocialclub.org/drop-in-event/burner/",
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/07/Burner-768x434.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Dance",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Community"
-      ]
-    },
-    {
       "id": "junkyard_social_club_junkyard_game_night_thursday_december_11_2025",
       "title": "Junkyard Game Night",
       "venue": "Junkyard Social Club",
@@ -208,9 +154,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
+        "All Ages",
         "Community",
-        "All Ages"
+        "Family Friendly"
       ]
     },
     {
@@ -237,8 +183,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Music"
+        "Music",
+        "Community"
       ]
     },
     {
@@ -293,10 +239,41 @@
       ],
       "event_type_tags": [
         "Community",
-        "All Ages",
         "Performance",
+        "Music",
         "Family Friendly",
-        "Music"
+        "All Ages"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_friday_happy_hour_friday_december_12_2025",
+      "title": "Friday Happy Hour",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Friday, December 12, 2025",
+      "normalized_date": "2025-12-12T00:00:00",
+      "recurring": null,
+      "time": "4:00 - 7:00 PM",
+      "description": "",
+      "link": "https://junkyardsocialclub.org/drop-in-event/friday-happy-hour/",
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/04/Friday-Happy-Hour.jpg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": "All Ages are Welcome",
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Dance",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Community",
+        "Performance",
+        "Music",
+        "Family Friendly",
+        "All Ages"
       ]
     },
     {
@@ -323,9 +300,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
+        "Music",
         "21+",
-        "Music"
+        "Performance"
       ]
     },
     {
@@ -357,6 +334,33 @@
       ]
     },
     {
+      "id": "junkyard_social_club_drop_in_mahjongg_tuesdays_tuesday_december_16_2025",
+      "title": "Drop-In Mahjongg \u2013 Tuesdays",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Tuesday, December 16, 2025",
+      "normalized_date": "2025-12-16T00:00:00",
+      "recurring": null,
+      "time": "12:00 - 2:00 PM",
+      "description": "",
+      "link": "https://junkyardsocialclub.org/drop-in-event/drop-in-mahjongg-tuesdays/",
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/08/Drop-In-MahJongg-Tuesday.jpg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": null,
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Dance",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Community"
+      ]
+    },
+    {
       "id": "junkyard_social_club_community_craft_night_wednesday_december_17_2025",
       "title": "Community Craft Night",
       "venue": "Junkyard Social Club",
@@ -380,8 +384,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Community"
+        "Community",
+        "All Ages"
       ]
     },
     {
@@ -408,8 +412,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Community"
+        "Community",
+        "All Ages"
       ]
     },
     {
@@ -436,10 +440,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "Educational",
+        "Music",
         "Community",
-        "Music"
+        "Performance"
       ]
     },
     {
@@ -466,10 +470,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
         "All Ages",
+        "Music",
         "Community",
-        "Music"
+        "Family Friendly"
       ]
     },
     {
@@ -496,10 +500,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
+        "Music",
         "Family Friendly",
         "All Ages",
-        "Music"
+        "Performance"
       ]
     },
     {
@@ -527,8 +531,8 @@
       ],
       "event_type_tags": [
         "Educational",
-        "Community",
-        "Music"
+        "Music",
+        "Community"
       ]
     },
     {
@@ -555,10 +559,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
+        "Music",
         "21+",
         "Community",
-        "Music"
+        "Performance"
       ]
     },
     {
@@ -585,8 +589,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -613,10 +617,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
+        "Music",
         "21+",
         "Community",
-        "Music"
+        "Performance"
       ]
     },
     {
@@ -643,10 +647,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "All Ages",
+        "Music",
         "Community",
-        "Music"
+        "All Ages",
+        "Performance"
       ]
     },
     {
@@ -673,9 +677,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
+        "Music",
         "Community",
-        "Music"
+        "Performance"
       ]
     },
     {
@@ -702,9 +706,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
+        "Music",
         "Community",
-        "Music"
+        "Performance"
       ]
     },
     {
@@ -1882,32 +1886,6 @@
       ]
     },
     {
-      "id": "license_no_1_live_music_with_george_nelson_band_december_10_2025",
-      "title": "Live Music with George Nelson Band",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": "December 10, 2025",
-      "normalized_date": "2025-12-10T00:00:00",
-      "recurring": null,
-      "time": "58:00 PM",
-      "description": "George and the band play every Wednesday at License No.1 in the catacombs of the Boulderado Hotel. Come hear this legend play a unique mix of American music from the likes of Ray Charles and Louis Armstrong. It doesn't get more real than this.",
-      "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-ecp99",
-      "image": "licenseno1.jpg",
-      "source_url": "https://www.license1boulderado.com/calendar",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+",
-        "Music"
-      ],
-      "event_type_tags": [
-        "Nightlife"
-      ]
-    },
-    {
       "id": "license_no_1_the_underground_comedy_show_december_11_2025",
       "title": "The Underground Comedy Show",
       "venue": "License No 1",
@@ -2048,6 +2026,32 @@
       "time": "59:00 PM",
       "description": "Must Be 21+ ToEnter & Attend Events",
       "link": "https://www.license1boulderado.com/calendar/live-music-with-superimposition-3-tzj3w-ragmp-n3wp5-bm6da-7238m-r3mpg-2tk4t-etj9j-x52nl-43zhr-rta6x-7xyzy-w592k-7rgwt-p2ga6-yg2m3-ybk7a-3fxsm-kg2b8-r54sk-5639t-fw4a8-t9cwn-rg6f3-n2jr4",
+      "image": "licenseno1.jpg",
+      "source_url": "https://www.license1boulderado.com/calendar",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+",
+        "Music"
+      ],
+      "event_type_tags": [
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_cocktails_countdown_december_31_2025",
+      "title": "Cocktails & Countdown",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "December 31, 2025",
+      "normalized_date": "2025-12-31T00:00:00",
+      "recurring": null,
+      "time": "58:00 PM",
+      "description": "Tickets are available for purchase:Cocktails & Countdown",
+      "link": "https://www.license1boulderado.com/calendar/cocktail-countdown",
       "image": "licenseno1.jpg",
       "source_url": "https://www.license1boulderado.com/calendar",
       "age_restriction": null,
