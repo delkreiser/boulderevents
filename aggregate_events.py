@@ -207,12 +207,13 @@ class EventAggregator:
     
     def generate_event_id(self, event):
         """Generate a unique ID for each event"""
-        # Create ID from venue + title + date
+        # Create ID from venue + title + date + time (to handle multiple events per day)
         venue = event.get('venue', 'unknown')
         title = event.get('title', 'untitled')
         date = event.get('date', event.get('recurring', 'recurring'))
+        time = event.get('time', event.get('time_start', ''))  # Include time for uniqueness
         
-        id_string = f"{venue}_{title}_{date}".lower()
+        id_string = f"{venue}_{title}_{date}_{time}".lower()
         # Clean up the string
         id_string = re.sub(r'[^a-z0-9]+', '_', id_string)
         id_string = re.sub(r'_+', '_', id_string).strip('_')
