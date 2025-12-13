@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-13T19:06:44.990235",
+  "generated_at": "2025-12-13T19:29:57.726550",
   "total_events": 70,
   "tags": {
     "venues": [
@@ -295,8 +295,8 @@
       ],
       "event_type_tags": [
         "Performance",
-        "Educational",
         "Community",
+        "Educational",
         "Music"
       ]
     },
@@ -384,8 +384,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Educational",
         "Community",
+        "Educational",
         "Music"
       ]
     },
@@ -414,8 +414,8 @@
       ],
       "event_type_tags": [
         "Performance",
-        "21+",
         "Community",
+        "21+",
         "Music"
       ]
     },
@@ -472,8 +472,8 @@
       ],
       "event_type_tags": [
         "Performance",
-        "21+",
         "Community",
+        "21+",
         "Music"
       ]
     },
@@ -502,8 +502,8 @@
       ],
       "event_type_tags": [
         "Performance",
-        "All Ages",
         "Community",
+        "All Ages",
         "Music"
       ]
     },
