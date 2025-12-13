@@ -14,9 +14,14 @@ def deduplicate_recurring_events(events):
     cleaned_events = []
     
     for event in events:
-        # Create a unique key from venue + title
-        # This will catch duplicates even if they don't have a "recurring" field
-        key = f"{event.get('venue')}|{event.get('title')}"
+        # Create a unique key from venue + title + date + time
+        # This prevents removing multiple events on the same day with different times
+        venue = event.get('venue', '')
+        title = event.get('title', '')
+        date = event.get('date', '')
+        time = event.get('time', event.get('time_start', ''))  # Use time or time_start
+        
+        key = f"{venue}|{title}|{date}|{time}"
         
         if key in seen_events:
             # This is a duplicate
