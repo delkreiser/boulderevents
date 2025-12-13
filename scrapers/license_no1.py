@@ -64,15 +64,35 @@ def parse_calendar_html(html):
     event_items = soup.find_all(class_=re.compile(r'eventlist-event', re.I))
     print(f"Found {len(event_items)} total events in HTML")
     
+    # Also try the specific class you mentioned
+    upcoming_items = soup.find_all('article', class_='eventlist-event--upcoming')
+    print(f"Found {len(upcoming_items)} events with 'eventlist-event--upcoming' class")
+    
+    # Use whichever finds more events
+    if len(upcoming_items) > len(event_items):
+        event_items = upcoming_items
+        print(f"Using upcoming_items instead")
+    
     events = []
     today = date.today()
     
-    for item in event_items:
+    print(f"\nProcessing {len(event_items)} event items...")
+    
+    for idx, item in enumerate(event_items, 1):
         event = parse_event_item(item)
         
         if event and event.get('title'):
+            print(f"\n  Event {idx}: {event.get('title')}")
+            print(f"    Date: {event.get('date')}")
+            print(f"    Start datetime: {event.get('start_datetime')}")
+            print(f"    Time: {event.get('time_start')}")
+            
             # Filter: Only include today and future events
             if event.get('start_date_obj'):
+                print(f"    Date object: {event['start_date_obj']}")
+                print(f"    Today: {today}")
+                print(f"    Is future/today: {event['start_date_obj'] >= today}")
+                
                 if event['start_date_obj'] >= today:
                     # Add metadata
                     event['venue'] = 'License No 1'
@@ -95,11 +115,18 @@ def parse_calendar_html(html):
                         del event['end_date_obj']
                     
                     events.append(event)
+                    print(f"    ✓ ADDED to output")
+                else:
+                    print(f"    ✗ SKIPPED (past event)")
+            else:
+                print(f"    ✗ SKIPPED (no date object)")
+        else:
+            print(f"\n  Event {idx}: SKIPPED (no title or failed to parse)")
     
     # Sort by start date/time (earliest first)
     events.sort(key=lambda e: (e.get('start_datetime', ''), e.get('time_start', '')))
     
-    print(f"Filtered to {len(events)} current/future events")
+    print(f"\nFiltered to {len(events)} current/future events")
     
     return events
 
