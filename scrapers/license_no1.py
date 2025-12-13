@@ -1,20 +1,18 @@
 #!/usr/bin/env python3
 """
-License No 1 Event Scraper - FIXED VERSION
-Fixes:
-1. Correct time parsing (was showing 57:00PM, 58:00PM, etc.)
-2. Add Comedy tag for comedy shows
-3. Use custom licenseno1.jpg image for all events
-4. Better event detection to catch all events including multiple per day
+License No 1 Event Scraper - PRODUCTION VERSION
+Scrapes directly from calendar page HTML - simple and fast!
 """
 
 import re
 import json
-from datetime import datetime
+from datetime import datetime, date
 from playwright.sync_api import sync_playwright
+from bs4 import BeautifulSoup
+
 
 def scrape_license_no1():
-    """Scrape all License No 1 events from their calendar"""
+    """Scrape License No 1 events from calendar page"""
     
     events = []
     
@@ -31,224 +29,162 @@ def scrape_license_no1():
             print("Loading License No 1 calendar...")
             page.goto('https://www.license1boulderado.com/calendar', 
                      wait_until='domcontentloaded', timeout=30000)
+            page.wait_for_timeout(3000)
             
-            # Wait for calendar to load
-            page.wait_for_timeout(5000)
-            
-            # Scroll to load all events (Squarespace uses lazy loading)
-            print("Scrolling to load all events...")
-            for scroll_attempt in range(10):  # Increased from 5 to 10
-                page.evaluate('window.scrollTo(0, document.body.scrollHeight)')
-                page.wait_for_timeout(2000)  # Increased wait time
-                
-                # Check for "Load More" or "Show More" buttons
-                load_more_button = page.locator('button:has-text("Load More"), button:has-text("Show More"), a:has-text("Load More")').first
-                if load_more_button.is_visible(timeout=1000):
-                    print(f"  Clicking Load More button (attempt {scroll_attempt + 1})...")
-                    try:
-                        load_more_button.click()
-                        page.wait_for_timeout(2000)
-                    except:
-                        pass
-            
-            # Scroll back to top
-            page.evaluate('window.scrollTo(0, 0)')
-            page.wait_for_timeout(1000)
-            
-            print("Finding all event links...")
-            # Get all event links from the calendar
-            event_links = page.locator('a[href*="/calendar/"]').all()
-            print(f"Found {len(event_links)} potential event links")
-            
-            seen_urls = set()
-            
-            for i, link in enumerate(event_links):
-                try:
-                    href = link.get_attribute('href')
-                    if not href or href in seen_urls or href == '/calendar':
-                        continue
-                    
-                    seen_urls.add(href)
-                    full_url = f"https://www.license1boulderado.com{href}" if not href.startswith('http') else href
-                    
-                    print(f"\nProcessing event {len(events) + 1}: {href[:50]}...")
-                    
-                    # Open event detail page
-                    event_page = browser.new_page()
-                    try:
-                        event_page.goto(full_url, wait_until='domcontentloaded', timeout=15000)
-                        event_page.wait_for_timeout(2000)
-                        
-                        html = event_page.content()
-                        event = parse_event_detail_page(html, full_url)
-                        
-                        if event and event.get('title'):
-                            # Add venue info
-                            event['venue'] = 'License No 1'
-                            event['location'] = 'Boulder'
-                            event['category'] = 'Nightlife'
-                            event['source_url'] = 'https://www.license1boulderado.com/calendar'
-                            
-                            # Use custom image (will be uploaded separately)
-                            event['image'] = 'licenseno1.jpg'
-                            
-                            # Detect comedy shows and add Comedy tag
-                            if is_comedy_show(event['title'], event.get('description', '')):
-                                event['event_type_tags'] = ['Comedy', 'Nightlife']
-                            else:
-                                event['event_type_tags'] = ['Live Music', 'Nightlife']
-                            
-                            event['venue_type_tags'] = ['Bar', 'Nightlife']
-                            
-                            events.append(event)
-                            print(f"  ✓ {event['title']}")
-                            print(f"    Date: {event.get('date', 'N/A')}")
-                            print(f"    Time: {event.get('time', 'N/A')}")
-                            
-                    except Exception as e:
-                        print(f"  ✗ Error loading event page: {e}")
-                    finally:
-                        event_page.close()
-                        
-                except Exception as e:
-                    print(f"  ✗ Error processing link: {e}")
-                    continue
+            print("Parsing calendar HTML...")
+            html = page.content()
+            events = parse_calendar_html(html)
             
             browser.close()
             
     except Exception as e:
-        print(f"Fatal error: {e}")
+        print(f"Error: {e}")
         import traceback
         traceback.print_exc()
     
     return events
 
 
-def parse_event_detail_page(html, url):
-    """Parse individual event detail page"""
-    from bs4 import BeautifulSoup
+def parse_calendar_html(html):
+    """Parse the calendar HTML to extract all events"""
     
     soup = BeautifulSoup(html, 'html.parser')
-    event = {'link': url}
     
-    # Title - look for event title in common Squarespace patterns
-    title_selectors = [
-        'h1.eventitem-title',
-        'h1[class*="title"]',
-        'h1',
-        '.eventitem-title',
-        '[class*="event-title"]'
-    ]
+    # Find all event items
+    event_items = soup.find_all(class_=re.compile(r'eventlist-event', re.I))
+    print(f"Found {len(event_items)} total events in HTML")
     
-    for selector in title_selectors:
-        title_elem = soup.select_one(selector)
-        if title_elem:
-            event['title'] = title_elem.get_text(strip=True)
-            break
+    events = []
+    today = date.today()
     
-    # Date and Time - IMPROVED parsing
-    # Squarespace uses <time> elements with datetime attributes
-    
-    # First, try to find <time> element with datetime attribute
-    time_element = soup.find('time', {'datetime': True})
-    if time_element:
-        datetime_str = time_element.get('datetime', '')
-        # Parse ISO format like "2025-12-06T19:30:00" or "2025-12-06T19:30:00-07:00"
-        import re
-        from datetime import datetime as dt
+    for item in event_items:
+        event = parse_event_item(item)
         
+        if event and event.get('title'):
+            # Filter: Only include today and future events
+            if event.get('start_date_obj'):
+                if event['start_date_obj'] >= today:
+                    # Add metadata
+                    event['venue'] = 'License No 1'
+                    event['location'] = 'Boulder'
+                    event['category'] = 'Nightlife'
+                    event['source_url'] = 'https://www.license1boulderado.com/calendar'
+                    event['image'] = 'licenseno1.jpg'
+                    
+                    # Detect comedy shows
+                    if is_comedy_show(event['title']):
+                        event['event_type_tags'] = ['Comedy', 'Nightlife']
+                    else:
+                        event['event_type_tags'] = ['Live Music', 'Nightlife']
+                    
+                    event['venue_type_tags'] = ['Bar', 'Nightlife']
+                    
+                    # Remove internal date object (not JSON serializable)
+                    del event['start_date_obj']
+                    if 'end_date_obj' in event:
+                        del event['end_date_obj']
+                    
+                    events.append(event)
+    
+    # Sort by start date/time (earliest first)
+    events.sort(key=lambda e: (e.get('start_datetime', ''), e.get('time_start', '')))
+    
+    print(f"Filtered to {len(events)} current/future events")
+    
+    return events
+
+
+def parse_event_item(item):
+    """Parse a single event item from the calendar"""
+    
+    event = {}
+    
+    # Title and Link
+    title_elem = item.find('h1', class_='eventlist-title')
+    if title_elem:
+        link_elem = title_elem.find('a', class_='eventlist-title-link')
+        if link_elem:
+            event['title'] = link_elem.get_text(strip=True)
+            href = link_elem.get('href', '')
+            event['link'] = f"https://www.license1boulderado.com{href}" if href.startswith('/') else href
+    
+    # Find all date and time elements
+    date_elems = item.find_all('time', class_='event-date')
+    time_elems = item.find_all('time', class_=re.compile(r'event-time-localized'))
+    
+    # Start date and time
+    if len(date_elems) > 0:
+        event['date'] = date_elems[0].get_text(strip=True)
+        event['start_datetime'] = date_elems[0].get('datetime', '')
+        
+        # Parse date for filtering
         try:
-            # Extract datetime
-            if 'T' in datetime_str:
-                # Parse ISO datetime
-                datetime_obj = dt.fromisoformat(datetime_str.replace('Z', '+00:00'))
-                event['date'] = datetime_obj.strftime('%B %d, %Y')
-                event['time'] = datetime_obj.strftime('%I:%M %p').lstrip('0')
+            event['start_date_obj'] = datetime.fromisoformat(event['start_datetime']).date()
         except:
             pass
     
-    # Fallback: Look for date/time in text
-    if not event.get('date'):
-        date_elem = soup.select_one('.event-date, .eventitem-meta-date, [class*="date"]')
-        if date_elem:
-            date_text = date_elem.get_text(strip=True)
-            date_match = re.search(r'(January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2},?\s+\d{4}', date_text, re.I)
-            if date_match:
-                event['date'] = date_match.group(0)
+    if len(time_elems) > 0:
+        # Find start time specifically
+        time_start_elem = item.find('time', class_='event-time-localized-start')
+        if time_start_elem:
+            event['time_start'] = time_start_elem.get_text(strip=True)
+        else:
+            # Fallback to first time element
+            event['time_start'] = time_elems[0].get_text(strip=True)
     
-    if not event.get('time'):
-        time_elem = soup.select_one('.event-time-localized-start, .eventitem-meta-time, [class*="time"]')
-        if time_elem:
-            time_text = time_elem.get_text(strip=True)
-            # Look for XX:XX PM/AM format
-            time_match = re.search(r'(\d{1,2}):(\d{2})\s*(AM|PM|am|pm)', time_text, re.I)
-            if time_match:
-                hour = time_match.group(1)
-                minute = time_match.group(2)
-                meridiem = time_match.group(3).upper()
-                event['time'] = f"{hour}:{minute} {meridiem}"
+    # End date and time (for multi-day events like NYE)
+    if len(date_elems) > 1:
+        event['end_date'] = date_elems[1].get_text(strip=True)
+        event['end_datetime'] = date_elems[1].get('datetime', '')
+        
+        try:
+            event['end_date_obj'] = datetime.fromisoformat(event['end_datetime']).date()
+        except:
+            pass
     
-    # If time not found above, look in other elements
-    if not event.get('time'):
-        # Look in all text for time patterns
-        all_text = soup.get_text()
-        time_match = re.search(r'(\d{1,2}):(\d{2})\s*(AM|PM|am|pm)', all_text, re.I)
-        if time_match:
-            hour = time_match.group(1)
-            minute = time_match.group(2)
-            meridiem = time_match.group(3).upper()
-            event['time'] = f"{hour}:{minute} {meridiem}"
+    if len(time_elems) > 1:
+        # Find end time specifically
+        time_end_elem = item.find('time', class_='event-time-localized-end')
+        if time_end_elem:
+            event['time_end'] = time_end_elem.get_text(strip=True)
+        else:
+            # Fallback to second time element for multi-day events
+            event['time_end'] = time_elems[1].get_text(strip=True)
     
-    # Description
-    desc_selectors = [
-        '.eventitem-column-content',
-        '.event-description',
-        '[class*="description"]',
-        '.sqs-block-content p'
-    ]
-    
-    for selector in desc_selectors:
-        desc_elem = soup.select_one(selector)
-        if desc_elem:
-            desc_text = desc_elem.get_text(strip=True)
-            if len(desc_text) > 20:  # Make sure it's actual content
-                event['description'] = desc_text[:500]  # Limit length
-                break
+    # Create combined time field for display
+    if event.get('time_start') and event.get('time_end'):
+        # Check if it's a multi-day event
+        if event.get('end_date') and event.get('end_date') != event.get('date'):
+            event['time'] = f"{event['time_start']} ({event['date']}) - {event['time_end']} ({event['end_date']})"
+        else:
+            event['time'] = f"{event['time_start']} - {event['time_end']}"
+    elif event.get('time_start'):
+        event['time'] = event['time_start']
+    else:
+        event['time'] = 'TBD'
     
     return event if event.get('title') else None
 
 
-def is_comedy_show(title, description=''):
+def is_comedy_show(title):
     """Detect if an event is a comedy show"""
     comedy_keywords = [
-        'comedy',
-        'comedian',
-        'stand-up',
-        'standup',
-        'underground comedy',
-        'comedy show',
-        'comedy night'
+        'comedy', 'comedian', 'stand-up', 'standup',
+        'underground comedy', 'comedy show', 'comedy night'
     ]
-    
-    combined_text = f"{title} {description}".lower()
-    
-    return any(keyword in combined_text for keyword in comedy_keywords)
+    title_lower = title.lower()
+    return any(keyword in title_lower for keyword in comedy_keywords)
 
 
 if __name__ == "__main__":
     print("=" * 70)
-    print("LICENSE NO. 1 EVENT SCRAPER - FIXED VERSION")
+    print("LICENSE NO. 1 EVENT SCRAPER - PRODUCTION VERSION")
     print("=" * 70)
-    print("\nFixes applied:")
-    print("✓ Corrected time parsing (fixes 57:00PM, 58:00PM issues)")
-    print("✓ Added Comedy tag detection")
-    print("✓ Using custom licenseno1.jpg image")
-    print("✓ Improved event detection to catch all events\n")
     
     events = scrape_license_no1()
     
     print(f"\n{'=' * 70}")
-    print(f"RESULTS: Found {len(events)} events")
+    print(f"RESULTS: Found {len(events)} current/future events")
     print(f"{'=' * 70}\n")
     
     # Save to JSON
@@ -258,18 +194,27 @@ if __name__ == "__main__":
     
     print(f"✅ Saved to {output_file}\n")
     
-    # Show summary
     if events:
         print("Sample events:")
-        for i, event in enumerate(events[:5], 1):
+        for i, event in enumerate(events[:10], 1):
             print(f"\n{i}. {event.get('title')}")
             print(f"   Date: {event.get('date', 'N/A')}")
             print(f"   Time: {event.get('time', 'N/A')}")
             print(f"   Tags: {', '.join(event.get('event_type_tags', []))}")
-            
-        # Count comedy shows
+            print(f"   Link: {event.get('link', 'N/A')[:60]}...")
+        
+        # Statistics
         comedy_count = sum(1 for e in events if 'Comedy' in e.get('event_type_tags', []))
+        music_count = len(events) - comedy_count
+        
         print(f"\n📊 Statistics:")
         print(f"   Total events: {len(events)}")
         print(f"   Comedy shows: {comedy_count}")
-        print(f"   Music events: {len(events) - comedy_count}")
+        print(f"   Music events: {music_count}")
+        
+        # Check for multi-day events
+        multiday = [e for e in events if e.get('end_date')]
+        if multiday:
+            print(f"   Multi-day events: {len(multiday)}")
+            for e in multiday:
+                print(f"     - {e['title']}: {e['time']}")
