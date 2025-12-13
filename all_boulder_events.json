@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-13T18:38:57.657244",
+  "generated_at": "2025-12-13T19:06:44.990235",
   "total_events": 70,
   "tags": {
     "venues": [
@@ -131,7 +131,7 @@
       ]
     },
     {
-      "id": "junkyard_social_club_the_dose_a_psychedelic_comedy_experience_saturday_december_13_2025",
+      "id": "junkyard_social_club_the_dose_a_psychedelic_comedy_experience_saturday_december_13_2025_7pm_doors_preshow_dj_set_8pm_comedy_show_end_time_10pm",
       "title": "THE DOSE: A Psychedelic Comedy Experience",
       "venue": "Junkyard Social Club",
       "location": "Boulder",
@@ -154,13 +154,13 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Performance",
-        "21+"
+        "21+",
+        "Music"
       ]
     },
     {
-      "id": "junkyard_social_club_cheryl_lock_local_author_taylor_miller_local_illustrator_story_time_book_signing_sunday_december_14_2025",
+      "id": "junkyard_social_club_cheryl_lock_local_author_taylor_miller_local_illustrator_story_time_book_signing_sunday_december_14_2025_11_00_am_noon",
       "title": "Cheryl Lock \u2013 Local author & Taylor Miller \u2013 local illustrator: story time & book signing!",
       "venue": "Junkyard Social Club",
       "location": "Boulder",
@@ -183,12 +183,12 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
-        "All Ages"
+        "All Ages",
+        "Family Friendly"
       ]
     },
     {
-      "id": "junkyard_social_club_drop_in_mahjongg_tuesdays_tuesday_december_16_2025",
+      "id": "junkyard_social_club_drop_in_mahjongg_tuesdays_tuesday_december_16_2025_12_00_2_00_pm",
       "title": "Drop-In Mahjongg \u2013 Tuesdays",
       "venue": "Junkyard Social Club",
       "location": "Boulder",
@@ -215,7 +215,7 @@
       ]
     },
     {
-      "id": "junkyard_social_club_community_craft_night_wednesday_december_17_2025",
+      "id": "junkyard_social_club_community_craft_night_wednesday_december_17_2025_6_00_8_30_pm",
       "title": "Community Craft Night",
       "venue": "Junkyard Social Club",
       "location": "Boulder",
@@ -243,7 +243,7 @@
       ]
     },
     {
-      "id": "junkyard_social_club_creativemornings_friday_december_19_2025",
+      "id": "junkyard_social_club_creativemornings_friday_december_19_2025_8_00_am_doors_9_00_am_talk",
       "title": "CreativeMornings",
       "venue": "Junkyard Social Club",
       "location": "Boulder",
@@ -271,7 +271,7 @@
       ]
     },
     {
-      "id": "junkyard_social_club_uprooting_qahr_live_music_film_and_monologues_saturday_december_20_2025",
+      "id": "junkyard_social_club_uprooting_qahr_live_music_film_and_monologues_saturday_december_20_2025_3_30_pm_networking_4_00_5_30_pm_showtime",
       "title": "Uprooting Qahr \u2013 Live Music, Film, and Monologues",
       "venue": "Junkyard Social Club",
       "location": "Boulder",
@@ -294,14 +294,14 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Performance",
+        "Educational",
         "Community",
-        "Educational"
+        "Music"
       ]
     },
     {
-      "id": "junkyard_social_club_salsa_sunday_sunday_december_21_2025",
+      "id": "junkyard_social_club_salsa_sunday_sunday_december_21_2025_postponed_until_january",
       "title": "Salsa Sunday",
       "venue": "Junkyard Social Club",
       "location": "Boulder",
@@ -324,14 +324,14 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "Family Friendly",
         "All Ages",
-        "Community"
+        "Community",
+        "Family Friendly",
+        "Music"
       ]
     },
     {
-      "id": "junkyard_social_club_frosty_family_jam_sunday_december_21_2025",
+      "id": "junkyard_social_club_frosty_family_jam_sunday_december_21_2025_1_30_doors_2_20_3_20_show",
       "title": "Frosty Family Jam",
       "venue": "Junkyard Social Club",
       "location": "Boulder",
@@ -354,14 +354,14 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "Family Friendly",
         "Performance",
-        "All Ages"
+        "All Ages",
+        "Family Friendly",
+        "Music"
       ]
     },
     {
-      "id": "junkyard_social_club_flow_jam_tuesday_december_23_2025",
+      "id": "junkyard_social_club_flow_jam_tuesday_december_23_2025_6_00_9_00_pm",
       "title": "Flow Jam",
       "venue": "Junkyard Social Club",
       "location": "Boulder",
@@ -384,13 +384,13 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
+        "Educational",
         "Community",
-        "Educational"
+        "Music"
       ]
     },
     {
-      "id": "junkyard_social_club_new_year_s_salsa_masquerade_saturday_december_27_2025",
+      "id": "junkyard_social_club_new_year_s_salsa_masquerade_saturday_december_27_2025_7_30_pm_11_30_pm",
       "title": "New Year\u2019s Salsa Masquerade",
       "venue": "Junkyard Social Club",
       "location": "Boulder",
@@ -413,14 +413,14 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Performance",
+        "21+",
         "Community",
-        "21+"
+        "Music"
       ]
     },
     {
-      "id": "junkyard_social_club_queer_art_organics_open_mic_monday_december_29_2025",
+      "id": "junkyard_social_club_queer_art_organics_open_mic_monday_december_29_2025_4_30_8_00_pm",
       "title": "Queer Art Organics Open Mic",
       "venue": "Junkyard Social Club",
       "location": "Boulder",
@@ -448,7 +448,7 @@
       ]
     },
     {
-      "id": "junkyard_social_club_revolution_nye_2025_wednesday_december_31_2025",
+      "id": "junkyard_social_club_revolution_nye_2025_wednesday_december_31_2025_8_00_pm_doors_2_00_am_end",
       "title": "rEVOLUTION: NYE 2025",
       "venue": "Junkyard Social Club",
       "location": "Boulder",
@@ -471,14 +471,14 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Performance",
+        "21+",
         "Community",
-        "21+"
+        "Music"
       ]
     },
     {
-      "id": "junkyard_social_club_stage_party_friday_january_2_2026",
+      "id": "junkyard_social_club_stage_party_friday_january_2_2026_7_00_pm_doors_8_00_pm_show",
       "title": "Stage Party",
       "venue": "Junkyard Social Club",
       "location": "Boulder",
@@ -501,14 +501,14 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Performance",
+        "All Ages",
         "Community",
-        "All Ages"
+        "Music"
       ]
     },
     {
-      "id": "junkyard_social_club_cathartic_compost_saturday_night_saturday_january_31_2026",
+      "id": "junkyard_social_club_cathartic_compost_saturday_night_saturday_january_31_2026_6_00_pm_doors_7_00_pm_show",
       "title": "cathARTic compost \u2013 Saturday Night",
       "venue": "Junkyard Social Club",
       "location": "Boulder",
@@ -531,13 +531,13 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Performance",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
-      "id": "junkyard_social_club_cathartic_compost_sunday_night_sunday_february_1_2026",
+      "id": "junkyard_social_club_cathartic_compost_sunday_night_sunday_february_1_2026_6_00_pm_doors_7_00_pm_show",
       "title": "cathARTic compost \u2013 Sunday Night",
       "venue": "Junkyard Social Club",
       "location": "Boulder",
@@ -560,13 +560,13 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Performance",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
-      "id": "vine_street_pub_vinyl_night_every_monday",
+      "id": "vine_street_pub_vinyl_night_every_monday_5_00_pm_9_00_pm",
       "title": "Vinyl Night",
       "venue": "Vine Street Pub",
       "location": "Denver",
@@ -590,7 +590,7 @@
       "event_type_tags": []
     },
     {
-      "id": "vine_street_pub_music_night_every_saturday",
+      "id": "vine_street_pub_music_night_every_saturday_8_00_pm",
       "title": "Music Night",
       "venue": "Vine Street Pub",
       "location": "Denver",
@@ -614,7 +614,7 @@
       "event_type_tags": []
     },
     {
-      "id": "longs_peak_pub_game_night_every_monday",
+      "id": "longs_peak_pub_game_night_every_monday_5_00_pm_10_00_pm",
       "title": "Game Night",
       "venue": "Longs Peak Pub",
       "location": "Longmont",
@@ -638,7 +638,7 @@
       "event_type_tags": []
     },
     {
-      "id": "southern_sun_pub_the_bluegrass_pick_every_thursday",
+      "id": "southern_sun_pub_the_bluegrass_pick_every_thursday_7_30_pm_9_30_pm",
       "title": "The Bluegrass Pick",
       "venue": "Southern Sun Pub",
       "location": "Boulder",
@@ -662,7 +662,7 @@
       "event_type_tags": []
     },
     {
-      "id": "mountain_sun_pub_live_music_friday_nights",
+      "id": "mountain_sun_pub_live_music_friday_nights_9_00_pm_12_00_am",
       "title": "Live Music",
       "venue": "Mountain Sun Pub",
       "location": "Boulder",
@@ -686,7 +686,7 @@
       "event_type_tags": []
     },
     {
-      "id": "longs_peak_pub_xmas_espectacular_12_13_2025",
+      "id": "longs_peak_pub_xmas_espectacular_12_13_2025_6_00_pm_9_00_pm",
       "title": "XMAS Espectacular!",
       "venue": "Longs Peak Pub",
       "location": "Longmont",
@@ -710,7 +710,7 @@
       "event_type_tags": []
     },
     {
-      "id": "st_julien_hotel_spa_nancy_maclean_live_jazz_none",
+      "id": "st_julien_hotel_spa_nancy_maclean_live_jazz_none_6_00_pm_9_00_pm",
       "title": "Nancy MacLean Live jazz",
       "venue": "St Julien Hotel & Spa",
       "location": "Boulder",
@@ -735,7 +735,7 @@
       ]
     },
     {
-      "id": "st_julien_hotel_spa_the_other_things_funk_none",
+      "id": "st_julien_hotel_spa_the_other_things_funk_none_6_00_pm_9_00_pm",
       "title": "The Other Things Funk",
       "venue": "St Julien Hotel & Spa",
       "location": "Boulder",
@@ -760,7 +760,7 @@
       ]
     },
     {
-      "id": "st_julien_hotel_spa_ron_legualt_s_charlie_brown_goes_to_the_nutcracker_none",
+      "id": "st_julien_hotel_spa_ron_legualt_s_charlie_brown_goes_to_the_nutcracker_none_6_00_pm_9_00_pm",
       "title": "Ron Legualt's Charlie Brown Goes to the Nutcracker",
       "venue": "St Julien Hotel & Spa",
       "location": "Boulder",
@@ -785,7 +785,7 @@
       ]
     },
     {
-      "id": "st_julien_hotel_spa_adam_bodine_none",
+      "id": "st_julien_hotel_spa_adam_bodine_none_6_00_pm_9_00_pm",
       "title": "Adam Bodine",
       "venue": "St Julien Hotel & Spa",
       "location": "Boulder",
@@ -810,7 +810,7 @@
       ]
     },
     {
-      "id": "st_julien_hotel_spa_jon_shepard_jj_murphey_none",
+      "id": "st_julien_hotel_spa_jon_shepard_jj_murphey_none_6_00_pm_9_00_pm",
       "title": "Jon Shepard  &  JJ Murphey",
       "venue": "St Julien Hotel & Spa",
       "location": "Boulder",
@@ -835,7 +835,7 @@
       ]
     },
     {
-      "id": "st_julien_hotel_spa_wren_none",
+      "id": "st_julien_hotel_spa_wren_none_6_00_pm_9_00_pm",
       "title": "Wren",
       "venue": "St Julien Hotel & Spa",
       "location": "Boulder",
@@ -860,7 +860,7 @@
       ]
     },
     {
-      "id": "st_julien_hotel_spa_grown_a_man_band_none",
+      "id": "st_julien_hotel_spa_grown_a_man_band_none_6_00_pm_9_00_pm",
       "title": "Grown A** Man Band",
       "venue": "St Julien Hotel & Spa",
       "location": "Boulder",
@@ -885,7 +885,7 @@
       ]
     },
     {
-      "id": "st_julien_hotel_spa_nice_work_jazz_quartet_none",
+      "id": "st_julien_hotel_spa_nice_work_jazz_quartet_none_6_00_pm_9_00_pm",
       "title": "Nice Work Jazz Quartet",
       "venue": "St Julien Hotel & Spa",
       "location": "Boulder",
@@ -910,7 +910,7 @@
       ]
     },
     {
-      "id": "st_julien_hotel_spa_roaring_20_s_new_year_s_eve_party_tickets_required_december_31_2025_9_00_pm_january_1_2026_1_00_am",
+      "id": "st_julien_hotel_spa_roaring_20_s_new_year_s_eve_party_tickets_required_december_31_2025_9_00_pm_january_1_2026_1_00_am_none",
       "title": "Roaring 20's New Year's Eve Party- Tickets Required",
       "venue": "St Julien Hotel & Spa",
       "location": "Boulder",
@@ -935,7 +935,7 @@
       ]
     },
     {
-      "id": "st_julien_hotel_spa_elivin_pianist_none",
+      "id": "st_julien_hotel_spa_elivin_pianist_none_6_00_pm_9_00_pm",
       "title": "Elivin Pianist",
       "venue": "St Julien Hotel & Spa",
       "location": "Boulder",
@@ -1714,7 +1714,7 @@
       ]
     },
     {
-      "id": "license_no_1_the_underground_comedy_show_saturday_december_13_2025",
+      "id": "license_no_1_the_underground_comedy_show_saturday_december_13_2025_7_30_pm_8_30_pm",
       "title": "The Underground Comedy Show",
       "venue": "License No 1",
       "location": "Boulder",
@@ -1740,7 +1740,7 @@
       ]
     },
     {
-      "id": "license_no_1_live_music_with_hunter_stone_and_friends_thursday_december_18_2025",
+      "id": "license_no_1_live_music_with_hunter_stone_and_friends_thursday_december_18_2025_9_00_pm_11_59_pm",
       "title": "Live Music with Hunter Stone and Friends",
       "venue": "License No 1",
       "location": "Boulder",
@@ -1766,7 +1766,7 @@
       ]
     },
     {
-      "id": "license_no_1_live_music_with_the_rhythm_allstars_saturday_december_20_2025",
+      "id": "license_no_1_live_music_with_the_rhythm_allstars_saturday_december_20_2025_9_00_pm_11_59_pm",
       "title": "Live Music with The Rhythm Allstars",
       "venue": "License No 1",
       "location": "Boulder",
@@ -1792,7 +1792,7 @@
       ]
     },
     {
-      "id": "license_no_1_live_music_with_george_nelson_band_wednesday_december_24_2025",
+      "id": "license_no_1_live_music_with_george_nelson_band_wednesday_december_24_2025_8_00_pm_11_59_pm",
       "title": "Live Music with George Nelson Band",
       "venue": "License No 1",
       "location": "Boulder",
@@ -1818,7 +1818,7 @@
       ]
     },
     {
-      "id": "license_no_1_live_music_with_phoebe_nix_friday_december_26_2025",
+      "id": "license_no_1_live_music_with_phoebe_nix_friday_december_26_2025_9_00_pm_11_59_pm",
       "title": "Live Music with Phoebe Nix",
       "venue": "License No 1",
       "location": "Boulder",
@@ -1844,7 +1844,7 @@
       ]
     },
     {
-      "id": "license_no_1_live_music_with_blove_saturday_december_27_2025",
+      "id": "license_no_1_live_music_with_blove_saturday_december_27_2025_9_00_pm_11_59_pm",
       "title": "Live Music with Blove",
       "venue": "License No 1",
       "location": "Boulder",
@@ -1870,7 +1870,7 @@
       ]
     },
     {
-      "id": "license_no_1_cocktails_countdown_wed_dec_31_2025",
+      "id": "license_no_1_cocktails_countdown_wed_dec_31_2025_8_00_pm_wed_dec_31_2025_2_00_am_thu_jan_1_2026",
       "title": "Cocktails & Countdown",
       "venue": "License No 1",
       "location": "Boulder",
