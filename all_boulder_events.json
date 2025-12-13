@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T06:21:57.173340",
-  "total_events": 77,
+  "generated_at": "2025-12-13T06:24:38.179630",
+  "total_events": 68,
   "tags": {
     "venues": [
       "Junkyard Social Club",
@@ -131,175 +131,6 @@
       ]
     },
     {
-      "id": "junkyard_social_club_b_e_a_t_meet_up_wednesday_december_10_2025",
-      "title": "B.E.A.T. Meet-Up",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Wednesday, December 10, 2025",
-      "normalized_date": "2025-12-10T00:00:00",
-      "recurring": null,
-      "time": "6:00 - 7:00 PM",
-      "description": "",
-      "link": "https://junkyardsocialclub.org/drop-in-event/b-e-a-t-meet-up/",
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/06/BEAT-768x768.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Dance",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Community"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_boulder_burner_meet_up_wednesday_december_10_2025",
-      "title": "Boulder Burner Meet-up",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Wednesday, December 10, 2025",
-      "normalized_date": "2025-12-10T00:00:00",
-      "recurring": null,
-      "time": "6:30 - 8:30 PM",
-      "description": "",
-      "link": "https://junkyardsocialclub.org/drop-in-event/burner/",
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/07/Burner-768x434.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Dance",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Community"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_junkyard_game_night_thursday_december_11_2025",
-      "title": "Junkyard Game Night",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Thursday, December 11, 2025",
-      "normalized_date": "2025-12-11T00:00:00",
-      "recurring": null,
-      "time": "6:00 - 9:00 PM",
-      "description": "",
-      "link": "https://junkyardsocialclub.org/drop-in-event/junkyard-game-night/",
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/06/Game-Night-768x768.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": "All Ages are Welcome",
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Dance",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Family Friendly",
-        "Community",
-        "All Ages"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_fusion_partner_dance_thursday_december_11_2025",
-      "title": "Fusion Partner Dance",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Thursday, December 11, 2025",
-      "normalized_date": "2025-12-11T00:00:00",
-      "recurring": null,
-      "time": null,
-      "description": "",
-      "link": "https://junkyardsocialclub.org/product/fusion-partner-dance/",
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/06/Fusion-Dance-768x768.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Dance",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Music",
-        "Community"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_drop_in_mahjongg_thursdays_thursday_december_11_2025",
-      "title": "Drop-In Mahjongg \u2013 Thursdays",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Thursday, December 11, 2025",
-      "normalized_date": "2025-12-11T00:00:00",
-      "recurring": null,
-      "time": "3:30 - 5:30 PM",
-      "description": "",
-      "link": "https://junkyardsocialclub.org/drop-in-event/drop-in-mahjongg-thursdays/",
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/08/Drop-In-Mah-Jongg-Thursday.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Dance",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Community"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_salsaton_events_friday_december_12_2025",
-      "title": "Salsaton Events",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Friday, December 12, 2025",
-      "normalized_date": "2025-12-12T00:00:00",
-      "recurring": null,
-      "time": "7:30 - 11:00 PM",
-      "description": "",
-      "link": "https://junkyardsocialclub.org/product/salsaton-events/",
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/12/Salsaton-Dance-Party-768x644.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": "Family Friendly",
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Dance",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "All Ages",
-        "Music",
-        "Family Friendly",
-        "Performance",
-        "Community"
-      ]
-    },
-    {
       "id": "junkyard_social_club_the_dose_a_psychedelic_comedy_experience_saturday_december_13_2025",
       "title": "THE DOSE: A Psychedelic Comedy Experience",
       "venue": "Junkyard Social Club",
@@ -324,8 +155,8 @@
       ],
       "event_type_tags": [
         "Music",
-        "Performance",
-        "21+"
+        "21+",
+        "Performance"
       ]
     },
     {
@@ -357,6 +188,33 @@
       ]
     },
     {
+      "id": "junkyard_social_club_drop_in_mahjongg_tuesdays_tuesday_december_16_2025",
+      "title": "Drop-In Mahjongg \u2013 Tuesdays",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Tuesday, December 16, 2025",
+      "normalized_date": "2025-12-16T00:00:00",
+      "recurring": null,
+      "time": "12:00 - 2:00 PM",
+      "description": "",
+      "link": "https://junkyardsocialclub.org/drop-in-event/drop-in-mahjongg-tuesdays/",
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/08/Drop-In-MahJongg-Tuesday.jpg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": null,
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Dance",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Community"
+      ]
+    },
+    {
       "id": "junkyard_social_club_community_craft_night_wednesday_december_17_2025",
       "title": "Community Craft Night",
       "venue": "Junkyard Social Club",
@@ -380,8 +238,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "All Ages"
+        "All Ages",
+        "Community"
       ]
     },
     {
@@ -408,8 +266,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "All Ages"
+        "All Ages",
+        "Community"
       ]
     },
     {
@@ -436,10 +294,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "Community",
+        "Performance",
         "Educational",
-        "Performance"
+        "Music",
+        "Community"
       ]
     },
     {
@@ -466,10 +324,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "Community",
         "Family Friendly",
-        "All Ages"
+        "Music",
+        "All Ages",
+        "Community"
       ]
     },
     {
@@ -496,10 +354,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Family Friendly",
-        "Performance",
-        "All Ages"
+        "Music",
+        "All Ages",
+        "Performance"
       ]
     },
     {
@@ -526,9 +384,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Educational",
         "Music",
-        "Community",
-        "Educational"
+        "Community"
       ]
     },
     {
@@ -555,10 +413,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "Community",
         "Performance",
-        "21+"
+        "Music",
+        "21+",
+        "Community"
       ]
     },
     {
@@ -613,10 +471,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "Community",
         "Performance",
-        "21+"
+        "Music",
+        "21+",
+        "Community"
       ]
     },
     {
@@ -643,10 +501,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "Community",
         "Performance",
-        "All Ages"
+        "Music",
+        "All Ages",
+        "Community"
       ]
     },
     {
@@ -673,9 +531,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Performance",
         "Music",
-        "Community",
-        "Performance"
+        "Community"
       ]
     },
     {
@@ -702,9 +560,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Performance",
         "Music",
-        "Community",
-        "Performance"
+        "Community"
       ]
     },
     {
@@ -828,15 +686,15 @@
       "event_type_tags": []
     },
     {
-      "id": "longs_peak_pub_xmas_espectacular_12_23_2025",
+      "id": "longs_peak_pub_xmas_espectacular_12_13_2025",
       "title": "XMAS Espectacular!",
       "venue": "Longs Peak Pub",
       "location": "Longmont",
-      "date": "12/23/2025",
-      "normalized_date": "2025-12-23T00:00:00",
+      "date": "12/13/2025",
+      "normalized_date": "2025-12-13T00:00:00",
       "recurring": null,
       "time": "6:00 pm - 9:00 pm",
-      "description": "The Desert Furs \"XMAS Espectacular!\"  Longs Peak Pub, Saturday, 12/23/25, 6:00 pm - 9:00 pm",
+      "description": "The Desert Furs \"XMAS Espectacular!\"  Longs Peak Pub, Saturday, 12/13/25, 6:00 pm - 9:00 pm",
       "link": "https://www.mountainsunpub.com/events/",
       "image": null,
       "source_url": "https://www.mountainsunpub.com/events/",
@@ -1102,64 +960,12 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_boulder_county_film_commission_filmmaker_support_group_dec106_30_pm18_30",
-      "title": "Boulder County Film Commission: Filmmaker Support Group",
-      "venue": "Trident Booksellers & Cafe",
-      "location": "Boulder",
-      "date": "Dec106:30\u202fPM18:30",
-      "normalized_date": null,
-      "recurring": null,
-      "time": null,
-      "description": "Sponsored by the Boulder County Film Commission, these free events are designed to provide creative support for Boulder-area filmmakers! Maybe you'd like some feedback on a project you're working on, or perhaps you're stuck and need an idea for how to transition from this to that, or - well, you get the idea. We're here for you; let's be there for each other! Bring a script, a rough cut, an idea, or any creative problem.",
-      "link": "https://www.tridentcafe.com/events/2025/12/10/boulder-county-film-commission-filmmaker-support-group",
-      "image": null,
-      "source_url": "https://www.tridentcafe.com/events",
-      "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
-      ],
-      "event_type_tags": [
-        "Books & Literary"
-      ]
-    },
-    {
-      "id": "trident_booksellers_cafe_duncan_coker_thursday_december_11_2025",
-      "title": "Duncan Coker",
-      "venue": "Trident Booksellers & Cafe",
-      "location": "Boulder",
-      "date": "Thursday, December 11, 2025",
-      "normalized_date": "2025-12-11T00:00:00",
-      "recurring": null,
-      "time": null,
-      "description": "Duncan Coker is an unrepentant balladeer from the Colorado piedmont, with a voice that carries. Solo or with his band, he brings a western swagger that lands like leather boots on barnwood and brass.",
-      "link": "https://www.tridentcafe.com/events/2025/12/11/duncan-coker",
-      "image": null,
-      "source_url": "https://www.tridentcafe.com/events",
-      "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
-      ],
-      "event_type_tags": [
-        "Books & Literary"
-      ]
-    },
-    {
-      "id": "trident_booksellers_cafe_jazzetry_w_von_disco_saturday_december_13_2025",
+      "id": "trident_booksellers_cafe_jazzetry_w_von_disco_dec136_00_pm18_00",
       "title": "Jazzetry W/ Von Disco",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
-      "date": "Saturday, December 13, 2025",
-      "normalized_date": "2025-12-13T00:00:00",
+      "date": "Dec136:00\u202fPM18:00",
+      "normalized_date": null,
       "recurring": null,
       "time": null,
       "description": "Share",
@@ -1856,6 +1662,32 @@
       ]
     },
     {
+      "id": "trident_booksellers_cafe_duncan_coker_dec116_00_pm18_00",
+      "title": "Duncan Coker",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "Dec116:00\u202fPM18:00",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Duncan Coker is an unrepentant balladeer from the Colorado piedmont, with a voice that carries. Solo or with his band, he brings a western swagger that lands like leather boots on barnwood and brass.",
+      "link": "https://www.tridentcafe.com/events/2025/12/11/duncan-coker",
+      "image": null,
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Books & Literary"
+      ]
+    },
+    {
       "id": "trident_booksellers_cafe_bethylovelight_is_an_intergalactic_star_rockin_musician_who_loves_to_rock_out_for_truth_beauty_goodness_and_the_one_love_living_as_a_multifaceted_artist_she_composes_records_and_co_produces_all_of_her_original_audio_creations_bethylovelight_offers_a_stellar_variety_of_music_from_angelic_downtempo_to_hip_hop_reggae_rock_singing_with_the_utmost_light_of_love_she_intentionally_catalyzes_ecstatic_ascension_through_her_sonic_art_you_can_find_her_music_on_spotify_apple_music_soundcloud_bandcamp_fb_ig_tiktok_and_on_her_websitewww_bethylovelight_com_recurring",
       "title": "BethyLoveLight is an intergalactic star-rockin' musician who loves to rock out for Truth, beauty, goodness and the One Love! Living as a multifaceted artist, she composes, records and co-produces all of her original audio creations.\u00a0 BethyLoveLight offers a stellar variety of music from angelic downtempo to hip-hop/reggae/rock.\u00a0\u00a0Singing with the utmost Light of Love, she intentionally catalyzes\u00a0ecstatic ascension through her sonic art.\u00a0 You can find her music on Spotify, Apple Music, SoundCloud, Bandcamp, FB, IG, TikTok and on her websitewww.bethylovelight.com",
       "venue": "Trident Booksellers & Cafe",
@@ -1882,136 +1714,6 @@
       ]
     },
     {
-      "id": "license_no_1_live_music_with_george_nelson_band_december_10_2025",
-      "title": "Live Music with George Nelson Band",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": "December 10, 2025",
-      "normalized_date": "2025-12-10T00:00:00",
-      "recurring": null,
-      "time": "58:00 PM",
-      "description": "George and the band play every Wednesday at License No.1 in the catacombs of the Boulderado Hotel. Come hear this legend play a unique mix of American music from the likes of Ray Charles and Louis Armstrong. It doesn't get more real than this.",
-      "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-ecp99",
-      "image": "licenseno1.jpg",
-      "source_url": "https://www.license1boulderado.com/calendar",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+",
-        "Music"
-      ],
-      "event_type_tags": [
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "license_no_1_sign_in_recurring",
-      "title": "Sign in",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": null,
-      "time": null,
-      "description": "",
-      "link": "http://www.google.com/calendar/event?action=TEMPLATE&text=Live%20Music%20with%20George%20Nelson%20Band&dates=20251211T030000Z/20251211T065900Z",
-      "image": "licenseno1.jpg",
-      "source_url": "https://www.license1boulderado.com/calendar",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+",
-        "Music"
-      ],
-      "event_type_tags": [
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "license_no_1_the_underground_comedy_show_december_11_2025",
-      "title": "The Underground Comedy Show",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": "December 11, 2025",
-      "normalized_date": "2025-12-11T00:00:00",
-      "recurring": null,
-      "time": "58:00 PM",
-      "description": "Must Be 21+ ToEnter & Attend Events",
-      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-556r9-emndm",
-      "image": "licenseno1.jpg",
-      "source_url": "https://www.license1boulderado.com/calendar",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+",
-        "Music"
-      ],
-      "event_type_tags": [
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "license_no_1_live_music_with_hunter_stone_and_friends_december_11_2025",
-      "title": "Live Music with Hunter Stone and Friends",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": "December 11, 2025",
-      "normalized_date": "2025-12-11T00:00:00",
-      "recurring": null,
-      "time": "59:00 PM",
-      "description": "Must Be 21+ ToEnter & Attend Events",
-      "link": "https://www.license1boulderado.com/calendar/live-music-with-superimposition-3-tzj3w-ragmp-n3wp5-bm6da-7238m-r3mpg-2tk4t-etj9j-x52nl-43zhr-rta6x-7xyzy-w592k-7rgwt-p2ga6-yg2m3-ybk7a-3fxsm-kg2b8-r54sk-5639t-stm8r-xl2wt",
-      "image": "licenseno1.jpg",
-      "source_url": "https://www.license1boulderado.com/calendar",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+",
-        "Music"
-      ],
-      "event_type_tags": [
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "license_no_1_live_music_with_superimposition_december_12_2025",
-      "title": "Live Music with SuperImposition",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": "December 12, 2025",
-      "normalized_date": "2025-12-12T00:00:00",
-      "recurring": null,
-      "time": "59:00 PM",
-      "description": "Must Be 21+ ToEnter & Attend Events",
-      "link": "https://www.license1boulderado.com/calendar/live-music-with-lauren-joy-1-jpyyr-tt4w5-bl8gb-6w646-3e9j7-r6fjg-hcwc5-zxxa4-ptpll-fh4c2-st64t",
-      "image": "licenseno1.jpg",
-      "source_url": "https://www.license1boulderado.com/calendar",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+",
-        "Music"
-      ],
-      "event_type_tags": [
-        "Nightlife"
-      ]
-    },
-    {
       "id": "license_no_1_live_music_with_the_rhythm_allstars_december_20_2025",
       "title": "Live Music with The Rhythm Allstars",
       "venue": "License No 1",
@@ -2022,6 +1724,32 @@
       "time": "59:00 PM",
       "description": "Must Be 21+ ToEnter & Attend Events",
       "link": "https://www.license1boulderado.com/calendar/live-music-with-the-rhythm-allstars",
+      "image": "licenseno1.jpg",
+      "source_url": "https://www.license1boulderado.com/calendar",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+",
+        "Music"
+      ],
+      "event_type_tags": [
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_live_music_with_george_nelson_band_december_24_2025",
+      "title": "Live Music with George Nelson Band",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "December 24, 2025",
+      "normalized_date": "2025-12-24T00:00:00",
+      "recurring": null,
+      "time": "58:00 PM",
+      "description": "George and the band play every Wednesday at License No.1 in the catacombs of the Boulderado Hotel. Come hear this legend play a unique mix of American music from the likes of Ray Charles and Louis Armstrong. It doesn't get more real than this.",
+      "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-wddhd",
       "image": "licenseno1.jpg",
       "source_url": "https://www.license1boulderado.com/calendar",
       "age_restriction": null,
@@ -2074,6 +1802,32 @@
       "time": "59:00 PM",
       "description": "Must Be 21+ ToEnter & Attend Events",
       "link": "https://www.license1boulderado.com/calendar/live-music-with-superimposition-3-tzj3w-ragmp-n3wp5-bm6da-7238m-r3mpg-2tk4t-etj9j-x52nl-43zhr-rta6x-7xyzy-w592k-7rgwt-p2ga6-yg2m3-ybk7a-3fxsm-kg2b8-r54sk-5639t-fw4a8-t9cwn-rg6f3-n2jr4",
+      "image": "licenseno1.jpg",
+      "source_url": "https://www.license1boulderado.com/calendar",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+",
+        "Music"
+      ],
+      "event_type_tags": [
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_cocktails_countdown_december_31_2025",
+      "title": "Cocktails & Countdown",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "December 31, 2025",
+      "normalized_date": "2025-12-31T00:00:00",
+      "recurring": null,
+      "time": "58:00 PM",
+      "description": "Tickets are available for purchase:Cocktails & Countdown",
+      "link": "https://www.license1boulderado.com/calendar/cocktail-countdown",
       "image": "licenseno1.jpg",
       "source_url": "https://www.license1boulderado.com/calendar",
       "age_restriction": null,
