@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T06:24:38.179630",
-  "total_events": 68,
+  "generated_at": "2025-12-13T17:57:45.414478",
+  "total_events": 70,
   "tags": {
     "venues": [
       "Junkyard Social Club",
@@ -154,9 +154,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
+        "Performance",
         "21+",
-        "Performance"
+        "Music"
       ]
     },
     {
@@ -183,8 +183,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
-        "All Ages"
+        "All Ages",
+        "Family Friendly"
       ]
     },
     {
@@ -238,8 +238,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Community"
+        "Community",
+        "All Ages"
       ]
     },
     {
@@ -266,8 +266,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Community"
+        "Community",
+        "All Ages"
       ]
     },
     {
@@ -296,8 +296,8 @@
       "event_type_tags": [
         "Performance",
         "Educational",
-        "Music",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
@@ -324,10 +324,10 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Community",
         "Family Friendly",
         "Music",
-        "All Ages",
-        "Community"
+        "All Ages"
       ]
     },
     {
@@ -354,10 +354,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
-        "Music",
+        "Performance",
         "All Ages",
-        "Performance"
+        "Family Friendly",
+        "Music"
       ]
     },
     {
@@ -385,8 +385,8 @@
       ],
       "event_type_tags": [
         "Educational",
-        "Music",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
@@ -414,9 +414,9 @@
       ],
       "event_type_tags": [
         "Performance",
+        "Community",
         "Music",
-        "21+",
-        "Community"
+        "21+"
       ]
     },
     {
@@ -472,9 +472,9 @@
       ],
       "event_type_tags": [
         "Performance",
+        "Community",
         "Music",
-        "21+",
-        "Community"
+        "21+"
       ]
     },
     {
@@ -502,9 +502,9 @@
       ],
       "event_type_tags": [
         "Performance",
-        "Music",
+        "Community",
         "All Ages",
-        "Community"
+        "Music"
       ]
     },
     {
@@ -532,8 +532,8 @@
       ],
       "event_type_tags": [
         "Performance",
-        "Music",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
@@ -561,8 +561,8 @@
       ],
       "event_type_tags": [
         "Performance",
-        "Music",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
@@ -1714,15 +1714,67 @@
       ]
     },
     {
-      "id": "license_no_1_live_music_with_the_rhythm_allstars_december_20_2025",
+      "id": "license_no_1_the_underground_comedy_show_saturday_december_13_2025",
+      "title": "The Underground Comedy Show",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "Saturday, December 13, 2025",
+      "normalized_date": "2025-12-13T00:00:00",
+      "recurring": null,
+      "time": "7:30\u202fPM - 8:30\u202fPM",
+      "description": "",
+      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-fd65x-2x4z6-pjfxj-ze78w-5pprl",
+      "image": "licenseno1.jpg",
+      "source_url": "https://www.license1boulderado.com/calendar",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+",
+        "Music"
+      ],
+      "event_type_tags": [
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_live_music_with_hunter_stone_and_friends_thursday_december_18_2025",
+      "title": "Live Music with Hunter Stone and Friends",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "Thursday, December 18, 2025",
+      "normalized_date": "2025-12-18T00:00:00",
+      "recurring": null,
+      "time": "9:00\u202fPM - 11:59\u202fPM",
+      "description": "",
+      "link": "https://www.license1boulderado.com/calendar/live-music-with-superimposition-3-tzj3w-ragmp-n3wp5-bm6da-7238m-r3mpg-2tk4t-etj9j-x52nl-43zhr-rta6x-7xyzy-w592k-7rgwt-p2ga6-yg2m3-ybk7a-3fxsm-kg2b8-r54sk-5639t-stm8r-6brnm",
+      "image": "licenseno1.jpg",
+      "source_url": "https://www.license1boulderado.com/calendar",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+",
+        "Music"
+      ],
+      "event_type_tags": [
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_live_music_with_the_rhythm_allstars_saturday_december_20_2025",
       "title": "Live Music with The Rhythm Allstars",
       "venue": "License No 1",
       "location": "Boulder",
-      "date": "December 20, 2025",
+      "date": "Saturday, December 20, 2025",
       "normalized_date": "2025-12-20T00:00:00",
       "recurring": null,
-      "time": "59:00 PM",
-      "description": "Must Be 21+ ToEnter & Attend Events",
+      "time": "9:00\u202fPM - 11:59\u202fPM",
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/live-music-with-the-rhythm-allstars",
       "image": "licenseno1.jpg",
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -1740,15 +1792,15 @@
       ]
     },
     {
-      "id": "license_no_1_live_music_with_george_nelson_band_december_24_2025",
+      "id": "license_no_1_live_music_with_george_nelson_band_wednesday_december_24_2025",
       "title": "Live Music with George Nelson Band",
       "venue": "License No 1",
       "location": "Boulder",
-      "date": "December 24, 2025",
+      "date": "Wednesday, December 24, 2025",
       "normalized_date": "2025-12-24T00:00:00",
       "recurring": null,
-      "time": "58:00 PM",
-      "description": "George and the band play every Wednesday at License No.1 in the catacombs of the Boulderado Hotel. Come hear this legend play a unique mix of American music from the likes of Ray Charles and Louis Armstrong. It doesn't get more real than this.",
+      "time": "8:00\u202fPM - 11:59\u202fPM",
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-wddhd",
       "image": "licenseno1.jpg",
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -1766,15 +1818,15 @@
       ]
     },
     {
-      "id": "license_no_1_live_music_with_phoebe_nix_december_26_2025",
+      "id": "license_no_1_live_music_with_phoebe_nix_friday_december_26_2025",
       "title": "Live Music with Phoebe Nix",
       "venue": "License No 1",
       "location": "Boulder",
-      "date": "December 26, 2025",
+      "date": "Friday, December 26, 2025",
       "normalized_date": "2025-12-26T00:00:00",
       "recurring": null,
-      "time": "59:00 PM",
-      "description": "Must Be 21+ ToEnter & Attend Events",
+      "time": "9:00\u202fPM - 11:59\u202fPM",
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/live-music-with-phoebe-nix-1-wkm45-c8ct8",
       "image": "licenseno1.jpg",
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -1792,15 +1844,15 @@
       ]
     },
     {
-      "id": "license_no_1_live_music_with_blove_december_27_2025",
+      "id": "license_no_1_live_music_with_blove_saturday_december_27_2025",
       "title": "Live Music with Blove",
       "venue": "License No 1",
       "location": "Boulder",
-      "date": "December 27, 2025",
+      "date": "Saturday, December 27, 2025",
       "normalized_date": "2025-12-27T00:00:00",
       "recurring": null,
-      "time": "59:00 PM",
-      "description": "Must Be 21+ ToEnter & Attend Events",
+      "time": "9:00\u202fPM - 11:59\u202fPM",
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/live-music-with-superimposition-3-tzj3w-ragmp-n3wp5-bm6da-7238m-r3mpg-2tk4t-etj9j-x52nl-43zhr-rta6x-7xyzy-w592k-7rgwt-p2ga6-yg2m3-ybk7a-3fxsm-kg2b8-r54sk-5639t-fw4a8-t9cwn-rg6f3-n2jr4",
       "image": "licenseno1.jpg",
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -1818,15 +1870,15 @@
       ]
     },
     {
-      "id": "license_no_1_cocktails_countdown_december_31_2025",
+      "id": "license_no_1_cocktails_countdown_wed_dec_31_2025",
       "title": "Cocktails & Countdown",
       "venue": "License No 1",
       "location": "Boulder",
-      "date": "December 31, 2025",
-      "normalized_date": "2025-12-31T00:00:00",
+      "date": "Wed, Dec 31, 2025",
+      "normalized_date": null,
       "recurring": null,
-      "time": "58:00 PM",
-      "description": "Tickets are available for purchase:Cocktails & Countdown",
+      "time": "8:00\u202fPM (Wed, Dec 31, 2025) - 2:00\u202fAM (Thu, Jan 1, 2026)",
+      "description": "",
       "link": "https://www.license1boulderado.com/calendar/cocktail-countdown",
       "image": "licenseno1.jpg",
       "source_url": "https://www.license1boulderado.com/calendar",
