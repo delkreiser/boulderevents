@@ -76,6 +76,7 @@ def scrape_trident_events():
                     event['venue'] = 'Trident Booksellers & Cafe'
                     event['category'] = 'Books & Literary'
                     event['source_url'] = 'https://www.tridentcafe.com/events'
+                    event['image'] = 'trident.jpg'
                     events.append(event)
             except Exception as e:
                 print(f"Error parsing event: {e}")
@@ -142,6 +143,7 @@ def scrape_trident_simple(html_content):
             event['venue'] = 'Trident Booksellers & Cafe'
             event['category'] = 'Books & Literary'
             event['source_url'] = 'https://www.tridentcafe.com/events'
+            event['image'] = 'trident.jpg'
             events.append(event)
     
     return events
