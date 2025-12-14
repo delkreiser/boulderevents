@@ -29,8 +29,8 @@ def scrape_st_julien_events():
             
             print("Loading St Julien events page...")
             page.goto('https://stjulien.com/boulder-colorado-events/month/?tribe_eventcategory%5B0%5D=83', 
-                     wait_until='networkidle', timeout=30000)
-            page.wait_for_timeout(3000)
+                     wait_until='domcontentloaded', timeout=30000)  # Changed from networkidle
+            page.wait_for_timeout(5000)  # Wait 5 seconds for content to render
             
             # Scroll to load all events
             print("Scrolling to load all events...")
@@ -74,9 +74,15 @@ def parse_st_julien_html(html):
                 event = parse_event_json(json_data)
                 
                 if event and event.get('title'):
+                    print(f"\n  Found: {event['title']}")
+                    print(f"    Date: {event.get('date')}")
+                    print(f"    Date obj: {event.get('date_obj')}")
+                    print(f"    Today: {today}")
+                    
                     # Filter: Only include today and future events
                     if event.get('date_obj'):
                         if event['date_obj'] >= today:
+                            print(f"    ✓ KEEPING (future event)")
                             # Add venue info
                             event['venue'] = 'St Julien Hotel & Spa'
                             event['location'] = 'Boulder'
@@ -88,9 +94,10 @@ def parse_st_julien_html(html):
                             
                             del event['date_obj']  # Remove before adding to list
                             events.append(event)
-                            print(f"  ✓ {event['title']} - {event['date']}")
                         else:
-                            print(f"  ✗ Skipped past event: {event.get('title')}")
+                            print(f"    ✗ SKIPPED (past event)")
+                    else:
+                        print(f"    ✗ SKIPPED (no date_obj)")
             
         except json.JSONDecodeError as e:
             print(f"  Error parsing JSON-LD: {e}")
