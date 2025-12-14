@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T16:26:40.710355",
-  "total_events": 108,
+  "generated_at": "2025-12-14T22:21:38.910063",
+  "total_events": 114,
   "tags": {
     "venues": [
       "Junkyard Social Club",
@@ -8,6 +8,7 @@
       "Longs Peak Pub",
       "Mountain Sun Pub",
       "Southern Sun Pub",
+      "St Julien Hotel & Spa",
       "Trident Booksellers & Cafe",
       "Velvet Elk Lounge",
       "Vine Street Pub"
@@ -26,13 +27,16 @@
       "Cafe",
       "Community",
       "Dance",
+      "Entertainment",
       "Food & Drink",
+      "Hotel",
       "Literary",
       "Live Music",
       "Music",
       "Nightlife",
       "Performance",
-      "Pub"
+      "Pub",
+      "Upscale"
     ],
     "event_types": [
       "All Ages",
@@ -40,7 +44,9 @@
       "Comedy",
       "Community",
       "Educational",
+      "Entertainment",
       "Family Friendly",
+      "Hotel Events",
       "Live Music",
       "Music",
       "Nightlife",
@@ -325,8 +331,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
-        "All Ages"
+        "All Ages",
+        "Family Friendly"
       ]
     },
     {
@@ -439,10 +445,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "Educational",
         "Community",
-        "Music"
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -470,8 +476,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
         "All Ages",
+        "Family Friendly",
         "Community",
         "Music"
       ]
@@ -501,10 +507,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "All Ages",
         "Family Friendly",
-        "Music"
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -562,9 +568,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "Community",
-        "Music"
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -592,8 +598,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -621,9 +627,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "Community",
-        "Music"
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -651,10 +657,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "All Ages",
         "Community",
-        "Music"
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -682,9 +688,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "Community",
-        "Music"
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -712,9 +718,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "Community",
-        "Music"
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -841,6 +847,168 @@
         "Food & Drink"
       ],
       "event_type_tags": []
+    },
+    {
+      "id": "st_julien_hotel_spa_wren_december_18_2025_6_00_pm_9_00_pm",
+      "title": "Wren",
+      "venue": "St Julien Hotel & Spa",
+      "location": "Boulder",
+      "date": "December 18, 2025",
+      "normalized_date": "2025-12-18T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM - 9:00 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://stjulien.com/event/wren-4/",
+      "image": "stjulien.jpg",
+      "source_url": "https://stjulien.com/boulder-colorado-events/month/?tribe_eventcategory%5B0%5D=83",
+      "age_restriction": null,
+      "venue_tag": "St Julien Hotel & Spa",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Entertainment",
+        "Hotel",
+        "Upscale"
+      ],
+      "event_type_tags": [
+        "Entertainment",
+        "Hotel Events"
+      ]
+    },
+    {
+      "id": "st_julien_hotel_spa_ron_legualt_s_charlie_brown_goes_to_the_nutcracker_december_19_2025_6_00_pm_9_00_pm",
+      "title": "Ron Legualt's Charlie Brown Goes to the Nutcracker",
+      "venue": "St Julien Hotel & Spa",
+      "location": "Boulder",
+      "date": "December 19, 2025",
+      "normalized_date": "2025-12-19T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM - 9:00 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://stjulien.com/event/ron-legualts-charlie-brown-goes-to-the-nutcracker-3/",
+      "image": "stjulien.jpg",
+      "source_url": "https://stjulien.com/boulder-colorado-events/month/?tribe_eventcategory%5B0%5D=83",
+      "age_restriction": null,
+      "venue_tag": "St Julien Hotel & Spa",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Entertainment",
+        "Hotel",
+        "Upscale"
+      ],
+      "event_type_tags": [
+        "Entertainment",
+        "Hotel Events"
+      ]
+    },
+    {
+      "id": "st_julien_hotel_spa_grown_a_man_band_december_26_2025_6_00_pm_9_00_pm",
+      "title": "Grown A** Man Band",
+      "venue": "St Julien Hotel & Spa",
+      "location": "Boulder",
+      "date": "December 26, 2025",
+      "normalized_date": "2025-12-26T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM - 9:00 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://stjulien.com/event/grown-a-man-band-3/",
+      "image": "stjulien.jpg",
+      "source_url": "https://stjulien.com/boulder-colorado-events/month/?tribe_eventcategory%5B0%5D=83",
+      "age_restriction": null,
+      "venue_tag": "St Julien Hotel & Spa",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Entertainment",
+        "Hotel",
+        "Upscale"
+      ],
+      "event_type_tags": [
+        "Entertainment",
+        "Hotel Events"
+      ]
+    },
+    {
+      "id": "st_julien_hotel_spa_nice_work_jazz_quartet_december_27_2025_6_00_pm_9_00_pm",
+      "title": "Nice Work Jazz Quartet",
+      "venue": "St Julien Hotel & Spa",
+      "location": "Boulder",
+      "date": "December 27, 2025",
+      "normalized_date": "2025-12-27T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM - 9:00 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://stjulien.com/event/nice-work-jazz-quartet-23/",
+      "image": "stjulien.jpg",
+      "source_url": "https://stjulien.com/boulder-colorado-events/month/?tribe_eventcategory%5B0%5D=83",
+      "age_restriction": null,
+      "venue_tag": "St Julien Hotel & Spa",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Entertainment",
+        "Hotel",
+        "Upscale"
+      ],
+      "event_type_tags": [
+        "Entertainment",
+        "Hotel Events"
+      ]
+    },
+    {
+      "id": "st_julien_hotel_spa_roaring_20_s_new_year_s_eve_party_tickets_required_december_31_2025_9_00_pm_1_00_am",
+      "title": "Roaring 20's New Year's Eve Party- Tickets Required",
+      "venue": "St Julien Hotel & Spa",
+      "location": "Boulder",
+      "date": "December 31, 2025",
+      "normalized_date": "2025-12-31T00:00:00",
+      "recurring": null,
+      "time": "9:00 PM - 1:00 AM",
+      "description": "&lt;p&gt;Celebrate New Year\u2019s Eve in Roaring 20s elegance at St Julien with live entertainment, a premium bar, tray-passed bites and champagne toast! New Year\u2019s Eve: A Roaring 20s Celebration Step into the Roaring 20s for a glamorous New Year\u2019s Eve at St Julien Hotel &amp; Spa. Celebrate the night in style with live entertainment by [&hellip;]&lt;/p&gt;\\n",
+      "additional_info": "",
+      "link": "https://stjulien.com/event/roaring-20s-new-years-eve-party-tickets-required/",
+      "image": "stjulien.jpg",
+      "source_url": "https://stjulien.com/boulder-colorado-events/month/?tribe_eventcategory%5B0%5D=83",
+      "age_restriction": null,
+      "venue_tag": "St Julien Hotel & Spa",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Entertainment",
+        "Hotel",
+        "Upscale"
+      ],
+      "event_type_tags": [
+        "Entertainment",
+        "Hotel Events"
+      ]
+    },
+    {
+      "id": "st_julien_hotel_spa_elivin_pianist_january_03_2026_6_00_pm_9_00_pm",
+      "title": "Elivin Pianist",
+      "venue": "St Julien Hotel & Spa",
+      "location": "Boulder",
+      "date": "January 03, 2026",
+      "normalized_date": "2026-01-03T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM - 9:00 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://stjulien.com/event/elivin-pianist/",
+      "image": "stjulien.jpg",
+      "source_url": "https://stjulien.com/boulder-colorado-events/month/?tribe_eventcategory%5B0%5D=83",
+      "age_restriction": null,
+      "venue_tag": "St Julien Hotel & Spa",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Entertainment",
+        "Hotel",
+        "Upscale"
+      ],
+      "event_type_tags": [
+        "Entertainment",
+        "Hotel Events"
+      ]
     },
     {
       "id": "trident_booksellers_cafe_death_cafe_a_conversation_on_dealing_with_death_dec142_00_pm14_00",
