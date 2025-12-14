@@ -1,65 +1,173 @@
 [
   {
-    "title": "Dec 31, Luxe Lounge",
-    "date": "Nov 24",
+    "title": "Paizley Park Prince Tribute",
+    "date": "December 13, 2026",
+    "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/6364Paizley_Park.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
     "venue": "Velvet Elk Lounge",
+    "location": "Boulder",
     "category": "Music",
-    "source_url": "https://www.velvetelklounge.com/events/"
-  },
-  {
-    "title": "Home for the Holidaze featuring Los Cheesies",
-    "date": "November 26",
-    "venue": "Velvet Elk Lounge",
-    "category": "Music",
-    "source_url": "https://www.velvetelklounge.com/events/"
-  },
-  {
-    "title": "Black Sabbath Friday featuring Rat Salad a Black Sabbath Tribute",
-    "date": "November 28",
-    "venue": "Velvet Elk Lounge",
-    "category": "Music",
-    "source_url": "https://www.velvetelklounge.com/events/"
-  },
-  {
-    "title": "Steve Knight Band",
-    "date": "November 29th",
-    "venue": "Velvet Elk Lounge",
-    "category": "Music",
-    "source_url": "https://www.velvetelklounge.com/events/"
-  },
-  {
-    "title": "Second Annual Ugly-er Sweater Party",
-    "date": "December 4th",
-    "venue": "Velvet Elk Lounge",
-    "category": "Music",
-    "source_url": "https://www.velvetelklounge.com/events/"
+    "source_url": "https://www.velvetelklounge.com/events/",
+    "event_type_tags": [
+      "Live Music",
+      "Nightlife"
+    ],
+    "venue_type_tags": [
+      "Bar",
+      "Music Venue",
+      "Nightlife"
+    ],
+    "link": "https://www.velvetelklounge.com/event/december-13th-paizley-park-prince-tribute/"
   },
   {
     "title": "LatkePalooza II: A Chanukah Celebration!",
-    "date": "December 18",
+    "date": "December 18, 2025",
+    "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/26899LostTribe_Mercury_1.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
     "venue": "Velvet Elk Lounge",
+    "location": "Boulder",
     "category": "Music",
-    "source_url": "https://www.velvetelklounge.com/events/"
+    "source_url": "https://www.velvetelklounge.com/events/",
+    "event_type_tags": [
+      "Live Music",
+      "Nightlife"
+    ],
+    "venue_type_tags": [
+      "Bar",
+      "Music Venue",
+      "Nightlife"
+    ],
+    "link": "https://www.velvetelklounge.com/event/latkepalooza-ii-chanukah-celebration/"
+  },
+  {
+    "title": "Public Picasso",
+    "date": "December 19, 2025",
+    "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/82081IG_1-1.png?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+    "venue": "Velvet Elk Lounge",
+    "location": "Boulder",
+    "category": "Music",
+    "source_url": "https://www.velvetelklounge.com/events/",
+    "event_type_tags": [
+      "Live Music",
+      "Nightlife"
+    ],
+    "venue_type_tags": [
+      "Bar",
+      "Music Venue",
+      "Nightlife"
+    ],
+    "link": "https://www.velvetelklounge.com/event/december-19th-public-picasso/"
   },
   {
     "title": "Rapidgrass",
-    "date": "December 27",
+    "date": "December 27, 2025",
+    "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/5336IMG_2352.JPG?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
     "venue": "Velvet Elk Lounge",
+    "location": "Boulder",
     "category": "Music",
-    "source_url": "https://www.velvetelklounge.com/events/"
+    "source_url": "https://www.velvetelklounge.com/events/",
+    "event_type_tags": [
+      "Live Music",
+      "Nightlife"
+    ],
+    "venue_type_tags": [
+      "Bar",
+      "Music Venue",
+      "Nightlife"
+    ],
+    "link": "https://www.velvetelklounge.com/event/december-27th-rapidgrass/"
   },
   {
     "title": "Kings of Prussia",
-    "date": "January 2",
+    "date": "January 2, 2026",
+    "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/91165VelvetElk26.png?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
     "venue": "Velvet Elk Lounge",
+    "location": "Boulder",
     "category": "Music",
-    "source_url": "https://www.velvetelklounge.com/events/"
+    "source_url": "https://www.velvetelklounge.com/events/",
+    "event_type_tags": [
+      "Live Music",
+      "Nightlife"
+    ],
+    "venue_type_tags": [
+      "Bar",
+      "Music Venue",
+      "Nightlife"
+    ],
+    "link": "https://www.velvetelklounge.com/event/january-2-kings-of-prussia/"
+  },
+  {
+    "title": "BIG SHRIMP with Juicebox",
+    "date": "January 8, 2026",
+    "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/61657Juicebox.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+    "venue": "Velvet Elk Lounge",
+    "location": "Boulder",
+    "category": "Music",
+    "source_url": "https://www.velvetelklounge.com/events/",
+    "event_type_tags": [
+      "Live Music",
+      "Nightlife"
+    ],
+    "venue_type_tags": [
+      "Bar",
+      "Music Venue",
+      "Nightlife"
+    ],
+    "link": "https://www.velvetelklounge.com/event/january-8th-big-shrimp-with-juicebox/"
+  },
+  {
+    "title": "Toubab Krewe with River Spell",
+    "date": "January 22, 2026",
+    "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/97582Toubab.png?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+    "venue": "Velvet Elk Lounge",
+    "location": "Boulder",
+    "category": "Music",
+    "source_url": "https://www.velvetelklounge.com/events/",
+    "event_type_tags": [
+      "Live Music",
+      "Nightlife"
+    ],
+    "venue_type_tags": [
+      "Bar",
+      "Music Venue",
+      "Nightlife"
+    ],
+    "link": "https://www.velvetelklounge.com/event/january-22nd-toubab-krewe-with-river-spell/"
   },
   {
     "title": "JIMKATA with Terrawave",
-    "date": "January 24",
+    "date": "January 24, 2026",
+    "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/64045Jimkata_2024_2_1.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
     "venue": "Velvet Elk Lounge",
+    "location": "Boulder",
     "category": "Music",
-    "source_url": "https://www.velvetelklounge.com/events/"
+    "source_url": "https://www.velvetelklounge.com/events/",
+    "event_type_tags": [
+      "Live Music",
+      "Nightlife"
+    ],
+    "venue_type_tags": [
+      "Bar",
+      "Music Venue",
+      "Nightlife"
+    ],
+    "link": "https://www.velvetelklounge.com/event/jimkata-featuring-special-guest-january-24th/"
+  },
+  {
+    "title": "Dig Deep",
+    "date": "January 30, 2026",
+    "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/61780dig_deep.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+    "venue": "Velvet Elk Lounge",
+    "location": "Boulder",
+    "category": "Music",
+    "source_url": "https://www.velvetelklounge.com/events/",
+    "event_type_tags": [
+      "Live Music",
+      "Nightlife"
+    ],
+    "venue_type_tags": [
+      "Bar",
+      "Music Venue",
+      "Nightlife"
+    ],
+    "link": "https://www.velvetelklounge.com/event/january-30th-dig-deep/"
   }
 ]
