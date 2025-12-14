@@ -42,7 +42,7 @@ class EventAggregator:
             },
             'License No 1': {
                 'location': 'Boulder',
-                'tags': ['Nightlife', 'Bar', '21+', 'Music'],
+                'tags': ['Nightlife', 'Bar', '21+'],  # Removed Music, will use event-specific tags
                 'scraper_output': 'license_no1_events.json'
             },
         }
@@ -195,7 +195,8 @@ class EventAggregator:
                     'venue_tag': event_venue,
                     'location_tag': event_location,
                     'venue_type_tags': venue_config['tags'],
-                    'event_type_tags': self.extract_event_type_tags(event),
+                    # Use event's tags if available, otherwise extract
+                    'event_type_tags': event.get('event_type_tags', self.extract_event_type_tags(event)),
                 }
                 
                 all_events.append(enriched_event)
