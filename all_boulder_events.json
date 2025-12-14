@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T23:37:06.525579",
-  "total_events": 115,
+  "generated_at": "2025-12-14T23:50:31.829025",
+  "total_events": 123,
   "tags": {
     "venues": [
       "Jungle",
@@ -8,6 +8,7 @@
       "License No 1",
       "Longs Peak Pub",
       "Mountain Sun Pub",
+      "Rosetta Hall",
       "Southern Sun Pub",
       "St Julien Hotel & Spa",
       "Trident Booksellers & Cafe",
@@ -27,6 +28,7 @@
       "Books",
       "Cafe",
       "Community",
+      "DJ",
       "Dance",
       "Entertainment",
       "Food & Drink",
@@ -44,6 +46,8 @@
       "Books & Literary",
       "Comedy",
       "Community",
+      "DJ",
+      "Dance",
       "Educational",
       "Entertainment",
       "Family Friendly",
@@ -447,10 +451,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
+        "Educational",
         "Music",
         "Performance",
-        "Educational"
+        "Community"
       ]
     },
     {
@@ -478,10 +482,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "All Ages",
+        "Family Friendly",
         "Music",
-        "Family Friendly"
+        "Community",
+        "All Ages"
       ]
     },
     {
@@ -510,9 +514,9 @@
       ],
       "event_type_tags": [
         "Performance",
-        "All Ages",
+        "Family Friendly",
         "Music",
-        "Family Friendly"
+        "All Ages"
       ]
     },
     {
@@ -540,9 +544,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
+        "Educational",
         "Music",
-        "Educational"
+        "Community"
       ]
     },
     {
@@ -570,9 +574,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
+        "Performance",
         "Music",
-        "Performance"
+        "Community"
       ]
     },
     {
@@ -600,8 +604,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Performance"
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -629,9 +633,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
+        "Performance",
         "Music",
-        "Performance"
+        "Community"
       ]
     },
     {
@@ -659,10 +663,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "All Ages",
+        "Performance",
         "Music",
-        "Performance"
+        "Community",
+        "All Ages"
       ]
     },
     {
@@ -690,9 +694,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
+        "Performance",
         "Music",
-        "Performance"
+        "Community"
       ]
     },
     {
@@ -720,9 +724,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
+        "Performance",
         "Music",
-        "Performance"
+        "Community"
       ]
     },
     {
@@ -3198,6 +3202,254 @@
       "event_type_tags": [
         "Live Music",
         "Jazz"
+      ]
+    },
+    {
+      "id": "rosetta_hall_shares_december_11_2026_10_00_pm",
+      "title": "SHARES",
+      "venue": "Rosetta Hall",
+      "location": "Boulder",
+      "date": "december 11, 2026",
+      "normalized_date": "2026-12-11T00:00:00",
+      "recurring": null,
+      "time": "10:00 PM",
+      "description": "TECH HOUSE / TECHNO",
+      "additional_info": "",
+      "link": "https://rosettahall.com/live-music/",
+      "image": "rosettahall.jpg",
+      "source_url": "https://rosettahall.com/live-music/",
+      "age_restriction": "21+",
+      "venue_tag": "Rosetta Hall",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Nightlife",
+        "Dance",
+        "DJ",
+        "21+"
+      ],
+      "event_type_tags": [
+        "Music",
+        "Nightlife",
+        "Dance",
+        "DJ"
+      ]
+    },
+    {
+      "id": "rosetta_hall_don_p_december_12_2026_10_00_pm",
+      "title": "DON P",
+      "venue": "Rosetta Hall",
+      "location": "Boulder",
+      "date": "december 12, 2026",
+      "normalized_date": "2026-12-12T00:00:00",
+      "recurring": null,
+      "time": "10:00 PM",
+      "description": "TECH HOUSE",
+      "additional_info": "",
+      "link": "https://rosettahall.com/live-music/",
+      "image": "rosettahall.jpg",
+      "source_url": "https://rosettahall.com/live-music/",
+      "age_restriction": "21+",
+      "venue_tag": "Rosetta Hall",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Nightlife",
+        "Dance",
+        "DJ",
+        "21+"
+      ],
+      "event_type_tags": [
+        "Music",
+        "Nightlife",
+        "Dance",
+        "DJ"
+      ]
+    },
+    {
+      "id": "rosetta_hall_four_lives_december_13_2026_10_00_pm",
+      "title": "FOUR LIVES",
+      "venue": "Rosetta Hall",
+      "location": "Boulder",
+      "date": "december 13, 2026",
+      "normalized_date": "2026-12-13T00:00:00",
+      "recurring": null,
+      "time": "10:00 PM",
+      "description": "TECH HOUSE",
+      "additional_info": "",
+      "link": "https://rosettahall.com/live-music/",
+      "image": "rosettahall.jpg",
+      "source_url": "https://rosettahall.com/live-music/",
+      "age_restriction": "21+",
+      "venue_tag": "Rosetta Hall",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Nightlife",
+        "Dance",
+        "DJ",
+        "21+"
+      ],
+      "event_type_tags": [
+        "Music",
+        "Nightlife",
+        "Dance",
+        "DJ"
+      ]
+    },
+    {
+      "id": "rosetta_hall_nomi_malik_december_16_2025_6_00_pm",
+      "title": "NOMI MALIK",
+      "venue": "Rosetta Hall",
+      "location": "Boulder",
+      "date": "december 16, 2025",
+      "normalized_date": "2025-12-16T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM",
+      "description": "COCKTAIL VOCALIST",
+      "additional_info": "",
+      "link": "https://rosettahall.com/live-music/",
+      "image": "rosettahall.jpg",
+      "source_url": "https://rosettahall.com/live-music/",
+      "age_restriction": "21+",
+      "venue_tag": "Rosetta Hall",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Nightlife",
+        "Dance",
+        "DJ",
+        "21+"
+      ],
+      "event_type_tags": [
+        "Music",
+        "Nightlife",
+        "Dance",
+        "DJ"
+      ]
+    },
+    {
+      "id": "rosetta_hall_danny_shafer_december_23_2025_6_00_pm",
+      "title": "DANNY SHAFER",
+      "venue": "Rosetta Hall",
+      "location": "Boulder",
+      "date": "december 23, 2025",
+      "normalized_date": "2025-12-23T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM",
+      "description": "ACOUSTIC GUITAR",
+      "additional_info": "",
+      "link": "https://rosettahall.com/live-music/",
+      "image": "rosettahall.jpg",
+      "source_url": "https://rosettahall.com/live-music/",
+      "age_restriction": "21+",
+      "venue_tag": "Rosetta Hall",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Nightlife",
+        "Dance",
+        "DJ",
+        "21+"
+      ],
+      "event_type_tags": [
+        "Music",
+        "Nightlife",
+        "Dance",
+        "DJ"
+      ]
+    },
+    {
+      "id": "rosetta_hall_on_the_dot_december_31_2025_9_00_pm",
+      "title": "ON THE DOT",
+      "venue": "Rosetta Hall",
+      "location": "Boulder",
+      "date": "december 31, 2025",
+      "normalized_date": "2025-12-31T00:00:00",
+      "recurring": null,
+      "time": "9:00 PM",
+      "description": "INDIE ROCK",
+      "additional_info": "",
+      "link": "https://rosettahall.com/live-music/",
+      "image": "rosettahall.jpg",
+      "source_url": "https://rosettahall.com/live-music/",
+      "age_restriction": "21+",
+      "venue_tag": "Rosetta Hall",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Nightlife",
+        "Dance",
+        "DJ",
+        "21+"
+      ],
+      "event_type_tags": [
+        "Music",
+        "Nightlife",
+        "Dance",
+        "DJ"
+      ]
+    },
+    {
+      "id": "rosetta_hall_ryan_benthall_january_6_2026_6_00_pm",
+      "title": "RYAN BENTHALL",
+      "venue": "Rosetta Hall",
+      "location": "Boulder",
+      "date": "january 6, 2026",
+      "normalized_date": "2026-01-06T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM",
+      "description": "JAZZ KEYBOARD",
+      "additional_info": "",
+      "link": "https://rosettahall.com/live-music/",
+      "image": "rosettahall.jpg",
+      "source_url": "https://rosettahall.com/live-music/",
+      "age_restriction": "21+",
+      "venue_tag": "Rosetta Hall",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Nightlife",
+        "Dance",
+        "DJ",
+        "21+"
+      ],
+      "event_type_tags": [
+        "Music",
+        "Nightlife",
+        "Dance",
+        "DJ"
+      ]
+    },
+    {
+      "id": "rosetta_hall_izzebella_january_13_2026_6_00_pm",
+      "title": "IZZEBELLA",
+      "venue": "Rosetta Hall",
+      "location": "Boulder",
+      "date": "january 13, 2026",
+      "normalized_date": "2026-01-13T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM",
+      "description": "ROCK",
+      "additional_info": "",
+      "link": "https://rosettahall.com/live-music/",
+      "image": "rosettahall.jpg",
+      "source_url": "https://rosettahall.com/live-music/",
+      "age_restriction": "21+",
+      "venue_tag": "Rosetta Hall",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Nightlife",
+        "Dance",
+        "DJ",
+        "21+"
+      ],
+      "event_type_tags": [
+        "Music",
+        "Nightlife",
+        "Dance",
+        "DJ"
       ]
     }
   ]
