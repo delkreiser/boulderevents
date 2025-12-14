@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-14T16:14:14.285348",
+  "generated_at": "2025-12-14T16:26:40.710355",
   "total_events": 108,
   "tags": {
     "venues": [
@@ -325,8 +325,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Family Friendly"
+        "Family Friendly",
+        "All Ages"
       ]
     },
     {
@@ -440,8 +440,8 @@
       ],
       "event_type_tags": [
         "Performance",
-        "Community",
         "Educational",
+        "Community",
         "Music"
       ]
     },
@@ -470,8 +470,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
         "Family Friendly",
+        "All Ages",
         "Community",
         "Music"
       ]
@@ -532,8 +532,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Educational",
+        "Community",
         "Music"
       ]
     },
