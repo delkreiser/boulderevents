@@ -1,0 +1,25 @@
+[
+  {
+    "title": "Live Jazz",
+    "venue": "Jungle",
+    "location": "Boulder",
+    "recurring": "Every Wednesday",
+    "time": "7:00 PM - 9:00 PM",
+    "description": "Live Jazz with Max Moore, Zach Ritchie, and William George Kuepper V",
+    "link": "https://junglerumbar.com/",
+    "source_url": "https://junglerumbar.com/",
+    "image": "jungle.jpg",
+    "category": "Music",
+    "age_restriction": "21+",
+    "event_type_tags": [
+      "Live Music",
+      "Jazz"
+    ],
+    "venue_type_tags": [
+      "Music",
+      "Live Music",
+      "Bar",
+      "Nightlife"
+    ]
+  }
+]

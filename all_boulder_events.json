@@ -1,8 +1,9 @@
 {
-  "generated_at": "2025-12-14T22:50:54.777305",
-  "total_events": 114,
+  "generated_at": "2025-12-14T22:58:35.928322",
+  "total_events": 115,
   "tags": {
     "venues": [
+      "Jungle",
       "Junkyard Social Club",
       "License No 1",
       "Longs Peak Pub",
@@ -47,6 +48,7 @@
       "Entertainment",
       "Family Friendly",
       "Hotel Events",
+      "Jazz",
       "Live Music",
       "Music",
       "Nightlife",
@@ -331,8 +333,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
-        "All Ages"
+        "All Ages",
+        "Family Friendly"
       ]
     },
     {
@@ -445,10 +447,10 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Performance",
         "Community",
-        "Music",
         "Educational",
-        "Performance"
+        "Music"
       ]
     },
     {
@@ -476,10 +478,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
         "Community",
-        "Music",
-        "All Ages"
+        "All Ages",
+        "Family Friendly",
+        "Music"
       ]
     },
     {
@@ -507,10 +509,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
-        "Music",
+        "Performance",
         "All Ages",
-        "Performance"
+        "Family Friendly",
+        "Music"
       ]
     },
     {
@@ -539,8 +541,8 @@
       ],
       "event_type_tags": [
         "Community",
-        "Music",
-        "Educational"
+        "Educational",
+        "Music"
       ]
     },
     {
@@ -568,9 +570,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Performance",
         "Community",
-        "Music",
-        "Performance"
+        "Music"
       ]
     },
     {
@@ -598,8 +600,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Performance"
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -627,9 +629,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Performance",
         "Community",
-        "Music",
-        "Performance"
+        "Music"
       ]
     },
     {
@@ -657,10 +659,10 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Performance",
         "Community",
-        "Music",
         "All Ages",
-        "Performance"
+        "Music"
       ]
     },
     {
@@ -688,9 +690,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Performance",
         "Community",
-        "Music",
-        "Performance"
+        "Music"
       ]
     },
     {
@@ -718,9 +720,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Performance",
         "Community",
-        "Music",
-        "Performance"
+        "Music"
       ]
     },
     {
@@ -3168,6 +3170,34 @@
       "event_type_tags": [
         "Live Music",
         "Nightlife"
+      ]
+    },
+    {
+      "id": "jungle_live_jazz_every_wednesday_7_00_pm_9_00_pm",
+      "title": "Live Jazz",
+      "venue": "Jungle",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": "Every Wednesday",
+      "time": "7:00 PM - 9:00 PM",
+      "description": "Live Jazz with Max Moore, Zach Ritchie, and William George Kuepper V",
+      "additional_info": "",
+      "link": "https://junglerumbar.com/",
+      "image": "jungle.jpg",
+      "source_url": "https://junglerumbar.com/",
+      "age_restriction": "21+",
+      "venue_tag": "Jungle",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Live Music",
+        "Bar",
+        "Nightlife"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Jazz"
       ]
     }
   ]
