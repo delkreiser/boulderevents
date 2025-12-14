@@ -64,19 +64,26 @@ class EventAggregator:
         """Extract event type tags from event data"""
         tags = set()
         
-        # Check categories field
+        # Check categories field (can be list or string)
         if event.get('categories'):
             categories = event['categories']
-            if 'Dance' in categories or 'Music' in categories:
-                tags.add('Music')
-            if 'Community' in categories:
-                tags.add('Community')
-            if 'Performance' in categories:
-                tags.add('Performance')
-            if 'Educational' in categories:
-                tags.add('Educational')
-            if 'Family Fun' in categories:
-                tags.add('Family Friendly')
+            # Handle both list and string formats
+            if isinstance(categories, list):
+                cat_list = categories
+            else:
+                cat_list = [categories]
+            
+            for cat in cat_list:
+                if 'Dance' in cat or 'Music' in cat:
+                    tags.add('Music')
+                if 'Community' in cat:
+                    tags.add('Community')
+                if 'Performance' in cat:
+                    tags.add('Performance')
+                if 'Educational' in cat:
+                    tags.add('Educational')
+                if 'Family Fun' in cat:
+                    tags.add('Family Friendly')
         
         # Check category field (singular)
         if event.get('category'):
@@ -186,6 +193,7 @@ class EventAggregator:
                     'recurring': event.get('recurring'),
                     'time': event.get('time'),
                     'description': event.get('description', ''),
+                    'additional_info': event.get('additional_info', ''),  # NEW: Additional notes
                     'link': event.get('link'),
                     'image': event.get('image'),
                     'source_url': event.get('source_url'),

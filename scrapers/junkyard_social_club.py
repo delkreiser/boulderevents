@@ -124,6 +124,9 @@ def parse_junkyard_event_card(card):
     # Get all list items which contain date, time, categories, age info
     list_items = card.find_all('li')
     
+    # Also collect additional notes from span.elementor-icon-list-text
+    notes = []
+    
     for li in list_items:
         text = li.get_text(strip=True)
         
@@ -135,13 +138,52 @@ def parse_junkyard_event_card(card):
         elif re.search(r'\d{1,2}:\d{2}|Doors|POSTPONED|Closed', text, re.I):
             event['time'] = text
         
-        # Check if this is categories (contains commas or known category words)
+        # Check if this is categories (look for their specific tags)
         elif any(cat in text for cat in ['Community', 'Dance/Music', 'Educational', 'Performance', 'Family Fun']):
-            event['categories'] = text
+            # Extract the actual categories
+            categories = []
+            if 'Community' in text:
+                categories.append('Community')
+            if 'Dance/Music' in text or 'Dance' in text or 'Music' in text:
+                categories.append('Dance/Music')
+            if 'Educational' in text:
+                categories.append('Educational')
+            if 'Performance' in text:
+                categories.append('Performance')
+            if 'Family Fun' in text:
+                categories.append('Family Fun')
+            
+            event['categories'] = categories
         
-        # Check if this is age restriction
-        elif 'age' in text.lower() or 'family friendly' in text.lower():
-            event['age_restriction'] = text
+        # Check for additional notes/info
+        else:
+            # Look for span.elementor-icon-list-text within this li
+            span = li.find('span', class_='elementor-icon-list-text')
+            if span:
+                note_text = span.get_text(strip=True)
+                # Skip if it's already captured as date/time/category
+                if note_text and note_text not in [event.get('date', ''), event.get('time', '')]:
+                    # Skip if it's just restating categories
+                    if not any(cat in note_text for cat in ['Community', 'Dance/Music', 'Educational', 'Performance', 'Family Fun']):
+                        notes.append(note_text)
+    
+    # Store notes if any
+    if notes:
+        event['additional_info'] = ' | '.join(notes)
+    
+    # Determine age restriction based on categories and notes
+    age_restriction = None
+    if event.get('categories'):
+        if 'Family Fun' in event['categories']:
+            age_restriction = 'All Ages'
+    
+    # Also check notes for "All Ages are Welcome"
+    if event.get('additional_info'):
+        if 'all ages' in event['additional_info'].lower():
+            age_restriction = 'All Ages'
+    
+    if age_restriction:
+        event['age_restriction'] = age_restriction
     
     # Find the "Event Info" link - search broadly in the container
     link_elem = card.find('a', string=re.compile(r'Event Info', re.I))
@@ -163,7 +205,7 @@ def parse_junkyard_event_card(card):
     if img_elem and img_elem.get('src'):
         event['image'] = img_elem['src']
     
-    return event if event.get('title') else None  # Only require title, date is optional
+    return event if event.get('title') else None
 
 
 if __name__ == "__main__":
