@@ -48,39 +48,53 @@ def scrape_junkyard_events():
             # Junkyard uses image-based event cards
             print("Finding event cards...")
             
-            # Try to find event containers - look for article or div elements
-            # that contain both an h2 and event info link
-            event_containers = soup.find_all(['article', 'div'], class_=re.compile(r'event|post', re.I))
-            print(f"Found {len(event_containers)} event containers with 'event' or 'post' class")
+            # Find only the TOP-LEVEL event containers, not nested ones
+            # Look for elements that have BOTH h2 and Event Info link as direct children
+            all_containers = soup.find_all(['article', 'div'], class_=re.compile(r'event|post', re.I))
             
-            # If that doesn't work, find all h2 headings and work backwards to find their containers
-            if len(event_containers) == 0:
-                print("Trying alternative method: looking for h2 headings...")
-                headings = soup.find_all('h2')
-                print(f"Found {len(headings)} h2 headings")
-                
-                for h2 in headings:
-                    # Find the parent container
-                    container = h2.find_parent(['article', 'div', 'section'])
-                    if container and container not in event_containers:
-                        # Check if this container has event-like content
-                        if container.find('a', string=re.compile(r'Event Info', re.I)):
-                            event_containers.append(container)
-                
-                print(f"Found {len(event_containers)} containers with h2 + Event Info link")
+            # Filter to only parent containers (not nested)
+            event_containers = []
+            seen_titles = set()  # Track titles to avoid duplicates
             
-            for idx, event_card in enumerate(event_containers, 1):  # Process ALL containers
+            for container in all_containers:
+                # Check if this container has an h2 (title)
+                h2 = container.find('h2')
+                if not h2:
+                    continue
+                
+                title = h2.get_text(strip=True)
+                
+                # Skip if we've already seen this title
+                if title in seen_titles:
+                    continue
+                
+                # Check if this container has Event Info link
+                event_link = container.find('a', string=re.compile(r'Event Info', re.I))
+                if not event_link:
+                    event_link = container.find('a', href=re.compile(r'/event/|/product/|/drop-in-event/', re.I))
+                
+                if event_link:
+                    event_containers.append(container)
+                    seen_titles.add(title)
+            
+            print(f"Found {len(event_containers)} unique event containers")
+            
+            for idx, event_card in enumerate(event_containers, 1):
                 try:
                     event = parse_junkyard_event_card(event_card)
                     if event and event.get('title'):
-                        # Accept events even without dates - some might be ongoing/recurring
                         event['venue'] = 'Junkyard Social Club'
                         event['source_url'] = 'https://junkyardsocialclub.org/events/'
+                        
+                        # Add default image if none exists
+                        if not event.get('image'):
+                            event['image'] = 'junkyard.jpg'
+                        
                         events.append(event)
                         print(f"  ✓ Event {idx}: {event['title']}")
                     else:
-                        if idx <= 30:  # Only show first 30 failures to avoid log spam
-                            print(f"  ✗ Event {idx}: Failed to parse (missing title or date)")
+                        if idx <= 30:
+                            print(f"  ✗ Event {idx}: Failed to parse (missing title)")
                 except Exception as e:
                     if idx <= 30:
                         print(f"  ✗ Event {idx}: Error - {e}")
