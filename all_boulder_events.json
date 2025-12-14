@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T14:23:56.100901",
-  "total_events": 131,
+  "generated_at": "2025-12-14T14:40:18.923150",
+  "total_events": 137,
   "tags": {
     "venues": [
       "Junkyard Social Club",
@@ -55,17 +55,17 @@
   },
   "events": [
     {
-      "id": "velvet_elk_lounge_dec_31_luxe_lounge_nov_24",
-      "title": "Dec 31, Luxe Lounge",
+      "id": "velvet_elk_lounge_paizley_park_prince_tribute_december_13_2026",
+      "title": "Paizley Park Prince Tribute",
       "venue": "Velvet Elk Lounge",
       "location": "Boulder",
-      "date": "Nov 24",
-      "normalized_date": null,
+      "date": "December 13, 2026",
+      "normalized_date": "2026-12-13T00:00:00",
       "recurring": null,
       "time": null,
       "description": "",
-      "link": null,
-      "image": null,
+      "link": "https://www.velvetelklounge.com/event/december-13th-paizley-park-prince-tribute/",
+      "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/6364Paizley_Park.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
       "source_url": "https://www.velvetelklounge.com/events/",
       "age_restriction": null,
       "venue_tag": "Velvet Elk Lounge",
@@ -77,21 +77,22 @@
         "Nightlife"
       ],
       "event_type_tags": [
-        "Music"
+        "Live Music",
+        "Nightlife"
       ]
     },
     {
-      "id": "velvet_elk_lounge_latkepalooza_ii_a_chanukah_celebration_december_18",
+      "id": "velvet_elk_lounge_latkepalooza_ii_a_chanukah_celebration_december_18_2025",
       "title": "LatkePalooza II: A Chanukah Celebration!",
       "venue": "Velvet Elk Lounge",
       "location": "Boulder",
-      "date": "December 18",
+      "date": "December 18, 2025",
       "normalized_date": "2025-12-18T00:00:00",
       "recurring": null,
       "time": null,
       "description": "",
-      "link": null,
-      "image": null,
+      "link": "https://www.velvetelklounge.com/event/latkepalooza-ii-chanukah-celebration/",
+      "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/26899LostTribe_Mercury_1.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
       "source_url": "https://www.velvetelklounge.com/events/",
       "age_restriction": null,
       "venue_tag": "Velvet Elk Lounge",
@@ -103,21 +104,49 @@
         "Nightlife"
       ],
       "event_type_tags": [
-        "Music"
+        "Live Music",
+        "Nightlife"
       ]
     },
     {
-      "id": "velvet_elk_lounge_rapidgrass_december_27",
+      "id": "velvet_elk_lounge_public_picasso_december_19_2025",
+      "title": "Public Picasso",
+      "venue": "Velvet Elk Lounge",
+      "location": "Boulder",
+      "date": "December 19, 2025",
+      "normalized_date": "2025-12-19T00:00:00",
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "link": "https://www.velvetelklounge.com/event/december-19th-public-picasso/",
+      "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/82081IG_1-1.png?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+      "source_url": "https://www.velvetelklounge.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Velvet Elk Lounge",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Live Music",
+        "Bar",
+        "Nightlife"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "velvet_elk_lounge_rapidgrass_december_27_2025",
       "title": "Rapidgrass",
       "venue": "Velvet Elk Lounge",
       "location": "Boulder",
-      "date": "December 27",
+      "date": "December 27, 2025",
       "normalized_date": "2025-12-27T00:00:00",
       "recurring": null,
       "time": null,
       "description": "",
-      "link": null,
-      "image": null,
+      "link": "https://www.velvetelklounge.com/event/december-27th-rapidgrass/",
+      "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/5336IMG_2352.JPG?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
       "source_url": "https://www.velvetelklounge.com/events/",
       "age_restriction": null,
       "venue_tag": "Velvet Elk Lounge",
@@ -129,7 +158,143 @@
         "Nightlife"
       ],
       "event_type_tags": [
-        "Music"
+        "Live Music",
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "velvet_elk_lounge_kings_of_prussia_january_2_2026",
+      "title": "Kings of Prussia",
+      "venue": "Velvet Elk Lounge",
+      "location": "Boulder",
+      "date": "January 2, 2026",
+      "normalized_date": "2026-01-02T00:00:00",
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "link": "https://www.velvetelklounge.com/event/january-2-kings-of-prussia/",
+      "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/91165VelvetElk26.png?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+      "source_url": "https://www.velvetelklounge.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Velvet Elk Lounge",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Live Music",
+        "Bar",
+        "Nightlife"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "velvet_elk_lounge_big_shrimp_with_juicebox_january_8_2026",
+      "title": "BIG SHRIMP with Juicebox",
+      "venue": "Velvet Elk Lounge",
+      "location": "Boulder",
+      "date": "January 8, 2026",
+      "normalized_date": "2026-01-08T00:00:00",
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "link": "https://www.velvetelklounge.com/event/january-8th-big-shrimp-with-juicebox/",
+      "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/61657Juicebox.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+      "source_url": "https://www.velvetelklounge.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Velvet Elk Lounge",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Live Music",
+        "Bar",
+        "Nightlife"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "velvet_elk_lounge_toubab_krewe_with_river_spell_january_22_2026",
+      "title": "Toubab Krewe with River Spell",
+      "venue": "Velvet Elk Lounge",
+      "location": "Boulder",
+      "date": "January 22, 2026",
+      "normalized_date": "2026-01-22T00:00:00",
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "link": "https://www.velvetelklounge.com/event/january-22nd-toubab-krewe-with-river-spell/",
+      "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/97582Toubab.png?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+      "source_url": "https://www.velvetelklounge.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Velvet Elk Lounge",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Live Music",
+        "Bar",
+        "Nightlife"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "velvet_elk_lounge_jimkata_with_terrawave_january_24_2026",
+      "title": "JIMKATA with Terrawave",
+      "venue": "Velvet Elk Lounge",
+      "location": "Boulder",
+      "date": "January 24, 2026",
+      "normalized_date": "2026-01-24T00:00:00",
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "link": "https://www.velvetelklounge.com/event/jimkata-featuring-special-guest-january-24th/",
+      "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/64045Jimkata_2024_2_1.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+      "source_url": "https://www.velvetelklounge.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Velvet Elk Lounge",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Live Music",
+        "Bar",
+        "Nightlife"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "velvet_elk_lounge_dig_deep_january_30_2026",
+      "title": "Dig Deep",
+      "venue": "Velvet Elk Lounge",
+      "location": "Boulder",
+      "date": "January 30, 2026",
+      "normalized_date": "2026-01-30T00:00:00",
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "link": "https://www.velvetelklounge.com/event/january-30th-dig-deep/",
+      "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/61780dig_deep.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+      "source_url": "https://www.velvetelklounge.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Velvet Elk Lounge",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Live Music",
+        "Bar",
+        "Nightlife"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Nightlife"
       ]
     },
     {
@@ -156,8 +321,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Family Friendly"
+        "Family Friendly",
+        "All Ages"
       ]
     },
     {
@@ -261,8 +426,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Community"
+        "Community",
+        "All Ages"
       ]
     },
     {
@@ -314,8 +479,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Community"
+        "Community",
+        "All Ages"
       ]
     },
     {
@@ -367,10 +532,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Educational",
         "Community",
-        "Performance",
-        "Music"
+        "Educational",
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -422,10 +587,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
         "Community",
         "Family Friendly",
-        "Music"
+        "Music",
+        "All Ages"
       ]
     },
     {
@@ -477,10 +642,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
         "Family Friendly",
-        "Performance",
-        "Music"
+        "All Ages",
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -532,9 +697,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Educational",
         "Community",
-        "Music"
+        "Music",
+        "Educational"
       ]
     },
     {
@@ -588,8 +753,8 @@
       "event_type_tags": [
         "Community",
         "21+",
-        "Performance",
-        "Music"
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -696,8 +861,8 @@
       "event_type_tags": [
         "Community",
         "21+",
-        "Performance",
-        "Music"
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -749,10 +914,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
         "Community",
-        "Performance",
-        "Music"
+        "All Ages",
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -805,8 +970,8 @@
       ],
       "event_type_tags": [
         "Community",
-        "Performance",
-        "Music"
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -859,8 +1024,8 @@
       ],
       "event_type_tags": [
         "Community",
-        "Performance",
-        "Music"
+        "Music",
+        "Performance"
       ]
     },
     {
