@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T20:04:30.713192",
-  "total_events": 134,
+  "generated_at": "2025-12-14T06:19:49.807873",
+  "total_events": 132,
   "tags": {
     "venues": [
       "Junkyard Social Club",
@@ -131,35 +131,6 @@
       ]
     },
     {
-      "id": "junkyard_social_club_the_dose_a_psychedelic_comedy_experience_saturday_december_13_2025_7pm_doors_preshow_dj_set_8pm_comedy_show_end_time_10pm",
-      "title": "THE DOSE: A Psychedelic Comedy Experience",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Saturday, December 13, 2025",
-      "normalized_date": "2025-12-13T00:00:00",
-      "recurring": null,
-      "time": "7pm Doors/Preshow DJ Set | 8pm Comedy Show | End time 10pm",
-      "description": "",
-      "link": "https://junkyardsocialclub.org/product/the-dose/",
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/08/The-Dose-Psychedelic-Comedy-Show.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": "Must be age 18+",
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Dance",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "21+",
-        "Performance",
-        "Music"
-      ]
-    },
-    {
       "id": "junkyard_social_club_the_dose_a_psychedelic_comedy_experience_recurring",
       "title": "THE DOSE: A Psychedelic Comedy Experience",
       "venue": "Junkyard Social Club",
@@ -208,8 +179,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
-        "All Ages"
+        "All Ages",
+        "Family Friendly"
       ]
     },
     {
@@ -419,9 +390,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Educational",
         "Music",
+        "Educational",
+        "Performance",
         "Community"
       ]
     },
@@ -475,8 +446,8 @@
       ],
       "event_type_tags": [
         "All Ages",
-        "Family Friendly",
         "Music",
+        "Family Friendly",
         "Community"
       ]
     },
@@ -530,9 +501,9 @@
       ],
       "event_type_tags": [
         "All Ages",
+        "Music",
         "Family Friendly",
-        "Performance",
-        "Music"
+        "Performance"
       ]
     },
     {
@@ -584,8 +555,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Educational",
         "Music",
+        "Educational",
         "Community"
       ]
     },
@@ -638,9 +609,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Music",
         "21+",
         "Performance",
-        "Music",
         "Community"
       ]
     },
@@ -746,9 +717,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Music",
         "21+",
         "Performance",
-        "Music",
         "Community"
       ]
     },
@@ -802,8 +773,8 @@
       ],
       "event_type_tags": [
         "All Ages",
-        "Performance",
         "Music",
+        "Performance",
         "Community"
       ]
     },
@@ -856,8 +827,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "Music",
+        "Performance",
         "Community"
       ]
     },
@@ -910,8 +881,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "Music",
+        "Performance",
         "Community"
       ]
     },
@@ -1052,30 +1023,6 @@
       "age_restriction": null,
       "venue_tag": "Mountain Sun Pub",
       "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Music",
-        "Pub",
-        "Bar",
-        "Food & Drink"
-      ],
-      "event_type_tags": []
-    },
-    {
-      "id": "longs_peak_pub_xmas_espectacular_12_13_2025_6_00_pm_9_00_pm",
-      "title": "XMAS Espectacular!",
-      "venue": "Longs Peak Pub",
-      "location": "Longmont",
-      "date": "12/13/2025",
-      "normalized_date": "2025-12-13T00:00:00",
-      "recurring": null,
-      "time": "6:00 pm - 9:00 pm",
-      "description": "The Desert Furs \"XMAS Espectacular!\"  Longs Peak Pub, Saturday, 12/13/25, 6:00 pm - 9:00 pm",
-      "link": "https://www.mountainsunpub.com/events/",
-      "image": null,
-      "source_url": "https://www.mountainsunpub.com/events/",
-      "age_restriction": null,
-      "venue_tag": "Longs Peak Pub",
-      "location_tag": "Longmont",
       "venue_type_tags": [
         "Music",
         "Pub",
@@ -1335,31 +1282,6 @@
       ]
     },
     {
-      "id": "st_julien_hotel_spa_ron_legualt_s_charlie_brown_goes_to_the_nutcracker_december_13_6_00_pm_9_00_pm_none",
-      "title": "Ron Legualt's Charlie Brown Goes to the Nutcracker",
-      "venue": "St Julien Hotel & Spa",
-      "location": "Boulder",
-      "date": "December 13 @ 6:00 pm-9:00 pm",
-      "normalized_date": "2025-12-13T00:00:00",
-      "recurring": null,
-      "time": null,
-      "description": null,
-      "link": "https://stjulien.com/series/ron-legaults-charlie-brown-goes-to-the-nutcracker-christmas-jazz-show-2/",
-      "image": null,
-      "source_url": "https://stjulien.com/boulder-colorado-events/category/entertainment-events/",
-      "age_restriction": null,
-      "venue_tag": "St Julien Hotel & Spa",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Entertainment",
-        "Hotel",
-        "Upscale"
-      ],
-      "event_type_tags": [
-        "Entertainment"
-      ]
-    },
-    {
       "id": "st_julien_hotel_spa_wren_december_18_6_00_pm_9_00_pm_none",
       "title": "Wren",
       "venue": "St Julien Hotel & Spa",
@@ -1485,42 +1407,16 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_jazzetry_w_von_disco_dec136_00_pm18_00",
-      "title": "Jazzetry W/ Von Disco",
+      "id": "trident_booksellers_cafe_death_cafe_a_conversation_on_dealing_with_death_dec142_00_pm14_00",
+      "title": "Death Cafe: A Conversation On Dealing with Death",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
-      "date": "Dec136:00\u202fPM18:00",
+      "date": "Dec142:00\u202fPM14:00",
       "normalized_date": null,
       "recurring": null,
       "time": null,
-      "description": "Share",
-      "link": "https://www.tridentcafe.com/events/2025/9/13/jazzetry-w-von-disco-5w3sd-rrblg",
-      "image": null,
-      "source_url": "https://www.tridentcafe.com/events",
-      "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
-      ],
-      "event_type_tags": [
-        "Books & Literary"
-      ]
-    },
-    {
-      "id": "trident_booksellers_cafe_jazzetry_w_von_disco_saturday_december_13_2025",
-      "title": "Jazzetry W/ Von Disco",
-      "venue": "Trident Booksellers & Cafe",
-      "location": "Boulder",
-      "date": "Saturday, December 13, 2025",
-      "normalized_date": "2025-12-13T00:00:00",
-      "recurring": null,
-      "time": null,
-      "description": "Share",
-      "link": "https://www.tridentcafe.com/events/2025/9/13/jazzetry-w-von-disco-5w3sd-rrblg",
+      "description": "",
+      "link": "https://www.tridentcafe.com/events/2025/12/14/death-cafe-a-conversation-on-dealing-with-death",
       "image": null,
       "source_url": "https://www.tridentcafe.com/events",
       "age_restriction": null,
@@ -1615,32 +1511,6 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_light_technics_friends_ambient_electronic_improv_wednesday_december_17_2025",
-      "title": "Light Technics & Friends (Ambient & Electronic Improv)",
-      "venue": "Trident Booksellers & Cafe",
-      "location": "Boulder",
-      "date": "Wednesday, December 17, 2025",
-      "normalized_date": "2025-12-17T00:00:00",
-      "recurring": null,
-      "time": null,
-      "description": "Light Technics is the experimental alias and project of Ted Stevens. He will be playing some tunes from his upcoming album as well as improvisations. Joining him will be his bandmates; Protorhythm (Will Tyson) doing an improv analog techno set, and WEIRDer (Ryan Schlichtman) doing something of a similar vane.",
-      "link": "https://www.tridentcafe.com/events/2025/12/17/light-technics-amp-friends-ambient-amp-electronic-improv",
-      "image": null,
-      "source_url": "https://www.tridentcafe.com/events",
-      "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
-      ],
-      "event_type_tags": [
-        "Books & Literary"
-      ]
-    },
-    {
       "id": "trident_booksellers_cafe_variety_show_and_now_featuring_thursday_december_18_2025",
       "title": "Variety Show: And Now Featuring...",
       "venue": "Trident Booksellers & Cafe",
@@ -1677,6 +1547,32 @@
       "time": null,
       "description": "Jackson Cloud is a new alternative artist out of Boulder Colorado. His newest releases \"Twisted Faces\" (album) \"I Love You Sometimes\" and \"Let On\" (singles) are produced entirely by Cloud. \"Twisted Faces\" offer's a wide range of genres from synth heavy electronic tracks, melancholic melodies with touching lyrics, to smooth heavy metal with exciting and explosive guitar solos. Cloud's new single \"I Love You Sometimes\", an oasis of familiar retro \u2014 floating beats and vocals recalling 70\u2019s-80\u2019s morsels set in a current rock \u2014 pop milieu, a song that one writer noted has \u201cone of the most provocative song titles in forever. \u2014 Cloud's vocals coursing from Pink Floyd to Jeff Buckley in a breath.\u201d Young Cloud manages all the instruments on the tracks but now has a four piece band backing him with James Davis on bass, Chris Sprunt on guitar, and Frank Giampietro\u00a0on drums.www.jackson-cloud.com",
       "link": "https://www.tridentcafe.com/events/2025/12/19/jackson-cloud",
+      "image": null,
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Books & Literary"
+      ]
+    },
+    {
+      "id": "trident_booksellers_cafe_light_technics_friends_ambient_electronic_improv_saturday_december_20_2025",
+      "title": "Light Technics & Friends (Ambient & Electronic Improv)",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "Saturday, December 20, 2025",
+      "normalized_date": "2025-12-20T00:00:00",
+      "recurring": null,
+      "time": null,
+      "description": "Light Technics is the experimental alias and project of Ted Stevens. He will be playing some tunes from his upcoming album as well as improvisations. Joining him will be his bandmates; Protorhythm (Will Tyson) doing an improv analog techno set, and WEIRDer (Ryan Schlichtman) doing something of a similar vane.",
+      "link": "https://www.tridentcafe.com/events/2025/12/17/light-technics-amp-friends-ambient-amp-electronic-improv",
       "image": null,
       "source_url": "https://www.tridentcafe.com/events",
       "age_restriction": null,
@@ -1979,6 +1875,32 @@
       ]
     },
     {
+      "id": "trident_booksellers_cafe_climatique_friday_january_16_2026",
+      "title": "Climatique",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "Friday, January 16, 2026",
+      "normalized_date": "2026-01-16T00:00:00",
+      "recurring": null,
+      "time": null,
+      "description": "Share",
+      "link": "https://www.tridentcafe.com/events/2026/1/16/climatique",
+      "image": null,
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Books & Literary"
+      ]
+    },
+    {
       "id": "trident_booksellers_cafe_mercy_club_katie_mintle_trouble_s_braids_saturday_january_17_2026",
       "title": "Mercy Club / Katie Mintle / Trouble's Braids",
       "venue": "Trident Booksellers & Cafe",
@@ -2057,6 +1979,32 @@
       ]
     },
     {
+      "id": "trident_booksellers_cafe_rodrigo_arreguin_wednesday_january_21_2026",
+      "title": "Rodrigo Arreguin",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "Wednesday, January 21, 2026",
+      "normalized_date": "2026-01-21T00:00:00",
+      "recurring": null,
+      "time": null,
+      "description": "Share",
+      "link": "https://www.tridentcafe.com/events/2026/1/21/rodrigo-arreguin",
+      "image": null,
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Books & Literary"
+      ]
+    },
+    {
       "id": "trident_booksellers_cafe_magic_mountain_author_series_thursday_january_22_2026",
       "title": "Magic Mountain Author Series",
       "venue": "Trident Booksellers & Cafe",
@@ -2119,6 +2067,32 @@
       "time": null,
       "description": "Lively conversation for language learners, native speakers, and everyone in between. We regularly have 10+ languages spoken and always have spirited discussions!",
       "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-s7a5x-brgdj-p3rzz-3fp7f",
+      "image": null,
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Books & Literary"
+      ]
+    },
+    {
+      "id": "trident_booksellers_cafe_third_turn_jawa_friday_january_30_2026",
+      "title": "Third Turn & Jawa",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "Friday, January 30, 2026",
+      "normalized_date": "2026-01-30T00:00:00",
+      "recurring": null,
+      "time": null,
+      "description": "Three lefts makes it right, right? We\u2019re Third Turn, a three-piece jam group from Fort Collins, Colorado. We fuse rock, jazz, reggae, funk, disco, and more with our singer/songwriter style tunes, and throw in some tasteful covers as well. Each set is completely different so you\u2019ll never see anything like the last. Currently making our way around local Colorado venues, Third Turn plans to expand more and more with every show so don\u2019t miss our unique set when we\u2019re in town!",
+      "link": "https://www.tridentcafe.com/events/2026/1/30/third-turn-amp-jawa",
       "image": null,
       "source_url": "https://www.tridentcafe.com/events",
       "age_restriction": null,
@@ -2403,7 +2377,7 @@
       "normalized_date": "2026-02-28T00:00:00",
       "recurring": null,
       "time": null,
-      "description": "Share",
+      "description": "mud & marrowis an eco-feminist world-folk band from Denver, Colorado who intertwine\u00a0West African percussion, thick vocal harmonies, and political consciousness, with a vibe similar to Rising Appalachia. Their songwriting is all original and with revolutionary intent; their music is invigorating for body, mind, and spirit.\u00a0\u00a0Audiences are moved by their powerful poetry, energy, unique instrumentation, and the refreshing inclusion of many kinds of musicians.mud & marrowhas recently played the Denver Botanic Gardens al fresco series, Georgetown Mountain Jams, Manos Sagrados, The Roxy on Broadway, and many more.\u00a0 Come dance and connect in community!",
       "link": "https://www.tridentcafe.com/events/2026/2/28/mud-amp-marrow",
       "image": null,
       "source_url": "https://www.tridentcafe.com/events",
@@ -2457,6 +2431,32 @@
       "time": null,
       "description": "Share",
       "link": "https://www.tridentcafe.com/events/2026/1/2/the-local-songwriter-experiment-zaz29-lzkch-mf6f2",
+      "image": null,
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Books & Literary"
+      ]
+    },
+    {
+      "id": "trident_booksellers_cafe_the_spikes_saturday_march_7_2026",
+      "title": "The Spikes",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "Saturday, March 7, 2026",
+      "normalized_date": "2026-03-07T00:00:00",
+      "recurring": null,
+      "time": null,
+      "description": "Iago Haussman is THE SPIKES. A singer, songwriter, poet from Rome Italy, who is currently living and recording in the United States. THE SPIKES debut, a self-titled EP, featured the much talked about single, GUNS FOR THE CHILDREN. His latest LP, the critically acclaimed FIRST LIGHT, has been praised by music publications worldwide. THE SPIKES music video for GARDEN SONG continues to rise beyond 120k viewers on YouTube. Iago Haussman is also a painter and sculptor, whose work has shown in galleries. He co-founded the punk band Delicate Prey at age 16. THE SPIKES music is available on Apple music and Spotify. The Spikes\u2019 First Light is a rare gem: unsettling yet tender, cinematic yet intimate. It doesn\u2019t just mark a new chapter for the band\u2014it feels like the start of something luminous rising from the dark. -Music Crowns",
+      "link": "https://www.tridentcafe.com/events/2026/3/7/the-spikes",
       "image": null,
       "source_url": "https://www.tridentcafe.com/events",
       "age_restriction": null,
@@ -3097,16 +3097,16 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_duncan_coker_dec116_00_pm18_00",
-      "title": "Duncan Coker",
+      "id": "trident_booksellers_cafe_jazzetry_w_von_disco_dec136_00_pm18_00",
+      "title": "Jazzetry W/ Von Disco",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
-      "date": "Dec116:00\u202fPM18:00",
+      "date": "Dec136:00\u202fPM18:00",
       "normalized_date": null,
       "recurring": null,
       "time": null,
-      "description": "Duncan Coker is an unrepentant balladeer from the Colorado piedmont, with a voice that carries. Solo or with his band, he brings a western swagger that lands like leather boots on barnwood and brass.",
-      "link": "https://www.tridentcafe.com/events/2025/12/11/duncan-coker",
+      "description": "Share",
+      "link": "https://www.tridentcafe.com/events/2025/9/13/jazzetry-w-von-disco-5w3sd-rrblg",
       "image": null,
       "source_url": "https://www.tridentcafe.com/events",
       "age_restriction": null,
@@ -3146,58 +3146,6 @@
       ],
       "event_type_tags": [
         "Books & Literary"
-      ]
-    },
-    {
-      "id": "license_no_1_the_underground_comedy_show_saturday_december_13_2025_7_30_pm_8_30_pm",
-      "title": "The Underground Comedy Show",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": "Saturday, December 13, 2025",
-      "normalized_date": "2025-12-13T00:00:00",
-      "recurring": null,
-      "time": "7:30\u202fPM - 8:30\u202fPM",
-      "description": "",
-      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-fd65x-2x4z6-pjfxj-ze78w-5pprl",
-      "image": "licenseno1.jpg",
-      "source_url": "https://www.license1boulderado.com/calendar",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+",
-        "Music"
-      ],
-      "event_type_tags": [
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "license_no_1_the_underground_comedy_show_saturday_december_13_2025_9_15_pm_10_15_pm",
-      "title": "The Underground Comedy Show",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": "Saturday, December 13, 2025",
-      "normalized_date": "2025-12-13T00:00:00",
-      "recurring": null,
-      "time": "9:15\u202fPM - 10:15\u202fPM",
-      "description": "",
-      "link": "https://www.license1boulderado.com/calendar/lj824kawfej4rbl-ygrxa-6afcr-95jfl-7zw38",
-      "image": "licenseno1.jpg",
-      "source_url": "https://www.license1boulderado.com/calendar",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+",
-        "Music"
-      ],
-      "event_type_tags": [
-        "Nightlife"
       ]
     },
     {
