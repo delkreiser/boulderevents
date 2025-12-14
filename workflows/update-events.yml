@@ -39,6 +39,7 @@ jobs:
         python3 scrapers/st_julien_entertainment.py || echo "St Julien scraper failed"
         python3 scrapers/trident_cafe.py || echo "Trident scraper failed"
         python3 scrapers/license_no1.py || echo "License No 1 scraper failed"
+        python3 scrapers/rosetta_hall.py || echo "Rosetta Hall scraper failed"
     
     - name: Fix date/time fields
       run: |
