@@ -72,16 +72,29 @@ def parse_st_julien_html(html):
             if not json_string or not json_string.strip():
                 continue
             
-            # Try to clean up common JSON issues
             # Remove any leading/trailing whitespace
             json_string = json_string.strip()
             
             # Parse the JSON content
             json_data = json.loads(json_string)
             
-            # Check if this is an Event type
-            if isinstance(json_data, dict) and json_data.get('@type') == 'Event':
-                event = parse_event_json(json_data)
+            # Handle both single events and arrays of events
+            events_to_process = []
+            
+            if isinstance(json_data, list):
+                # It's an array of events
+                print(f"  Found array with {len(json_data)} events")
+                events_to_process = json_data
+            elif isinstance(json_data, dict) and json_data.get('@type') == 'Event':
+                # It's a single event
+                events_to_process = [json_data]
+            
+            # Process each event
+            for json_event in events_to_process:
+                if not isinstance(json_event, dict) or json_event.get('@type') != 'Event':
+                    continue
+                
+                event = parse_event_json(json_event)
                 
                 if event and event.get('title'):
                     print(f"\n  Found: {event['title']}")
@@ -100,7 +113,7 @@ def parse_st_julien_html(html):
                             event['source_url'] = 'https://stjulien.com/boulder-colorado-events/month/?tribe_eventcategory%5B0%5D=83'
                             event['event_type_tags'] = ['Entertainment', 'Hotel Events']
                             event['venue_type_tags'] = ['Hotel', 'Upscale']
-                            event['image'] = 'stjulien.jpg'  # Default image
+                            event['image'] = 'stjulien.jpg'
                             
                             del event['date_obj']  # Remove before adding to list
                             events.append(event)
@@ -111,27 +124,6 @@ def parse_st_julien_html(html):
             
         except json.JSONDecodeError as e:
             print(f"  ⚠️  JSON parse error: {str(e)[:100]}")
-            # Try to find event data manually from the broken JSON
-            try:
-                # Extract just the important fields with regex
-                if script.string and '"@type":"Event"' in script.string or '"@type": "Event"' in script.string:
-                    event = extract_event_from_broken_json(script.string)
-                    if event and event.get('title'):
-                        print(f"  ✓ Recovered event from broken JSON: {event['title']}")
-                        
-                        if event.get('date_obj') and event['date_obj'] >= today:
-                            event['venue'] = 'St Julien Hotel & Spa'
-                            event['location'] = 'Boulder'
-                            event['category'] = 'Entertainment'
-                            event['source_url'] = 'https://stjulien.com/boulder-colorado-events/month/?tribe_eventcategory%5B0%5D=83'
-                            event['event_type_tags'] = ['Entertainment', 'Hotel Events']
-                            event['venue_type_tags'] = ['Hotel', 'Upscale']
-                            event['image'] = 'stjulien.jpg'
-                            
-                            del event['date_obj']
-                            events.append(event)
-            except:
-                pass
             continue
         except Exception as e:
             print(f"  Error processing event: {e}")
