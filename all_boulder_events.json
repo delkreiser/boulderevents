@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T06:19:49.807873",
-  "total_events": 132,
+  "generated_at": "2025-12-14T14:11:21.253052",
+  "total_events": 131,
   "tags": {
     "venues": [
       "Junkyard Social Club",
@@ -42,10 +42,12 @@
       "21+",
       "All Ages",
       "Books & Literary",
+      "Comedy",
       "Community",
       "Educational",
       "Entertainment",
       "Family Friendly",
+      "Live Music",
       "Music",
       "Nightlife",
       "Performance"
@@ -131,31 +133,6 @@
       ]
     },
     {
-      "id": "junkyard_social_club_the_dose_a_psychedelic_comedy_experience_recurring",
-      "title": "THE DOSE: A Psychedelic Comedy Experience",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": null,
-      "time": null,
-      "description": "",
-      "link": null,
-      "image": null,
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Dance",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": []
-    },
-    {
       "id": "junkyard_social_club_cheryl_lock_local_author_taylor_miller_local_illustrator_story_time_book_signing_sunday_december_14_2025_11_00_am_noon",
       "title": "Cheryl Lock \u2013 Local author & Taylor Miller \u2013 local illustrator: story time & book signing!",
       "venue": "Junkyard Social Club",
@@ -179,8 +156,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Family Friendly"
+        "Family Friendly",
+        "All Ages"
       ]
     },
     {
@@ -284,8 +261,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Community"
+        "Community",
+        "All Ages"
       ]
     },
     {
@@ -337,8 +314,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Community"
+        "Community",
+        "All Ages"
       ]
     },
     {
@@ -390,10 +367,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Educational",
-        "Performance",
-        "Community"
+        "Music",
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -445,10 +422,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
         "Music",
+        "Community",
         "Family Friendly",
-        "Community"
+        "All Ages"
       ]
     },
     {
@@ -500,8 +477,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
         "Music",
+        "All Ages",
         "Family Friendly",
         "Performance"
       ]
@@ -555,8 +532,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Educational",
+        "Music",
         "Community"
       ]
     },
@@ -610,9 +587,9 @@
       ],
       "event_type_tags": [
         "Music",
+        "Community",
         "21+",
-        "Performance",
-        "Community"
+        "Performance"
       ]
     },
     {
@@ -664,8 +641,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -718,9 +695,9 @@
       ],
       "event_type_tags": [
         "Music",
+        "Community",
         "21+",
-        "Performance",
-        "Community"
+        "Performance"
       ]
     },
     {
@@ -774,8 +751,8 @@
       "event_type_tags": [
         "All Ages",
         "Music",
-        "Performance",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -828,8 +805,8 @@
       ],
       "event_type_tags": [
         "Music",
-        "Performance",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -882,8 +859,8 @@
       ],
       "event_type_tags": [
         "Music",
-        "Performance",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -3167,10 +3144,10 @@
       "venue_type_tags": [
         "Nightlife",
         "Bar",
-        "21+",
-        "Music"
+        "21+"
       ],
       "event_type_tags": [
+        "Comedy",
         "Nightlife"
       ]
     },
@@ -3193,10 +3170,10 @@
       "venue_type_tags": [
         "Nightlife",
         "Bar",
-        "21+",
-        "Music"
+        "21+"
       ],
       "event_type_tags": [
+        "Live Music",
         "Nightlife"
       ]
     },
@@ -3219,10 +3196,10 @@
       "venue_type_tags": [
         "Nightlife",
         "Bar",
-        "21+",
-        "Music"
+        "21+"
       ],
       "event_type_tags": [
+        "Comedy",
         "Nightlife"
       ]
     },
@@ -3245,10 +3222,10 @@
       "venue_type_tags": [
         "Nightlife",
         "Bar",
-        "21+",
-        "Music"
+        "21+"
       ],
       "event_type_tags": [
+        "Comedy",
         "Nightlife"
       ]
     },
@@ -3271,10 +3248,10 @@
       "venue_type_tags": [
         "Nightlife",
         "Bar",
-        "21+",
-        "Music"
+        "21+"
       ],
       "event_type_tags": [
+        "Live Music",
         "Nightlife"
       ]
     },
@@ -3297,10 +3274,10 @@
       "venue_type_tags": [
         "Nightlife",
         "Bar",
-        "21+",
-        "Music"
+        "21+"
       ],
       "event_type_tags": [
+        "Comedy",
         "Nightlife"
       ]
     },
@@ -3323,10 +3300,10 @@
       "venue_type_tags": [
         "Nightlife",
         "Bar",
-        "21+",
-        "Music"
+        "21+"
       ],
       "event_type_tags": [
+        "Live Music",
         "Nightlife"
       ]
     },
@@ -3349,10 +3326,10 @@
       "venue_type_tags": [
         "Nightlife",
         "Bar",
-        "21+",
-        "Music"
+        "21+"
       ],
       "event_type_tags": [
+        "Comedy",
         "Nightlife"
       ]
     },
@@ -3375,10 +3352,10 @@
       "venue_type_tags": [
         "Nightlife",
         "Bar",
-        "21+",
-        "Music"
+        "21+"
       ],
       "event_type_tags": [
+        "Live Music",
         "Nightlife"
       ]
     },
@@ -3401,10 +3378,10 @@
       "venue_type_tags": [
         "Nightlife",
         "Bar",
-        "21+",
-        "Music"
+        "21+"
       ],
       "event_type_tags": [
+        "Comedy",
         "Nightlife"
       ]
     },
@@ -3427,10 +3404,10 @@
       "venue_type_tags": [
         "Nightlife",
         "Bar",
-        "21+",
-        "Music"
+        "21+"
       ],
       "event_type_tags": [
+        "Live Music",
         "Nightlife"
       ]
     },
@@ -3453,10 +3430,10 @@
       "venue_type_tags": [
         "Nightlife",
         "Bar",
-        "21+",
-        "Music"
+        "21+"
       ],
       "event_type_tags": [
+        "Comedy",
         "Nightlife"
       ]
     },
@@ -3479,10 +3456,10 @@
       "venue_type_tags": [
         "Nightlife",
         "Bar",
-        "21+",
-        "Music"
+        "21+"
       ],
       "event_type_tags": [
+        "Live Music",
         "Nightlife"
       ]
     }
