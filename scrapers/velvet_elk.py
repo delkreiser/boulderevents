@@ -5,206 +5,175 @@ URL: https://www.velvetelklounge.com/events/
 This scraper extracts music events from Velvet Elk Lounge's events page.
 """
 
+from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup
 import json
 import re
-from datetime import datetime
+from datetime import datetime, date
 
 
-def scrape_velvet_elk_events(html_content):
-    """
-    Scrape events from Velvet Elk Lounge
+def scrape_velvet_elk_events():
+    """Scrape events from Velvet Elk Lounge using Playwright"""
     
-    Args:
-        html_content: Raw HTML content from the events page
-        
-    Returns:
-        List of event dictionaries
-    """
-    soup = BeautifulSoup(html_content, 'html.parser')
     events = []
     
-    # Look for event containers
-    # Try multiple selector patterns
-    event_selectors = [
-        'div.event-item',
-        'div.show-item',
-        'li.event',
-        'div[class*="event"]',
-        'article.event',
-        'div.bento-item',
-        'div[class*="show"]',
-    ]
-    
-    event_elements = []
-    for selector in event_selectors:
-        found = soup.select(selector)
-        if found:
-            print(f"Found {len(found)} events using selector: {selector}")
-            event_elements = found
-            break
-    
-    # If no specific event containers, look for a list structure
-    if not event_elements:
-        # Look for lists that might contain events
-        event_lists = soup.find_all(['ul', 'ol', 'div'], class_=re.compile(r'event|show|calendar', re.I))
-        for event_list in event_lists:
-            items = event_list.find_all(['li', 'div', 'article'])
-            if items:
-                event_elements = items
-                print(f"Found {len(items)} items in event list")
-                break
-    
-    print(f"Total event elements found: {len(event_elements)}")
-    
-    # Parse each event
-    for element in event_elements:
-        try:
-            event = parse_velvet_elk_event(element)
-            if event and event.get('title'):
-                event['venue'] = 'Velvet Elk Lounge'
-                event['category'] = 'Music'
-                event['source_url'] = 'https://www.velvetelklounge.com/events/'
-                events.append(event)
-        except Exception as e:
-            print(f"Error parsing event: {e}")
-            continue
+    try:
+        with sync_playwright() as p:
+            print("Launching browser...")
+            browser = p.chromium.launch(
+                headless=True,
+                args=['--no-sandbox', '--disable-setuid-sandbox']
+            )
+            page = browser.new_page()
+            page.set_default_timeout(30000)
+            
+            print("Loading Velvet Elk events page...")
+            page.goto('https://www.velvetelklounge.com/events/', 
+                     wait_until='networkidle', timeout=30000)
+            page.wait_for_timeout(3000)
+            
+            print("Parsing events...")
+            html = page.content()
+            events = parse_velvet_elk_html(html)
+            
+            browser.close()
+            
+    except Exception as e:
+        print(f"Error: {e}")
+        import traceback
+        traceback.print_exc()
     
     return events
 
 
-def parse_velvet_elk_event(element):
-    """Parse a single event element"""
+def parse_velvet_elk_html(html):
+    """Parse the HTML to extract all events"""
+    
+    soup = BeautifulSoup(html, 'html.parser')
+    
+    # Find all event cards with aria-label
+    event_links = soup.find_all('a', class_='card__btn', attrs={'aria-label': True})
+    print(f"Found {len(event_links)} event cards")
+    
+    events = []
+    today = date.today()
+    
+    for link in event_links:
+        aria_label = link.get('aria-label', '')
+        href = link.get('href', '')
+        
+        if not aria_label:
+            continue
+        
+        # Parse aria-label which has format: "Month Day, Event Title"
+        # Example: "December 27, Rapidgrass"
+        event = parse_aria_label(aria_label, href)
+        
+        if event and event.get('title'):
+            # Get image from the card
+            img_div = link.find('div', class_='card__image')
+            if img_div:
+                style = img_div.get('style', '')
+                # Extract URL from background-image style
+                img_match = re.search(r"url\('([^']+)'\)", style)
+                if img_match:
+                    event['image'] = img_match.group(1)
+            
+            # Add venue info
+            event['venue'] = 'Velvet Elk Lounge'
+            event['location'] = 'Boulder'
+            event['category'] = 'Music'
+            event['source_url'] = 'https://www.velvetelklounge.com/events/'
+            event['event_type_tags'] = ['Live Music', 'Nightlife']
+            event['venue_type_tags'] = ['Bar', 'Music Venue', 'Nightlife']
+            
+            # Build full link
+            if href and not href.startswith('http'):
+                event['link'] = f"https://www.velvetelklounge.com{href}"
+            else:
+                event['link'] = href
+            
+            # Filter: Only include today and future events
+            if event.get('date_obj'):
+                if event['date_obj'] >= today:
+                    del event['date_obj']  # Remove before adding to list
+                    events.append(event)
+                    print(f"  ✓ {event['title']} - {event['date']}")
+                else:
+                    print(f"  ✗ Skipped past event: {event['title']}")
+    
+    print(f"\nFiltered to {len(events)} current/future events")
+    
+    return events
+
+
+def parse_aria_label(aria_label, href=''):
+    """
+    Parse aria-label to extract date and title
+    Format: "Month Day, Event Title" or "Month Day(th/st/nd/rd), Event Title"
+    Examples: 
+    - "December 27, Rapidgrass"
+    - "December 18, LatkePalooza II: A Chanukah Celebration!"
+    """
     
     event = {}
     
-    # Get all text to analyze
-    text = element.get_text(separator=' ', strip=True)
+    # Pattern: "Month Day(optional suffix), Title"
+    match = re.match(r'([A-Za-z]+)\s+(\d{1,2})(?:st|nd|rd|th)?,\s*(.+)', aria_label, re.IGNORECASE)
     
-    # Title - look for headings or strong text
-    title_elem = element.find(['h1', 'h2', 'h3', 'h4', 'h5', 'strong', 'b'])
-    if not title_elem:
-        # Try to find a link that might be the title
-        title_elem = element.find('a')
-    
-    if title_elem:
-        event['title'] = title_elem.get_text(strip=True)
-    else:
-        # If no specific title element, use the first line of text
-        lines = text.split('\n')
-        if lines:
-            event['title'] = lines[0].strip()
-    
-    # Link
-    link_elem = element.find('a', href=True)
-    if link_elem:
-        link = link_elem.get('href', '')
-        if link and not link.startswith('http'):
-            link = f"https://www.velvetelklounge.com{link}"
-        event['link'] = link
-    
-    # Date - look for date patterns in text
-    date_elem = element.find(class_=re.compile(r'date|time|when', re.I))
-    if date_elem:
-        event['date'] = date_elem.get_text(strip=True)
-    else:
-        # Try to extract date from text using regex
-        date_patterns = [
-            r'(January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2}(?:st|nd|rd|th)?',
-            r'\d{1,2}/\d{1,2}/\d{2,4}',
-            r'(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+\d{1,2}',
-        ]
-        for pattern in date_patterns:
-            match = re.search(pattern, text, re.IGNORECASE)
-            if match:
-                event['date'] = match.group(0)
-                break
-    
-    # Description
-    desc_elem = element.find(['p', 'div'], class_=re.compile(r'desc|excerpt|summary|content', re.I))
-    if desc_elem:
-        event['description'] = desc_elem.get_text(strip=True)
-    
-    # Image
-    img_elem = element.find('img')
-    if img_elem and img_elem.get('src'):
-        event['image'] = img_elem['src']
+    if match:
+        month = match.group(1)
+        day = match.group(2)
+        title = match.group(3).strip()
+        
+        event['title'] = title
+        event['date'] = f"{month} {day}"
+        
+        # Try to create a full date for filtering
+        try:
+            # Add current year
+            current_year = datetime.now().year
+            date_str = f"{month} {day}, {current_year}"
+            parsed_date = datetime.strptime(date_str, '%B %d, %Y').date()
+            
+            # If the date is in the past, try next year
+            if parsed_date < date.today():
+                date_str = f"{month} {day}, {current_year + 1}"
+                parsed_date = datetime.strptime(date_str, '%B %d, %Y').date()
+            
+            event['date'] = date_str
+            event['date_obj'] = parsed_date
+        except:
+            # If parsing fails, just use what we have
+            pass
     
     return event
 
 
-def parse_simple_event_list(text_content):
-    """
-    Parse events from simple text format
-    Useful when HTML parsing doesn't work well
-    
-    Example format:
-    - November 26, Event Name
-    - November 28, Another Event
-    """
-    events = []
-    
-    # Split by lines or bullet points
-    lines = text_content.split('\n')
-    
-    for line in lines:
-        line = line.strip()
-        if not line or len(line) < 10:
-            continue
-        
-        # Remove leading bullets or dashes
-        line = re.sub(r'^[-•*]\s*', '', line)
-        
-        # Try to extract date and title
-        # Pattern: "Month Day, Title" or "Month Day - Title"
-        match = re.match(r'([A-Za-z]+\s+\d{1,2}(?:st|nd|rd|th)?)[,\s-]+(.+)', line, re.IGNORECASE)
-        if match:
-            date_str = match.group(1)
-            title = match.group(2).strip()
-            
-            event = {
-                'title': title,
-                'date': date_str,
-                'venue': 'Velvet Elk Lounge',
-                'category': 'Music',
-                'source_url': 'https://www.velvetelklounge.com/events/'
-            }
-            events.append(event)
-    
-    return events
-
-
 if __name__ == "__main__":
-    # Example usage with the text we can see
-    sample_text = """
-    - Nov 24 - Dec 31, Luxe Lounge
-    - November 26, Home for the Holidaze featuring Los Cheesies
-    - November 28, Black Sabbath Friday featuring Rat Salad a Black Sabbath Tribute
-    - November 29th, Steve Knight Band
-    - December 4th, Second Annual Ugly-er Sweater Party
-    - December 18, LatkePalooza II: A Chanukah Celebration!
-    - December 27, Rapidgrass
-    - January 2, Kings of Prussia
-    - January 24, JIMKATA with Terrawave
-    """
+    print("=" * 70)
+    print("VELVET ELK LOUNGE EVENT SCRAPER")
+    print("=" * 70)
     
-    print("Velvet Elk Lounge Event Scraper")
-    print("=" * 60)
+    events = scrape_velvet_elk_events()
     
-    events = parse_simple_event_list(sample_text)
-    
-    print(f"\nFound {len(events)} events")
-    print("=" * 60)
-    
-    for i, event in enumerate(events, 1):
-        print(f"\nEvent {i}:")
-        print(f"  Title: {event['title']}")
-        print(f"  Date: {event['date']}")
-        print(f"  Venue: {event['venue']}")
-        print(f"  Category: {event['category']}")
+    print(f"\n{'=' * 70}")
+    print(f"RESULTS: Found {len(events)} current/future events")
+    print(f"{'=' * 70}\n")
     
     # Save to JSON
-    output_file = '/home/claude/velvet_elk_events.json'
-    with open(output_file, 'w') as f:
-        json.dump(events, f, indent=2)
-    print(f"\n\nEvents saved to {output_file}")
+    output_file = 'velvet_elk_events.json'
+    with open(output_file, 'w', encoding='utf-8') as f:
+        json.dump(events, f, indent=2, ensure_ascii=False)
+    
+    print(f"✅ Saved to {output_file}\n")
+    
+    if events:
+        print("Sample events:")
+        for i, event in enumerate(events[:10], 1):
+            print(f"\n{i}. {event.get('title')}")
+            print(f"   Date: {event.get('date', 'N/A')}")
+            print(f"   Link: {event.get('link', 'N/A')[:60]}...")
+        
+        print(f"\n📊 Statistics:")
+        print(f"   Total events: {len(events)}")
