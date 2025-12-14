@@ -66,8 +66,18 @@ def parse_st_julien_html(html):
     
     for script in json_ld_scripts:
         try:
+            # Get the script content
+            json_string = script.string
+            
+            if not json_string or not json_string.strip():
+                continue
+            
+            # Try to clean up common JSON issues
+            # Remove any leading/trailing whitespace
+            json_string = json_string.strip()
+            
             # Parse the JSON content
-            json_data = json.loads(script.string)
+            json_data = json.loads(json_string)
             
             # Check if this is an Event type
             if isinstance(json_data, dict) and json_data.get('@type') == 'Event':
@@ -100,7 +110,28 @@ def parse_st_julien_html(html):
                         print(f"    ✗ SKIPPED (no date_obj)")
             
         except json.JSONDecodeError as e:
-            print(f"  Error parsing JSON-LD: {e}")
+            print(f"  ⚠️  JSON parse error: {str(e)[:100]}")
+            # Try to find event data manually from the broken JSON
+            try:
+                # Extract just the important fields with regex
+                if script.string and '"@type":"Event"' in script.string or '"@type": "Event"' in script.string:
+                    event = extract_event_from_broken_json(script.string)
+                    if event and event.get('title'):
+                        print(f"  ✓ Recovered event from broken JSON: {event['title']}")
+                        
+                        if event.get('date_obj') and event['date_obj'] >= today:
+                            event['venue'] = 'St Julien Hotel & Spa'
+                            event['location'] = 'Boulder'
+                            event['category'] = 'Entertainment'
+                            event['source_url'] = 'https://stjulien.com/boulder-colorado-events/month/?tribe_eventcategory%5B0%5D=83'
+                            event['event_type_tags'] = ['Entertainment', 'Hotel Events']
+                            event['venue_type_tags'] = ['Hotel', 'Upscale']
+                            event['image'] = 'stjulien.jpg'
+                            
+                            del event['date_obj']
+                            events.append(event)
+            except:
+                pass
             continue
         except Exception as e:
             print(f"  Error processing event: {e}")
@@ -109,6 +140,55 @@ def parse_st_julien_html(html):
     print(f"\nFiltered to {len(events)} current/future events")
     
     return events
+
+
+def extract_event_from_broken_json(json_string):
+    """
+    Try to extract event data from malformed JSON using regex
+    This is a fallback when JSON parsing fails
+    """
+    import re
+    
+    event = {}
+    
+    # Extract name
+    name_match = re.search(r'"name"\s*:\s*"([^"\\]*(?:\\.[^"\\]*)*)"', json_string)
+    if name_match:
+        title = name_match.group(1).replace("\\'", "'").replace('\\"', '"')
+        event['title'] = title
+    
+    # Extract startDate
+    start_match = re.search(r'"startDate"\s*:\s*"([^"]+)"', json_string)
+    if start_match:
+        try:
+            start_dt = datetime.fromisoformat(start_match.group(1))
+            event['date'] = start_dt.strftime('%B %d, %Y')
+            event['time_start'] = start_dt.strftime('%I:%M %p').lstrip('0').replace(' 0', ' ')
+            event['date_obj'] = start_dt.date()
+        except:
+            pass
+    
+    # Extract endDate
+    end_match = re.search(r'"endDate"\s*:\s*"([^"]+)"', json_string)
+    if end_match:
+        try:
+            end_dt = datetime.fromisoformat(end_match.group(1))
+            event['time_end'] = end_dt.strftime('%I:%M %p').lstrip('0').replace(' 0', ' ')
+        except:
+            pass
+    
+    # Extract url
+    url_match = re.search(r'"url"\s*:\s*"([^"]+)"', json_string)
+    if url_match:
+        event['link'] = url_match.group(1)
+    
+    # Create combined time
+    if event.get('time_start') and event.get('time_end'):
+        event['time'] = f"{event['time_start']} - {event['time_end']}"
+    elif event.get('time_start'):
+        event['time'] = event['time_start']
+    
+    return event if event.get('title') else None
 
 
 def parse_event_json(json_data):
