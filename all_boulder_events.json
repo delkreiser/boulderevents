@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T14:40:18.923150",
-  "total_events": 137,
+  "generated_at": "2025-12-14T14:56:57.284880",
+  "total_events": 123,
   "tags": {
     "venues": [
       "Junkyard Social Club",
@@ -321,34 +321,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
-        "All Ages"
+        "All Ages",
+        "Family Friendly"
       ]
-    },
-    {
-      "id": "junkyard_social_club_cheryl_lock_local_author_taylor_miller_local_illustrator_story_time_book_signing_recurring",
-      "title": "Cheryl Lock \u2013 Local author & Taylor Miller \u2013 local illustrator: story time & book signing!",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": null,
-      "time": null,
-      "description": "",
-      "link": null,
-      "image": null,
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Dance",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": []
     },
     {
       "id": "junkyard_social_club_drop_in_mahjongg_tuesdays_tuesday_december_16_2025_12_00_2_00_pm",
@@ -378,31 +353,6 @@
       ]
     },
     {
-      "id": "junkyard_social_club_drop_in_mahjongg_tuesdays_recurring",
-      "title": "Drop-In Mahjongg \u2013 Tuesdays",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": null,
-      "time": null,
-      "description": "",
-      "link": null,
-      "image": null,
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Dance",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": []
-    },
-    {
       "id": "junkyard_social_club_community_craft_night_wednesday_december_17_2025_6_00_8_30_pm",
       "title": "Community Craft Night",
       "venue": "Junkyard Social Club",
@@ -426,34 +376,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "All Ages"
+        "All Ages",
+        "Community"
       ]
-    },
-    {
-      "id": "junkyard_social_club_community_craft_night_recurring",
-      "title": "Community Craft Night",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": null,
-      "time": null,
-      "description": "",
-      "link": null,
-      "image": null,
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Dance",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": []
     },
     {
       "id": "junkyard_social_club_creativemornings_friday_december_19_2025_8_00_am_doors_9_00_am_talk",
@@ -466,7 +391,7 @@
       "time": "8:00 am doors | 9:00 am talk",
       "description": "",
       "link": "https://junkyardsocialclub.org/event/creative-mornings/",
-      "image": null,
+      "image": "junkyard.jpg",
       "source_url": "https://junkyardsocialclub.org/events/",
       "age_restriction": "Family Friendly",
       "venue_tag": "Junkyard Social Club",
@@ -479,34 +404,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "All Ages"
+        "All Ages",
+        "Community"
       ]
-    },
-    {
-      "id": "junkyard_social_club_creativemornings_recurring",
-      "title": "CreativeMornings",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": null,
-      "time": null,
-      "description": "",
-      "link": null,
-      "image": null,
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Dance",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": []
     },
     {
       "id": "junkyard_social_club_uprooting_qahr_live_music_film_and_monologues_saturday_december_20_2025_3_30_pm_networking_4_00_5_30_pm_showtime",
@@ -532,36 +432,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Educational",
-        "Music",
-        "Performance"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_uprooting_qahr_live_music_film_and_monologues_recurring",
-      "title": "Uprooting Qahr \u2013 Live Music, Film, and Monologues",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": null,
-      "time": null,
-      "description": "",
-      "link": null,
-      "image": null,
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Dance",
         "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": []
+        "Music",
+        "Community"
+      ]
     },
     {
       "id": "junkyard_social_club_salsa_sunday_sunday_december_21_2025_postponed_until_january",
@@ -587,36 +462,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Family Friendly",
+        "All Ages",
         "Music",
-        "All Ages"
+        "Family Friendly",
+        "Community"
       ]
-    },
-    {
-      "id": "junkyard_social_club_salsa_sunday_recurring",
-      "title": "Salsa Sunday",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": null,
-      "time": null,
-      "description": "",
-      "link": null,
-      "image": null,
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Dance",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": []
     },
     {
       "id": "junkyard_social_club_frosty_family_jam_sunday_december_21_2025_1_30_doors_2_20_3_20_show",
@@ -642,36 +492,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
         "All Ages",
-        "Music",
-        "Performance"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_frosty_family_jam_recurring",
-      "title": "Frosty Family Jam",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": null,
-      "time": null,
-      "description": "",
-      "link": null,
-      "image": null,
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Dance",
         "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": []
+        "Music",
+        "Family Friendly"
+      ]
     },
     {
       "id": "junkyard_social_club_flow_jam_tuesday_december_23_2025_6_00_9_00_pm",
@@ -697,35 +522,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
+        "Educational",
         "Music",
-        "Educational"
+        "Community"
       ]
-    },
-    {
-      "id": "junkyard_social_club_flow_jam_recurring",
-      "title": "Flow Jam",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": null,
-      "time": null,
-      "description": "",
-      "link": null,
-      "image": null,
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Dance",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": []
     },
     {
       "id": "junkyard_social_club_new_year_s_salsa_masquerade_saturday_december_27_2025_7_30_pm_11_30_pm",
@@ -751,36 +551,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
+        "Performance",
         "21+",
         "Music",
-        "Performance"
+        "Community"
       ]
-    },
-    {
-      "id": "junkyard_social_club_new_year_s_salsa_masquerade_recurring",
-      "title": "New Year\u2019s Salsa Masquerade",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": null,
-      "time": null,
-      "description": "",
-      "link": null,
-      "image": null,
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Dance",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": []
     },
     {
       "id": "junkyard_social_club_queer_art_organics_open_mic_monday_december_29_2025_4_30_8_00_pm",
@@ -806,34 +581,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Performance"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_queer_art_organics_open_mic_recurring",
-      "title": "Queer Art Organics Open Mic",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": null,
-      "time": null,
-      "description": "",
-      "link": null,
-      "image": null,
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Dance",
         "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": []
+        "Community"
+      ]
     },
     {
       "id": "junkyard_social_club_revolution_nye_2025_wednesday_december_31_2025_8_00_pm_doors_2_00_am_end",
@@ -859,36 +609,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
+        "Performance",
         "21+",
         "Music",
-        "Performance"
+        "Community"
       ]
-    },
-    {
-      "id": "junkyard_social_club_revolution_nye_2025_recurring",
-      "title": "rEVOLUTION: NYE 2025",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": null,
-      "time": null,
-      "description": "",
-      "link": null,
-      "image": null,
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Dance",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": []
     },
     {
       "id": "junkyard_social_club_stage_party_friday_january_2_2026_7_00_pm_doors_8_00_pm_show",
@@ -914,36 +639,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "All Ages",
-        "Music",
-        "Performance"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_stage_party_recurring",
-      "title": "Stage Party",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": null,
-      "time": null,
-      "description": "",
-      "link": null,
-      "image": null,
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Dance",
         "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": []
+        "Music",
+        "Community"
+      ]
     },
     {
       "id": "junkyard_social_club_cathartic_compost_saturday_night_saturday_january_31_2026_6_00_pm_doors_7_00_pm_show",
@@ -969,35 +669,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Music",
-        "Performance"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_cathartic_compost_saturday_night_recurring",
-      "title": "cathARTic compost \u2013 Saturday Night",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": null,
-      "time": null,
-      "description": "",
-      "link": null,
-      "image": null,
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Dance",
         "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": []
+        "Music",
+        "Community"
+      ]
     },
     {
       "id": "junkyard_social_club_cathartic_compost_sunday_night_sunday_february_1_2026_6_00_pm_doors_7_00_pm_show",
@@ -1023,35 +698,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Music",
-        "Performance"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_cathartic_compost_sunday_night_recurring",
-      "title": "cathARTic compost \u2013 Sunday Night",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": null,
-      "normalized_date": null,
-      "recurring": null,
-      "time": null,
-      "description": "",
-      "link": null,
-      "image": null,
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Dance",
         "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": []
+        "Music",
+        "Community"
+      ]
     },
     {
       "id": "vine_street_pub_vinyl_night_every_monday_5_00_pm_9_00_pm",
