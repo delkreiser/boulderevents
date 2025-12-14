@@ -50,6 +50,11 @@ class EventAggregator:
                 'tags': ['Music', 'Live Music', 'Bar', 'Nightlife'],
                 'scraper_output': 'jungle_events.json'
             },
+            'Rosetta Hall': {
+                'location': 'Boulder',
+                'tags': ['Music', 'Nightlife', 'Dance', 'DJ', '21+'],
+                'scraper_output': 'rosetta_hall_events.json'
+            },
         }
     
     def load_events_from_file(self, filepath):
