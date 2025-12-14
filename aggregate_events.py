@@ -45,6 +45,11 @@ class EventAggregator:
                 'tags': ['Nightlife', 'Bar', '21+'],  # Removed Music, will use event-specific tags
                 'scraper_output': 'license_no1_events.json'
             },
+            'Jungle': {
+                'location': 'Boulder',
+                'tags': ['Music', 'Live Music', 'Bar', 'Nightlife'],
+                'scraper_output': 'jungle_events.json'
+            },
         }
     
     def load_events_from_file(self, filepath):
