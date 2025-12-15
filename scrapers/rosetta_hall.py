@@ -192,12 +192,15 @@ def parse_date_time(datetime_text):
         # Try to create a full date
         try:
             current_year = datetime.now().year
-            # Capitalize month name
+            
+            # Capitalize the month name
             month_capitalized = month.capitalize()
+            
+            # Start with current year
             date_str = f"{month_capitalized} {day}, {current_year}"
             parsed_date = datetime.strptime(date_str, '%B %d, %Y').date()
             
-            # If the date is in the past, try next year
+            # If the date is in the past, use next year
             if parsed_date < date.today():
                 date_str = f"{month_capitalized} {day}, {current_year + 1}"
                 parsed_date = datetime.strptime(date_str, '%B %d, %Y').date()
