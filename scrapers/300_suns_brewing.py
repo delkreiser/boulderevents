@@ -80,9 +80,13 @@ def parse_300_suns_html(html):
                 event['venue_type_tags'] = ['Brewery', 'Live Music', 'Family Friendly']
                 
                 # Filter: Only include today and future events
-                if event.get('date_obj'):
+                if event.get('is_past'):
+                    print(f"  ✗ Skipped past event: {event.get('title')} - {event.get('date')}")
+                elif event.get('date_obj'):
                     if event['date_obj'] >= today:
                         del event['date_obj']  # Remove before adding to list
+                        if 'is_past' in event:
+                            del event['is_past']
                         events.append(event)
                         print(f"  ✓ {event['title']} - {event['date']}")
                     else:
@@ -152,12 +156,13 @@ def parse_date_time(datetime_text):
     Parse date and time from text like:
     "Sat • Dec 6 • 6:00-8:00 PM"
     "Th • Dec 18 • 6-8 PM" (without colons)
+    "Sat • Jan 17 • 5:30-8 PM" (mixed - one with colon, one without)
     "Sun • Jan 12 • 7:00-9:00 PM"
     """
     
     result = {}
     
-    # Try pattern with colons first: "Weekday • Month Day • HH:MM-HH:MM PM/AM"
+    # Try pattern 1: Both times have colons "HH:MM-HH:MM PM/AM"
     match = re.search(
         r'(\w{2,3})\s*•\s*(\w{3})\s+(\d{1,2})\s*•\s*(\d{1,2}):(\d{2})-(\d{1,2}):(\d{2})\s*(AM|PM)',
         datetime_text,
@@ -165,7 +170,6 @@ def parse_date_time(datetime_text):
     )
     
     if match:
-        weekday_abbr = match.group(1)
         month_abbr = match.group(2)
         day = match.group(3)
         start_hour = match.group(4)
@@ -174,34 +178,49 @@ def parse_date_time(datetime_text):
         end_min = match.group(7)
         meridiem = match.group(8).upper()
         
-        # Format time with meridiem
         time_str = f"{start_hour}:{start_min} - {end_hour}:{end_min} {meridiem}"
         result['time'] = time_str
-        
-        # Parse the date
         result.update(parse_month_day_to_date(month_abbr, day))
-    else:
-        # Try pattern without colons: "Weekday • Month Day • H-H PM/AM"
-        match = re.search(
-            r'(\w{2,3})\s*•\s*(\w{3})\s+(\d{1,2})\s*•\s*(\d{1,2})-(\d{1,2})\s*(AM|PM)',
-            datetime_text,
-            re.IGNORECASE
-        )
+        return result
+    
+    # Try pattern 2: Start has colon, end doesn't "HH:MM-H PM/AM"
+    match = re.search(
+        r'(\w{2,3})\s*•\s*(\w{3})\s+(\d{1,2})\s*•\s*(\d{1,2}):(\d{2})-(\d{1,2})\s*(AM|PM)',
+        datetime_text,
+        re.IGNORECASE
+    )
+    
+    if match:
+        month_abbr = match.group(2)
+        day = match.group(3)
+        start_hour = match.group(4)
+        start_min = match.group(5)
+        end_hour = match.group(6)
+        meridiem = match.group(7).upper()
         
-        if match:
-            weekday_abbr = match.group(1)
-            month_abbr = match.group(2)
-            day = match.group(3)
-            start_hour = match.group(4)
-            end_hour = match.group(5)
-            meridiem = match.group(6).upper()
-            
-            # Format time with meridiem (assume :00 for minutes)
-            time_str = f"{start_hour}:00 - {end_hour}:00 {meridiem}"
-            result['time'] = time_str
-            
-            # Parse the date
-            result.update(parse_month_day_to_date(month_abbr, day))
+        time_str = f"{start_hour}:{start_min} - {end_hour}:00 {meridiem}"
+        result['time'] = time_str
+        result.update(parse_month_day_to_date(month_abbr, day))
+        return result
+    
+    # Try pattern 3: Neither has colons "H-H PM/AM"
+    match = re.search(
+        r'(\w{2,3})\s*•\s*(\w{3})\s+(\d{1,2})\s*•\s*(\d{1,2})-(\d{1,2})\s*(AM|PM)',
+        datetime_text,
+        re.IGNORECASE
+    )
+    
+    if match:
+        month_abbr = match.group(2)
+        day = match.group(3)
+        start_hour = match.group(4)
+        end_hour = match.group(5)
+        meridiem = match.group(6).upper()
+        
+        time_str = f"{start_hour}:00 - {end_hour}:00 {meridiem}"
+        result['time'] = time_str
+        result.update(parse_month_day_to_date(month_abbr, day))
+        return result
     
     return result
 
@@ -221,21 +240,33 @@ def parse_month_day_to_date(month_abbr, day):
     
     month_full = month_map.get(month_abbr, month_abbr)
     
-    # Try to create a full date
     try:
         current_year = datetime.now().year
         current_date = date.today()
+        current_month = current_date.month
         
-        date_str = f"{month_full} {day}, {current_year}"
+        # Parse the month number
+        month_num = datetime.strptime(month_full, '%B').month
+        
+        # Determine year based on month
+        # If the month has passed this year, use next year
+        # Otherwise use current year
+        if month_num < current_month:
+            # Month has passed, use next year
+            year = current_year + 1
+        else:
+            # Month is current or future, use current year
+            year = current_year
+        
+        date_str = f"{month_full} {day}, {year}"
         parsed_date = datetime.strptime(date_str, '%B %d, %Y').date()
         
         print(f"    Parsed: {date_str} -> {parsed_date}, Today: {current_date}")
         
-        # If the date is in the past, use next year
+        # Double-check: if still in the past, skip it (it's an old event from this month)
         if parsed_date < current_date:
-            print(f"    Date {parsed_date} is in past, using next year")
-            date_str = f"{month_full} {day}, {current_year + 1}"
-            parsed_date = datetime.strptime(date_str, '%B %d, %Y').date()
+            print(f"    Date {parsed_date} is in the past - marking as past event")
+            result['is_past'] = True
         
         result['date'] = date_str
         result['date_obj'] = parsed_date
