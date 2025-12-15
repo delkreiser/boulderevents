@@ -60,6 +60,11 @@ class EventAggregator:
                 'tags': ['Live Music', 'Restaurant', 'Historic'],
                 'scraper_output': 'gold_hill_inn_events.json'
             },
+            '300 Suns Brewing': {
+                'location': 'Longmont',
+                'tags': ['Brewery', 'Live Music', 'Family Friendly'],
+                'scraper_output': '300_suns_events.json'
+            },
         }
     
     def load_events_from_file(self, filepath):
