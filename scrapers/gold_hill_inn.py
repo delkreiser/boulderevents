@@ -28,9 +28,14 @@ def scrape_gold_hill_inn_events():
             page.set_default_timeout(30000)
             
             print("Loading Gold Hill Inn music page...")
-            page.goto('https://www.goldhillinn.com/music/', 
-                     wait_until='domcontentloaded', timeout=30000)
-            page.wait_for_timeout(3000)
+            try:
+                page.goto('https://www.goldhillinn.com/music/', 
+                         wait_until='domcontentloaded', timeout=45000)  # Increased to 45s
+                page.wait_for_timeout(3000)
+            except Exception as nav_error:
+                print(f"Navigation error (trying to continue anyway): {nav_error}")
+                # Try to get whatever content is there
+                page.wait_for_timeout(2000)
             
             # Scroll to load all content
             print("Scrolling to load all events...")

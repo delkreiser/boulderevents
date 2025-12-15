@@ -87,7 +87,7 @@ def parse_rosetta_hall_html(html):
                         events.append(event)
                         print(f"  ✓ {event['title']} - {event['date']}")
                     else:
-                        print(f"  ✗ Skipped past event: {event.get('title']} - {event.get('date')}")
+                        print(f"  ✗ Skipped past event: {event.get('title')} - {event.get('date')}")
                 else:
                     # Skip events where we can't parse the date
                     print(f"  ✗ Skipped (no date): {event['title']}")
