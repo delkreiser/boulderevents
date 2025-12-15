@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Tim & Jenny Ostdiek",
+    "link": "https://300sunsbrewing.com/events/tim-jenny-ostdiek/",
+    "time": "6:00 - 8:00 PM",
+    "date": "December 6, 2026",
+    "description": "Jenny and Tim Ostdiek are a Colorado-based folk duo whose heartfelt harmonies and soulful songwriting blend warmth, wit, and authenticity. Together, they weave introspective originals and inspired covers that celebrate connection, storytelling, and the simple beauty of shared song.",
+    "venue": "300 Suns Brewing",
+    "location": "Longmont",
+    "category": "Music",
+    "source_url": "https://300sunsbrewing.com/events/",
+    "image": "300suns.jpg",
+    "age_restriction": "All Ages",
+    "event_type_tags": [
+      "Live Music",
+      "Brewery",
+      "Family Friendly"
+    ],
+    "venue_type_tags": [
+      "Brewery",
+      "Live Music",
+      "Family Friendly"
+    ]
+  },
+  {
+    "title": "Grable Howie",
+    "link": "https://300sunsbrewing.com/events/grable-howie-duo/",
+    "time": "6:30 - 8:30 PM",
+    "date": "December 13, 2026",
+    "description": "A local Longmont vivid storyteller and captivating performer. Influenced by the writing styles of NoahKahan and Gregory Alan Isakov, and creating a sound akin to the likes of Mumford & Sons and Judah & The Lion, Howie is redefining the modern folk sound.",
+    "venue": "300 Suns Brewing",
+    "location": "Longmont",
+    "category": "Music",
+    "source_url": "https://300sunsbrewing.com/events/",
+    "image": "300suns.jpg",
+    "age_restriction": "All Ages",
+    "event_type_tags": [
+      "Live Music",
+      "Brewery",
+      "Family Friendly"
+    ],
+    "venue_type_tags": [
+      "Brewery",
+      "Live Music",
+      "Family Friendly"
+    ]
+  }
+]
