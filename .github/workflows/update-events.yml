@@ -42,6 +42,7 @@ jobs:
         python3 scrapers/jungle.py || echo "Jungle scraper failed"
         python3 scrapers/rosetta_hall.py || echo "Rosetta Hall scraper failed"
         python3 scrapers/gold_hill_inn.py || echo "Gold Hill Inn scraper failed"
+        python3 scrapers/300_suns_brewing.py || echo "300 Suns Brewing scraper failed"
     
     - name: Fix date/time fields
       run: |
