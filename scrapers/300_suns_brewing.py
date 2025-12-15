@@ -189,11 +189,16 @@ def parse_date_time(datetime_text):
         # Try to create a full date
         try:
             current_year = datetime.now().year
+            current_date = date.today()
+            
             date_str = f"{month_full} {day}, {current_year}"
             parsed_date = datetime.strptime(date_str, '%B %d, %Y').date()
             
+            print(f"    Parsed: {date_str} -> {parsed_date}, Today: {current_date}")
+            
             # If the date is in the past, use next year
-            if parsed_date < date.today():
+            if parsed_date < current_date:
+                print(f"    Date is in past, using next year")
                 date_str = f"{month_full} {day}, {current_year + 1}"
                 parsed_date = datetime.strptime(date_str, '%B %d, %Y').date()
             
