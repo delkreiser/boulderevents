@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-15T01:40:48.735849",
+  "generated_at": "2025-12-15T03:01:28.564565",
   "total_events": 121,
   "tags": {
     "venues": [
@@ -365,8 +365,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "All Ages"
+        "All Ages",
+        "Community"
       ]
     },
     {
@@ -422,9 +422,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Performance",
         "Educational",
+        "Performance",
+        "Community",
         "Music"
       ]
     },
@@ -454,8 +454,8 @@
       ],
       "event_type_tags": [
         "Family Friendly",
-        "Community",
         "All Ages",
+        "Community",
         "Music"
       ]
     },
@@ -515,8 +515,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Educational",
+        "Community",
         "Music"
       ]
     },
@@ -545,8 +545,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Performance",
+        "Community",
         "Music"
       ]
     },
@@ -575,8 +575,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Performance"
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -604,8 +604,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Performance",
+        "Community",
         "Music"
       ]
     },
@@ -634,9 +634,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "All Ages",
         "Performance",
+        "Community",
         "Music"
       ]
     },
@@ -665,8 +665,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Performance",
+        "Community",
         "Music"
       ]
     },
@@ -695,8 +695,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Performance",
+        "Community",
         "Music"
       ]
     },
@@ -988,17 +988,17 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_death_cafe_a_conversation_on_dealing_with_death_dec142_00_pm14_00",
-      "title": "Death Cafe: A Conversation On Dealing with Death",
+      "id": "trident_booksellers_cafe_language_exchange_night_dec157_00_pm19_00",
+      "title": "Language Exchange Night",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
-      "date": "Dec142:00\u202fPM14:00",
+      "date": "Dec157:00\u202fPM19:00",
       "normalized_date": null,
       "recurring": null,
       "time": null,
-      "description": "",
+      "description": "Free!Every Monday evening, 7-9p.m.All languages welcome. Facilitated by Kelvin Tavarez.",
       "additional_info": "",
-      "link": "https://www.tridentcafe.com/events/2025/12/14/death-cafe-a-conversation-on-dealing-with-death",
+      "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-s7a5x-sb4ks",
       "image": "trident.jpg",
       "source_url": "https://www.tridentcafe.com/events",
       "age_restriction": null,
@@ -2716,17 +2716,17 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_jazzetry_w_von_disco_dec136_00_pm18_00",
-      "title": "Jazzetry W/ Von Disco",
+      "id": "trident_booksellers_cafe_death_cafe_a_conversation_on_dealing_with_death_dec142_00_pm14_00",
+      "title": "Death Cafe: A Conversation On Dealing with Death",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
-      "date": "Dec136:00\u202fPM18:00",
+      "date": "Dec142:00\u202fPM14:00",
       "normalized_date": null,
       "recurring": null,
       "time": null,
-      "description": "Share",
+      "description": "",
       "additional_info": "",
-      "link": "https://www.tridentcafe.com/events/2025/9/13/jazzetry-w-von-disco-5w3sd-rrblg",
+      "link": "https://www.tridentcafe.com/events/2025/12/14/death-cafe-a-conversation-on-dealing-with-death",
       "image": "trident.jpg",
       "source_url": "https://www.tridentcafe.com/events",
       "age_restriction": null,
