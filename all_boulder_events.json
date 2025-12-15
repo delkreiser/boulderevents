@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-15T00:04:47.688778",
+  "generated_at": "2025-12-15T01:40:48.735849",
   "total_events": 121,
   "tags": {
     "venues": [
@@ -422,10 +422,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "Educational",
         "Community",
-        "Performance"
+        "Performance",
+        "Educational",
+        "Music"
       ]
     },
     {
@@ -453,10 +453,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Family Friendly",
         "Community",
-        "All Ages"
+        "All Ages",
+        "Music"
       ]
     },
     {
@@ -484,10 +484,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Family Friendly",
         "All Ages",
-        "Performance"
+        "Performance",
+        "Music"
       ]
     },
     {
@@ -515,9 +515,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
+        "Community",
         "Educational",
-        "Community"
+        "Music"
       ]
     },
     {
@@ -545,9 +545,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Community",
-        "Performance"
+        "Performance",
+        "Music"
       ]
     },
     {
@@ -604,9 +604,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Community",
-        "Performance"
+        "Performance",
+        "Music"
       ]
     },
     {
@@ -634,10 +634,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "All Ages",
         "Community",
-        "Performance"
+        "All Ages",
+        "Performance",
+        "Music"
       ]
     },
     {
@@ -665,9 +665,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Community",
-        "Performance"
+        "Performance",
+        "Music"
       ]
     },
     {
@@ -695,9 +695,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Community",
-        "Performance"
+        "Performance",
+        "Music"
       ]
     },
     {
