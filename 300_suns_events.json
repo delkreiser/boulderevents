@@ -44,5 +44,74 @@
       "Live Music",
       "Family Friendly"
     ]
+  },
+  {
+    "title": "John Mieras/Ugly Sweater",
+    "link": "https://300sunsbrewing.com/events/john-mieras/",
+    "time": "6:00 - 8:00 PM",
+    "date": "December 18, 2025",
+    "description": "Join us as we ring in the holiday with an Ugly Sweater Party and Live music with John Mieras. Prizes for best sweater!John was always interested in songwriting and patterned his early music after his heroes, Lennon & McCartney. His current favorites and influences include: Gregory Alan Isakov, Josh ...",
+    "venue": "300 Suns Brewing",
+    "location": "Longmont",
+    "category": "Music",
+    "source_url": "https://300sunsbrewing.com/events/",
+    "image": "300suns.jpg",
+    "age_restriction": "All Ages",
+    "event_type_tags": [
+      "Live Music",
+      "Brewery",
+      "Family Friendly"
+    ],
+    "venue_type_tags": [
+      "Brewery",
+      "Live Music",
+      "Family Friendly"
+    ]
+  },
+  {
+    "title": "Thomas Dow",
+    "link": "https://300sunsbrewing.com/uncategorized/thomas-dow/",
+    "time": "6:00 - 8:00 PM",
+    "date": "January 10, 2026",
+    "description": "Come enjoy some Colorado original, soulful, folk and blues music by Thomas! Some tasty covers available as well!",
+    "venue": "300 Suns Brewing",
+    "location": "Longmont",
+    "category": "Music",
+    "source_url": "https://300sunsbrewing.com/events/",
+    "image": "300suns.jpg",
+    "age_restriction": "All Ages",
+    "event_type_tags": [
+      "Live Music",
+      "Brewery",
+      "Family Friendly"
+    ],
+    "venue_type_tags": [
+      "Brewery",
+      "Live Music",
+      "Family Friendly"
+    ]
+  },
+  {
+    "title": "Jake Edmoundson",
+    "link": "https://300sunsbrewing.com/uncategorized/jake-edmoundson/",
+    "time": "6:00 - 8:00 PM",
+    "date": "February 7, 2026",
+    "description": "Guitars, cadillacs, and hillbilly music from this singer/songwriter based in Lyons, CO",
+    "venue": "300 Suns Brewing",
+    "location": "Longmont",
+    "category": "Music",
+    "source_url": "https://300sunsbrewing.com/events/",
+    "image": "300suns.jpg",
+    "age_restriction": "All Ages",
+    "event_type_tags": [
+      "Live Music",
+      "Brewery",
+      "Family Friendly"
+    ],
+    "venue_type_tags": [
+      "Brewery",
+      "Live Music",
+      "Family Friendly"
+    ]
   }
 ]
