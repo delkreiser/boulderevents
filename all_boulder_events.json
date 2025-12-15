@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T23:50:31.829025",
-  "total_events": 123,
+  "generated_at": "2025-12-15T00:04:47.688778",
+  "total_events": 121,
   "tags": {
     "venues": [
       "Jungle",
@@ -313,35 +313,6 @@
       ]
     },
     {
-      "id": "junkyard_social_club_cheryl_lock_local_author_taylor_miller_local_illustrator_story_time_book_signing_sunday_december_14_2025_11_00_am_noon",
-      "title": "Cheryl Lock \u2013 Local author & Taylor Miller \u2013 local illustrator: story time & book signing!",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Sunday, December 14, 2025",
-      "normalized_date": "2025-12-14T00:00:00",
-      "recurring": null,
-      "time": "11:00 AM - Noon",
-      "description": "",
-      "additional_info": "Family Friendly",
-      "link": "https://junkyardsocialclub.org/drop-in-event/cheryl-lock/",
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/02/Cheryl-Lock-768x484.jpeg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": "All Ages",
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Dance",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Family Friendly",
-        "All Ages"
-      ]
-    },
-    {
       "id": "junkyard_social_club_drop_in_mahjongg_tuesdays_tuesday_december_16_2025_12_00_2_00_pm",
       "title": "Drop-In Mahjongg \u2013 Tuesdays",
       "venue": "Junkyard Social Club",
@@ -451,10 +422,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Educational",
         "Music",
-        "Performance",
-        "Community"
+        "Educational",
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -482,8 +453,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
         "Music",
+        "Family Friendly",
         "Community",
         "All Ages"
       ]
@@ -513,10 +484,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Family Friendly",
         "Music",
-        "All Ages"
+        "Family Friendly",
+        "All Ages",
+        "Performance"
       ]
     },
     {
@@ -544,8 +515,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Educational",
         "Music",
+        "Educational",
         "Community"
       ]
     },
@@ -574,9 +545,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "Music",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -604,8 +575,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -633,9 +604,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "Music",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -663,10 +634,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "Music",
+        "All Ages",
         "Community",
-        "All Ages"
+        "Performance"
       ]
     },
     {
@@ -694,9 +665,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "Music",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -724,9 +695,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "Music",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -1023,33 +994,6 @@
       "location": "Boulder",
       "date": "Dec142:00\u202fPM14:00",
       "normalized_date": null,
-      "recurring": null,
-      "time": null,
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.tridentcafe.com/events/2025/12/14/death-cafe-a-conversation-on-dealing-with-death",
-      "image": "trident.jpg",
-      "source_url": "https://www.tridentcafe.com/events",
-      "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
-      ],
-      "event_type_tags": [
-        "Books & Literary"
-      ]
-    },
-    {
-      "id": "trident_booksellers_cafe_death_cafe_a_conversation_on_dealing_with_death_sunday_december_14_2025",
-      "title": "Death Cafe: A Conversation On Dealing with Death",
-      "venue": "Trident Booksellers & Cafe",
-      "location": "Boulder",
-      "date": "Sunday, December 14, 2025",
-      "normalized_date": "2025-12-14T00:00:00",
       "recurring": null,
       "time": null,
       "description": "",
