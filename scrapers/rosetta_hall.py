@@ -87,11 +87,10 @@ def parse_rosetta_hall_html(html):
                         events.append(event)
                         print(f"  ✓ {event['title']} - {event['date']}")
                     else:
-                        print(f"  ✗ Skipped past event: {event.get('title')}")
+                        print(f"  ✗ Skipped past event: {event.get('title']} - {event.get('date')}")
                 else:
-                    # If we can't parse the date, include it anyway
-                    events.append(event)
-                    print(f"  ⚠️  {event['title']} - couldn't parse date")
+                    # Skip events where we can't parse the date
+                    print(f"  ✗ Skipped (no date): {event['title']}")
                     
         except Exception as e:
             print(f"  Error parsing event: {e}")
@@ -193,12 +192,14 @@ def parse_date_time(datetime_text):
         # Try to create a full date
         try:
             current_year = datetime.now().year
-            date_str = f"{month} {day}, {current_year}"
+            # Capitalize month name
+            month_capitalized = month.capitalize()
+            date_str = f"{month_capitalized} {day}, {current_year}"
             parsed_date = datetime.strptime(date_str, '%B %d, %Y').date()
             
             # If the date is in the past, try next year
             if parsed_date < date.today():
-                date_str = f"{month} {day}, {current_year + 1}"
+                date_str = f"{month_capitalized} {day}, {current_year + 1}"
                 parsed_date = datetime.strptime(date_str, '%B %d, %Y').date()
             
             result['date'] = date_str
@@ -206,8 +207,8 @@ def parse_date_time(datetime_text):
             
         except Exception as e:
             print(f"    Error parsing date '{month} {day}': {e}")
-            # Store what we have
-            result['date'] = f"{month} {day}"
+            # Store what we have with capitalized month
+            result['date'] = f"{month.capitalize()} {day}"
     
     return result
 
