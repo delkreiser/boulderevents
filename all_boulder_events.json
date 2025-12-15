@@ -1,9 +1,10 @@
 {
-  "generated_at": "2025-12-15T14:03:24.001772",
-  "total_events": 120,
+  "generated_at": "2025-12-15T14:17:56.869845",
+  "total_events": 128,
   "tags": {
     "venues": [
       "300 Suns Brewing",
+      "Gold Hill Inn",
       "Jungle",
       "Junkyard Social Club",
       "License No 1",
@@ -19,6 +20,7 @@
     "locations": [
       "Boulder",
       "Denver",
+      "Gold Hill",
       "Longmont"
     ],
     "venue_types": [
@@ -35,6 +37,7 @@
       "Entertainment",
       "Family Friendly",
       "Food & Drink",
+      "Historic",
       "Hotel",
       "Literary",
       "Live Music",
@@ -42,6 +45,7 @@
       "Nightlife",
       "Performance",
       "Pub",
+      "Restaurant",
       "Upscale"
     ],
     "event_types": [
@@ -427,9 +431,9 @@
       ],
       "event_type_tags": [
         "Educational",
-        "Performance",
         "Music",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -489,9 +493,9 @@
       ],
       "event_type_tags": [
         "Family Friendly",
-        "Performance",
+        "All Ages",
         "Music",
-        "All Ages"
+        "Performance"
       ]
     },
     {
@@ -549,9 +553,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "Music",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -579,8 +583,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -608,9 +612,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "Music",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -638,10 +642,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Music",
         "All Ages",
-        "Community"
+        "Music",
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -669,9 +673,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "Music",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -699,9 +703,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "Music",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -3308,6 +3312,136 @@
       ]
     },
     {
+      "id": "gold_hill_inn_bonnie_taylor_sims_w_bear_hat_december_19_2025_7_30_pm",
+      "title": "Bonnie & Taylor Sims w/Bear Hat",
+      "venue": "Gold Hill Inn",
+      "location": "Gold Hill",
+      "date": "December 19, 2025",
+      "normalized_date": "2025-12-19T00:00:00",
+      "recurring": null,
+      "time": "7:30 PM",
+      "description": "Americana/Bluegrass - It's a Holiday Concert and Dance With Bonnie & Taylor Sims and Bear Hat in the Big Room! Doors at 6 p.m. $20 Advance Tickets for music. $25 cash at door Day of Show.$20 Cash Light Buffet 6 - 8 p.m.Purchase Advance Tickets",
+      "additional_info": "",
+      "link": "https://www.goldhillinn.com/music/",
+      "image": "goldhillinn.jpg",
+      "source_url": "https://www.goldhillinn.com/music/",
+      "age_restriction": "21+",
+      "venue_tag": "Gold Hill Inn",
+      "location_tag": "Gold Hill",
+      "venue_type_tags": [
+        "Live Music",
+        "Restaurant",
+        "Historic"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "gold_hill_inn_daniel_rodriguez_w_emma_rose_december_20_2025_7_30_pm",
+      "title": "Daniel Rodriguez w/Emma Rose",
+      "venue": "Gold Hill Inn",
+      "location": "Gold Hill",
+      "date": "December 20, 2025",
+      "normalized_date": "2025-12-20T00:00:00",
+      "recurring": null,
+      "time": "7:30 PM",
+      "description": "Folk/Rock - Gold Hill Inn presents a special holiday show with Daniel Rodriguez and Emma RoseDoors open 6 p.m.Light dinner buffet for $20 cash from 6-7:30 p.m.Purchase Advance Tickets",
+      "additional_info": "",
+      "link": "https://www.goldhillinn.com/music/",
+      "image": "goldhillinn.jpg",
+      "source_url": "https://www.goldhillinn.com/music/",
+      "age_restriction": "21+",
+      "venue_tag": "Gold Hill Inn",
+      "location_tag": "Gold Hill",
+      "venue_type_tags": [
+        "Live Music",
+        "Restaurant",
+        "Historic"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "gold_hill_inn_gregory_alan_isakov_reed_foehl_december_21_2025_7_30_pm",
+      "title": "Gregory Alan Isakov & Reed Foehl",
+      "venue": "Gold Hill Inn",
+      "location": "Gold Hill",
+      "date": "December 21, 2025",
+      "normalized_date": "2025-12-21T00:00:00",
+      "recurring": null,
+      "time": "7:30 PM",
+      "description": "Folk - Sold Out!Gregory Alan Isakov andReed Foehlreturn to the Gold Hill Inn this December 21st & 22nd!Doors at 6 p.m. - Music at 7:30 p.m.We will be serving a light dinner buffet 6-7:30 p.m.$20 cash for buffet",
+      "additional_info": "",
+      "link": "https://www.goldhillinn.com/music/",
+      "image": "goldhillinn.jpg",
+      "source_url": "https://www.goldhillinn.com/music/",
+      "age_restriction": "21+",
+      "venue_tag": "Gold Hill Inn",
+      "location_tag": "Gold Hill",
+      "venue_type_tags": [
+        "Live Music",
+        "Restaurant",
+        "Historic"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "gold_hill_inn_gregory_alan_isakov_reed_foehl_december_22_2025_7_30_pm",
+      "title": "Gregory Alan Isakov & Reed Foehl",
+      "venue": "Gold Hill Inn",
+      "location": "Gold Hill",
+      "date": "December 22, 2025",
+      "normalized_date": "2025-12-22T00:00:00",
+      "recurring": null,
+      "time": "7:30 PM",
+      "description": "Folk - Sold Out!Gregory Alan Isakov andReed Foehlreturn to the Gold Hill Inn this December 21st & 22nd!Doors at 6 p.m. - Music at 7:30 p.m.We will be serving a light dinner buffet 6-7:30 p.m.$20 cash for buffet",
+      "additional_info": "",
+      "link": "https://www.goldhillinn.com/music/",
+      "image": "goldhillinn.jpg",
+      "source_url": "https://www.goldhillinn.com/music/",
+      "age_restriction": "21+",
+      "venue_tag": "Gold Hill Inn",
+      "location_tag": "Gold Hill",
+      "venue_type_tags": [
+        "Live Music",
+        "Restaurant",
+        "Historic"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "gold_hill_inn_new_year_s_eve_dance_party_december_31_2025_7_00_pm",
+      "title": "New Year's Eve Dance Party",
+      "venue": "Gold Hill Inn",
+      "location": "Gold Hill",
+      "date": "December 31, 2025",
+      "normalized_date": "2025-12-31T00:00:00",
+      "recurring": null,
+      "time": "7:00 PM",
+      "description": "NYE 2024 - Gold Hill Inn PresentsA New Years Eve Dance Party!Featuring:The Clay Rose Bandw/ Taylor Sims, Jeb Bows, Scott Coulter and Adam PerrySpecial GuestsThe Poudre Valley PlayboysDoors 7 p.m.Music 8 p.m.We will serve a light dinner buffet 7- 9 p.m.Tickets are $53 which includes Music, Food, Champagne at Mi...",
+      "additional_info": "",
+      "link": "https://www.goldhillinn.com/music/",
+      "image": "goldhillinn.jpg",
+      "source_url": "https://www.goldhillinn.com/music/",
+      "age_restriction": "21+",
+      "venue_tag": "Gold Hill Inn",
+      "location_tag": "Gold Hill",
+      "venue_type_tags": [
+        "Live Music",
+        "Restaurant",
+        "Historic"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
       "id": "300_suns_brewing_tim_jenny_ostdiek_december_6_2026_6_00_8_00_pm",
       "title": "Tim & Jenny Ostdiek",
       "venue": "300 Suns Brewing",
@@ -3347,6 +3481,90 @@
       "description": "A local Longmont vivid storyteller and captivating performer. Influenced by the writing styles of NoahKahan and Gregory Alan Isakov, and creating a sound akin to the likes of Mumford & Sons and Judah & The Lion, Howie is redefining the modern folk sound.",
       "additional_info": "",
       "link": "https://300sunsbrewing.com/events/grable-howie-duo/",
+      "image": "300suns.jpg",
+      "source_url": "https://300sunsbrewing.com/events/",
+      "age_restriction": "All Ages",
+      "venue_tag": "300 Suns Brewing",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Brewery",
+        "Live Music",
+        "Family Friendly"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Brewery",
+        "Family Friendly"
+      ]
+    },
+    {
+      "id": "300_suns_brewing_john_mieras_ugly_sweater_december_18_2025_6_00_8_00_pm",
+      "title": "John Mieras/Ugly Sweater",
+      "venue": "300 Suns Brewing",
+      "location": "Longmont",
+      "date": "December 18, 2025",
+      "normalized_date": "2025-12-18T00:00:00",
+      "recurring": null,
+      "time": "6:00 - 8:00 PM",
+      "description": "Join us as we ring in the holiday with an Ugly Sweater Party and Live music with John Mieras. Prizes for best sweater!John was always interested in songwriting and patterned his early music after his heroes, Lennon & McCartney. His current favorites and influences include: Gregory Alan Isakov, Josh ...",
+      "additional_info": "",
+      "link": "https://300sunsbrewing.com/events/john-mieras/",
+      "image": "300suns.jpg",
+      "source_url": "https://300sunsbrewing.com/events/",
+      "age_restriction": "All Ages",
+      "venue_tag": "300 Suns Brewing",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Brewery",
+        "Live Music",
+        "Family Friendly"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Brewery",
+        "Family Friendly"
+      ]
+    },
+    {
+      "id": "300_suns_brewing_thomas_dow_january_10_2026_6_00_8_00_pm",
+      "title": "Thomas Dow",
+      "venue": "300 Suns Brewing",
+      "location": "Longmont",
+      "date": "January 10, 2026",
+      "normalized_date": "2026-01-10T00:00:00",
+      "recurring": null,
+      "time": "6:00 - 8:00 PM",
+      "description": "Come enjoy some Colorado original, soulful, folk and blues music by Thomas! Some tasty covers available as well!",
+      "additional_info": "",
+      "link": "https://300sunsbrewing.com/uncategorized/thomas-dow/",
+      "image": "300suns.jpg",
+      "source_url": "https://300sunsbrewing.com/events/",
+      "age_restriction": "All Ages",
+      "venue_tag": "300 Suns Brewing",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Brewery",
+        "Live Music",
+        "Family Friendly"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Brewery",
+        "Family Friendly"
+      ]
+    },
+    {
+      "id": "300_suns_brewing_jake_edmoundson_february_7_2026_6_00_8_00_pm",
+      "title": "Jake Edmoundson",
+      "venue": "300 Suns Brewing",
+      "location": "Longmont",
+      "date": "February 7, 2026",
+      "normalized_date": "2026-02-07T00:00:00",
+      "recurring": null,
+      "time": "6:00 - 8:00 PM",
+      "description": "Guitars, cadillacs, and hillbilly music from this singer/songwriter based in Lyons, CO",
+      "additional_info": "",
+      "link": "https://300sunsbrewing.com/uncategorized/jake-edmoundson/",
       "image": "300suns.jpg",
       "source_url": "https://300sunsbrewing.com/events/",
       "age_restriction": "All Ages",
