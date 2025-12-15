@@ -55,6 +55,11 @@ class EventAggregator:
                 'tags': ['Music', 'Nightlife', 'Dance', 'DJ', '21+'],
                 'scraper_output': 'rosetta_hall_events.json'
             },
+            'Gold Hill Inn': {
+                'location': 'Gold Hill',
+                'tags': ['Live Music', 'Restaurant', 'Historic'],
+                'scraper_output': 'gold_hill_inn_events.json'
+            },
         }
     
     def load_events_from_file(self, filepath):
