@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T03:09:20.131982",
-  "total_events": 121,
+  "generated_at": "2025-12-15T06:26:42.268812",
+  "total_events": 118,
   "tags": {
     "venues": [
       "Jungle",
@@ -422,10 +422,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
+        "Community",
         "Educational",
         "Music",
-        "Community"
+        "Performance"
       ]
     },
     {
@@ -453,10 +453,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
-        "Music",
         "Community",
-        "All Ages"
+        "Music",
+        "All Ages",
+        "Family Friendly"
       ]
     },
     {
@@ -485,8 +485,8 @@
       ],
       "event_type_tags": [
         "Performance",
-        "All Ages",
         "Music",
+        "All Ages",
         "Family Friendly"
       ]
     },
@@ -515,9 +515,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Community",
         "Educational",
-        "Music",
-        "Community"
+        "Music"
       ]
     },
     {
@@ -545,9 +545,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
+        "Community",
         "Music",
-        "Community"
+        "Performance"
       ]
     },
     {
@@ -575,8 +575,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -604,9 +604,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
+        "Community",
         "Music",
-        "Community"
+        "Performance"
       ]
     },
     {
@@ -634,10 +634,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Music",
         "Community",
-        "All Ages"
+        "Music",
+        "All Ages",
+        "Performance"
       ]
     },
     {
@@ -665,9 +665,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
+        "Community",
         "Music",
-        "Community"
+        "Performance"
       ]
     },
     {
@@ -695,9 +695,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
+        "Community",
         "Music",
-        "Community"
+        "Performance"
       ]
     },
     {
@@ -3149,104 +3149,11 @@
       ]
     },
     {
-      "id": "rosetta_hall_shares_december_11_2026_10_00_pm",
-      "title": "SHARES",
-      "venue": "Rosetta Hall",
-      "location": "Boulder",
-      "date": "december 11, 2026",
-      "normalized_date": "2026-12-11T00:00:00",
-      "recurring": null,
-      "time": "10:00 PM",
-      "description": "TECH HOUSE / TECHNO",
-      "additional_info": "",
-      "link": "https://rosettahall.com/live-music/",
-      "image": "rosettahall.jpg",
-      "source_url": "https://rosettahall.com/live-music/",
-      "age_restriction": "21+",
-      "venue_tag": "Rosetta Hall",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Music",
-        "Nightlife",
-        "Dance",
-        "DJ",
-        "21+"
-      ],
-      "event_type_tags": [
-        "Music",
-        "Nightlife",
-        "Dance",
-        "DJ"
-      ]
-    },
-    {
-      "id": "rosetta_hall_don_p_december_12_2026_10_00_pm",
-      "title": "DON P",
-      "venue": "Rosetta Hall",
-      "location": "Boulder",
-      "date": "december 12, 2026",
-      "normalized_date": "2026-12-12T00:00:00",
-      "recurring": null,
-      "time": "10:00 PM",
-      "description": "TECH HOUSE",
-      "additional_info": "",
-      "link": "https://rosettahall.com/live-music/",
-      "image": "rosettahall.jpg",
-      "source_url": "https://rosettahall.com/live-music/",
-      "age_restriction": "21+",
-      "venue_tag": "Rosetta Hall",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Music",
-        "Nightlife",
-        "Dance",
-        "DJ",
-        "21+"
-      ],
-      "event_type_tags": [
-        "Music",
-        "Nightlife",
-        "Dance",
-        "DJ"
-      ]
-    },
-    {
-      "id": "rosetta_hall_four_lives_december_13_2026_10_00_pm",
-      "title": "FOUR LIVES",
-      "venue": "Rosetta Hall",
-      "location": "Boulder",
-      "date": "december 13, 2026",
-      "normalized_date": "2026-12-13T00:00:00",
-      "recurring": null,
-      "time": "10:00 PM",
-      "description": "TECH HOUSE",
-      "additional_info": "",
-      "link": "https://rosettahall.com/live-music/",
-      "image": "rosettahall.jpg",
-      "source_url": "https://rosettahall.com/live-music/",
-      "age_restriction": "21+",
-      "venue_tag": "Rosetta Hall",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Music",
-        "Nightlife",
-        "Dance",
-        "DJ",
-        "21+"
-      ],
-      "event_type_tags": [
-        "Music",
-        "Nightlife",
-        "Dance",
-        "DJ"
-      ]
-    },
-    {
       "id": "rosetta_hall_nomi_malik_december_16_2025_6_00_pm",
       "title": "NOMI MALIK",
       "venue": "Rosetta Hall",
       "location": "Boulder",
-      "date": "december 16, 2025",
+      "date": "December 16, 2025",
       "normalized_date": "2025-12-16T00:00:00",
       "recurring": null,
       "time": "6:00 PM",
@@ -3277,7 +3184,7 @@
       "title": "DANNY SHAFER",
       "venue": "Rosetta Hall",
       "location": "Boulder",
-      "date": "december 23, 2025",
+      "date": "December 23, 2025",
       "normalized_date": "2025-12-23T00:00:00",
       "recurring": null,
       "time": "6:00 PM",
@@ -3308,7 +3215,7 @@
       "title": "ON THE DOT",
       "venue": "Rosetta Hall",
       "location": "Boulder",
-      "date": "december 31, 2025",
+      "date": "December 31, 2025",
       "normalized_date": "2025-12-31T00:00:00",
       "recurring": null,
       "time": "9:00 PM",
@@ -3339,7 +3246,7 @@
       "title": "RYAN BENTHALL",
       "venue": "Rosetta Hall",
       "location": "Boulder",
-      "date": "january 6, 2026",
+      "date": "January 6, 2026",
       "normalized_date": "2026-01-06T00:00:00",
       "recurring": null,
       "time": "6:00 PM",
@@ -3370,7 +3277,7 @@
       "title": "IZZEBELLA",
       "venue": "Rosetta Hall",
       "location": "Boulder",
-      "date": "january 13, 2026",
+      "date": "January 13, 2026",
       "normalized_date": "2026-01-13T00:00:00",
       "recurring": null,
       "time": "6:00 PM",
