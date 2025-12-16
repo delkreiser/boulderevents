@@ -1213,7 +1213,7 @@
             const statusBanner = document.getElementById('statusBanner');
             
             if (todayEvents.length > 0) {
-                statusBanner.innerHTML = '🎉 <span class="status-count">' + todayEvents.length + '</span> <span id="statusText">events today</span>';
+                statusBanner.innerHTML = '🎉 <span class="status-count">' + todayEvents.length + '</span> <span id="statusText">events today!</span>';
             } else {
                 // Count events in next 7 days
                 const weekEnd = new Date(today);
@@ -1223,7 +1223,7 @@
                     const eventDate = new Date(event.normalized_date);
                     return eventDate >= today && eventDate <= weekEnd;
                 });
-                statusBanner.innerHTML = '📅 <span class="status-count">' + next7DaysEvents.length + '</span> <span id="statusText">events this week</span>';
+                statusBanner.innerHTML = '📅 <span class="status-count">' + next7DaysEvents.length + '</span> <span id="statusText">events this week!</span>';
             }
         }
         
