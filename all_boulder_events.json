@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-16T03:37:30.967029",
+  "generated_at": "2025-12-16T06:23:19.863151",
   "total_events": 151,
   "tags": {
     "venues": [
@@ -126,8 +126,36 @@
       ]
     },
     {
-      "id": "velvet_elk_lounge_rapidgrass_december_27_2025",
-      "title": "Rapidgrass",
+      "id": "velvet_elk_lounge_rockin_eve_with_montana_sand_free_show_december_24_2025",
+      "title": "Rockin' Eve with Montana Sand, FREE SHOW!!!",
+      "venue": "Velvet Elk Lounge",
+      "location": "Boulder",
+      "date": "December 24, 2025",
+      "normalized_date": "2025-12-24T00:00:00",
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.velvetelklounge.com/event/december-24th-rockin-eve-with-montana-sand/",
+      "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/69114photo-output.png?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+      "source_url": "https://www.velvetelklounge.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Velvet Elk Lounge",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Live Music",
+        "Bar",
+        "Nightlife"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "velvet_elk_lounge_rapidgrass_with_josy_rosales_december_27_2025",
+      "title": "Rapidgrass with Josy Rosales",
       "venue": "Velvet Elk Lounge",
       "location": "Boulder",
       "date": "December 27, 2025",
@@ -294,34 +322,6 @@
       ]
     },
     {
-      "id": "velvet_elk_lounge_hot_like_mars_february_5_2026",
-      "title": "Hot Like Mars",
-      "venue": "Velvet Elk Lounge",
-      "location": "Boulder",
-      "date": "February 5, 2026",
-      "normalized_date": "2026-02-05T00:00:00",
-      "recurring": null,
-      "time": null,
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.velvetelklounge.com/event/february-5th-hot-like-mars/",
-      "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/58610Hot_Like_Mars.jpeg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
-      "source_url": "https://www.velvetelklounge.com/events/",
-      "age_restriction": null,
-      "venue_tag": "Velvet Elk Lounge",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Music",
-        "Live Music",
-        "Bar",
-        "Nightlife"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Nightlife"
-      ]
-    },
-    {
       "id": "junkyard_social_club_drop_in_mahjongg_tuesdays_tuesday_december_16_2025_12_00_2_00_pm",
       "title": "Drop-In Mahjongg \u2013 Tuesdays",
       "venue": "Junkyard Social Club",
@@ -432,8 +432,8 @@
       ],
       "event_type_tags": [
         "Performance",
-        "Community",
         "Music",
+        "Community",
         "Educational"
       ]
     },
@@ -462,10 +462,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Community",
         "Music",
-        "Family Friendly"
+        "Family Friendly",
+        "All Ages",
+        "Community"
       ]
     },
     {
@@ -494,9 +494,9 @@
       ],
       "event_type_tags": [
         "Performance",
-        "All Ages",
         "Music",
-        "Family Friendly"
+        "Family Friendly",
+        "All Ages"
       ]
     },
     {
@@ -524,8 +524,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Music",
+        "Community",
         "Educational"
       ]
     },
@@ -555,8 +555,8 @@
       ],
       "event_type_tags": [
         "Performance",
-        "Community",
-        "Music"
+        "Music",
+        "Community"
       ]
     },
     {
@@ -614,8 +614,8 @@
       ],
       "event_type_tags": [
         "Performance",
-        "Community",
-        "Music"
+        "Music",
+        "Community"
       ]
     },
     {
@@ -643,10 +643,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
         "Performance",
-        "Community",
-        "Music"
+        "Music",
+        "All Ages",
+        "Community"
       ]
     },
     {
@@ -675,8 +675,8 @@
       ],
       "event_type_tags": [
         "Performance",
-        "Community",
-        "Music"
+        "Music",
+        "Community"
       ]
     },
     {
@@ -705,8 +705,8 @@
       ],
       "event_type_tags": [
         "Performance",
-        "Community",
-        "Music"
+        "Music",
+        "Community"
       ]
     },
     {
@@ -994,35 +994,6 @@
       "event_type_tags": [
         "Entertainment",
         "Hotel Events"
-      ]
-    },
-    {
-      "id": "trident_booksellers_cafe_language_exchange_night_december_15_2026_57_00_pm",
-      "title": "Language Exchange Night",
-      "venue": "Trident Booksellers & Cafe",
-      "location": "Boulder",
-      "date": "December 15, 2026",
-      "normalized_date": "2026-12-15T00:00:00",
-      "recurring": null,
-      "time": "57:00 PM",
-      "description": "Free!Every Monday evening, 7-9p.m.All languages welcome. Facilitated by Kelvin Tavarez.",
-      "additional_info": "",
-      "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-s7a5x-sb4ks",
-      "image": "trident.jpg",
-      "source_url": "https://www.tridentcafe.com/events",
-      "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Books",
-        "Community"
       ]
     },
     {
@@ -2400,6 +2371,35 @@
       "description": "",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2026/1/22/magic-mountain-author-series-6m6eb",
+      "image": "trident.jpg",
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Books",
+        "Community"
+      ]
+    },
+    {
+      "id": "trident_booksellers_cafe_language_exchange_night_december_15_2026_57_00_pm",
+      "title": "Language Exchange Night",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "December 15, 2026",
+      "normalized_date": "2026-12-15T00:00:00",
+      "recurring": null,
+      "time": "57:00 PM",
+      "description": "Free!Every Monday evening, 7-9p.m.All languages welcome. Facilitated by Kelvin Tavarez.",
+      "additional_info": "",
+      "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-s7a5x-sb4ks",
       "image": "trident.jpg",
       "source_url": "https://www.tridentcafe.com/events",
       "age_restriction": null,
