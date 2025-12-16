@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T01:53:40.937844",
-  "total_events": 127,
+  "generated_at": "2025-12-16T02:09:51.097843",
+  "total_events": 146,
   "tags": {
     "venues": [
       "300 Suns Brewing",
@@ -10,6 +10,7 @@
       "License No 1",
       "Longs Peak Pub",
       "Mountain Sun Pub",
+      "Roots Music Project",
       "Rosetta Hall",
       "Southern Sun Pub",
       "St Julien Hotel & Spa",
@@ -373,8 +374,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "All Ages"
+        "All Ages",
+        "Community"
       ]
     },
     {
@@ -430,10 +431,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Performance",
+        "Educational",
         "Music",
-        "Educational"
+        "Community"
       ]
     },
     {
@@ -461,10 +462,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "All Ages",
         "Music",
-        "Family Friendly"
+        "Family Friendly",
+        "Community"
       ]
     },
     {
@@ -492,10 +493,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
         "Performance",
-        "Music",
-        "Family Friendly"
+        "All Ages",
+        "Family Friendly",
+        "Music"
       ]
     },
     {
@@ -523,9 +524,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
+        "Educational",
         "Music",
-        "Educational"
+        "Community"
       ]
     },
     {
@@ -553,9 +554,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Performance",
-        "Music"
+        "Music",
+        "Community"
       ]
     },
     {
@@ -583,8 +584,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Performance"
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -612,9 +613,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Performance",
-        "Music"
+        "Music",
+        "Community"
       ]
     },
     {
@@ -642,10 +643,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Performance",
         "Music",
-        "All Ages"
+        "All Ages",
+        "Community"
       ]
     },
     {
@@ -673,9 +674,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Performance",
-        "Music"
+        "Music",
+        "Community"
       ]
     },
     {
@@ -703,9 +704,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Performance",
-        "Music"
+        "Music",
+        "Community"
       ]
     },
     {
@@ -3551,6 +3552,481 @@
         "Live Music",
         "Brewery",
         "Family Friendly"
+      ]
+    },
+    {
+      "id": "roots_music_project_cass_clayton_band_a_christmas_of_soul_december_18_2025_7_00_pm_10_30_pm",
+      "title": "Cass Clayton Band: A Christmas of Soul",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": "December 18, 2025",
+      "normalized_date": "2025-12-18T00:00:00",
+      "recurring": null,
+      "time": "7:00 PM - 10:30 PM",
+      "description": "Celebrate the season with Colorado's Favorite Female Vocalist! Soulful holiday vibes, funk grooves, and unforgettable energy at Roots.",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/cass-clayton-band-a-christmas-of-soul-tickets-1968264765899",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1170728204%2F1125606624043%2F1%2Foriginal.20251111-205310?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=8beddca283c2d9519d601d3bbdc1b7a8",
+      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_breadbox_w_mudrat_detector_a_night_of_jerry_garcia_band_and_phish_december_19_2025_8_00_pm_11_30_pm",
+      "title": "Breadbox w/  Mudrat Detector : a night of Jerry Garcia Band and Phish",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": "December 19, 2025",
+      "normalized_date": "2025-12-19T00:00:00",
+      "recurring": null,
+      "time": "8:00 PM - 11:30 PM",
+      "description": "Breadbox w/  Mudrat Detector : a night of Jerry Garcia Band and Phish",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/breadbox-w-mudrat-detector-a-night-of-jerry-garcia-band-and-phish-tickets-1972881697265",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172095690%2F1408677475953%2F1%2Foriginal.20251201-212557?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=484b457949dee003e6d6015bfecdf214",
+      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_the_4th_annual_boulder_county_jingle_jam_december_20_2025_6_00_pm_11_00_pm",
+      "title": "The 4th Annual Boulder County Jingle Jam",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": "December 20, 2025",
+      "normalized_date": "2025-12-20T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM - 11:00 PM",
+      "description": "KGNU Presents with the Colorado Bluegrass Music Society : The 4th Annual Boulder County Jingle Jam",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/the-4th-annual-boulder-county-jingle-jam-tickets-1926803905349",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1166908893%2F1125606624043%2F1%2Foriginal.20251030-232053?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=f7e1f6ae6152bac737ea2e23fc8ed992",
+      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_billy_hoke_s_xtrav_xx_super_pro_jam_december_28_2025_6_00_pm_10_00_pm",
+      "title": "Billy Hoke's XTRAV XX Super Pro Jam",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": "December 28, 2025",
+      "normalized_date": "2025-12-28T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM - 10:00 PM",
+      "description": "The Biggest and Baddest Pro Jam this side of the Mississippi!",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/billy-hokes-xtrav-xx-super-pro-jam-tickets-1976523826973",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172110157%2F1125606624043%2F1%2Foriginal.20251202-004024?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=fd3c14f3da69d0d3858d817da6ac1e7d",
+      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_new_years_eve_party_with_riley_j_band_cabaret_vinyl_djs_december_31_2025_9_00_pm_1_00_am",
+      "title": "New Years Eve Party with Riley J Band, Cabaret & Vinyl DJs",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": "December 31, 2025",
+      "normalized_date": "2025-12-31T00:00:00",
+      "recurring": null,
+      "time": "9:00 PM - 1:00 AM",
+      "description": "Soulful live music, electrifying burlesque, vinyl DJs & midnight magic! The ultimate New Year's Eve celebration. Tickets selling fast!",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/new-years-eve-party-with-riley-j-band-cabaret-vinyl-djs-tickets-1976500611535",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172088009%2F1125606624043%2F1%2Foriginal.20251201-201350?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=835ffac8acf09d8695c04be458dafaec",
+      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_big_ol_pig_birthday_bash_ft_young_and_dead_jam_band_jubilee_january_09_2026_8_00_pm_10_00_pm",
+      "title": "Big Ol' Pig Birthday Bash ft. Young and Dead - Jam Band Jubilee",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": "January 09, 2026",
+      "normalized_date": "2026-01-09T00:00:00",
+      "recurring": null,
+      "time": "8:00 PM - 10:00 PM",
+      "description": "Celebrate Ian Arras' birthday with Big Ol' Pig & Young and Dead! Colorado jam bands deliver funk, fusion & Grateful Dead grooves.",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/big-ol-pig-birthday-bash-ft-young-and-dead-jam-band-jubilee-tickets-1976526885120",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172732577%2F1125606624043%2F1%2Foriginal.20251210-235945?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a5c5e8f3d9a36d2f51d356adc700ed90",
+      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_blessing_bled_chimanga_light_hope_live_album_recording_january_10_2026_6_00_pm_10_30_pm",
+      "title": "Blessing Bled Chimanga - Light & Hope: live album recording",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": "January 10, 2026",
+      "normalized_date": "2026-01-10T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM - 10:30 PM",
+      "description": "Come and be part of this historic live recording!  Your screams, your voices, dancing, and  joy will shape the sound of this album.",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/blessing-bled-chimanga-light-hope-live-album-recording-tickets-1975148176365",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171528402%2F1408677475953%2F1%2Foriginal.20251121-214623?h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&s=cb9d66b0aa29b0b9cc292d9655c6e502",
+      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_honeycomb_open_sing_with_fox_linnea_drickey_joyful_community_harmony_january_11_2026_11_00_am_1_00_pm",
+      "title": "Honeycomb Open Sing with Fox Linnea Drickey - Joyful Community Harmony",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": "January 11, 2026",
+      "normalized_date": "2026-01-11T00:00:00",
+      "recurring": null,
+      "time": "11:00 AM - 1:00 PM",
+      "description": "Join Fox Linnea Drickey for community singing! Learn folk & roots songs by ear, layer harmonies, and sing together in joy. All welcome!",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/honeycomb-open-sing-with-fox-linnea-drickey-joyful-community-harmony-tickets-1975123903765",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172733632%2F1125606624043%2F1%2Foriginal.20251211-001504?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=6cfd464639bf6bbbabe011b5aff0f213",
+      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_j_j_murphy_wyatt_wear_and_gabriel_mangione_and_halle_tomlinson_january_15_2026_8_00_pm_10_30_pm",
+      "title": "J.J. Murphy, Wyatt Wear and Gabriel Mangione and Halle Tomlinson",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": "January 15, 2026",
+      "normalized_date": "2026-01-15T00:00:00",
+      "recurring": null,
+      "time": "8:00 PM - 10:30 PM",
+      "description": "An intimate evening of improvised jazz grooves and soulful vocals featuring JJ Murphy Trio and Denver's Halle Tomlinson.",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/jj-murphy-wyatt-wear-and-gabriel-mangione-and-halle-tomlinson-tickets-1977675210793",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172912388%2F1125606624043%2F1%2Foriginal.20251213-194413?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=ccb727b73d82b357fe0e80282e299e51",
+      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_the_mike_dillon_band_feat_brian_haas_w_photon_january_16_2026_8_00_pm_10_45_pm",
+      "title": "The Mike Dillon Band feat. Brian Haas w/ PHOTON",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": "January 16, 2026",
+      "normalized_date": "2026-01-16T00:00:00",
+      "recurring": null,
+      "time": "8:00 PM - 10:45 PM",
+      "description": "A night of Funk Punk Jazz Fusion with The Mike Dillon Band and Photon",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/the-mike-dillon-band-feat-brian-haas-w-photon-tickets-1977676602957",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172809210%2F1125606624043%2F1%2Foriginal.20251212-003248?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=8cce3ac27aba190b4560d805f5764ebd",
+      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_cousin_curtiss_high_voltage_blues_roots_rock_explosion_january_22_2026_8_00_pm_10_30_pm",
+      "title": "Cousin Curtiss: High-Voltage Blues & Roots Rock Explosion",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": "January 22, 2026",
+      "normalized_date": "2026-01-22T00:00:00",
+      "recurring": null,
+      "time": "8:00 PM - 10:30 PM",
+      "description": "Raw, soulful powerhouse duo ignites blues, roots rock & Americana. Think Mumford meets AC/DC. Don't miss this two-man sonic explosion!",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/cousin-curtiss-high-voltage-blues-roots-rock-explosion-tickets-1859181344449",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1159902733%2F1125606624043%2F1%2Foriginal.20251022-175018?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=2e55d16b7cbb97b499abd0f9787f96fa",
+      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_dave_abear_s_a_very_jerry_band_w_foggy_mountain_spaceship_january_23_2026_8_00_pm_11_30_pm",
+      "title": "Dave Abear's A Very Jerry Band w/ Foggy Mountain Spaceship",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": "January 23, 2026",
+      "normalized_date": "2026-01-23T00:00:00",
+      "recurring": null,
+      "time": "8:00 PM - 11:30 PM",
+      "description": "A journey of music inspired by the Grateful Dead woven with original music by some of Colorado's best musicians!",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/dave-abears-a-very-jerry-band-w-foggy-mountain-spaceship-tickets-1977583587746",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172914001%2F1125606624043%2F1%2Foriginal.20251213-203458?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=65b382d7d08a2d228bc6cbe18a8cbd91",
+      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_jeremy_mohney_s_big_band_orchestra_authentic_swing_jazz_classics_january_24_2026_7_00_pm_11_00_pm",
+      "title": "Jeremy Mohney's Big Band Orchestra \u2013 Authentic Swing & Jazz Classics",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": "January 24, 2026",
+      "normalized_date": "2026-01-24T00:00:00",
+      "recurring": null,
+      "time": "7:00 PM - 11:00 PM",
+      "description": "Celebrate one year of Colorado's hottest swing orchestra with an unforgettable night of jazz classics and original compositions!",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/jeremy-mohneys-big-band-orchestra-authentic-swing-jazz-classics-tickets-1977785302079",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172921298%2F1125606624043%2F1%2Foriginal.20251214-013939?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=5608626cd7661df978c5d103d33d3644",
+      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_back_to_the_2000s_nostalgic_dance_party_fundraiser_january_29_2026_8_00_pm_11_00_pm",
+      "title": "Back to the 2000s: Nostalgic Dance Party Fundraiser",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": "January 29, 2026",
+      "normalized_date": "2026-01-29T00:00:00",
+      "recurring": null,
+      "time": "8:00 PM - 11:00 PM",
+      "description": "Dance to 2000s hits while supporting young musicians through TEMPO. Every ticket helps the next generation of artists shine.",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/back-to-the-2000s-nostalgic-dance-party-fundraiser-tickets-1963304920869",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1170207805%2F1125606624043%2F1%2Foriginal.20251105-142633?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=7ea9d1b4a8826e8de96a9b0f6dce8eea",
+      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_tim_cook_godson_an_intimate_soul_roots_evening_february_06_2026_7_30_pm_10_30_pm",
+      "title": "Tim Cook &  Godson - An Intimate Soul & Roots Evening",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": "February 06, 2026",
+      "normalized_date": "2026-02-06T00:00:00",
+      "recurring": null,
+      "time": "7:30 PM - 10:30 PM",
+      "description": "Subdudes bassist Tim Cook + Godson Seth Strickland of Green Buddha perform intimate originals & classics.",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/tim-cook-godson-an-intimate-soul-roots-evening-tickets-1977324060493",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172573132%2F1125606624043%2F1%2Foriginal.20251209-005808?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=6cbdd2b1cd09bc3286504cab7dbff2ca",
+      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_roots_soul_an_evening_with_hazel_miller_jack_hadley_february_07_2026_7_30_pm_10_30_pm",
+      "title": "Roots & Soul: An Evening with Hazel Miller & Jack Hadley",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": "February 07, 2026",
+      "normalized_date": "2026-02-07T00:00:00",
+      "recurring": null,
+      "time": "7:30 PM - 10:30 PM",
+      "description": "Colorado music legends, Hazel Miller and Jack Hadley join forces for a special evening of soul, heart, laughter and song.",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/roots-soul-an-evening-with-hazel-miller-jack-hadley-tickets-1976353960899",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172329391%2F1125606624043%2F1%2Foriginal.20251204-175611?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=93e7405e27a399886c37b4fb1dc28494",
+      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_face_vocal_band_a_valentine_s_night_of_harmony_heart_february_12_2026_7_00_pm_10_00_pm",
+      "title": "Face Vocal Band: A Valentine's Night of Harmony & Heart",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": "February 12, 2026",
+      "normalized_date": "2026-02-12T00:00:00",
+      "recurring": null,
+      "time": "7:00 PM - 10:00 PM",
+      "description": "Celebrate love in all forms with Face Vocal Band's stunning harmonies, heartfelt ballads & infectious energy. Valentine's magic awaits!",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/face-vocal-band-a-valentines-night-of-harmony-heart-tickets-1975614440975",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171737840%2F1125606624043%2F1%2Foriginal.20251125-170141?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=2e3d2d8db9c2528ad305125799fc7545",
+      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_stephen_kellogg_and_the_homecoming_w_special_guest_gutter_sinatra_night_1_february_13_2026_8_00_pm_10_30_pm",
+      "title": "Stephen Kellogg and The Homecoming w/special guest gutter sinatra (Night 1)",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": "February 13, 2026",
+      "normalized_date": "2026-02-13T00:00:00",
+      "recurring": null,
+      "time": "8:00 PM - 10:30 PM",
+      "description": "\"Two incredible songwriters bring nostalgia & heart to the stage. An unforgettable evening of soulful music & storytelling awaits!\"",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/stephen-kellogg-and-the-homecoming-wspecial-guest-gutter-sinatra-night-1-tickets-1730968386039",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1131586293%2F1125606624043%2F1%2Foriginal.20250922-165943?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=33c5584bf97d4f0210d1d5b5c78c5405",
+      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_stephen_kellogg_and_the_homecoming_w_special_guest_gutter_sinatra_night_2_february_14_2026_8_00_pm_10_30_pm",
+      "title": "Stephen Kellogg and The Homecoming w/special guest gutter sinatra (Night 2)",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": "February 14, 2026",
+      "normalized_date": "2026-02-14T00:00:00",
+      "recurring": null,
+      "time": "8:00 PM - 10:30 PM",
+      "description": "\"Two incredible songwriters bring nostalgia & heart to the stage. An unforgettable evening of soulful music & storytelling awaits!\"",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/stephen-kellogg-and-the-homecoming-wspecial-guest-gutter-sinatra-night-2-tickets-1730981384919",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1131586293%2F1125606624043%2F1%2Foriginal.20250922-165943?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=33c5584bf97d4f0210d1d5b5c78c5405",
+      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
       ]
     }
   ]
