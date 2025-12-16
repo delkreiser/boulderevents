@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "link": "https://www.bricksretail.com/event-details/open-mic-night-2025-12-16-18-00",
+    "title": "Learn more",
+    "date": "December 16, 2025",
+    "time": "6:00 PM - 8:00 PM",
+    "description": "Music open mic, sign up at 5:30, about 15 minute time slots, often runs till 8:30 or a little later but general timeline is 6-8. Come down and eat dinner and have drinks and enjoy the music community here!",
+    "image": "https://static.wixstatic.com/media/ea2d6f_62265f664f584370bdb46453a5b11e1e~mv2.png/v1/fill/w_56,h_56,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/ea2d6f_62265f664f584370bdb46453a5b11e1e~mv2.png",
+    "venue": "Bricks on Main",
+    "location": "Longmont",
+    "category": "Music",
+    "source_url": "https://www.bricksretail.com/events-calendar",
+    "event_type_tags": [
+      "Live Music",
+      "Entertainment"
+    ],
+    "venue_type_tags": [
+      "Music Venue",
+      "Bar",
+      "Restaurant"
+    ]
+  }
+]

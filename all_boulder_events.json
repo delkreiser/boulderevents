@@ -1,11 +1,12 @@
 {
-  "generated_at": "2025-12-16T14:02:02.575734",
-  "total_events": 146,
+  "generated_at": "2025-12-16T14:52:21.881182",
+  "total_events": 139,
   "tags": {
     "venues": [
       "300 Suns Brewing",
+      "Bricks on Main",
+      "Gold Hill Inn",
       "Jungle",
-      "Junkyard Social Club",
       "License No 1",
       "Longs Peak Pub",
       "Mountain Sun Pub",
@@ -20,11 +21,11 @@
     "locations": [
       "Boulder",
       "Denver",
+      "Gold Hill",
       "Longmont"
     ],
     "venue_types": [
       "21+",
-      "All Ages",
       "Arts",
       "Bar",
       "Books",
@@ -36,32 +37,31 @@
       "Entertainment",
       "Family Friendly",
       "Food & Drink",
+      "Historic",
       "Hotel",
       "Literary",
       "Live Music",
       "Music",
       "Nightlife",
-      "Performance",
       "Pub",
+      "Restaurant",
+      "Retail",
       "Upscale"
     ],
     "event_types": [
-      "All Ages",
       "Books",
       "Brewery",
       "Comedy",
       "Community",
       "DJ",
       "Dance",
-      "Educational",
       "Entertainment",
       "Family Friendly",
       "Hotel Events",
       "Jazz",
       "Live Music",
       "Music",
-      "Nightlife",
-      "Performance"
+      "Nightlife"
     ]
   },
   "events": [
@@ -315,394 +315,6 @@
       "event_type_tags": [
         "Live Music",
         "Nightlife"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_drop_in_mahjongg_tuesdays_tuesday_december_16_2025_12_00_2_00_pm",
-      "title": "Drop-In Mahjongg \u2013 Tuesdays",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Tuesday, December 16, 2025",
-      "normalized_date": "2025-12-16T00:00:00",
-      "recurring": null,
-      "time": "12:00 - 2:00 PM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://junkyardsocialclub.org/drop-in-event/drop-in-mahjongg-tuesdays/",
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/08/Drop-In-MahJongg-Tuesday.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Dance",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Community"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_community_craft_night_wednesday_december_17_2025_6_00_8_30_pm",
-      "title": "Community Craft Night",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Wednesday, December 17, 2025",
-      "normalized_date": "2025-12-17T00:00:00",
-      "recurring": null,
-      "time": "6:00 - 8:30 PM",
-      "description": "",
-      "additional_info": "All Ages are Welcome",
-      "link": "https://junkyardsocialclub.org/drop-in-event/community-craft-night/",
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/10/Community-Craft-Night.jpeg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": "All Ages",
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Dance",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Community",
-        "All Ages"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_creativemornings_friday_december_19_2025_8_00_am_doors_9_00_am_talk",
-      "title": "CreativeMornings",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Friday, December 19, 2025",
-      "normalized_date": "2025-12-19T00:00:00",
-      "recurring": null,
-      "time": "8:00 am doors | 9:00 am talk",
-      "description": "",
-      "additional_info": "Family Friendly",
-      "link": "https://junkyardsocialclub.org/event/creative-mornings/",
-      "image": "junkyard.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Dance",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Community"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_uprooting_qahr_live_music_film_and_monologues_saturday_december_20_2025_3_30_pm_networking_4_00_5_30_pm_showtime",
-      "title": "Uprooting Qahr \u2013 Live Music, Film, and Monologues",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Saturday, December 20, 2025",
-      "normalized_date": "2025-12-20T00:00:00",
-      "recurring": null,
-      "time": "3:30 PM Networking | 4:00 - 5:30 PM Showtime",
-      "description": "",
-      "additional_info": "Ages 9+ (ages 9-14 need adult company)",
-      "link": "https://junkyardsocialclub.org/event/uprooting-qahr-live-music-film-and-monologues/",
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/12/Uprooting-Qahr-768x540.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Dance",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Community",
-        "Educational",
-        "Performance",
-        "Music"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_salsa_sunday_sunday_december_21_2025_postponed_until_january",
-      "title": "Salsa Sunday",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Sunday, December 21, 2025",
-      "normalized_date": "2025-12-21T00:00:00",
-      "recurring": null,
-      "time": "POSTPONED UNTIL JANUARY",
-      "description": "",
-      "additional_info": "Family Friendly",
-      "link": "https://junkyardsocialclub.org/drop-in-event/salsa-sunday/",
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/09/Salsa-Sunday-1.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": "All Ages",
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Dance",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Community",
-        "Family Friendly",
-        "All Ages",
-        "Music"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_frosty_family_jam_sunday_december_21_2025_1_30_doors_2_20_3_20_show",
-      "title": "Frosty Family Jam",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Sunday, December 21, 2025",
-      "normalized_date": "2025-12-21T00:00:00",
-      "recurring": null,
-      "time": "1:30 Doors | 2:20 - 3:20 Show",
-      "description": "",
-      "additional_info": "Family Friendly",
-      "link": "https://junkyardsocialclub.org/drop-in-event/frosty-family-jam/",
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/12/FrostyFamilyJamSmall-Joe-Kremer.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": "All Ages",
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Dance",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Family Friendly",
-        "All Ages",
-        "Performance",
-        "Music"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_flow_jam_tuesday_december_23_2025_6_00_9_00_pm",
-      "title": "Flow Jam",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Tuesday, December 23, 2025",
-      "normalized_date": "2025-12-23T00:00:00",
-      "recurring": null,
-      "time": "6:00 -9:00 PM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://junkyardsocialclub.org/drop-in-event/flow-jam/",
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/09/FlowJam-2025-768x768.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Dance",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Community",
-        "Educational",
-        "Music"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_new_year_s_salsa_masquerade_saturday_december_27_2025_7_30_pm_11_30_pm",
-      "title": "New Year\u2019s Salsa Masquerade",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Saturday, December 27, 2025",
-      "normalized_date": "2025-12-27T00:00:00",
-      "recurring": null,
-      "time": "7:30 PM - 11:30 PM",
-      "description": "",
-      "additional_info": "Must be age 18+",
-      "link": "https://junkyardsocialclub.org/product/new-years-salsa-masquerade/",
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/11/New-Years-Salsa-Masquerade.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Dance",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Community",
-        "Performance",
-        "Music"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_queer_art_organics_open_mic_monday_december_29_2025_4_30_8_00_pm",
-      "title": "Queer Art Organics Open Mic",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Monday, December 29, 2025",
-      "normalized_date": "2025-12-29T00:00:00",
-      "recurring": null,
-      "time": "4:30 - 8:00 PM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://junkyardsocialclub.org/drop-in-event/queer-art-organics-open-mic/",
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/07/Queer-Art-Organics-Open-Mic.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Dance",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Community",
-        "Performance"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_revolution_nye_2025_wednesday_december_31_2025_8_00_pm_doors_2_00_am_end",
-      "title": "rEVOLUTION: NYE 2025",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Wednesday, December 31, 2025",
-      "normalized_date": "2025-12-31T00:00:00",
-      "recurring": null,
-      "time": "8:00 PM Doors | 2:00 AM End",
-      "description": "",
-      "additional_info": "Must be age 21+",
-      "link": "https://junkyardsocialclub.org/product/revolution-nye-2025/",
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/11/2025-NYE-rEVOLUTION-768x768.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Dance",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Community",
-        "Performance",
-        "Music"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_stage_party_friday_january_2_2026_7_00_pm_doors_8_00_pm_show",
-      "title": "Stage Party",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Friday, January 2, 2026",
-      "normalized_date": "2026-01-02T00:00:00",
-      "recurring": null,
-      "time": "7:00 PM Doors | 8:00 PM  Show",
-      "description": "",
-      "additional_info": "All Ages are Welcome",
-      "link": "https://junkyardsocialclub.org/drop-in-event/stage-party/",
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/03/Boulder-Juggling-Stage-Party-768x402.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": "All Ages",
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Dance",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Community",
-        "All Ages",
-        "Performance",
-        "Music"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_cathartic_compost_saturday_night_saturday_january_31_2026_6_00_pm_doors_7_00_pm_show",
-      "title": "cathARTic compost \u2013 Saturday Night",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Saturday, January 31, 2026",
-      "normalized_date": "2026-01-31T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM Doors | 7:00 PM Show",
-      "description": "",
-      "additional_info": "Ages 13+",
-      "link": "https://junkyardsocialclub.org/product/cathartic-compost-saturday/",
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/10/cathARTic-compost.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Dance",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Community",
-        "Performance",
-        "Music"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_cathartic_compost_sunday_night_sunday_february_1_2026_6_00_pm_doors_7_00_pm_show",
-      "title": "cathARTic compost \u2013 Sunday Night",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Sunday, February 1, 2026",
-      "normalized_date": "2026-02-01T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM Doors | 7:00 PM Show",
-      "description": "",
-      "additional_info": "Ages 13+",
-      "link": "https://junkyardsocialclub.org/product/cathartic-compost-sunday/",
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/10/cathARTic-compost.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Dance",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Community",
-        "Performance",
-        "Music"
       ]
     },
     {
@@ -3586,6 +3198,136 @@
       ]
     },
     {
+      "id": "gold_hill_inn_bonnie_taylor_sims_w_bear_hat_december_19_2025_7_30_pm",
+      "title": "Bonnie & Taylor Sims w/Bear Hat",
+      "venue": "Gold Hill Inn",
+      "location": "Gold Hill",
+      "date": "December 19, 2025",
+      "normalized_date": "2025-12-19T00:00:00",
+      "recurring": null,
+      "time": "7:30 PM",
+      "description": "Americana/Bluegrass - It's a Holiday Concert and Dance With Bonnie & Taylor Sims and Bear Hat in the Big Room! Doors at 6 p.m. $20 Advance Tickets for music. $25 cash at door Day of Show.$20 Cash Light Buffet 6 - 8 p.m.Purchase Advance Tickets",
+      "additional_info": "",
+      "link": "https://www.goldhillinn.com/music/",
+      "image": "goldhillinn.jpg",
+      "source_url": "https://www.goldhillinn.com/music/",
+      "age_restriction": "21+",
+      "venue_tag": "Gold Hill Inn",
+      "location_tag": "Gold Hill",
+      "venue_type_tags": [
+        "Live Music",
+        "Restaurant",
+        "Historic"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "gold_hill_inn_daniel_rodriguez_w_emma_rose_december_20_2025_7_30_pm",
+      "title": "Daniel Rodriguez w/Emma Rose",
+      "venue": "Gold Hill Inn",
+      "location": "Gold Hill",
+      "date": "December 20, 2025",
+      "normalized_date": "2025-12-20T00:00:00",
+      "recurring": null,
+      "time": "7:30 PM",
+      "description": "Folk/Rock - Gold Hill Inn presents a special holiday show with Daniel Rodriguez and Emma RoseDoors open 6 p.m.Light dinner buffet for $20 cash from 6-7:30 p.m.Purchase Advance Tickets",
+      "additional_info": "",
+      "link": "https://www.goldhillinn.com/music/",
+      "image": "goldhillinn.jpg",
+      "source_url": "https://www.goldhillinn.com/music/",
+      "age_restriction": "21+",
+      "venue_tag": "Gold Hill Inn",
+      "location_tag": "Gold Hill",
+      "venue_type_tags": [
+        "Live Music",
+        "Restaurant",
+        "Historic"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "gold_hill_inn_gregory_alan_isakov_reed_foehl_december_21_2025_7_30_pm",
+      "title": "Gregory Alan Isakov & Reed Foehl",
+      "venue": "Gold Hill Inn",
+      "location": "Gold Hill",
+      "date": "December 21, 2025",
+      "normalized_date": "2025-12-21T00:00:00",
+      "recurring": null,
+      "time": "7:30 PM",
+      "description": "Folk - Sold Out!Gregory Alan Isakov andReed Foehlreturn to the Gold Hill Inn this December 21st & 22nd!Doors at 6 p.m. - Music at 7:30 p.m.We will be serving a light dinner buffet 6-7:30 p.m.$20 cash for buffet",
+      "additional_info": "",
+      "link": "https://www.goldhillinn.com/music/",
+      "image": "goldhillinn.jpg",
+      "source_url": "https://www.goldhillinn.com/music/",
+      "age_restriction": "21+",
+      "venue_tag": "Gold Hill Inn",
+      "location_tag": "Gold Hill",
+      "venue_type_tags": [
+        "Live Music",
+        "Restaurant",
+        "Historic"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "gold_hill_inn_gregory_alan_isakov_reed_foehl_december_22_2025_7_30_pm",
+      "title": "Gregory Alan Isakov & Reed Foehl",
+      "venue": "Gold Hill Inn",
+      "location": "Gold Hill",
+      "date": "December 22, 2025",
+      "normalized_date": "2025-12-22T00:00:00",
+      "recurring": null,
+      "time": "7:30 PM",
+      "description": "Folk - Sold Out!Gregory Alan Isakov andReed Foehlreturn to the Gold Hill Inn this December 21st & 22nd!Doors at 6 p.m. - Music at 7:30 p.m.We will be serving a light dinner buffet 6-7:30 p.m.$20 cash for buffet",
+      "additional_info": "",
+      "link": "https://www.goldhillinn.com/music/",
+      "image": "goldhillinn.jpg",
+      "source_url": "https://www.goldhillinn.com/music/",
+      "age_restriction": "21+",
+      "venue_tag": "Gold Hill Inn",
+      "location_tag": "Gold Hill",
+      "venue_type_tags": [
+        "Live Music",
+        "Restaurant",
+        "Historic"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "gold_hill_inn_new_year_s_eve_dance_party_december_31_2025_7_00_pm",
+      "title": "New Year's Eve Dance Party",
+      "venue": "Gold Hill Inn",
+      "location": "Gold Hill",
+      "date": "December 31, 2025",
+      "normalized_date": "2025-12-31T00:00:00",
+      "recurring": null,
+      "time": "7:00 PM",
+      "description": "NYE 2024 - Gold Hill Inn PresentsA New Years Eve Dance Party!Featuring:The Clay Rose Bandw/ Taylor Sims, Jeb Bows, Scott Coulter and Adam PerrySpecial GuestsThe Poudre Valley PlayboysDoors 7 p.m.Music 8 p.m.We will serve a light dinner buffet 7- 9 p.m.Tickets are $53 which includes Music, Food, Champagne at Mi...",
+      "additional_info": "",
+      "link": "https://www.goldhillinn.com/music/",
+      "image": "goldhillinn.jpg",
+      "source_url": "https://www.goldhillinn.com/music/",
+      "age_restriction": "21+",
+      "venue_tag": "Gold Hill Inn",
+      "location_tag": "Gold Hill",
+      "venue_type_tags": [
+        "Live Music",
+        "Restaurant",
+        "Historic"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
       "id": "300_suns_brewing_john_mieras_ugly_sweater_december_18_2025_6_00_8_00_pm",
       "title": "John Mieras/Ugly Sweater",
       "venue": "300 Suns Brewing",
@@ -3695,6 +3437,33 @@
         "Live Music",
         "Brewery",
         "Family Friendly"
+      ]
+    },
+    {
+      "id": "bricks_on_main_learn_more_december_16_2025_6_00_pm_8_00_pm",
+      "title": "Learn more",
+      "venue": "Bricks on Main",
+      "location": "Longmont",
+      "date": "December 16, 2025",
+      "normalized_date": "2025-12-16T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM - 8:00 PM",
+      "description": "Music open mic, sign up at 5:30, about 15 minute time slots, often runs till 8:30 or a little later but general timeline is 6-8. Come down and eat dinner and have drinks and enjoy the music community here!",
+      "additional_info": "",
+      "link": "https://www.bricksretail.com/event-details/open-mic-night-2025-12-16-18-00",
+      "image": "https://static.wixstatic.com/media/ea2d6f_62265f664f584370bdb46453a5b11e1e~mv2.png/v1/fill/w_56,h_56,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/ea2d6f_62265f664f584370bdb46453a5b11e1e~mv2.png",
+      "source_url": "https://www.bricksretail.com/events-calendar",
+      "age_restriction": null,
+      "venue_tag": "Bricks on Main",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Community",
+        "Retail",
+        "Entertainment"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Entertainment"
       ]
     },
     {
