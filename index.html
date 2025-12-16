@@ -1192,7 +1192,8 @@
             venue: '',
             location: '',
             when: 'all',
-            search: ''
+            search: '',
+            exactTag: ''  // For exact tag matching when clicking tags
         };
         
         // Mood to tag mapping
@@ -1256,6 +1257,7 @@
                     activeFilters.mood.add(mood);
                     button.classList.add('active');
                 }
+                activeFilters.exactTag = '';  // Clear exact tag filter
                 applyFilters();
                 scrollToResults();
             });
@@ -1280,7 +1282,8 @@
                 venue: '',
                 location: '',
                 when: whenFilter,
-                search: ''
+                search: '',
+                exactTag: ''
             };
             
             // Reset UI
@@ -1354,6 +1357,7 @@
             if (query.length === 0) {
                 hideAutocomplete();
                 activeFilters.search = '';
+                activeFilters.exactTag = '';
                 applyFilters();
                 return;
             }
@@ -1369,6 +1373,7 @@
             
             // Still apply live filtering
             activeFilters.search = query.toLowerCase();
+            activeFilters.exactTag = '';  // Clear exact tag when typing
             applyFilters();
         });
         
@@ -1620,6 +1625,14 @@
                     return false;
                 }
                 
+                // Exact tag filter (when clicking on a tag)
+                if (activeFilters.exactTag) {
+                    const eventTags = [...(event.venue_type_tags || []), ...(event.event_type_tags || [])];
+                    if (!eventTags.includes(activeFilters.exactTag)) {
+                        return false;
+                    }
+                }
+                
                 // Search filter
                 if (activeFilters.search) {
                     const searchText = `${event.title} ${event.venue} ${event.description}`.toLowerCase();
@@ -1830,7 +1843,8 @@
                 venue: venue,
                 location: '',
                 when: 'all',
-                search: ''
+                search: '',
+                exactTag: ''
             };
             
             // Update UI
@@ -1845,13 +1859,14 @@
         }
         
         function filterByTag(tag) {
-            // Clear all filters and set search to the tag
+            // Use exact tag matching
             activeFilters = {
                 mood: new Set(),
                 venue: '',
                 location: '',
                 when: 'all',
-                search: tag.toLowerCase()
+                search: '',
+                exactTag: tag  // Exact tag match
             };
             
             // Update UI
