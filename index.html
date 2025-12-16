@@ -1756,11 +1756,11 @@
             grid.style.display = 'grid';
             noEvents.style.display = 'none';
             
-            // Sort events by date when filtering by specific time periods
+            // Sort events by date when filtering by specific time periods OR when searching
             let eventsToRender = [...filteredEvents];
             
-            if (activeFilters.when === 'today' || activeFilters.when === 'week' || activeFilters.when === 'tomorrow' || activeFilters.when === 'weekend') {
-                // Sort by date, then by time
+            if (activeFilters.when === 'today' || activeFilters.when === 'week' || activeFilters.when === 'tomorrow' || activeFilters.when === 'weekend' || activeFilters.search) {
+                // Sort by date chronologically (soonest first), then by time, then by venue
                 eventsToRender.sort((a, b) => {
                     // Events with dates come first
                     if (!a.normalized_date && b.normalized_date) return 1;
