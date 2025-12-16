@@ -1,24 +1,5 @@
 [
   {
-    "title": "Paizley Park Prince Tribute",
-    "date": "December 13, 2026",
-    "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/6364Paizley_Park.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
-    "venue": "Velvet Elk Lounge",
-    "location": "Boulder",
-    "category": "Music",
-    "source_url": "https://www.velvetelklounge.com/events/",
-    "event_type_tags": [
-      "Live Music",
-      "Nightlife"
-    ],
-    "venue_type_tags": [
-      "Bar",
-      "Music Venue",
-      "Nightlife"
-    ],
-    "link": "https://www.velvetelklounge.com/event/december-13th-paizley-park-prince-tribute/"
-  },
-  {
     "title": "LatkePalooza II: A Chanukah Celebration!",
     "date": "December 18, 2025",
     "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/26899LostTribe_Mercury_1.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
@@ -169,5 +150,24 @@
       "Nightlife"
     ],
     "link": "https://www.velvetelklounge.com/event/january-30th-dig-deep/"
+  },
+  {
+    "title": "Hot Like Mars",
+    "date": "February 5, 2026",
+    "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/58610Hot_Like_Mars.jpeg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+    "venue": "Velvet Elk Lounge",
+    "location": "Boulder",
+    "category": "Music",
+    "source_url": "https://www.velvetelklounge.com/events/",
+    "event_type_tags": [
+      "Live Music",
+      "Nightlife"
+    ],
+    "venue_type_tags": [
+      "Bar",
+      "Music Venue",
+      "Nightlife"
+    ],
+    "link": "https://www.velvetelklounge.com/event/february-5th-hot-like-mars/"
   }
 ]

@@ -1,14 +1,16 @@
 {
-  "generated_at": "2025-12-15T14:33:26.027246",
-  "total_events": 122,
+  "generated_at": "2025-12-16T01:35:18.077811",
+  "total_events": 223,
   "tags": {
     "venues": [
       "300 Suns Brewing",
+      "Gold Hill Inn",
       "Jungle",
       "Junkyard Social Club",
       "License No 1",
       "Longs Peak Pub",
       "Mountain Sun Pub",
+      "Roots Music Project",
       "Rosetta Hall",
       "Southern Sun Pub",
       "St Julien Hotel & Spa",
@@ -19,6 +21,7 @@
     "locations": [
       "Boulder",
       "Denver",
+      "Gold Hill",
       "Longmont"
     ],
     "venue_types": [
@@ -35,6 +38,7 @@
       "Entertainment",
       "Family Friendly",
       "Food & Drink",
+      "Historic",
       "Hotel",
       "Literary",
       "Live Music",
@@ -42,6 +46,7 @@
       "Nightlife",
       "Performance",
       "Pub",
+      "Restaurant",
       "Upscale"
     ],
     "event_types": [
@@ -64,34 +69,6 @@
     ]
   },
   "events": [
-    {
-      "id": "velvet_elk_lounge_paizley_park_prince_tribute_december_13_2026",
-      "title": "Paizley Park Prince Tribute",
-      "venue": "Velvet Elk Lounge",
-      "location": "Boulder",
-      "date": "December 13, 2026",
-      "normalized_date": "2026-12-13T00:00:00",
-      "recurring": null,
-      "time": null,
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.velvetelklounge.com/event/december-13th-paizley-park-prince-tribute/",
-      "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/6364Paizley_Park.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
-      "source_url": "https://www.velvetelklounge.com/events/",
-      "age_restriction": null,
-      "venue_tag": "Velvet Elk Lounge",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Music",
-        "Live Music",
-        "Bar",
-        "Nightlife"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Nightlife"
-      ]
-    },
     {
       "id": "velvet_elk_lounge_latkepalooza_ii_a_chanukah_celebration_december_18_2025",
       "title": "LatkePalooza II: A Chanukah Celebration!",
@@ -317,6 +294,34 @@
       ]
     },
     {
+      "id": "velvet_elk_lounge_hot_like_mars_february_5_2026",
+      "title": "Hot Like Mars",
+      "venue": "Velvet Elk Lounge",
+      "location": "Boulder",
+      "date": "February 5, 2026",
+      "normalized_date": "2026-02-05T00:00:00",
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.velvetelklounge.com/event/february-5th-hot-like-mars/",
+      "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/58610Hot_Like_Mars.jpeg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+      "source_url": "https://www.velvetelklounge.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Velvet Elk Lounge",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Live Music",
+        "Bar",
+        "Nightlife"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Nightlife"
+      ]
+    },
+    {
       "id": "junkyard_social_club_drop_in_mahjongg_tuesdays_tuesday_december_16_2025_12_00_2_00_pm",
       "title": "Drop-In Mahjongg \u2013 Tuesdays",
       "venue": "Junkyard Social Club",
@@ -426,9 +431,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Educational",
         "Community",
         "Music",
-        "Educational",
         "Performance"
       ]
     },
@@ -458,9 +463,9 @@
       ],
       "event_type_tags": [
         "Community",
+        "Family Friendly",
         "Music",
-        "All Ages",
-        "Family Friendly"
+        "All Ages"
       ]
     },
     {
@@ -489,9 +494,9 @@
       ],
       "event_type_tags": [
         "Music",
+        "Family Friendly",
         "Performance",
-        "All Ages",
-        "Family Friendly"
+        "All Ages"
       ]
     },
     {
@@ -519,9 +524,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Educational",
         "Community",
-        "Music",
-        "Educational"
+        "Music"
       ]
     },
     {
@@ -998,33 +1003,6 @@
       "location": "Boulder",
       "date": "Dec157:00\u202fPM19:00",
       "normalized_date": null,
-      "recurring": null,
-      "time": null,
-      "description": "Free!Every Monday evening, 7-9p.m.All languages welcome. Facilitated by Kelvin Tavarez.",
-      "additional_info": "",
-      "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-s7a5x-sb4ks",
-      "image": "trident.jpg",
-      "source_url": "https://www.tridentcafe.com/events",
-      "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
-      ],
-      "event_type_tags": [
-        "Books & Literary"
-      ]
-    },
-    {
-      "id": "trident_booksellers_cafe_language_exchange_night_monday_december_15_2025",
-      "title": "Language Exchange Night",
-      "venue": "Trident Booksellers & Cafe",
-      "location": "Boulder",
-      "date": "Monday, December 15, 2025",
-      "normalized_date": "2025-12-15T00:00:00",
       "recurring": null,
       "time": null,
       "description": "Free!Every Monday evening, 7-9p.m.All languages welcome. Facilitated by Kelvin Tavarez.",
@@ -2137,6 +2115,33 @@
       "description": "A book of criticism,Radical \u200bPoetics: Essays on Literature & Culture, was published by the Poets on Poetry Series at University of Michigan Press in January 2025. With K. Ibura, she co-editedInfinite Constellations(FC2 2023), an anthology of speculative writing by authors from the global majority. Her most recent poetry book isAnodyne(Tin House 2020), a \u200bfinalist for the Colorado Book Award and winner of the William Carlos \u200bWilliams Award from the Poetry Society of America. Her fifth book,I'm \u200bSo Fine: A List of Famous Men & What I Had On(YesYes Books 2017), \u200bwas praised inO Magazine,The New Yorker,Rain Taxi, and elsewhere \u200bas \u201cquietly devastating\u201d and \u201ca portrait of defiance that turns the male \u200bgaze inside out.\u201dHer verse playNon-Sequitur(Litmus Press 2015) won \u200bthe Leslie Scalapino Award for Innovative Women's Performance \u200bWriting, which included a full production at Theaterlab in New \u200bYork City, directed by Fiona Templeton and performed by The \u200bRelationship theater company. A zuihitsu about the pandemic, \u200b\u201cFalse Dawn,\u201d appeared inHarper\u2019s Magazine,was named a Notable \u200bEssay of 2020 and \u200bwas reprinted in the anthologyBigger Than Bravery(2023), edited by Valerie Boyd. Individual \u200bpoems, interviews, and essays appear inPloughshares, American \u200bPoetry Review, The Georgia Review, The Believer, Orion, Fence, Poetry,\u200bYale Review, The Offing, The Poetry Review(UK), and widely \u200belsewhere. In 2022, she was awarded aDisability Futures fellowshipfrom United States Artists. A Cave Canem alum and Civitella Ranieri Fellow, she holds a PhD in \u200bEnglish and Literary Arts from University of Denver. As a creative writing professor, she has taught American literature, poetics, and all genres of \u200bcreative writing at University of Colorado at Boulder, Regis University, and Virginia Tech. In 2025, she received theCy Twombly Award for Poetryfrom theFoundation for Contemporary Arts. She is currently writing a new book of poetry and a collection of travel essays.Praise for BETWEEN THE DEVIL & THE DEEP BLUE SEA\u201cBetween the Devil and the Deep Blue Seais a large-hearted, compulsively readable memoir shot through with courage and razor-sharp intelligence. Queen\u2019s magnificent personal reckoning helps me to ponder what new forms of relation might be possible between ourselves, our nation, and the many institutions charged with stewarding the common good.\u201d\u2015TRACY K. SMITH, Pulitzer Prize winning poet, author ofLife on MarsandWade in the Water",
       "additional_info": "",
       "link": "https://press.umich.edu/Books/R/Radical-Poetics",
+      "image": "trident.jpg",
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Books & Literary"
+      ]
+    },
+    {
+      "id": "trident_booksellers_cafe_trident_film_series_boulder_county_film_commission_film_support_group_wednesday_march_11_2026",
+      "title": "Trident Film Series: Boulder County Film Commission Film Support Group",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "Wednesday, March 11, 2026",
+      "normalized_date": "2026-03-11T00:00:00",
+      "recurring": null,
+      "time": null,
+      "description": "Filmmaker Support GroupSponsored by the Boulder County Film Commission, these free events are designed to provide creative support for Boulder-area filmmakers! Maybe you'd like some feedback on a project you're working on, or perhaps you're stuck and need an idea for how to transition from this to that, or - well, you get the idea. We're here for you; let's be there for each other! Bring a script, a rough cut, an idea, or any creative problem.Who Should Attend these Support Groups?These events are great if you're a filmmaker and working on a project and would like some feedback, are stuck on a project and need some inspiration, want to connect with other filmmakers, or simply want to see and hear what other Boulder filmmakers are working on.What To Bring?You should come with a great attitude, no ego, and the excitement of wanting to talk with others about their, and your own, projects. We will be using the Trident's built-in AV system, which consists of a projector, screen, microphone, and their PA system.Want to show a clip?PLEASE upload the file in advance of the meeting so we can have it all set up and ready to go if selected.LocationThis event is being generously hosted by the Trident Cafe and Booksellers, located on the west end of Pearl Street. They will have a cash bar, with beer and wine for sale, along with other non-alcoholic drinks, including coffee!PLEASE NOTE:these events are held outside on the back patio of the Trident, so please bring a jacket if you think you might get cold, especially as it gets later in the evening.FacilitatorRob Shearer is an award-winning filmmaker based in Denver, Colorado. His work ranges from narrative and documentary projects to corporate videos and commercials. With a passion for creating original and compelling content, he is constantly finding ways to translate a client\u2019s product or brand into an engaging story.Rob has produced videos for clients like Weber Grills, Gogo Business Aviation, Einstein Bros Bagels, and Rocky Mountain PBS, to name a few. His work has been screened at the Denver Film Festival, the Big Bear Lake Film Festival, and the American Pavilion at the Festival de Cannes, and his documentary series \u201cDenizen\u201d is shown regularly on Colorado PBS.Having served as President of the Colorado Film And Video Association from 2020 to 2022, Rob has a dedicated interest in growing the local film scene.",
+      "additional_info": "",
+      "link": "https://www.tridentcafe.com/events/2026/3/11/trident-film-series-boulder-county-film-commission-film-support-group",
       "image": "trident.jpg",
       "source_url": "https://www.tridentcafe.com/events",
       "age_restriction": null,
@@ -3308,6 +3313,136 @@
       ]
     },
     {
+      "id": "gold_hill_inn_bonnie_taylor_sims_w_bear_hat_december_19_2025_7_30_pm",
+      "title": "Bonnie & Taylor Sims w/Bear Hat",
+      "venue": "Gold Hill Inn",
+      "location": "Gold Hill",
+      "date": "December 19, 2025",
+      "normalized_date": "2025-12-19T00:00:00",
+      "recurring": null,
+      "time": "7:30 PM",
+      "description": "Americana/Bluegrass - It's a Holiday Concert and Dance With Bonnie & Taylor Sims and Bear Hat in the Big Room! Doors at 6 p.m. $20 Advance Tickets for music. $25 cash at door Day of Show.$20 Cash Light Buffet 6 - 8 p.m.Purchase Advance Tickets",
+      "additional_info": "",
+      "link": "https://www.goldhillinn.com/music/",
+      "image": "goldhillinn.jpg",
+      "source_url": "https://www.goldhillinn.com/music/",
+      "age_restriction": "21+",
+      "venue_tag": "Gold Hill Inn",
+      "location_tag": "Gold Hill",
+      "venue_type_tags": [
+        "Live Music",
+        "Restaurant",
+        "Historic"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "gold_hill_inn_daniel_rodriguez_w_emma_rose_december_20_2025_7_30_pm",
+      "title": "Daniel Rodriguez w/Emma Rose",
+      "venue": "Gold Hill Inn",
+      "location": "Gold Hill",
+      "date": "December 20, 2025",
+      "normalized_date": "2025-12-20T00:00:00",
+      "recurring": null,
+      "time": "7:30 PM",
+      "description": "Folk/Rock - Gold Hill Inn presents a special holiday show with Daniel Rodriguez and Emma RoseDoors open 6 p.m.Light dinner buffet for $20 cash from 6-7:30 p.m.Purchase Advance Tickets",
+      "additional_info": "",
+      "link": "https://www.goldhillinn.com/music/",
+      "image": "goldhillinn.jpg",
+      "source_url": "https://www.goldhillinn.com/music/",
+      "age_restriction": "21+",
+      "venue_tag": "Gold Hill Inn",
+      "location_tag": "Gold Hill",
+      "venue_type_tags": [
+        "Live Music",
+        "Restaurant",
+        "Historic"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "gold_hill_inn_gregory_alan_isakov_reed_foehl_december_21_2025_7_30_pm",
+      "title": "Gregory Alan Isakov & Reed Foehl",
+      "venue": "Gold Hill Inn",
+      "location": "Gold Hill",
+      "date": "December 21, 2025",
+      "normalized_date": "2025-12-21T00:00:00",
+      "recurring": null,
+      "time": "7:30 PM",
+      "description": "Folk - Sold Out!Gregory Alan Isakov andReed Foehlreturn to the Gold Hill Inn this December 21st & 22nd!Doors at 6 p.m. - Music at 7:30 p.m.We will be serving a light dinner buffet 6-7:30 p.m.$20 cash for buffet",
+      "additional_info": "",
+      "link": "https://www.goldhillinn.com/music/",
+      "image": "goldhillinn.jpg",
+      "source_url": "https://www.goldhillinn.com/music/",
+      "age_restriction": "21+",
+      "venue_tag": "Gold Hill Inn",
+      "location_tag": "Gold Hill",
+      "venue_type_tags": [
+        "Live Music",
+        "Restaurant",
+        "Historic"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "gold_hill_inn_gregory_alan_isakov_reed_foehl_december_22_2025_7_30_pm",
+      "title": "Gregory Alan Isakov & Reed Foehl",
+      "venue": "Gold Hill Inn",
+      "location": "Gold Hill",
+      "date": "December 22, 2025",
+      "normalized_date": "2025-12-22T00:00:00",
+      "recurring": null,
+      "time": "7:30 PM",
+      "description": "Folk - Sold Out!Gregory Alan Isakov andReed Foehlreturn to the Gold Hill Inn this December 21st & 22nd!Doors at 6 p.m. - Music at 7:30 p.m.We will be serving a light dinner buffet 6-7:30 p.m.$20 cash for buffet",
+      "additional_info": "",
+      "link": "https://www.goldhillinn.com/music/",
+      "image": "goldhillinn.jpg",
+      "source_url": "https://www.goldhillinn.com/music/",
+      "age_restriction": "21+",
+      "venue_tag": "Gold Hill Inn",
+      "location_tag": "Gold Hill",
+      "venue_type_tags": [
+        "Live Music",
+        "Restaurant",
+        "Historic"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "gold_hill_inn_new_year_s_eve_dance_party_december_31_2025_7_00_pm",
+      "title": "New Year's Eve Dance Party",
+      "venue": "Gold Hill Inn",
+      "location": "Gold Hill",
+      "date": "December 31, 2025",
+      "normalized_date": "2025-12-31T00:00:00",
+      "recurring": null,
+      "time": "7:00 PM",
+      "description": "NYE 2024 - Gold Hill Inn PresentsA New Years Eve Dance Party!Featuring:The Clay Rose Bandw/ Taylor Sims, Jeb Bows, Scott Coulter and Adam PerrySpecial GuestsThe Poudre Valley PlayboysDoors 7 p.m.Music 8 p.m.We will serve a light dinner buffet 7- 9 p.m.Tickets are $53 which includes Music, Food, Champagne at Mi...",
+      "additional_info": "",
+      "link": "https://www.goldhillinn.com/music/",
+      "image": "goldhillinn.jpg",
+      "source_url": "https://www.goldhillinn.com/music/",
+      "age_restriction": "21+",
+      "venue_tag": "Gold Hill Inn",
+      "location_tag": "Gold Hill",
+      "venue_type_tags": [
+        "Live Music",
+        "Restaurant",
+        "Historic"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
       "id": "300_suns_brewing_john_mieras_ugly_sweater_december_18_2025_6_00_8_00_pm",
       "title": "John Mieras/Ugly Sweater",
       "venue": "300 Suns Brewing",
@@ -3316,7 +3451,7 @@
       "normalized_date": "2025-12-18T00:00:00",
       "recurring": null,
       "time": "6:00 - 8:00 PM",
-      "description": "Join us as we ring in the holiday with an Ugly Sweater Party and Live music with John Mieras. Prizes for best sweater!John was always interested in songwriting and patterned his early music after his heroes, Lennon & McCartney. His current favorites and influences include: Gregory Alan Isakov, Josh ...",
+      "description": "Join us as we ring in the holiday with an Ugly Sweater Party and Live music with John Mieras. Prizes for best sweater! Holiday-themed drink specialsJohn was always interested in songwriting and patterned his early music after his heroes, Lennon & McCartney. His current favorites and influences inclu...",
       "additional_info": "",
       "link": "https://300sunsbrewing.com/events/john-mieras/",
       "image": "300suns.jpg",
@@ -3417,6 +3552,2406 @@
         "Live Music",
         "Brewery",
         "Family Friendly"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_open_mic_with_steve_koppe_at_roots_music_project_recurring",
+      "title": "View Open Mic with Steve Koppe at Roots Music Project",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/open-mic-with-steve-koppe-at-roots-music-project-tickets-1210042051349?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F939548763%2F1125606624043%2F1%2Foriginal.20240520-162949?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=4d630401d0a48f8ba193eb148eec6f8c",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_cass_clayton_band_a_christmas_of_soul_recurring",
+      "title": "View Cass Clayton Band: A Christmas of Soul",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/cass-clayton-band-a-christmas-of-soul-tickets-1968264765899?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1170728204%2F1125606624043%2F1%2Foriginal.20251111-205310?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=17c0d2934707b76f88c53eaed8575d76",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_breadbox_w_mudrat_detector_a_night_of_jerry_garcia_band_and_phish_recurring",
+      "title": "View Breadbox w/  Mudrat Detector : a night of Jerry Garcia Band and Phish",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/breadbox-w-mudrat-detector-a-night-of-jerry-garcia-band-and-phish-tickets-1972881697265?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172095690%2F1408677475953%2F1%2Foriginal.20251201-212557?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=c95111cc976f4df12a30e5c63bcd7869",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_the_4th_annual_boulder_county_jingle_jam_recurring",
+      "title": "View The 4th Annual Boulder County Jingle Jam",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/the-4th-annual-boulder-county-jingle-jam-tickets-1926803905349?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1166908893%2F1125606624043%2F1%2Foriginal.20251030-232053?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=b449530650d284e55940b99baa530dfb",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_charlie_brown_goes_to_the_nutcracker_recurring",
+      "title": "View Charlie Brown Goes To The Nutcracker",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/charlie-brown-goes-to-the-nutcracker-tickets-1766720732269?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1142871283%2F1125606624043%2F1%2Foriginal.20251002-183153?w=400&auto=format%2Ccompress&q=75&sharp=10&s=9b9cb6d080ef5d5a5ff416a2cffeacb5",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_billy_hoke_s_xtrav_xx_super_pro_jam_recurring",
+      "title": "View Billy Hoke's XTRAV XX Super Pro Jam",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Sun, Dec 28 \u2022  6:00 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/billy-hokes-xtrav-xx-super-pro-jam-tickets-1976523826973?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172110157%2F1125606624043%2F1%2Foriginal.20251202-004024?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=dea27a05ed5fc55ed0a0dafb686df4d6",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_new_years_eve_party_with_riley_j_band_cabaret_vinyl_djs_recurring",
+      "title": "View New Years Eve Party with Riley J Band, Cabaret & Vinyl DJs",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Wed, Dec 31 \u2022  9:00 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/new-years-eve-party-with-riley-j-band-cabaret-vinyl-djs-tickets-1976500611535?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172088009%2F1125606624043%2F1%2Foriginal.20251201-201350?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=8974a325024b740036959799fac2aa77",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_big_ol_pig_birthday_bash_ft_young_and_dead_jam_band_jubilee_recurring",
+      "title": "View Big Ol' Pig Birthday Bash ft. Young and Dead - Jam Band Jubilee",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Fri, Jan 9 \u2022  8:00 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/big-ol-pig-birthday-bash-ft-young-and-dead-jam-band-jubilee-tickets-1976526885120?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172732577%2F1125606624043%2F1%2Foriginal.20251210-235945?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a5c5e8f3d9a36d2f51d356adc700ed90",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_blessing_bled_chimanga_light_hope_live_album_recording_recurring",
+      "title": "View Blessing Bled Chimanga - Light & Hope: live album recording",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Sat, Jan 10 \u2022  6:00 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/blessing-bled-chimanga-light-hope-live-album-recording-tickets-1975148176365?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171528402%2F1408677475953%2F1%2Foriginal.20251121-214623?h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&s=cb9d66b0aa29b0b9cc292d9655c6e502",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_honeycomb_open_sing_with_fox_linnea_drickey_joyful_community_harmony_recurring",
+      "title": "View Honeycomb Open Sing with Fox Linnea Drickey - Joyful Community Harmony",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Sun, Jan 11 \u2022  11:00 AM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/honeycomb-open-sing-with-fox-linnea-drickey-joyful-community-harmony-tickets-1975123903765?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172733632%2F1125606624043%2F1%2Foriginal.20251211-001504?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=df0147e8f15628579a0e0a0f725920ab",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_j_j_murphy_wyatt_wear_and_gabriel_mangione_and_halle_tomlinson_recurring",
+      "title": "View J.J. Murphy, Wyatt Wear and Gabriel Mangione and Halle Tomlinson",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Thu, Jan 15 \u2022  8:00 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/jj-murphy-wyatt-wear-and-gabriel-mangione-and-halle-tomlinson-tickets-1977675210793?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172912388%2F1125606624043%2F1%2Foriginal.20251213-194413?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=3f9eaa64baa5f69e12dea43e14edc2e5",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_the_mike_dillon_band_feat_brian_haas_w_photon_recurring",
+      "title": "View The Mike Dillon Band feat. Brian Haas w/ PHOTON",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Fri, Jan 16 \u2022  8:00 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/the-mike-dillon-band-feat-brian-haas-w-photon-tickets-1977676602957?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172809210%2F1125606624043%2F1%2Foriginal.20251212-003248?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=887d510e33b1f85871e16f2d6ee04460",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_open_mic_with_steve_koppe_at_roots_music_project_recurring",
+      "title": "View Open Mic with Steve Koppe at Roots Music Project",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/open-mic-with-steve-koppe-at-roots-music-project-tickets-1210042051349?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F939548763%2F1125606624043%2F1%2Foriginal.20240520-162949?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=4d630401d0a48f8ba193eb148eec6f8c",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_cass_clayton_band_a_christmas_of_soul_recurring",
+      "title": "View Cass Clayton Band: A Christmas of Soul",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/cass-clayton-band-a-christmas-of-soul-tickets-1968264765899?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1170728204%2F1125606624043%2F1%2Foriginal.20251111-205310?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=17c0d2934707b76f88c53eaed8575d76",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_breadbox_w_mudrat_detector_a_night_of_jerry_garcia_band_and_phish_recurring",
+      "title": "View Breadbox w/  Mudrat Detector : a night of Jerry Garcia Band and Phish",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/breadbox-w-mudrat-detector-a-night-of-jerry-garcia-band-and-phish-tickets-1972881697265?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172095690%2F1408677475953%2F1%2Foriginal.20251201-212557?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=c95111cc976f4df12a30e5c63bcd7869",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_the_4th_annual_boulder_county_jingle_jam_recurring",
+      "title": "View The 4th Annual Boulder County Jingle Jam",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/the-4th-annual-boulder-county-jingle-jam-tickets-1926803905349?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1166908893%2F1125606624043%2F1%2Foriginal.20251030-232053?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=b449530650d284e55940b99baa530dfb",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_charlie_brown_goes_to_the_nutcracker_recurring",
+      "title": "View Charlie Brown Goes To The Nutcracker",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/charlie-brown-goes-to-the-nutcracker-tickets-1766720732269?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1142871283%2F1125606624043%2F1%2Foriginal.20251002-183153?w=400&auto=format%2Ccompress&q=75&sharp=10&s=9b9cb6d080ef5d5a5ff416a2cffeacb5",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_billy_hoke_s_xtrav_xx_super_pro_jam_recurring",
+      "title": "View Billy Hoke's XTRAV XX Super Pro Jam",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Sun, Dec 28 \u2022  6:00 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/billy-hokes-xtrav-xx-super-pro-jam-tickets-1976523826973?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172110157%2F1125606624043%2F1%2Foriginal.20251202-004024?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=dea27a05ed5fc55ed0a0dafb686df4d6",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_new_years_eve_party_with_riley_j_band_cabaret_vinyl_djs_recurring",
+      "title": "View New Years Eve Party with Riley J Band, Cabaret & Vinyl DJs",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Wed, Dec 31 \u2022  9:00 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/new-years-eve-party-with-riley-j-band-cabaret-vinyl-djs-tickets-1976500611535?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172088009%2F1125606624043%2F1%2Foriginal.20251201-201350?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=8974a325024b740036959799fac2aa77",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_big_ol_pig_birthday_bash_ft_young_and_dead_jam_band_jubilee_recurring",
+      "title": "View Big Ol' Pig Birthday Bash ft. Young and Dead - Jam Band Jubilee",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Fri, Jan 9 \u2022  8:00 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/big-ol-pig-birthday-bash-ft-young-and-dead-jam-band-jubilee-tickets-1976526885120?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172732577%2F1125606624043%2F1%2Foriginal.20251210-235945?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a5c5e8f3d9a36d2f51d356adc700ed90",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_blessing_bled_chimanga_light_hope_live_album_recording_recurring",
+      "title": "View Blessing Bled Chimanga - Light & Hope: live album recording",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Sat, Jan 10 \u2022  6:00 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/blessing-bled-chimanga-light-hope-live-album-recording-tickets-1975148176365?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171528402%2F1408677475953%2F1%2Foriginal.20251121-214623?h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&s=cb9d66b0aa29b0b9cc292d9655c6e502",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_honeycomb_open_sing_with_fox_linnea_drickey_joyful_community_harmony_recurring",
+      "title": "View Honeycomb Open Sing with Fox Linnea Drickey - Joyful Community Harmony",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Sun, Jan 11 \u2022  11:00 AM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/honeycomb-open-sing-with-fox-linnea-drickey-joyful-community-harmony-tickets-1975123903765?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172733632%2F1125606624043%2F1%2Foriginal.20251211-001504?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=df0147e8f15628579a0e0a0f725920ab",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_j_j_murphy_wyatt_wear_and_gabriel_mangione_and_halle_tomlinson_recurring",
+      "title": "View J.J. Murphy, Wyatt Wear and Gabriel Mangione and Halle Tomlinson",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Thu, Jan 15 \u2022  8:00 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/jj-murphy-wyatt-wear-and-gabriel-mangione-and-halle-tomlinson-tickets-1977675210793?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172912388%2F1125606624043%2F1%2Foriginal.20251213-194413?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=3f9eaa64baa5f69e12dea43e14edc2e5",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_the_mike_dillon_band_feat_brian_haas_w_photon_recurring",
+      "title": "View The Mike Dillon Band feat. Brian Haas w/ PHOTON",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Fri, Jan 16 \u2022  8:00 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/the-mike-dillon-band-feat-brian-haas-w-photon-tickets-1977676602957?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172809210%2F1125606624043%2F1%2Foriginal.20251212-003248?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=887d510e33b1f85871e16f2d6ee04460",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_rocking_in_a_winter_wonderland_rock_photography_art_show_sale_recurring",
+      "title": "View Rocking in a Winter Wonderland: Rock Photography Art Show & Sale",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Fri, Dec 12 \u2022  5:30 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/rocking-in-a-winter-wonderland-rock-photography-art-show-sale-tickets-1962771733090?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171320698%2F1125606624043%2F1%2Foriginal.20251119-112958?crop=focalpoint&fit=crop&h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=b66d711e49158a2670b743ad8c9d964f",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_rmp_s_monthly_jazz_soul_and_groove_jam_sessions_recurring",
+      "title": "View RMP's Monthly Jazz, Soul, and Groove Jam Sessions",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Thu, Dec 11 \u2022  7:30 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/rmps-monthly-jazz-soul-and-groove-jam-sessions-tickets-1975623266372?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F954537953%2F1125606624043%2F1%2Foriginal.20250206-174854?crop=focalpoint&fit=crop&h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=7540328f79679ad39b8a725098de42b6",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_colorado_gives_day_music_showcase_recurring",
+      "title": "View Colorado Gives Day Music Showcase",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Tue, Dec 9 \u2022  6:00 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/colorado-gives-day-music-showcase-tickets-1975871100651?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172073464%2F1125606624043%2F1%2Foriginal.20251201-175101?crop=focalpoint&fit=crop&h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=0c026ebb25f93fb136fdf858e8ce7e72",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_performance_high_s_epic_2025_holiday_showcase_recurring",
+      "title": "View Performance High's Epic 2025 Holiday Showcase",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Sun, Dec 7 \u2022  3:00 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/performance-highs-epic-2025-holiday-showcase-tickets-1963430366079?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1170216213%2F1125606624043%2F1%2Foriginal.20251105-154739?crop=focalpoint&fit=crop&h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=ee65833c8cc0b7e2dccfbaf701e4f078",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_highlife_meets_afrobeats_an_old_school_flavor_meets_new_school_energy_recurring",
+      "title": "View Highlife meets Afrobeats \"An Old school Flavor meets New School  Energy\"",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Sat, Dec 6 \u2022  7:30 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/highlife-meets-afrobeats-an-old-school-flavor-meets-new-school-energy-tickets-1963378430739?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1170211548%2F1125606624043%2F1%2Foriginal.20251105-150538?crop=focalpoint&fit=crop&h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d31521417ae662ddfadb54d1468ef403",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_peak2peak_music_of_the_grateful_dead_recurring",
+      "title": "View Peak2Peak : Music of the Grateful Dead",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Fri, Dec 5 \u2022  8:00 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/peak2peak-music-of-the-grateful-dead-tickets-1972871507788?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171182646%2F1408677475953%2F1%2Foriginal.20251117-205343?h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&s=acd696bcbe7ade5fbf94f1ea48e94025",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_cu_student_songwriter_s_showcase_recurring",
+      "title": "View CU Student Songwriter's Showcase",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Thu, Dec 4 \u2022  6:00 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/cu-student-songwriters-showcase-tickets-1975842181152?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171823884%2F1125606624043%2F1%2Foriginal.20251126-180321?crop=focalpoint&fit=crop&h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d2a3886394aa2d600793676cd6fa329d",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_garden_of_eden_the_galentines_with_hundred_pound_housecat_recurring",
+      "title": "View Garden of Eden - The Galentines with Hundred Pound Housecat",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Wed, Dec 3 \u2022  7:30 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/garden-of-eden-the-galentines-with-hundred-pound-housecat-tickets-1974934957622?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171366284%2F1390608572853%2F1%2Foriginal.20251119-205032?crop=focalpoint&fit=crop&h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=61448626a9b7394354237a678d7909a8",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_sober_night_live_105_5_the_colorado_sound_presents_recurring",
+      "title": "View Sober Night Live! 105.5 The Colorado Sound Presents",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Tue, Dec 2 \u2022  6:30 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/sober-night-live-1055-the-colorado-sound-presents-tickets-1143290936969?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171681178%2F1125606624043%2F1%2Foriginal.20251124-221112?crop=focalpoint&fit=crop&h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=1777859434a6fe993f00991a0e5829df",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_open_mic_with_steve_koppe_at_roots_music_project_recurring",
+      "title": "View Open Mic with Steve Koppe at Roots Music Project",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Mon, Dec 1 \u2022  6:00 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/open-mic-with-steve-koppe-at-roots-music-project-tickets-1210041118559?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F939547813%2F1125606624043%2F1%2Foriginal.20240520-162949?h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=400f93e2619d9aae8f6bbbc2b21972bf",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_party_for_the_arts_a_fundraiser_for_nobo_art_district_recurring",
+      "title": "View pARTy for the ARTs: A Fundraiser  for NoBo Art District",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Sat, Nov 22 \u2022  6:00 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/party-for-the-arts-a-fundraiser-for-nobo-art-district-tickets-1817905507309?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1152608753%2F200260997405%2F1%2Foriginal.20251014-082802?crop=focalpoint&fit=crop&h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=5c3b85f88a3c59bf419802b83f1e07fc",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_mixtape_unbound_with_the_boulder_philharmonic_recurring",
+      "title": "View MIXTAPE: unbound with the Boulder Philharmonic",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Fri, Nov 21 \u2022  7:00 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/mixtape-unbound-with-the-boulder-philharmonic-tickets-1602962085749?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1098900793%2F1125606624043%2F1%2Foriginal.20250818-203326?crop=focalpoint&fit=crop&h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=1c2f8eabc528cd4657bd5b6fec9a7e1c",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_rocking_in_a_winter_wonderland_rock_photography_art_show_sale_recurring",
+      "title": "View Rocking in a Winter Wonderland: Rock Photography Art Show & Sale",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Fri, Dec 12 \u2022  5:30 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/rocking-in-a-winter-wonderland-rock-photography-art-show-sale-tickets-1962771733090?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171320698%2F1125606624043%2F1%2Foriginal.20251119-112958?crop=focalpoint&fit=crop&h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=b66d711e49158a2670b743ad8c9d964f",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_rmp_s_monthly_jazz_soul_and_groove_jam_sessions_recurring",
+      "title": "View RMP's Monthly Jazz, Soul, and Groove Jam Sessions",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Thu, Dec 11 \u2022  7:30 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/rmps-monthly-jazz-soul-and-groove-jam-sessions-tickets-1975623266372?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F954537953%2F1125606624043%2F1%2Foriginal.20250206-174854?crop=focalpoint&fit=crop&h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=7540328f79679ad39b8a725098de42b6",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_colorado_gives_day_music_showcase_recurring",
+      "title": "View Colorado Gives Day Music Showcase",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Tue, Dec 9 \u2022  6:00 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/colorado-gives-day-music-showcase-tickets-1975871100651?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172073464%2F1125606624043%2F1%2Foriginal.20251201-175101?crop=focalpoint&fit=crop&h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=0c026ebb25f93fb136fdf858e8ce7e72",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_performance_high_s_epic_2025_holiday_showcase_recurring",
+      "title": "View Performance High's Epic 2025 Holiday Showcase",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Sun, Dec 7 \u2022  3:00 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/performance-highs-epic-2025-holiday-showcase-tickets-1963430366079?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1170216213%2F1125606624043%2F1%2Foriginal.20251105-154739?crop=focalpoint&fit=crop&h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=ee65833c8cc0b7e2dccfbaf701e4f078",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_highlife_meets_afrobeats_an_old_school_flavor_meets_new_school_energy_recurring",
+      "title": "View Highlife meets Afrobeats \"An Old school Flavor meets New School  Energy\"",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Sat, Dec 6 \u2022  7:30 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/highlife-meets-afrobeats-an-old-school-flavor-meets-new-school-energy-tickets-1963378430739?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1170211548%2F1125606624043%2F1%2Foriginal.20251105-150538?crop=focalpoint&fit=crop&h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d31521417ae662ddfadb54d1468ef403",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_peak2peak_music_of_the_grateful_dead_recurring",
+      "title": "View Peak2Peak : Music of the Grateful Dead",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Fri, Dec 5 \u2022  8:00 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/peak2peak-music-of-the-grateful-dead-tickets-1972871507788?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171182646%2F1408677475953%2F1%2Foriginal.20251117-205343?h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&s=acd696bcbe7ade5fbf94f1ea48e94025",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_cu_student_songwriter_s_showcase_recurring",
+      "title": "View CU Student Songwriter's Showcase",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Thu, Dec 4 \u2022  6:00 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/cu-student-songwriters-showcase-tickets-1975842181152?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171823884%2F1125606624043%2F1%2Foriginal.20251126-180321?crop=focalpoint&fit=crop&h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d2a3886394aa2d600793676cd6fa329d",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_garden_of_eden_the_galentines_with_hundred_pound_housecat_recurring",
+      "title": "View Garden of Eden - The Galentines with Hundred Pound Housecat",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Wed, Dec 3 \u2022  7:30 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/garden-of-eden-the-galentines-with-hundred-pound-housecat-tickets-1974934957622?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171366284%2F1390608572853%2F1%2Foriginal.20251119-205032?crop=focalpoint&fit=crop&h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=61448626a9b7394354237a678d7909a8",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_sober_night_live_105_5_the_colorado_sound_presents_recurring",
+      "title": "View Sober Night Live! 105.5 The Colorado Sound Presents",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Tue, Dec 2 \u2022  6:30 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/sober-night-live-1055-the-colorado-sound-presents-tickets-1143290936969?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171681178%2F1125606624043%2F1%2Foriginal.20251124-221112?crop=focalpoint&fit=crop&h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=1777859434a6fe993f00991a0e5829df",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_open_mic_with_steve_koppe_at_roots_music_project_recurring",
+      "title": "View Open Mic with Steve Koppe at Roots Music Project",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Mon, Dec 1 \u2022  6:00 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/open-mic-with-steve-koppe-at-roots-music-project-tickets-1210041118559?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F939547813%2F1125606624043%2F1%2Foriginal.20240520-162949?h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=400f93e2619d9aae8f6bbbc2b21972bf",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_party_for_the_arts_a_fundraiser_for_nobo_art_district_recurring",
+      "title": "View pARTy for the ARTs: A Fundraiser  for NoBo Art District",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Sat, Nov 22 \u2022  6:00 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/party-for-the-arts-a-fundraiser-for-nobo-art-district-tickets-1817905507309?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1152608753%2F200260997405%2F1%2Foriginal.20251014-082802?crop=focalpoint&fit=crop&h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=5c3b85f88a3c59bf419802b83f1e07fc",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_mixtape_unbound_with_the_boulder_philharmonic_recurring",
+      "title": "View MIXTAPE: unbound with the Boulder Philharmonic",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Fri, Nov 21 \u2022  7:00 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/mixtape-unbound-with-the-boulder-philharmonic-tickets-1602962085749?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1098900793%2F1125606624043%2F1%2Foriginal.20250818-203326?crop=focalpoint&fit=crop&h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=1c2f8eabc528cd4657bd5b6fec9a7e1c",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_open_mic_with_steve_koppe_at_roots_music_project_recurring",
+      "title": "View Open Mic with Steve Koppe at Roots Music Project",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/open-mic-with-steve-koppe-at-roots-music-project-tickets-1210042051349?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F939548763%2F1125606624043%2F1%2Foriginal.20240520-162949?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=4d630401d0a48f8ba193eb148eec6f8c",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_cass_clayton_band_a_christmas_of_soul_recurring",
+      "title": "View Cass Clayton Band: A Christmas of Soul",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/cass-clayton-band-a-christmas-of-soul-tickets-1968264765899?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1170728204%2F1125606624043%2F1%2Foriginal.20251111-205310?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=17c0d2934707b76f88c53eaed8575d76",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_breadbox_w_mudrat_detector_a_night_of_jerry_garcia_band_and_phish_recurring",
+      "title": "View Breadbox w/  Mudrat Detector : a night of Jerry Garcia Band and Phish",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/breadbox-w-mudrat-detector-a-night-of-jerry-garcia-band-and-phish-tickets-1972881697265?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172095690%2F1408677475953%2F1%2Foriginal.20251201-212557?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=c95111cc976f4df12a30e5c63bcd7869",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_the_4th_annual_boulder_county_jingle_jam_recurring",
+      "title": "View The 4th Annual Boulder County Jingle Jam",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/the-4th-annual-boulder-county-jingle-jam-tickets-1926803905349?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1166908893%2F1125606624043%2F1%2Foriginal.20251030-232053?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=b449530650d284e55940b99baa530dfb",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_charlie_brown_goes_to_the_nutcracker_recurring",
+      "title": "View Charlie Brown Goes To The Nutcracker",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/charlie-brown-goes-to-the-nutcracker-tickets-1766720732269?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1142871283%2F1125606624043%2F1%2Foriginal.20251002-183153?w=400&auto=format%2Ccompress&q=75&sharp=10&s=9b9cb6d080ef5d5a5ff416a2cffeacb5",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_billy_hoke_s_xtrav_xx_super_pro_jam_recurring",
+      "title": "View Billy Hoke's XTRAV XX Super Pro Jam",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Sun, Dec 28 \u2022  6:00 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/billy-hokes-xtrav-xx-super-pro-jam-tickets-1976523826973?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172110157%2F1125606624043%2F1%2Foriginal.20251202-004024?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=dea27a05ed5fc55ed0a0dafb686df4d6",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_new_years_eve_party_with_riley_j_band_cabaret_vinyl_djs_recurring",
+      "title": "View New Years Eve Party with Riley J Band, Cabaret & Vinyl DJs",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Wed, Dec 31 \u2022  9:00 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/new-years-eve-party-with-riley-j-band-cabaret-vinyl-djs-tickets-1976500611535?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172088009%2F1125606624043%2F1%2Foriginal.20251201-201350?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=8974a325024b740036959799fac2aa77",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_big_ol_pig_birthday_bash_ft_young_and_dead_jam_band_jubilee_recurring",
+      "title": "View Big Ol' Pig Birthday Bash ft. Young and Dead - Jam Band Jubilee",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Fri, Jan 9 \u2022  8:00 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/big-ol-pig-birthday-bash-ft-young-and-dead-jam-band-jubilee-tickets-1976526885120?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172732577%2F1125606624043%2F1%2Foriginal.20251210-235945?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a5c5e8f3d9a36d2f51d356adc700ed90",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_blessing_bled_chimanga_light_hope_live_album_recording_recurring",
+      "title": "View Blessing Bled Chimanga - Light & Hope: live album recording",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Sat, Jan 10 \u2022  6:00 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/blessing-bled-chimanga-light-hope-live-album-recording-tickets-1975148176365?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171528402%2F1408677475953%2F1%2Foriginal.20251121-214623?h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&s=cb9d66b0aa29b0b9cc292d9655c6e502",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_honeycomb_open_sing_with_fox_linnea_drickey_joyful_community_harmony_recurring",
+      "title": "View Honeycomb Open Sing with Fox Linnea Drickey - Joyful Community Harmony",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Sun, Jan 11 \u2022  11:00 AM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/honeycomb-open-sing-with-fox-linnea-drickey-joyful-community-harmony-tickets-1975123903765?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172733632%2F1125606624043%2F1%2Foriginal.20251211-001504?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=df0147e8f15628579a0e0a0f725920ab",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_j_j_murphy_wyatt_wear_and_gabriel_mangione_and_halle_tomlinson_recurring",
+      "title": "View J.J. Murphy, Wyatt Wear and Gabriel Mangione and Halle Tomlinson",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Thu, Jan 15 \u2022  8:00 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/jj-murphy-wyatt-wear-and-gabriel-mangione-and-halle-tomlinson-tickets-1977675210793?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172912388%2F1125606624043%2F1%2Foriginal.20251213-194413?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=3f9eaa64baa5f69e12dea43e14edc2e5",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_the_mike_dillon_band_feat_brian_haas_w_photon_recurring",
+      "title": "View The Mike Dillon Band feat. Brian Haas w/ PHOTON",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Fri, Jan 16 \u2022  8:00 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/the-mike-dillon-band-feat-brian-haas-w-photon-tickets-1977676602957?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172809210%2F1125606624043%2F1%2Foriginal.20251212-003248?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=887d510e33b1f85871e16f2d6ee04460",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_open_mic_with_steve_koppe_at_roots_music_project_recurring",
+      "title": "View Open Mic with Steve Koppe at Roots Music Project",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/open-mic-with-steve-koppe-at-roots-music-project-tickets-1210042051349?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F939548763%2F1125606624043%2F1%2Foriginal.20240520-162949?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=4d630401d0a48f8ba193eb148eec6f8c",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_cass_clayton_band_a_christmas_of_soul_recurring",
+      "title": "View Cass Clayton Band: A Christmas of Soul",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/cass-clayton-band-a-christmas-of-soul-tickets-1968264765899?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1170728204%2F1125606624043%2F1%2Foriginal.20251111-205310?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=17c0d2934707b76f88c53eaed8575d76",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_breadbox_w_mudrat_detector_a_night_of_jerry_garcia_band_and_phish_recurring",
+      "title": "View Breadbox w/  Mudrat Detector : a night of Jerry Garcia Band and Phish",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/breadbox-w-mudrat-detector-a-night-of-jerry-garcia-band-and-phish-tickets-1972881697265?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172095690%2F1408677475953%2F1%2Foriginal.20251201-212557?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=c95111cc976f4df12a30e5c63bcd7869",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_the_4th_annual_boulder_county_jingle_jam_recurring",
+      "title": "View The 4th Annual Boulder County Jingle Jam",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/the-4th-annual-boulder-county-jingle-jam-tickets-1926803905349?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1166908893%2F1125606624043%2F1%2Foriginal.20251030-232053?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=b449530650d284e55940b99baa530dfb",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_charlie_brown_goes_to_the_nutcracker_recurring",
+      "title": "View Charlie Brown Goes To The Nutcracker",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/charlie-brown-goes-to-the-nutcracker-tickets-1766720732269?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1142871283%2F1125606624043%2F1%2Foriginal.20251002-183153?w=400&auto=format%2Ccompress&q=75&sharp=10&s=9b9cb6d080ef5d5a5ff416a2cffeacb5",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_billy_hoke_s_xtrav_xx_super_pro_jam_recurring",
+      "title": "View Billy Hoke's XTRAV XX Super Pro Jam",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Sun, Dec 28 \u2022  6:00 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/billy-hokes-xtrav-xx-super-pro-jam-tickets-1976523826973?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172110157%2F1125606624043%2F1%2Foriginal.20251202-004024?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=dea27a05ed5fc55ed0a0dafb686df4d6",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_new_years_eve_party_with_riley_j_band_cabaret_vinyl_djs_recurring",
+      "title": "View New Years Eve Party with Riley J Band, Cabaret & Vinyl DJs",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Wed, Dec 31 \u2022  9:00 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/new-years-eve-party-with-riley-j-band-cabaret-vinyl-djs-tickets-1976500611535?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172088009%2F1125606624043%2F1%2Foriginal.20251201-201350?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=8974a325024b740036959799fac2aa77",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_big_ol_pig_birthday_bash_ft_young_and_dead_jam_band_jubilee_recurring",
+      "title": "View Big Ol' Pig Birthday Bash ft. Young and Dead - Jam Band Jubilee",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Fri, Jan 9 \u2022  8:00 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/big-ol-pig-birthday-bash-ft-young-and-dead-jam-band-jubilee-tickets-1976526885120?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172732577%2F1125606624043%2F1%2Foriginal.20251210-235945?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a5c5e8f3d9a36d2f51d356adc700ed90",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_blessing_bled_chimanga_light_hope_live_album_recording_recurring",
+      "title": "View Blessing Bled Chimanga - Light & Hope: live album recording",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Sat, Jan 10 \u2022  6:00 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/blessing-bled-chimanga-light-hope-live-album-recording-tickets-1975148176365?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171528402%2F1408677475953%2F1%2Foriginal.20251121-214623?h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&s=cb9d66b0aa29b0b9cc292d9655c6e502",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_honeycomb_open_sing_with_fox_linnea_drickey_joyful_community_harmony_recurring",
+      "title": "View Honeycomb Open Sing with Fox Linnea Drickey - Joyful Community Harmony",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Sun, Jan 11 \u2022  11:00 AM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/honeycomb-open-sing-with-fox-linnea-drickey-joyful-community-harmony-tickets-1975123903765?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172733632%2F1125606624043%2F1%2Foriginal.20251211-001504?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=df0147e8f15628579a0e0a0f725920ab",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_j_j_murphy_wyatt_wear_and_gabriel_mangione_and_halle_tomlinson_recurring",
+      "title": "View J.J. Murphy, Wyatt Wear and Gabriel Mangione and Halle Tomlinson",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Thu, Jan 15 \u2022  8:00 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/jj-murphy-wyatt-wear-and-gabriel-mangione-and-halle-tomlinson-tickets-1977675210793?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172912388%2F1125606624043%2F1%2Foriginal.20251213-194413?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=3f9eaa64baa5f69e12dea43e14edc2e5",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_the_mike_dillon_band_feat_brian_haas_w_photon_recurring",
+      "title": "View The Mike Dillon Band feat. Brian Haas w/ PHOTON",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Fri, Jan 16 \u2022  8:00 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/the-mike-dillon-band-feat-brian-haas-w-photon-tickets-1977676602957?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172809210%2F1125606624043%2F1%2Foriginal.20251212-003248?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=887d510e33b1f85871e16f2d6ee04460",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_rocking_in_a_winter_wonderland_rock_photography_art_show_sale_recurring",
+      "title": "View Rocking in a Winter Wonderland: Rock Photography Art Show & Sale",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Fri, Dec 12 \u2022  5:30 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/rocking-in-a-winter-wonderland-rock-photography-art-show-sale-tickets-1962771733090?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171320698%2F1125606624043%2F1%2Foriginal.20251119-112958?crop=focalpoint&fit=crop&h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=b66d711e49158a2670b743ad8c9d964f",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_rmp_s_monthly_jazz_soul_and_groove_jam_sessions_recurring",
+      "title": "View RMP's Monthly Jazz, Soul, and Groove Jam Sessions",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Thu, Dec 11 \u2022  7:30 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/rmps-monthly-jazz-soul-and-groove-jam-sessions-tickets-1975623266372?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F954537953%2F1125606624043%2F1%2Foriginal.20250206-174854?crop=focalpoint&fit=crop&h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=7540328f79679ad39b8a725098de42b6",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_colorado_gives_day_music_showcase_recurring",
+      "title": "View Colorado Gives Day Music Showcase",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Tue, Dec 9 \u2022  6:00 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/colorado-gives-day-music-showcase-tickets-1975871100651?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172073464%2F1125606624043%2F1%2Foriginal.20251201-175101?crop=focalpoint&fit=crop&h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=0c026ebb25f93fb136fdf858e8ce7e72",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_performance_high_s_epic_2025_holiday_showcase_recurring",
+      "title": "View Performance High's Epic 2025 Holiday Showcase",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Sun, Dec 7 \u2022  3:00 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/performance-highs-epic-2025-holiday-showcase-tickets-1963430366079?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1170216213%2F1125606624043%2F1%2Foriginal.20251105-154739?crop=focalpoint&fit=crop&h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=ee65833c8cc0b7e2dccfbaf701e4f078",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_highlife_meets_afrobeats_an_old_school_flavor_meets_new_school_energy_recurring",
+      "title": "View Highlife meets Afrobeats \"An Old school Flavor meets New School  Energy\"",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Sat, Dec 6 \u2022  7:30 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/highlife-meets-afrobeats-an-old-school-flavor-meets-new-school-energy-tickets-1963378430739?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1170211548%2F1125606624043%2F1%2Foriginal.20251105-150538?crop=focalpoint&fit=crop&h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d31521417ae662ddfadb54d1468ef403",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_peak2peak_music_of_the_grateful_dead_recurring",
+      "title": "View Peak2Peak : Music of the Grateful Dead",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Fri, Dec 5 \u2022  8:00 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/peak2peak-music-of-the-grateful-dead-tickets-1972871507788?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171182646%2F1408677475953%2F1%2Foriginal.20251117-205343?h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&s=acd696bcbe7ade5fbf94f1ea48e94025",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_cu_student_songwriter_s_showcase_recurring",
+      "title": "View CU Student Songwriter's Showcase",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Thu, Dec 4 \u2022  6:00 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/cu-student-songwriters-showcase-tickets-1975842181152?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171823884%2F1125606624043%2F1%2Foriginal.20251126-180321?crop=focalpoint&fit=crop&h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d2a3886394aa2d600793676cd6fa329d",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_garden_of_eden_the_galentines_with_hundred_pound_housecat_recurring",
+      "title": "View Garden of Eden - The Galentines with Hundred Pound Housecat",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Wed, Dec 3 \u2022  7:30 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/garden-of-eden-the-galentines-with-hundred-pound-housecat-tickets-1974934957622?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171366284%2F1390608572853%2F1%2Foriginal.20251119-205032?crop=focalpoint&fit=crop&h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=61448626a9b7394354237a678d7909a8",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_sober_night_live_105_5_the_colorado_sound_presents_recurring",
+      "title": "View Sober Night Live! 105.5 The Colorado Sound Presents",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Tue, Dec 2 \u2022  6:30 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/sober-night-live-1055-the-colorado-sound-presents-tickets-1143290936969?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171681178%2F1125606624043%2F1%2Foriginal.20251124-221112?crop=focalpoint&fit=crop&h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=1777859434a6fe993f00991a0e5829df",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_open_mic_with_steve_koppe_at_roots_music_project_recurring",
+      "title": "View Open Mic with Steve Koppe at Roots Music Project",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Mon, Dec 1 \u2022  6:00 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/open-mic-with-steve-koppe-at-roots-music-project-tickets-1210041118559?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F939547813%2F1125606624043%2F1%2Foriginal.20240520-162949?h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=400f93e2619d9aae8f6bbbc2b21972bf",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_party_for_the_arts_a_fundraiser_for_nobo_art_district_recurring",
+      "title": "View pARTy for the ARTs: A Fundraiser  for NoBo Art District",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Sat, Nov 22 \u2022  6:00 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/party-for-the-arts-a-fundraiser-for-nobo-art-district-tickets-1817905507309?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1152608753%2F200260997405%2F1%2Foriginal.20251014-082802?crop=focalpoint&fit=crop&h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=5c3b85f88a3c59bf419802b83f1e07fc",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_mixtape_unbound_with_the_boulder_philharmonic_recurring",
+      "title": "View MIXTAPE: unbound with the Boulder Philharmonic",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Fri, Nov 21 \u2022  7:00 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/mixtape-unbound-with-the-boulder-philharmonic-tickets-1602962085749?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1098900793%2F1125606624043%2F1%2Foriginal.20250818-203326?crop=focalpoint&fit=crop&h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=1c2f8eabc528cd4657bd5b6fec9a7e1c",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_rocking_in_a_winter_wonderland_rock_photography_art_show_sale_recurring",
+      "title": "View Rocking in a Winter Wonderland: Rock Photography Art Show & Sale",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Fri, Dec 12 \u2022  5:30 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/rocking-in-a-winter-wonderland-rock-photography-art-show-sale-tickets-1962771733090?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171320698%2F1125606624043%2F1%2Foriginal.20251119-112958?crop=focalpoint&fit=crop&h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=b66d711e49158a2670b743ad8c9d964f",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_rmp_s_monthly_jazz_soul_and_groove_jam_sessions_recurring",
+      "title": "View RMP's Monthly Jazz, Soul, and Groove Jam Sessions",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Thu, Dec 11 \u2022  7:30 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/rmps-monthly-jazz-soul-and-groove-jam-sessions-tickets-1975623266372?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F954537953%2F1125606624043%2F1%2Foriginal.20250206-174854?crop=focalpoint&fit=crop&h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=7540328f79679ad39b8a725098de42b6",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_colorado_gives_day_music_showcase_recurring",
+      "title": "View Colorado Gives Day Music Showcase",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Tue, Dec 9 \u2022  6:00 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/colorado-gives-day-music-showcase-tickets-1975871100651?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172073464%2F1125606624043%2F1%2Foriginal.20251201-175101?crop=focalpoint&fit=crop&h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=0c026ebb25f93fb136fdf858e8ce7e72",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_performance_high_s_epic_2025_holiday_showcase_recurring",
+      "title": "View Performance High's Epic 2025 Holiday Showcase",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Sun, Dec 7 \u2022  3:00 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/performance-highs-epic-2025-holiday-showcase-tickets-1963430366079?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1170216213%2F1125606624043%2F1%2Foriginal.20251105-154739?crop=focalpoint&fit=crop&h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=ee65833c8cc0b7e2dccfbaf701e4f078",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_highlife_meets_afrobeats_an_old_school_flavor_meets_new_school_energy_recurring",
+      "title": "View Highlife meets Afrobeats \"An Old school Flavor meets New School  Energy\"",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Sat, Dec 6 \u2022  7:30 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/highlife-meets-afrobeats-an-old-school-flavor-meets-new-school-energy-tickets-1963378430739?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1170211548%2F1125606624043%2F1%2Foriginal.20251105-150538?crop=focalpoint&fit=crop&h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d31521417ae662ddfadb54d1468ef403",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_peak2peak_music_of_the_grateful_dead_recurring",
+      "title": "View Peak2Peak : Music of the Grateful Dead",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Fri, Dec 5 \u2022  8:00 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/peak2peak-music-of-the-grateful-dead-tickets-1972871507788?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171182646%2F1408677475953%2F1%2Foriginal.20251117-205343?h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&s=acd696bcbe7ade5fbf94f1ea48e94025",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_cu_student_songwriter_s_showcase_recurring",
+      "title": "View CU Student Songwriter's Showcase",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Thu, Dec 4 \u2022  6:00 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/cu-student-songwriters-showcase-tickets-1975842181152?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171823884%2F1125606624043%2F1%2Foriginal.20251126-180321?crop=focalpoint&fit=crop&h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d2a3886394aa2d600793676cd6fa329d",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_garden_of_eden_the_galentines_with_hundred_pound_housecat_recurring",
+      "title": "View Garden of Eden - The Galentines with Hundred Pound Housecat",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Wed, Dec 3 \u2022  7:30 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/garden-of-eden-the-galentines-with-hundred-pound-housecat-tickets-1974934957622?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171366284%2F1390608572853%2F1%2Foriginal.20251119-205032?crop=focalpoint&fit=crop&h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=61448626a9b7394354237a678d7909a8",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_sober_night_live_105_5_the_colorado_sound_presents_recurring",
+      "title": "View Sober Night Live! 105.5 The Colorado Sound Presents",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Tue, Dec 2 \u2022  6:30 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/sober-night-live-1055-the-colorado-sound-presents-tickets-1143290936969?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171681178%2F1125606624043%2F1%2Foriginal.20251124-221112?crop=focalpoint&fit=crop&h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=1777859434a6fe993f00991a0e5829df",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_open_mic_with_steve_koppe_at_roots_music_project_recurring",
+      "title": "View Open Mic with Steve Koppe at Roots Music Project",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Mon, Dec 1 \u2022  6:00 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/open-mic-with-steve-koppe-at-roots-music-project-tickets-1210041118559?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F939547813%2F1125606624043%2F1%2Foriginal.20240520-162949?h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=400f93e2619d9aae8f6bbbc2b21972bf",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_party_for_the_arts_a_fundraiser_for_nobo_art_district_recurring",
+      "title": "View pARTy for the ARTs: A Fundraiser  for NoBo Art District",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Sat, Nov 22 \u2022  6:00 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/party-for-the-arts-a-fundraiser-for-nobo-art-district-tickets-1817905507309?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1152608753%2F200260997405%2F1%2Foriginal.20251014-082802?crop=focalpoint&fit=crop&h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=5c3b85f88a3c59bf419802b83f1e07fc",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_view_mixtape_unbound_with_the_boulder_philharmonic_recurring",
+      "title": "View MIXTAPE: unbound with the Boulder Philharmonic",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": null,
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": "Fri, Nov 21 \u2022  7:00 PM",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/mixtape-unbound-with-the-boulder-philharmonic-tickets-1602962085749?aff=ebdsoporgprofile",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1098900793%2F1125606624043%2F1%2Foriginal.20250818-203326?crop=focalpoint&fit=crop&h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=1c2f8eabc528cd4657bd5b6fec9a7e1c",
+      "source_url": "https://www.eventbrite.com/o/roots-music-project-28110994095",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
       ]
     }
   ]
