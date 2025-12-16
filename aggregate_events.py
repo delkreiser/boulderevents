@@ -65,6 +65,11 @@ class EventAggregator:
                 'tags': ['Brewery', 'Live Music', 'Family Friendly'],
                 'scraper_output': '300_suns_events.json'
             },
+            'Bricks on Main': {
+                'location': 'Longmont',
+                'tags': ['Community', 'Retail', 'Entertainment'],
+                'scraper_output': 'bricks_events.json'
+            },
             'Roots Music Project': {
                 'location': 'Boulder',
                 'tags': ['Live Music', 'Community'],
