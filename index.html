@@ -120,6 +120,78 @@
             box-shadow: 0 10px 30px rgba(0,0,0,0.2);
         }
         
+        .search-container {
+            position: relative;
+            width: 100%;
+        }
+        
+        .search-autocomplete {
+            position: absolute;
+            top: 100%;
+            left: 0;
+            right: 0;
+            background: white;
+            border: 2px solid #667eea;
+            border-top: none;
+            border-radius: 0 0 15px 15px;
+            max-height: 400px;
+            overflow-y: auto;
+            display: none;
+            z-index: 1000;
+            box-shadow: 0 8px 20px rgba(102, 126, 234, 0.3);
+            margin-top: -10px;
+        }
+        
+        .search-autocomplete.show {
+            display: block;
+        }
+        
+        .autocomplete-item {
+            padding: 12px 20px;
+            cursor: pointer;
+            border-bottom: 1px solid #f0f0f0;
+            transition: all 0.2s ease;
+        }
+        
+        .autocomplete-item:last-child {
+            border-bottom: none;
+        }
+        
+        .autocomplete-item:hover,
+        .autocomplete-item.selected {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+        }
+        
+        .autocomplete-item-title {
+            font-weight: 600;
+            font-size: 0.95em;
+            margin-bottom: 4px;
+        }
+        
+        .autocomplete-item-venue {
+            font-size: 0.85em;
+            color: #666;
+        }
+        
+        .autocomplete-item:hover .autocomplete-item-venue,
+        .autocomplete-item.selected .autocomplete-item-venue {
+            color: rgba(255, 255, 255, 0.9);
+        }
+        
+        .autocomplete-category {
+            padding: 8px 20px;
+            font-size: 0.75em;
+            font-weight: 600;
+            color: #667eea;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            background: #f7f9ff;
+            border-bottom: 1px solid #e0e7ff;
+            position: sticky;
+            top: 0;
+        }
+        
         /* Smart Status Banner */
         .status-banner-wrapper {
             text-align: center;
@@ -896,7 +968,10 @@
         
         <!-- Search Bar -->
         <div class="search-section">
-            <input type="text" class="search-box" id="searchBox" placeholder="🔍 Search events by name, venue, or keyword...">
+            <div class="search-container">
+                <input type="text" class="search-box" id="searchBox" placeholder="🔍 Search events by name, venue, or keyword...">
+                <div class="search-autocomplete" id="searchAutocomplete"></div>
+            </div>
         </div>
         
         <!-- Mood Filter Buttons -->
@@ -1246,10 +1321,229 @@
         });
         
         // Search box
-        document.getElementById('searchBox').addEventListener('input', (e) => {
-            activeFilters.search = e.target.value.toLowerCase();
+        // Search autocomplete
+        const searchBox = document.getElementById('searchBox');
+        const autocompleteDropdown = document.getElementById('searchAutocomplete');
+        let selectedIndex = -1;
+        let autocompleteItems = [];
+        
+        searchBox.addEventListener('input', (e) => {
+            const query = e.target.value.trim();
+            
+            if (query.length === 0) {
+                hideAutocomplete();
+                activeFilters.search = '';
+                applyFilters();
+                return;
+            }
+            
+            // Get matching suggestions
+            const suggestions = getSearchSuggestions(query);
+            
+            if (suggestions.length > 0) {
+                showAutocomplete(suggestions, query);
+            } else {
+                hideAutocomplete();
+            }
+            
+            // Still apply live filtering
+            activeFilters.search = query.toLowerCase();
             applyFilters();
         });
+        
+        // Handle keyboard navigation
+        searchBox.addEventListener('keydown', (e) => {
+            const items = autocompleteDropdown.querySelectorAll('.autocomplete-item');
+            
+            if (e.key === 'ArrowDown') {
+                e.preventDefault();
+                selectedIndex = Math.min(selectedIndex + 1, items.length - 1);
+                updateSelection(items);
+            } else if (e.key === 'ArrowUp') {
+                e.preventDefault();
+                selectedIndex = Math.max(selectedIndex - 1, -1);
+                updateSelection(items);
+            } else if (e.key === 'Enter') {
+                e.preventDefault();
+                if (selectedIndex >= 0 && items[selectedIndex]) {
+                    items[selectedIndex].click();
+                } else {
+                    // Just apply the current search filter
+                    hideAutocomplete();
+                    scrollToResults();
+                }
+            } else if (e.key === 'Escape') {
+                hideAutocomplete();
+            }
+        });
+        
+        // Close autocomplete when clicking outside
+        document.addEventListener('click', (e) => {
+            if (!searchBox.contains(e.target) && !autocompleteDropdown.contains(e.target)) {
+                hideAutocomplete();
+            }
+        });
+        
+        function getSearchSuggestions(query) {
+            const lowerQuery = query.toLowerCase();
+            const suggestions = {
+                venues: new Set(),
+                locations: new Set(),
+                tags: new Set(),
+                events: []
+            };
+            
+            // Collect matching venues, locations, tags, and events
+            allEvents.forEach(event => {
+                // Check venue match
+                if (event.venue && event.venue.toLowerCase().includes(lowerQuery)) {
+                    suggestions.venues.add(event.venue);
+                }
+                
+                // Check location match
+                if (event.location && event.location.toLowerCase().includes(lowerQuery)) {
+                    suggestions.locations.add(event.location);
+                }
+                
+                // Check tags match
+                const allTags = [...(event.venue_type_tags || []), ...(event.event_type_tags || [])];
+                allTags.forEach(tag => {
+                    if (tag.toLowerCase().includes(lowerQuery)) {
+                        suggestions.tags.add(tag);
+                    }
+                });
+                
+                // Check event title match
+                if (event.title && event.title.toLowerCase().includes(lowerQuery)) {
+                    suggestions.events.push({
+                        title: event.title,
+                        venue: event.venue,
+                        type: 'event'
+                    });
+                }
+            });
+            
+            // Convert to array and limit results
+            const venueResults = Array.from(suggestions.venues).slice(0, 4).map(venue => ({
+                title: venue,
+                type: 'venue'
+            }));
+            
+            const locationResults = Array.from(suggestions.locations).slice(0, 3).map(location => ({
+                title: location,
+                type: 'location'
+            }));
+            
+            const tagResults = Array.from(suggestions.tags).slice(0, 4).map(tag => ({
+                title: tag,
+                type: 'tag'
+            }));
+            
+            const eventResults = suggestions.events.slice(0, 6);
+            
+            return [...locationResults, ...venueResults, ...tagResults, ...eventResults];
+        }
+        
+        function showAutocomplete(suggestions, query) {
+            selectedIndex = -1;
+            autocompleteItems = suggestions;
+            
+            let html = '';
+            
+            // Group by type
+            const locations = suggestions.filter(s => s.type === 'location');
+            const venues = suggestions.filter(s => s.type === 'venue');
+            const tags = suggestions.filter(s => s.type === 'tag');
+            const events = suggestions.filter(s => s.type === 'event');
+            
+            let itemIndex = 0;
+            
+            if (locations.length > 0) {
+                html += '<div class="autocomplete-category">Locations</div>';
+                locations.forEach(item => {
+                    html += `
+                        <div class="autocomplete-item" data-index="${itemIndex}" data-type="location" data-value="${item.title}">
+                            <div class="autocomplete-item-title">🌍 ${highlightMatch(item.title, query)}</div>
+                        </div>
+                    `;
+                    itemIndex++;
+                });
+            }
+            
+            if (venues.length > 0) {
+                html += '<div class="autocomplete-category">Venues</div>';
+                venues.forEach(item => {
+                    html += `
+                        <div class="autocomplete-item" data-index="${itemIndex}" data-type="venue" data-value="${item.title}">
+                            <div class="autocomplete-item-title">📍 ${highlightMatch(item.title, query)}</div>
+                        </div>
+                    `;
+                    itemIndex++;
+                });
+            }
+            
+            if (tags.length > 0) {
+                html += '<div class="autocomplete-category">Tags</div>';
+                tags.forEach(item => {
+                    html += `
+                        <div class="autocomplete-item" data-index="${itemIndex}" data-type="tag" data-value="${item.title}">
+                            <div class="autocomplete-item-title">🏷️ ${highlightMatch(item.title, query)}</div>
+                        </div>
+                    `;
+                    itemIndex++;
+                });
+            }
+            
+            if (events.length > 0) {
+                html += '<div class="autocomplete-category">Events</div>';
+                events.forEach(item => {
+                    html += `
+                        <div class="autocomplete-item" data-index="${itemIndex}" data-type="event" data-value="${item.title}">
+                            <div class="autocomplete-item-title">🎉 ${highlightMatch(item.title, query)}</div>
+                            <div class="autocomplete-item-venue">${item.venue}</div>
+                        </div>
+                    `;
+                    itemIndex++;
+                });
+            }
+            
+            autocompleteDropdown.innerHTML = html;
+            autocompleteDropdown.classList.add('show');
+            
+            // Add click handlers
+            autocompleteDropdown.querySelectorAll('.autocomplete-item').forEach(item => {
+                item.addEventListener('click', () => {
+                    const value = item.getAttribute('data-value');
+                    searchBox.value = value;
+                    activeFilters.search = value.toLowerCase();
+                    hideAutocomplete();
+                    applyFilters();
+                    scrollToResults();
+                });
+            });
+        }
+        
+        function hideAutocomplete() {
+            autocompleteDropdown.classList.remove('show');
+            autocompleteDropdown.innerHTML = '';
+            selectedIndex = -1;
+        }
+        
+        function updateSelection(items) {
+            items.forEach((item, index) => {
+                if (index === selectedIndex) {
+                    item.classList.add('selected');
+                    item.scrollIntoView({ block: 'nearest' });
+                } else {
+                    item.classList.remove('selected');
+                }
+            });
+        }
+        
+        function highlightMatch(text, query) {
+            const regex = new RegExp(`(${query})`, 'gi');
+            return text.replace(regex, '<strong>$1</strong>');
+        }
         
         // Scroll to results function
         function scrollToResults() {
