@@ -1170,12 +1170,20 @@
             // Get the current status
             const statusText = document.getElementById('statusText').textContent;
             
+            // Determine which filter to apply based on the banner text
+            let whenFilter = 'all';
+            if (statusText.includes('today')) {
+                whenFilter = 'today';
+            } else if (statusText.includes('this week')) {
+                whenFilter = 'week';
+            }
+            
             // Clear all filters first
             activeFilters = {
                 mood: new Set(),
                 venue: '',
                 location: '',
-                when: statusText.includes('today') ? 'today' : 'all',
+                when: whenFilter,
                 search: ''
             };
             
@@ -1207,15 +1215,15 @@
             if (todayEvents.length > 0) {
                 statusBanner.innerHTML = '🎉 <span class="status-count">' + todayEvents.length + '</span> <span id="statusText">events today</span>';
             } else {
-                // Count all upcoming events (from tomorrow onwards)
-                const tomorrow = new Date(today);
-                tomorrow.setDate(tomorrow.getDate() + 1);
-                const upcomingEvents = allEvents.filter(event => {
+                // Count events in next 7 days
+                const weekEnd = new Date(today);
+                weekEnd.setDate(weekEnd.getDate() + 7);
+                const next7DaysEvents = allEvents.filter(event => {
                     if (!event.normalized_date) return false;
                     const eventDate = new Date(event.normalized_date);
-                    return eventDate >= tomorrow;
+                    return eventDate >= today && eventDate <= weekEnd;
                 });
-                statusBanner.innerHTML = '📅 <span class="status-count">' + upcomingEvents.length + '</span> <span id="statusText">upcoming events</span>';
+                statusBanner.innerHTML = '📅 <span class="status-count">' + next7DaysEvents.length + '</span> <span id="statusText">events this week</span>';
             }
         }
         
@@ -1315,7 +1323,11 @@
         }
         
         function matchesWhenFilter(event, when) {
-            if (!event.normalized_date) return true;
+            // For specific date filters (today, tomorrow, etc), exclude events without dates
+            // Recurring events without specific dates should only show when viewing "all"
+            if (!event.normalized_date) {
+                return when === 'all' || when === 'week' || when === 'month';
+            }
             
             const eventDate = new Date(event.normalized_date);
             const today = new Date();
