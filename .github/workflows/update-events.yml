@@ -44,6 +44,7 @@ jobs:
         python3 scrapers/gold_hill_inn.py || echo "Gold Hill Inn scraper failed"
         python3 scrapers/300_suns_brewing.py || echo "300 Suns Brewing scraper failed"
         python3 scrapers/roots_music_project.py || echo "Roots Music Project scraper failed"
+        python3 scrapers/bricks_on_main.py || echo "Bricks on Main scraper failed"
     
     - name: Fix date/time fields
       run: |
