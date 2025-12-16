@@ -1462,7 +1462,30 @@
             grid.style.display = 'grid';
             noEvents.style.display = 'none';
             
-            grid.innerHTML = filteredEvents.map(event => createEventCard(event)).join('');
+            // Sort events by date when filtering by specific time periods
+            let eventsToRender = [...filteredEvents];
+            
+            if (activeFilters.when === 'today' || activeFilters.when === 'week' || activeFilters.when === 'tomorrow' || activeFilters.when === 'weekend') {
+                // Sort by date, then by time
+                eventsToRender.sort((a, b) => {
+                    // Events with dates come first
+                    if (!a.normalized_date && b.normalized_date) return 1;
+                    if (a.normalized_date && !b.normalized_date) return -1;
+                    if (!a.normalized_date && !b.normalized_date) return 0;
+                    
+                    // Compare dates
+                    const dateA = new Date(a.normalized_date);
+                    const dateB = new Date(b.normalized_date);
+                    
+                    if (dateA < dateB) return -1;
+                    if (dateA > dateB) return 1;
+                    
+                    // Same date - sort by venue name as tiebreaker
+                    return (a.venue || '').localeCompare(b.venue || '');
+                });
+            }
+            
+            grid.innerHTML = eventsToRender.map(event => createEventCard(event)).join('');
         }
         
         function createEventCard(event) {
