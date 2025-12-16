@@ -65,6 +65,11 @@ class EventAggregator:
                 'tags': ['Brewery', 'Live Music', 'Family Friendly'],
                 'scraper_output': '300_suns_events.json'
             },
+            'Roots Music Project': {
+                'location': 'Boulder',
+                'tags': ['Live Music', 'Community'],
+                'scraper_output': 'roots_music_events.json'
+            },
         }
     
     def load_events_from_file(self, filepath):
