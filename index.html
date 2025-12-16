@@ -861,6 +861,27 @@
             font-size: 0.95em;
         }
         
+        .clickable-venue {
+            cursor: pointer;
+            transition: all 0.2s ease;
+            display: inline-block;
+        }
+        
+        .clickable-venue:hover {
+            color: #764ba2;
+            text-decoration: underline;
+        }
+        
+        .clickable-tag {
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+        
+        .clickable-tag:hover {
+            background: linear-gradient(135deg, #764ba2 0%, #667eea 100%);
+            transform: scale(1.05);
+        }
+        
         .event-location {
             color: #666;
             font-size: 0.9em;
@@ -1777,6 +1798,71 @@
             });
             
             grid.innerHTML = eventsToRender.map(event => createEventCard(event)).join('');
+            
+            // Add event delegation for clickable venues and tags
+            attachEventCardHandlers();
+        }
+        
+        function attachEventCardHandlers() {
+            const grid = document.getElementById('eventsGrid');
+            
+            // Handle venue clicks
+            grid.addEventListener('click', (e) => {
+                const venueElem = e.target.closest('.clickable-venue');
+                if (venueElem) {
+                    const venue = venueElem.getAttribute('data-venue');
+                    filterByVenue(venue);
+                }
+                
+                // Handle tag clicks
+                const tagElem = e.target.closest('.clickable-tag');
+                if (tagElem) {
+                    const tag = tagElem.getAttribute('data-tag');
+                    filterByTag(tag);
+                }
+            });
+        }
+        
+        function filterByVenue(venue) {
+            // Clear all filters
+            activeFilters = {
+                mood: new Set(),
+                venue: venue,
+                location: '',
+                when: 'all',
+                search: ''
+            };
+            
+            // Update UI
+            document.querySelectorAll('.mood-button.active').forEach(b => b.classList.remove('active'));
+            document.getElementById('locationFilter').value = '';
+            document.getElementById('venueFilter').value = venue;
+            document.getElementById('searchBox').value = '';
+            document.getElementById('whenFilter').value = 'all';
+            
+            applyFilters();
+            scrollToResults();
+        }
+        
+        function filterByTag(tag) {
+            // Clear all filters and set search to the tag
+            activeFilters = {
+                mood: new Set(),
+                venue: '',
+                location: '',
+                when: 'all',
+                search: tag.toLowerCase()
+            };
+            
+            // Update UI
+            document.querySelectorAll('.mood-button.active').forEach(b => b.classList.remove('active'));
+            document.getElementById('locationFilter').value = '';
+            document.getElementById('venueFilter').value = '';
+            document.getElementById('whenFilter').value = 'all';
+            document.getElementById('searchBox').value = tag;
+            
+            applyFilters();
+            scrollToResults();
         }
         
         function createEventCard(event) {
@@ -1814,10 +1900,10 @@
                 ? `<a href="${event.link}" target="_blank" class="event-link">More Info →</a>`
                 : '';
             
-            // Combine all tags
+            // Combine all tags - make them clickable
             const allTags = [...new Set([...event.venue_type_tags, ...event.event_type_tags])];
             const tagsHtml = allTags.length > 0
-                ? `<div class="event-tags">${allTags.map(tag => `<span class="event-tag">${tag}</span>`).join('')}</div>`
+                ? `<div class="event-tags">${allTags.map(tag => `<span class="event-tag clickable-tag" data-tag="${tag}">${tag}</span>`).join('')}</div>`
                 : '';
             
             return `
@@ -1825,7 +1911,7 @@
                     ${imageHtml}
                     <div class="event-content">
                         <div class="event-title">${event.title}</div>
-                        <div class="event-venue">📍 ${event.venue}</div>
+                        <div class="event-venue clickable-venue" data-venue="${event.venue}">📍 ${event.venue}</div>
                         <div class="event-location">${event.location}</div>
                         ${recurringHtml}
                         ${dateHtml}
