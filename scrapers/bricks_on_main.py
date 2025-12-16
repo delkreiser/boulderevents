@@ -5,7 +5,7 @@ URL: https://www.bricksretail.com/events-calendar
 Scrapes events from Bricks on Main's events calendar in Longmont
 """
 
-from playwright.sync_api import sync_playwright
+import requests
 from bs4 import BeautifulSoup
 import json
 from datetime import datetime, date
@@ -13,36 +13,24 @@ import re
 
 
 def scrape_bricks_events():
-    """Scrape Bricks on Main events using Playwright"""
+    """Scrape Bricks on Main events using requests"""
     
     events = []
     
     try:
-        with sync_playwright() as p:
-            print("Launching browser...")
-            browser = p.chromium.launch(
-                headless=True,
-                args=['--no-sandbox', '--disable-setuid-sandbox']
-            )
-            page = browser.new_page()
-            page.set_default_timeout(30000)
-            
-            print("Loading Bricks on Main events page...")
-            page.goto('https://www.bricksretail.com/events-calendar', 
-                     wait_until='domcontentloaded', timeout=30000)
-            page.wait_for_timeout(5000)  # Wait for events to load
-            
-            # Scroll to load all content
-            print("Scrolling to load all events...")
-            for i in range(3):
-                page.evaluate('window.scrollTo(0, document.body.scrollHeight)')
-                page.wait_for_timeout(1500)
-            
-            print("Parsing events...")
-            html = page.content()
-            events = parse_bricks_html(html)
-            
-            browser.close()
+        print("Fetching Bricks on Main events page...")
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+        }
+        response = requests.get(
+            'https://www.bricksretail.com/events-calendar',
+            headers=headers,
+            timeout=30
+        )
+        response.raise_for_status()
+        
+        print("Parsing events...")
+        events = parse_bricks_html(response.text)
             
     except Exception as e:
         print(f"Error: {e}")
@@ -57,30 +45,53 @@ def parse_bricks_html(html):
     
     soup = BeautifulSoup(html, 'html.parser')
     
-    # Find all event items using data-hook attributes
-    event_elements = soup.find_all(attrs={'data-hook': 'ev-list-item'})
+    # Find the "Upcoming Events" list section
+    # Events are in <li> elements with links to /event-details/
+    event_links = soup.find_all('a', href=re.compile(r'/event-details/'))
     
-    if not event_elements:
-        # Try alternative selector
-        event_elements = soup.find_all('li', class_=re.compile(r'event', re.I))
-    
-    print(f"Found {len(event_elements)} event elements")
+    print(f"Found {len(event_links)} event links")
     
     events = []
     today = date.today()
+    seen_titles = set()  # Avoid duplicates
     
-    for element in event_elements:
+    for link in event_links:
         try:
-            event = parse_bricks_event(element)
+            # Get the container with event info
+            event_container = link.find_parent('li')
+            if not event_container:
+                continue
+            
+            event = parse_bricks_event_item(link, event_container)
             
             if event and event.get('title'):
+                # Check for duplicates
+                title_key = event['title'].lower().strip()
+                if title_key in seen_titles:
+                    continue
+                seen_titles.add(title_key)
+                
                 # Add venue info
                 event['venue'] = 'Bricks on Main'
                 event['location'] = 'Longmont'
-                event['category'] = 'Community'
+                event['category'] = 'Music'
                 event['source_url'] = 'https://www.bricksretail.com/events-calendar'
-                event['event_type_tags'] = ['Community', 'Entertainment']
-                event['venue_type_tags'] = ['Community', 'Retail', 'Entertainment']
+                
+                # Add tags based on event type
+                if 'open mic' in event['title'].lower():
+                    event['event_type_tags'] = ['Open Mic', 'Music', 'Community']
+                elif 'karaoke' in event['title'].lower():
+                    event['event_type_tags'] = ['Karaoke', 'Music', 'Entertainment']
+                elif 'jazz' in event['title'].lower() or 'jazz' in event.get('description', '').lower():
+                    event['event_type_tags'] = ['Jazz', 'Live Music']
+                elif 'comedy' in event['title'].lower() or 'comedy' in event.get('description', '').lower():
+                    event['event_type_tags'] = ['Comedy', 'Entertainment']
+                elif 'market' in event['title'].lower():
+                    event['event_type_tags'] = ['Market', 'Community', 'Family Friendly']
+                else:
+                    event['event_type_tags'] = ['Live Music', 'Entertainment']
+                
+                event['venue_type_tags'] = ['Music Venue', 'Bar', 'Restaurant']
                 
                 # Default image if none found
                 if not event.get('image'):
@@ -107,67 +118,62 @@ def parse_bricks_html(html):
     return events
 
 
-def parse_bricks_event(element):
-    """Parse a single event element from Bricks on Main"""
+def parse_bricks_event_item(link, container):
+    """Parse a single event from the list view"""
     
     event = {}
     
-    # Title - data-hook="ev-list-item-title"
-    title_elem = element.find(attrs={'data-hook': 'ev-list-item-title'})
-    if title_elem:
-        title = title_elem.get_text(strip=True)
-        if title and len(title) < 200:
-            event['title'] = title
-        else:
-            return None
+    # Get event URL
+    href = link.get('href', '')
+    if href:
+        if not href.startswith('http'):
+            href = f"https://www.bricksretail.com{href}"
+        event['link'] = href
+    
+    # Title - Get text from link or nearby heading
+    title_text = link.get_text(strip=True)
+    if not title_text:
+        # Try to find title in container
+        title_elem = container.find(['h2', 'h3', 'h4'])
+        if title_elem:
+            title_text = title_elem.get_text(strip=True)
+    
+    if title_text and len(title_text) < 200:
+        # Clean up title - remove "Multiple Dates" prefix if present
+        title_text = re.sub(r'^Multiple Dates\s*', '', title_text)
+        event['title'] = title_text
     else:
         return None
     
-    # Date - data-hook="date"
-    # Format: "Jan 30, 2026, 6:00 PM – 9:00 PM"
-    date_elem = element.find(attrs={'data-hook': 'date'})
-    if date_elem:
-        date_text = date_elem.get_text(strip=True)
-        parsed = parse_date_time(date_text)
-        if parsed:
-            event.update(parsed)
+    # Get all text from container to parse date and description
+    all_text = container.get_text(separator='\n', strip=True)
+    lines = [l.strip() for l in all_text.split('\n') if l.strip()]
     
-    # Link - data-hook="ev-rsvp-button"
-    link_elem = element.find(attrs={'data-hook': 'ev-rsvp-button'})
-    if link_elem and link_elem.get('href'):
-        link = link_elem['href']
-        if link and not link.startswith('http'):
-            link = f"https://www.bricksretail.com{link}"
-        event['link'] = link
+    # Date - Look for pattern like "Dec 16, 2025, 6:00 PM – 8:00 PM"
+    for line in lines:
+        if re.search(r'[A-Z][a-z]{2}\s+\d{1,2},\s+\d{4}', line):
+            parsed = parse_date_time(line)
+            if parsed:
+                event.update(parsed)
+                break
     
-    # Image - data-hook="image-background"
-    img_elem = element.find(attrs={'data-hook': 'image-background'})
-    if img_elem:
-        # Check for background-image style
-        style = img_elem.get('style', '')
-        if 'background-image' in style:
-            # Extract URL from background-image: url(...)
-            match = re.search(r'url\(["\']?([^"\']+)["\']?\)', style)
-            if match:
-                img_url = match.group(1)
-                event['image'] = img_url
-        
-        # Also check for src attribute on img tags inside
-        img_tag = img_elem.find('img')
-        if img_tag and img_tag.get('src'):
-            event['image'] = img_tag['src']
+    # Description - Get longer text blocks
+    for line in lines:
+        if len(line) > 40 and line not in [event.get('title', ''), event.get('date', '')]:
+            desc = line
+            if len(desc) > 300:
+                desc = desc[:300] + "..."
+            event['description'] = desc
+            break
     
-    # Description - try to find any description text
-    desc_elem = element.find(attrs={'data-hook': re.compile(r'description|excerpt', re.I)})
-    if not desc_elem:
-        # Try finding any paragraph
-        desc_elem = element.find('p')
-    
-    if desc_elem:
-        desc = desc_elem.get_text(strip=True)
-        if len(desc) > 300:
-            desc = desc[:300] + "..."
-        event['description'] = desc
+    # Image - Look for img tags in container
+    img = container.find('img')
+    if img and img.get('src'):
+        img_url = img['src']
+        # Clean up Wix URL parameters
+        if '?' in img_url:
+            img_url = img_url.split('?')[0]
+        event['image'] = img_url
     
     return event
 
