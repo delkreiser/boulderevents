@@ -28,7 +28,7 @@ def scrape_roots_music_events():
             page.set_default_timeout(30000)
             
             print("Loading Roots Music Project Eventbrite page...")
-            page.goto('https://www.eventbrite.com/o/roots-music-project-28110994095', 
+            page.goto('https://www.eventbrite.com/cc/roots-music-project-168639', 
                      wait_until='domcontentloaded', timeout=30000)
             page.wait_for_timeout(5000)  # Wait for JS to load events
             
@@ -77,17 +77,26 @@ def parse_eventbrite_html(html):
     
     events = []
     today = date.today()
+    seen_titles = set()  # Track titles to avoid duplicates
     
     for card in event_cards:
         try:
             event = parse_eventbrite_event(card)
             
             if event and event.get('title'):
+                # Skip duplicates based on title + date
+                event_key = f"{event.get('title')}|{event.get('date', '')}"
+                if event_key in seen_titles:
+                    print(f"  ✗ Skipped duplicate: {event.get('title')}")
+                    continue
+                
+                seen_titles.add(event_key)
+                
                 # Add venue info
                 event['venue'] = 'Roots Music Project'
                 event['location'] = 'Boulder'
                 event['category'] = 'Music'
-                event['source_url'] = 'https://www.eventbrite.com/o/roots-music-project-28110994095'
+                event['source_url'] = 'https://www.eventbrite.com/cc/roots-music-project-168639'
                 event['event_type_tags'] = ['Live Music']
                 event['venue_type_tags'] = ['Live Music', 'Community']
                 
@@ -108,9 +117,8 @@ def parse_eventbrite_html(html):
                     else:
                         print(f"  ✗ Skipped past event: {event.get('title')} - {event.get('date')}")
                 else:
-                    # If no date parsed, still include it
-                    events.append(event)
-                    print(f"  ⚠️  {event['title']} - no date parsed, including anyway")
+                    # Skip events without parseable dates
+                    print(f"  ✗ Skipped (no date): {event['title']}")
                     
         except Exception as e:
             print(f"  Error parsing event: {e}")
