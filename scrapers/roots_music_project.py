@@ -53,75 +53,76 @@ def scrape_roots_music_events():
 
 
 def parse_eventbrite_html(html):
-    """Parse the Eventbrite HTML to extract event data"""
+    """Parse the Eventbrite HTML to extract event data from JSON-LD"""
     
     soup = BeautifulSoup(html, 'html.parser')
     
-    # Find all event cards - Eventbrite uses various patterns
-    # Try multiple selectors
-    event_cards = soup.find_all('div', class_=re.compile(r'discover-search-desktop-card|event-card|Card-sc'))
-    
-    if not event_cards:
-        # Try finding by article tag
-        event_cards = soup.find_all('article', class_=re.compile(r'event|card'))
-    
-    if not event_cards:
-        # Try finding links to /e/ (event pages)
-        links = soup.find_all('a', href=re.compile(r'/e/'))
-        # Get parent containers
-        event_cards = [link.find_parent(['div', 'article']) for link in links if link.find_parent(['div', 'article'])]
-        # Remove duplicates
-        event_cards = list(set(event_cards))
-    
-    print(f"Found {len(event_cards)} event cards")
+    # Find JSON-LD script tags
+    json_ld_scripts = soup.find_all('script', type='application/ld+json')
+    print(f"Found {len(json_ld_scripts)} JSON-LD script tags")
     
     events = []
     today = date.today()
     seen_titles = set()  # Track titles to avoid duplicates
     
-    for card in event_cards:
+    for script in json_ld_scripts:
         try:
-            event = parse_eventbrite_event(card)
+            json_data = json.loads(script.string)
             
-            if event and event.get('title'):
-                # Skip duplicates based on title + date
-                event_key = f"{event.get('title')}|{event.get('date', '')}"
-                if event_key in seen_titles:
-                    print(f"  ✗ Skipped duplicate: {event.get('title')}")
-                    continue
+            # Check if this is an ItemList with events
+            if isinstance(json_data, dict) and json_data.get('@type') == 'ItemList':
+                items = json_data.get('itemListElement', [])
+                print(f"Found ItemList with {len(items)} items")
                 
-                seen_titles.add(event_key)
-                
-                # Add venue info
-                event['venue'] = 'Roots Music Project'
-                event['location'] = 'Boulder'
-                event['category'] = 'Music'
-                event['source_url'] = 'https://www.eventbrite.com/cc/roots-music-project-168639'
-                event['event_type_tags'] = ['Live Music']
-                event['venue_type_tags'] = ['Live Music', 'Community']
-                
-                # Default to 21+ unless specified as All Ages
-                if not event.get('age_restriction'):
-                    event['age_restriction'] = '21+'
-                
-                # Use roots.jpg as fallback if no image
-                if not event.get('image'):
-                    event['image'] = 'roots.jpg'
-                
-                # Filter: Only include today and future events
-                if event.get('date_obj'):
-                    if event['date_obj'] >= today:
-                        del event['date_obj']  # Remove before adding to list
-                        events.append(event)
-                        print(f"  ✓ {event['title']} - {event['date']}")
-                    else:
-                        print(f"  ✗ Skipped past event: {event.get('title')} - {event.get('date')}")
-                else:
-                    # Skip events without parseable dates
-                    print(f"  ✗ Skipped (no date): {event['title']}")
+                for item_wrapper in items:
+                    # Extract the actual event from the ListItem
+                    item = item_wrapper.get('item', {})
                     
+                    if item.get('@type') == 'Event':
+                        event = parse_json_ld_event(item)
+                        
+                        if event and event.get('title'):
+                            # Skip duplicates based on title + date
+                            event_key = f"{event.get('title')}|{event.get('date', '')}"
+                            if event_key in seen_titles:
+                                print(f"  ✗ Skipped duplicate: {event.get('title')}")
+                                continue
+                            
+                            seen_titles.add(event_key)
+                            
+                            # Add venue info
+                            event['venue'] = 'Roots Music Project'
+                            event['location'] = 'Boulder'
+                            event['category'] = 'Music'
+                            event['source_url'] = 'https://www.eventbrite.com/cc/roots-music-project-168639'
+                            event['event_type_tags'] = ['Live Music']
+                            event['venue_type_tags'] = ['Live Music', 'Community']
+                            
+                            # Default to 21+ unless specified as All Ages
+                            if not event.get('age_restriction'):
+                                event['age_restriction'] = '21+'
+                            
+                            # Use roots.jpg as fallback if no image
+                            if not event.get('image'):
+                                event['image'] = 'roots.jpg'
+                            
+                            # Filter: Only include today and future events
+                            if event.get('date_obj'):
+                                if event['date_obj'] >= today:
+                                    del event['date_obj']  # Remove before adding to list
+                                    events.append(event)
+                                    print(f"  ✓ {event['title']} - {event['date']}")
+                                else:
+                                    print(f"  ✗ Skipped past event: {event.get('title')} - {event.get('date')}")
+                            else:
+                                # Skip events without parseable dates
+                                print(f"  ✗ Skipped (no date): {event['title']}")
+                                
+        except json.JSONDecodeError as e:
+            print(f"  Error parsing JSON-LD: {e}")
+            continue
         except Exception as e:
-            print(f"  Error parsing event: {e}")
+            print(f"  Error processing event: {e}")
             continue
     
     print(f"\nFiltered to {len(events)} current/future events")
@@ -129,76 +130,67 @@ def parse_eventbrite_html(html):
     return events
 
 
-def parse_eventbrite_event(card):
-    """Parse a single Eventbrite event card"""
+def parse_json_ld_event(event_data):
+    """
+    Parse event from JSON-LD structure
+    
+    Example:
+    {
+        "@type": "Event",
+        "name": "Open Mic with Steve Koppe at Roots Music Project",
+        "startDate": "2025-12-15T18:00:00-0700",
+        "endDate": "2025-12-15T20:30:00-0700",
+        "description": "...",
+        "url": "https://www.eventbrite.com/e/...",
+        "image": "https://img.evbuc.com/..."
+    }
+    """
     
     event = {}
     
-    # Find event link and title
-    link_elem = card.find('a', href=re.compile(r'/e/'))
-    if link_elem:
-        href = link_elem.get('href', '')
-        if href:
-            # Make sure it's a full URL
-            if href.startswith('http'):
-                event['link'] = href
-            elif href.startswith('/'):
-                event['link'] = f"https://www.eventbrite.com{href}"
-            else:
-                event['link'] = f"https://www.eventbrite.com/{href}"
+    # Title
+    if event_data.get('name'):
+        event['title'] = event_data['name']
+    
+    # Description
+    if event_data.get('description'):
+        desc = event_data['description']
+        # Limit to 300 characters
+        if len(desc) > 300:
+            desc = desc[:300] + "..."
+        event['description'] = desc
         
-        # Try to get title from the link or nearby heading
-        title = link_elem.get('aria-label') or link_elem.get_text(strip=True)
-        if not title or len(title) < 3:
-            # Look for h2, h3 nearby
-            heading = card.find(['h1', 'h2', 'h3', 'h4'])
-            if heading:
-                title = heading.get_text(strip=True)
-        
-        if title:
-            event['title'] = title
+        # Check for "All Ages" in description
+        if 'all ages' in desc.lower() or 'family friendly' in desc.lower():
+            event['age_restriction'] = 'All Ages'
     
-    # Find image
-    img = card.find('img')
-    if img and img.get('src'):
-        img_src = img['src']
-        # Skip placeholder/default images
-        if 'default' not in img_src.lower() and 'placeholder' not in img_src.lower():
-            event['image'] = img_src
+    # URL
+    if event_data.get('url'):
+        event['link'] = event_data['url']
     
-    # Find date/time - Eventbrite formats vary
-    # Look for time elements or date text
-    time_elem = card.find('time')
-    if time_elem:
-        datetime_attr = time_elem.get('datetime')
-        if datetime_attr:
-            # Parse ISO format datetime
-            parsed = parse_iso_datetime(datetime_attr)
-            if parsed:
-                event.update(parsed)
-        
-        # Also get the human-readable text
-        date_text = time_elem.get_text(strip=True)
-        if date_text and not event.get('date'):
-            event['date'] = date_text
+    # Image
+    if event_data.get('image'):
+        event['image'] = event_data['image']
     
-    # Look for "All Ages" in the card text
-    card_text = card.get_text().lower()
-    if 'all ages' in card_text or 'family friendly' in card_text:
-        event['age_restriction'] = 'All Ages'
+    # Start Date/Time
+    if event_data.get('startDate'):
+        parsed = parse_iso_datetime(event_data['startDate'])
+        if parsed:
+            event.update(parsed)
     
-    # Try to extract description
-    # Look for paragraphs or divs with description-like text
-    desc_elem = card.find('p')
-    if desc_elem:
-        desc_text = desc_elem.get_text(strip=True)
-        if desc_text and len(desc_text) > 20:
-            # Limit to 300 chars
-            if len(desc_text) > 300:
-                desc_text = desc_text[:300] + "..."
-            event['description'] = desc_text
+    # End Time (just extract the time portion)
+    if event_data.get('endDate'):
+        try:
+            end_dt = datetime.fromisoformat(event_data['endDate'])
+            end_time = end_dt.strftime('%I:%M %p').lstrip('0').replace(' 0', ' ')
+            
+            # Add end time to existing time if we have start time
+            if event.get('time'):
+                event['time'] = f"{event['time']} - {end_time}"
+        except:
+            pass
     
-    return event if event.get('title') else None
+    return event
 
 
 def parse_iso_datetime(datetime_str):
