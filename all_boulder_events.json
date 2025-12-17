@@ -1,11 +1,10 @@
 {
-  "generated_at": "2025-12-17T04:48:03.373110",
-  "total_events": 173,
+  "generated_at": "2025-12-17T06:24:25.888034",
+  "total_events": 168,
   "tags": {
     "venues": [
       "300 Suns Brewing",
       "Bricks on Main",
-      "Gold Hill Inn",
       "Jungle",
       "Junkyard Social Club",
       "License No 1",
@@ -22,7 +21,6 @@
     "locations": [
       "Boulder",
       "Denver",
-      "Gold Hill",
       "Longmont"
     ],
     "venue_types": [
@@ -39,7 +37,6 @@
       "Entertainment",
       "Family Friendly",
       "Food & Drink",
-      "Historic",
       "Hotel",
       "Literary",
       "Live Music",
@@ -47,7 +44,6 @@
       "Nightlife",
       "Performance",
       "Pub",
-      "Restaurant",
       "Retail",
       "Upscale"
     ],
@@ -379,8 +375,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "All Ages"
+        "All Ages",
+        "Community"
       ]
     },
     {
@@ -464,9 +460,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Educational",
         "Performance",
+        "Educational",
+        "Community",
         "Music"
       ]
     },
@@ -495,10 +491,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "All Ages",
-        "Music",
-        "Family Friendly"
+        "Family Friendly",
+        "Community",
+        "Music"
       ]
     },
     {
@@ -526,8 +522,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
         "Performance",
+        "Family Friendly",
         "All Ages",
         "Music"
       ]
@@ -557,8 +553,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Educational",
+        "Community",
         "Music"
       ]
     },
@@ -587,8 +583,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Performance",
+        "Community",
         "Music"
       ]
     },
@@ -617,8 +613,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Performance"
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -646,8 +642,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Performance",
+        "Community",
         "Music"
       ]
     },
@@ -676,9 +672,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Performance",
         "All Ages",
+        "Community",
         "Music"
       ]
     },
@@ -707,9 +703,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "All Ages",
-        "Family Friendly"
+        "Family Friendly",
+        "Community"
       ]
     },
     {
@@ -737,11 +733,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Community",
         "Music",
+        "All Ages",
         "Family Friendly",
-        "All Ages"
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -825,8 +821,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Performance",
+        "Community",
         "Music"
       ]
     },
@@ -855,8 +851,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Performance",
+        "Community",
         "Music"
       ]
     },
@@ -3767,136 +3763,6 @@
         "Nightlife",
         "Dance",
         "DJ"
-      ]
-    },
-    {
-      "id": "gold_hill_inn_bonnie_taylor_sims_w_bear_hat_december_19_2025_7_30_pm",
-      "title": "Bonnie & Taylor Sims w/Bear Hat",
-      "venue": "Gold Hill Inn",
-      "location": "Gold Hill",
-      "date": "December 19, 2025",
-      "normalized_date": "2025-12-19T00:00:00",
-      "recurring": null,
-      "time": "7:30 PM",
-      "description": "Americana/Bluegrass - It's a Holiday Concert and Dance With Bonnie & Taylor Sims and Bear Hat in the Big Room! Doors at 6 p.m. $20 Advance Tickets for music. $25 cash at door Day of Show.$20 Cash Light Buffet 6 - 8 p.m.Purchase Advance Tickets",
-      "additional_info": "",
-      "link": "https://www.goldhillinn.com/music/",
-      "image": "goldhillinn.jpg",
-      "source_url": "https://www.goldhillinn.com/music/",
-      "age_restriction": "21+",
-      "venue_tag": "Gold Hill Inn",
-      "location_tag": "Gold Hill",
-      "venue_type_tags": [
-        "Live Music",
-        "Restaurant",
-        "Historic"
-      ],
-      "event_type_tags": [
-        "Live Music"
-      ]
-    },
-    {
-      "id": "gold_hill_inn_daniel_rodriguez_w_emma_rose_december_20_2025_7_30_pm",
-      "title": "Daniel Rodriguez w/Emma Rose",
-      "venue": "Gold Hill Inn",
-      "location": "Gold Hill",
-      "date": "December 20, 2025",
-      "normalized_date": "2025-12-20T00:00:00",
-      "recurring": null,
-      "time": "7:30 PM",
-      "description": "Folk/Rock - Gold Hill Inn presents a special holiday show with Daniel Rodriguez and Emma RoseDoors open 6 p.m.Light dinner buffet for $20 cash from 6-7:30 p.m.Purchase Advance Tickets",
-      "additional_info": "",
-      "link": "https://www.goldhillinn.com/music/",
-      "image": "goldhillinn.jpg",
-      "source_url": "https://www.goldhillinn.com/music/",
-      "age_restriction": "21+",
-      "venue_tag": "Gold Hill Inn",
-      "location_tag": "Gold Hill",
-      "venue_type_tags": [
-        "Live Music",
-        "Restaurant",
-        "Historic"
-      ],
-      "event_type_tags": [
-        "Live Music"
-      ]
-    },
-    {
-      "id": "gold_hill_inn_gregory_alan_isakov_reed_foehl_december_21_2025_7_30_pm",
-      "title": "Gregory Alan Isakov & Reed Foehl",
-      "venue": "Gold Hill Inn",
-      "location": "Gold Hill",
-      "date": "December 21, 2025",
-      "normalized_date": "2025-12-21T00:00:00",
-      "recurring": null,
-      "time": "7:30 PM",
-      "description": "Folk - Sold Out!Gregory Alan Isakov andReed Foehlreturn to the Gold Hill Inn this December 21st & 22nd!Doors at 6 p.m. - Music at 7:30 p.m.We will be serving a light dinner buffet 6-7:30 p.m.$20 cash for buffet",
-      "additional_info": "",
-      "link": "https://www.goldhillinn.com/music/",
-      "image": "goldhillinn.jpg",
-      "source_url": "https://www.goldhillinn.com/music/",
-      "age_restriction": "21+",
-      "venue_tag": "Gold Hill Inn",
-      "location_tag": "Gold Hill",
-      "venue_type_tags": [
-        "Live Music",
-        "Restaurant",
-        "Historic"
-      ],
-      "event_type_tags": [
-        "Live Music"
-      ]
-    },
-    {
-      "id": "gold_hill_inn_gregory_alan_isakov_reed_foehl_december_22_2025_7_30_pm",
-      "title": "Gregory Alan Isakov & Reed Foehl",
-      "venue": "Gold Hill Inn",
-      "location": "Gold Hill",
-      "date": "December 22, 2025",
-      "normalized_date": "2025-12-22T00:00:00",
-      "recurring": null,
-      "time": "7:30 PM",
-      "description": "Folk - Sold Out!Gregory Alan Isakov andReed Foehlreturn to the Gold Hill Inn this December 21st & 22nd!Doors at 6 p.m. - Music at 7:30 p.m.We will be serving a light dinner buffet 6-7:30 p.m.$20 cash for buffet",
-      "additional_info": "",
-      "link": "https://www.goldhillinn.com/music/",
-      "image": "goldhillinn.jpg",
-      "source_url": "https://www.goldhillinn.com/music/",
-      "age_restriction": "21+",
-      "venue_tag": "Gold Hill Inn",
-      "location_tag": "Gold Hill",
-      "venue_type_tags": [
-        "Live Music",
-        "Restaurant",
-        "Historic"
-      ],
-      "event_type_tags": [
-        "Live Music"
-      ]
-    },
-    {
-      "id": "gold_hill_inn_new_year_s_eve_dance_party_december_31_2025_7_00_pm",
-      "title": "New Year's Eve Dance Party",
-      "venue": "Gold Hill Inn",
-      "location": "Gold Hill",
-      "date": "December 31, 2025",
-      "normalized_date": "2025-12-31T00:00:00",
-      "recurring": null,
-      "time": "7:00 PM",
-      "description": "NYE 2024 - Gold Hill Inn PresentsA New Years Eve Dance Party!Featuring:The Clay Rose Bandw/ Taylor Sims, Jeb Bows, Scott Coulter and Adam PerrySpecial GuestsThe Poudre Valley PlayboysDoors 7 p.m.Music 8 p.m.We will serve a light dinner buffet 7- 9 p.m.Tickets are $53 which includes Music, Food, Champagne at Mi...",
-      "additional_info": "",
-      "link": "https://www.goldhillinn.com/music/",
-      "image": "goldhillinn.jpg",
-      "source_url": "https://www.goldhillinn.com/music/",
-      "age_restriction": "21+",
-      "venue_tag": "Gold Hill Inn",
-      "location_tag": "Gold Hill",
-      "venue_type_tags": [
-        "Live Music",
-        "Restaurant",
-        "Historic"
-      ],
-      "event_type_tags": [
-        "Live Music"
       ]
     },
     {
