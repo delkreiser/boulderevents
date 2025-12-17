@@ -193,12 +193,34 @@ def parse_bricks_event_item(link, container):
     
     # Image - Look for img tags in container
     img = container.find('img')
-    if img and img.get('src'):
-        img_url = img['src']
-        # Clean up Wix URL parameters
-        if '?' in img_url:
-            img_url = img_url.split('?')[0]
-        event['image'] = img_url
+    if img:
+        # Try to get the full-resolution image
+        # Wix uses data-pin-url or look for URLs without blur parameters
+        img_url = None
+        
+        # Check for data-pin-url (often has full res)
+        if img.get('data-pin-url'):
+            img_url = img['data-pin-url']
+        # Check src
+        elif img.get('src'):
+            img_url = img['src']
+        # Check data-src
+        elif img.get('data-src'):
+            img_url = img['data-src']
+        
+        if img_url:
+            # Remove Wix blur parameters and get high-res version
+            # Remove blur_2, blur_3, etc.
+            img_url = re.sub(r',blur_\d+', '', img_url)
+            # Remove usm parameters that reduce quality
+            img_url = re.sub(r',usm_[\d.]+_[\d.]+_[\d.]+', '', img_url)
+            # Change size parameters to get larger image
+            # Replace w_56 or w_147 with w_400 for better quality
+            img_url = re.sub(r'/fill/w_\d+,h_\d+', '/fill/w_400,h_400', img_url)
+            # Remove /v1/fill entirely to get original
+            # img_url = re.sub(r'/v1/fill/[^/]+/', '/v1/', img_url)
+            
+            event['image'] = img_url
     
     return event
 
