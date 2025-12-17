@@ -10,7 +10,15 @@ from bs4 import BeautifulSoup
 import json
 import re
 from datetime import datetime, date
-import pytz
+
+# Try to import pytz for Mountain Time, fall back if not available
+try:
+    import pytz
+    PYTZ_AVAILABLE = True
+except ImportError:
+    PYTZ_AVAILABLE = False
+    print("WARNING: pytz not installed - will use UTC time (may cause date issues)")
+    print("Install with: pip install pytz")
 
 
 def scrape_rosetta_hall_events():
@@ -63,9 +71,14 @@ def parse_rosetta_hall_html(html):
     print(f"Found {len(title_elements)} potential event titles")
     
     events = []
-    # Use Mountain Time for Boulder events (GitHub Actions runs in UTC)
-    mountain_tz = pytz.timezone('America/Denver')
-    today = datetime.now(mountain_tz).date()
+    # Use Mountain Time if available, otherwise system time
+    if PYTZ_AVAILABLE:
+        mountain_tz = pytz.timezone('America/Denver')
+        today = datetime.now(mountain_tz).date()
+        print(f"Using Mountain Time: {datetime.now(mountain_tz).strftime('%Y-%m-%d %Z')}")
+    else:
+        today = datetime.now().date()
+        print(f"Using system time: {datetime.now().strftime('%Y-%m-%d')}")
     
     for title_elem in title_elements:
         try:
@@ -194,10 +207,18 @@ def parse_date_time(datetime_text):
         
         # Try to create a full date
         try:
-            # Use Mountain Time for current year/date comparison
-            mountain_tz = pytz.timezone('America/Denver')
-            current_year = datetime.now(mountain_tz).year
-            today_mountain = datetime.now(mountain_tz).date()
+            # Use Mountain Time if available, otherwise fall back to system time
+            if PYTZ_AVAILABLE:
+                mountain_tz = pytz.timezone('America/Denver')
+                current_year = datetime.now(mountain_tz).year
+                today_check = datetime.now(mountain_tz).date()
+                print(f"    DEBUG: Using Mountain Time: {datetime.now(mountain_tz).strftime('%Y-%m-%d %H:%M:%S %Z')}")
+            else:
+                current_year = datetime.now().year
+                today_check = datetime.now().date()
+                print(f"    DEBUG: Using system time (UTC?): {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+            
+            print(f"    DEBUG: Today: {today_check}")
             
             # Capitalize the month name
             month_capitalized = month.capitalize()
@@ -206,10 +227,15 @@ def parse_date_time(datetime_text):
             date_str = f"{month_capitalized} {day}, {current_year}"
             parsed_date = datetime.strptime(date_str, '%B %d, %Y').date()
             
+            print(f"    DEBUG: Parsed: {parsed_date}, Is past? {parsed_date < today_check}")
+            
             # If the date is in the past, use next year
-            if parsed_date < today_mountain:
+            if parsed_date < today_check:
                 date_str = f"{month_capitalized} {day}, {current_year + 1}"
                 parsed_date = datetime.strptime(date_str, '%B %d, %Y').date()
+                print(f"    DEBUG: ⚠️ Bumped to NEXT YEAR: {date_str}")
+            else:
+                print(f"    DEBUG: ✓ Keeping current year: {date_str}")
             
             result['date'] = date_str
             result['date_obj'] = parsed_date
