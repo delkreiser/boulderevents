@@ -1271,17 +1271,24 @@
             });
         }
         
-        // Mood button clicks
+        // Mood button clicks - Only one mood active at a time
         document.querySelectorAll('.mood-button').forEach(button => {
             button.addEventListener('click', () => {
                 const mood = button.dataset.mood;
-                if (activeFilters.mood.has(mood)) {
-                    activeFilters.mood.delete(mood);
+                const isCurrentlyActive = button.classList.contains('active');
+                
+                // If clicking the same mood, deactivate it
+                if (isCurrentlyActive) {
+                    activeFilters.mood.clear();
                     button.classList.remove('active');
                 } else {
+                    // Clear all other mood buttons and activate only this one
+                    document.querySelectorAll('.mood-button').forEach(b => b.classList.remove('active'));
+                    activeFilters.mood.clear();
                     activeFilters.mood.add(mood);
                     button.classList.add('active');
                 }
+                
                 activeFilters.exactTag = '';  // Clear exact tag filter
                 applyFilters();
                 scrollToResults();
