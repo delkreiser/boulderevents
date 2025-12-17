@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T06:24:25.888034",
-  "total_events": 168,
+  "generated_at": "2025-12-17T14:03:43.629862",
+  "total_events": 167,
   "tags": {
     "venues": [
       "300 Suns Brewing",
@@ -323,34 +323,6 @@
       ]
     },
     {
-      "id": "junkyard_social_club_drop_in_mahjongg_tuesdays_tuesday_december_16_2025_12_00_2_00_pm",
-      "title": "Drop-In Mahjongg \u2013 Tuesdays",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Tuesday, December 16, 2025",
-      "normalized_date": "2025-12-16T00:00:00",
-      "recurring": null,
-      "time": "12:00 - 2:00 PM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://junkyardsocialclub.org/drop-in-event/drop-in-mahjongg-tuesdays/",
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/08/Drop-In-MahJongg-Tuesday.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Dance",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Community"
-      ]
-    },
-    {
       "id": "junkyard_social_club_community_craft_night_wednesday_december_17_2025_6_00_8_30_pm",
       "title": "Community Craft Night",
       "venue": "Junkyard Social Club",
@@ -375,8 +347,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Community"
+        "Community",
+        "All Ages"
       ]
     },
     {
@@ -460,10 +432,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Educational",
         "Community",
-        "Music"
+        "Performance",
+        "Music",
+        "Educational"
       ]
     },
     {
@@ -491,10 +463,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Family Friendly",
         "Community",
-        "Music"
+        "Music",
+        "Family Friendly",
+        "All Ages"
       ]
     },
     {
@@ -523,9 +495,9 @@
       ],
       "event_type_tags": [
         "Performance",
+        "Music",
         "Family Friendly",
-        "All Ages",
-        "Music"
+        "All Ages"
       ]
     },
     {
@@ -553,9 +525,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Educational",
         "Community",
-        "Music"
+        "Music",
+        "Educational"
       ]
     },
     {
@@ -583,8 +555,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "Community",
+        "Performance",
         "Music"
       ]
     },
@@ -613,8 +585,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -642,8 +614,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "Community",
+        "Performance",
         "Music"
       ]
     },
@@ -672,10 +644,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "All Ages",
         "Community",
-        "Music"
+        "Performance",
+        "Music",
+        "All Ages"
       ]
     },
     {
@@ -703,9 +675,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
+        "Community",
         "Family Friendly",
-        "Community"
+        "All Ages"
       ]
     },
     {
@@ -734,10 +706,10 @@
       ],
       "event_type_tags": [
         "Music",
-        "All Ages",
+        "Community",
         "Family Friendly",
         "Performance",
-        "Community"
+        "All Ages"
       ]
     },
     {
@@ -821,8 +793,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "Community",
+        "Performance",
         "Music"
       ]
     },
@@ -851,8 +823,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "Community",
+        "Performance",
         "Music"
       ]
     },
@@ -2536,12 +2508,12 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_trident_author_series_barbara_caver_a_little_piece_of_cuba_december_16_2025_6_30_pm",
+      "id": "trident_booksellers_cafe_trident_author_series_barbara_caver_a_little_piece_of_cuba_december_16_2026_6_30_pm",
       "title": "Trident Author Series: Barbara Caver: A Little Piece of Cuba",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
-      "date": "December 16, 2025",
-      "normalized_date": "2025-12-16T00:00:00",
+      "date": "December 16, 2026",
+      "normalized_date": "2026-12-16T00:00:00",
       "recurring": null,
       "time": "6:30 PM",
       "description": "About Barbara:Barbara Caver grew up in South Carolina where singing in the church choir, writing in her notebook with her friend at recess, studying ballet, and performing in community theater were her first introductions to the art of storytelling.An adventurer at heart, Barbara moved to New York a...",
@@ -3611,12 +3583,12 @@
       ]
     },
     {
-      "id": "rosetta_hall_nomi_malik_december_16_2025_6_00_pm",
+      "id": "rosetta_hall_nomi_malik_december_16_2026_6_00_pm",
       "title": "NOMI MALIK",
       "venue": "Rosetta Hall",
       "location": "Boulder",
-      "date": "December 16, 2025",
-      "normalized_date": "2025-12-16T00:00:00",
+      "date": "December 16, 2026",
+      "normalized_date": "2026-12-16T00:00:00",
       "recurring": null,
       "time": "6:00 PM",
       "description": "COCKTAIL VOCALIST",
