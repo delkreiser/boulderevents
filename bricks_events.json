@@ -149,6 +149,28 @@
     ]
   },
   {
+    "link": "https://www.bricksretail.com/event-details/open-mic-night-2025-12-23-18-00",
+    "title": "Open Mic Night",
+    "date": "December 23, 2025",
+    "time": "6:00 PM - 8:00 PM",
+    "description": "Music open mic, sign up at 5:30, about 15 minute time slots, often runs till 8:30 or a little later but general timeline is 6-8. Come down and eat dinner and have drinks and enjoy the music community here!",
+    "image": "https://static.wixstatic.com/media/ea2d6f_62265f664f584370bdb46453a5b11e1e~mv2.png/v1/fill/w_400,h_400,al_c,q_85,enc_auto/ea2d6f_62265f664f584370bdb46453a5b11e1e~mv2.png",
+    "venue": "Bricks on Main",
+    "location": "Longmont",
+    "category": "Music",
+    "source_url": "https://www.bricksretail.com/events-calendar",
+    "event_type_tags": [
+      "Open Mic",
+      "Music",
+      "Community"
+    ],
+    "venue_type_tags": [
+      "Music Venue",
+      "Bar",
+      "Restaurant"
+    ]
+  },
+  {
     "link": "https://www.bricksretail.com/event-details/the-responders-oldies-band",
     "title": "The Responders Oldies Band",
     "date": "December 26, 2025",
@@ -292,5 +314,25 @@
       "Bar",
       "Restaurant"
     ]
+  },
+  {
+    "link": "https://www.bricksretail.com/event-details/aoxomoxoa",
+    "title": "AoxomoxoA",
+    "date": "January 09, 2026",
+    "time": "6:00 PM - 9:00 PM",
+    "venue": "Bricks on Main",
+    "location": "Longmont",
+    "category": "Music",
+    "source_url": "https://www.bricksretail.com/events-calendar",
+    "event_type_tags": [
+      "Live Music",
+      "Entertainment"
+    ],
+    "venue_type_tags": [
+      "Music Venue",
+      "Bar",
+      "Restaurant"
+    ],
+    "image": "bricks.jpg"
   }
 ]
