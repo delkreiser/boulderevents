@@ -7,7 +7,15 @@ import json
 from datetime import datetime
 import re
 from pathlib import Path
-import pytz
+
+# Try to use pytz for Mountain Time, fall back to UTC if not available
+try:
+    import pytz
+    PYTZ_AVAILABLE = True
+except ImportError:
+    PYTZ_AVAILABLE = False
+    print("Note: pytz not installed, using UTC time (may cause timezone issues)")
+    print("Install with: pip install pytz")
 
 
 class EventAggregator:
@@ -181,9 +189,13 @@ class EventAggregator:
     def aggregate_all_events(self):
         """Load and aggregate all events from all venues"""
         all_events = []
-        # Use Mountain Time for Colorado events (GitHub Actions runs in UTC)
-        mountain_tz = pytz.timezone('America/Denver')
-        today = datetime.now(mountain_tz).date()
+        
+        # Use Mountain Time for Colorado events if pytz is available
+        if PYTZ_AVAILABLE:
+            mountain_tz = pytz.timezone('America/Denver')
+            today = datetime.now(mountain_tz).date()
+        else:
+            today = datetime.now().date()  # Fall back to system time
         
         for venue_name, config in self.venue_configs.items():
             print(f"\nProcessing {venue_name}...")
