@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-17T00:50:16.173275",
+  "generated_at": "2025-12-17T01:00:38.330244",
   "total_events": 165,
   "tags": {
     "venues": [
@@ -346,8 +346,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "All Ages"
+        "All Ages",
+        "Community"
       ]
     },
     {
@@ -431,10 +431,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Educational",
         "Community",
-        "Performance",
-        "Music"
+        "Educational",
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -462,10 +462,10 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Family Friendly",
         "Community",
         "All Ages",
-        "Music",
-        "Family Friendly"
+        "Music"
       ]
     },
     {
@@ -493,10 +493,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
+        "Family Friendly",
         "All Ages",
         "Music",
-        "Family Friendly"
+        "Performance"
       ]
     },
     {
@@ -524,8 +524,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Educational",
         "Community",
+        "Educational",
         "Music"
       ]
     },
@@ -555,8 +555,8 @@
       ],
       "event_type_tags": [
         "Community",
-        "Performance",
-        "Music"
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -614,8 +614,8 @@
       ],
       "event_type_tags": [
         "Community",
-        "Performance",
-        "Music"
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -643,10 +643,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Performance",
         "All Ages",
-        "Music"
+        "Community",
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -674,9 +674,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Family Friendly",
         "Community",
-        "All Ages",
-        "Family Friendly"
+        "All Ages"
       ]
     },
     {
@@ -704,11 +704,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Music",
-        "Family Friendly",
+        "All Ages",
         "Community",
-        "All Ages"
+        "Family Friendly",
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -793,8 +793,8 @@
       ],
       "event_type_tags": [
         "Community",
-        "Performance",
-        "Music"
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -823,8 +823,8 @@
       ],
       "event_type_tags": [
         "Community",
-        "Performance",
-        "Music"
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -1115,14 +1115,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_trident_author_series_barbara_caver_a_little_piece_of_cuba_december_16_2026_66_30_pm",
+      "id": "trident_booksellers_cafe_trident_author_series_barbara_caver_a_little_piece_of_cuba_december_16_2026_6_30_pm",
       "title": "Trident Author Series: Barbara Caver: A Little Piece of Cuba",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "December 16, 2026",
       "normalized_date": "2026-12-16T00:00:00",
       "recurring": null,
-      "time": "66:30 PM",
+      "time": "6:30 PM",
       "description": "About Barbara:Barbara Caver grew up in South Carolina where singing in the church choir, writing in her notebook with her friend at recess, studying ballet, and performing in community theater were her first introductions to the art of storytelling.An adventurer at heart, Barbara moved to New York a...",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2025/12/16/trident-author-series-barbara-caver-a-little-piece-of-cuba",
@@ -1144,14 +1144,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_variety_show_and_now_featuring_december_18_2025_86_00_pm",
+      "id": "trident_booksellers_cafe_variety_show_and_now_featuring_december_18_2025_6_00_pm",
       "title": "Variety Show: And Now Featuring...",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "December 18, 2025",
       "normalized_date": "2025-12-18T00:00:00",
       "recurring": null,
-      "time": "86:00 PM",
+      "time": "6:00 PM",
       "description": "",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2025/12/18/variety-show-and-now-featuring",
@@ -1173,14 +1173,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_jackson_cloud_december_19_2025_96_00_pm",
+      "id": "trident_booksellers_cafe_jackson_cloud_december_19_2025_6_00_pm",
       "title": "Jackson Cloud",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "December 19, 2025",
       "normalized_date": "2025-12-19T00:00:00",
       "recurring": null,
-      "time": "96:00 PM",
+      "time": "6:00 PM",
       "description": "Jackson Cloud is a new alternative artist out of Boulder Colorado. His newest releases \"Twisted Faces\" (album) \"I Love You Sometimes\" and \"Let On\" (singles) are produced entirely by Cloud. \"Twisted Faces\" offer's a wide range of genres from synth heavy electronic tracks, melancholic melodies with to...",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2025/12/19/jackson-cloud",
@@ -1202,14 +1202,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_light_technics_friends_ambient_electronic_improv_december_20_2025_06_00_pm",
+      "id": "trident_booksellers_cafe_light_technics_friends_ambient_electronic_improv_december_20_2025_6_00_pm",
       "title": "Light Technics & Friends (Ambient & Electronic Improv)",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "December 20, 2025",
       "normalized_date": "2025-12-20T00:00:00",
       "recurring": null,
-      "time": "06:00 PM",
+      "time": "6:00 PM",
       "description": "Light Technics is the experimental alias and project of Ted Stevens. He will be playing some tunes from his upcoming album as well as improvisations. Joining him will be his bandmates; Protorhythm (Will Tyson) doing an improv analog techno set, and WEIRDer (Ryan Schlichtman) doing something of a sim...",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2025/12/17/light-technics-amp-friends-ambient-amp-electronic-improv",
@@ -1231,14 +1231,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_language_exchange_night_december_22_2025_27_00_pm",
+      "id": "trident_booksellers_cafe_language_exchange_night_december_22_2025_7_00_pm",
       "title": "Language Exchange Night",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "December 22, 2025",
       "normalized_date": "2025-12-22T00:00:00",
       "recurring": null,
-      "time": "27:00 PM",
+      "time": "7:00 PM",
       "description": "Free!Every Monday evening, 7-9p.m.All languages welcome. Facilitated by Kelvin Tavarez.",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-s7a5x-sfh87",
@@ -1260,14 +1260,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_language_exchange_night_december_29_2025_97_00_pm",
+      "id": "trident_booksellers_cafe_language_exchange_night_december_29_2025_7_00_pm",
       "title": "Language Exchange Night",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "December 29, 2025",
       "normalized_date": "2025-12-29T00:00:00",
       "recurring": null,
-      "time": "97:00 PM",
+      "time": "7:00 PM",
       "description": "Free!Every Monday evening, 7-9p.m.All languages welcome. Facilitated by Kelvin Tavarez.",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-s7a5x-brgdj",
@@ -1289,14 +1289,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_the_local_songwriter_experiment_january_26_2026_26_00_pm",
+      "id": "trident_booksellers_cafe_the_local_songwriter_experiment_january_26_2026_6_00_pm",
       "title": "The Local Songwriter Experiment",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "January 26, 2026",
       "normalized_date": "2026-01-26T00:00:00",
       "recurring": null,
-      "time": "26:00 PM",
+      "time": "6:00 PM",
       "description": "",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2026/1/2/the-local-songwriter-experiment",
@@ -1318,14 +1318,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_stryder_jones_fiona_liv_january_10_2026_06_00_pm",
+      "id": "trident_booksellers_cafe_stryder_jones_fiona_liv_january_10_2026_6_00_pm",
       "title": "Stryder Jones & Fiona Liv",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "January 10, 2026",
       "normalized_date": "2026-01-10T00:00:00",
       "recurring": null,
-      "time": "06:00 PM",
+      "time": "6:00 PM",
       "description": "",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2026/1/10/stryder-jones",
@@ -1347,14 +1347,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_language_exchange_night_january_12_2026_27_00_pm",
+      "id": "trident_booksellers_cafe_language_exchange_night_january_12_2026_7_00_pm",
       "title": "Language Exchange Night",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "January 12, 2026",
       "normalized_date": "2026-01-12T00:00:00",
       "recurring": null,
-      "time": "27:00 PM",
+      "time": "7:00 PM",
       "description": "Lively conversation for language learners, native speakers, and everyone in between. We regularly have 10+ languages spoken and always have spirited discussions!",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-s7a5x-brgdj-p3rzz-n7k33",
@@ -1376,14 +1376,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_trident_author_series_christina_rivera_my_oceans_january_13_2026_36_30_pm",
+      "id": "trident_booksellers_cafe_trident_author_series_christina_rivera_my_oceans_january_13_2026_6_30_pm",
       "title": "Trident Author Series: Christina Rivera - My Oceans",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "January 13, 2026",
       "normalized_date": "2026-01-13T00:00:00",
       "recurring": null,
-      "time": "36:30 PM",
+      "time": "6:30 PM",
       "description": "MY\u00a0OCEANSAn urgent\u00a0exploration of\u00a0caring & mothering on a planet in crisisIn a swell of sea-linked essays, Christina Rivera explores the kinship between marine animals, humans, and Earth\u2019s blue womb. Rivera\u2019s investigative questions begin with the toxic burden of her body and spiral out\u2014to a grievin...",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2026/1/13/trident-author-series-christina-rivera-my-oceans",
@@ -1405,14 +1405,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_foxes_float_trip_january_15_2026_56_00_pm",
+      "id": "trident_booksellers_cafe_foxes_float_trip_january_15_2026_6_00_pm",
       "title": "Foxes Float Trip",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "January 15, 2026",
       "normalized_date": "2026-01-15T00:00:00",
       "recurring": null,
-      "time": "56:00 PM",
+      "time": "6:00 PM",
       "description": "Foxes Float Trip is a jammy folk-punk trio led by Carly Fox, with Rex Weston on the cello and Steve Fox on percussion, bringing the haunted farmers market vibes\u00a0through Carly\u2019s\u00a0songs about hopes,\u00a0dreams, ghosts, and all the middle aged things \ufe0f",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2026/1/15/foxes-float-trip",
@@ -1434,14 +1434,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_climatique_january_16_2026_66_00_pm",
+      "id": "trident_booksellers_cafe_climatique_january_16_2026_6_00_pm",
       "title": "Climatique",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "January 16, 2026",
       "normalized_date": "2026-01-16T00:00:00",
       "recurring": null,
-      "time": "66:00 PM",
+      "time": "6:00 PM",
       "description": "",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2026/1/16/climatique",
@@ -1463,14 +1463,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_mercy_club_katie_mintle_trouble_s_braids_january_17_2026_76_00_pm",
+      "id": "trident_booksellers_cafe_mercy_club_katie_mintle_trouble_s_braids_january_17_2026_6_00_pm",
       "title": "Mercy Club / Katie Mintle / Trouble's Braids",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "January 17, 2026",
       "normalized_date": "2026-01-17T00:00:00",
       "recurring": null,
-      "time": "76:00 PM",
+      "time": "6:00 PM",
       "description": "Boulder County's own boisterous folk rock band Mercy Club is back at the Trident! Anchored in family harmony, singable melodies and accessible, honest lyrics, Mercy Club is a dynamic folk ensemble with a rock n' roll heart.",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2026/1/17/mercy-club-katie-mintle-troubles-braids",
@@ -1492,14 +1492,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_language_exchange_night_january_19_2026_97_00_pm",
+      "id": "trident_booksellers_cafe_language_exchange_night_january_19_2026_7_00_pm",
       "title": "Language Exchange Night",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "January 19, 2026",
       "normalized_date": "2026-01-19T00:00:00",
       "recurring": null,
-      "time": "97:00 PM",
+      "time": "7:00 PM",
       "description": "Lively conversation for language learners, native speakers, and everyone in between. We regularly have 10+ languages spoken and always have spirited discussions!",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-s7a5x-brgdj-p3rzz-yz36e",
@@ -1521,14 +1521,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_trident_author_series_valerie_neal_on_a_mission_the_smithsonian_history_of_us_women_astronauts_january_20_2026_06_30_pm",
+      "id": "trident_booksellers_cafe_trident_author_series_valerie_neal_on_a_mission_the_smithsonian_history_of_us_women_astronauts_january_20_2026_6_30_pm",
       "title": "Trident Author Series: Valerie Neal - On a Mission: The Smithsonian History of US Women Astronauts",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "January 20, 2026",
       "normalized_date": "2026-01-20T00:00:00",
       "recurring": null,
-      "time": "06:30 PM",
+      "time": "6:30 PM",
       "description": "This fall, Smithsonian Books publishedOn a Mission: The Smithsonian History of US Women Astronauts,a can\u2019t-miss book for space lovers that celebrates three generations of US women astronauts, including the challenges they\u2019ve faced and the significant contributions they\u2019ve made.Boulder resident Valer...",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2026/1/20/trident-author-series-valerie-neal-on-a-mission-the-smithsonian-history-of-us-women-astronauts",
@@ -1550,14 +1550,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_rodrigo_arreguin_january_21_2026_16_00_pm",
+      "id": "trident_booksellers_cafe_rodrigo_arreguin_january_21_2026_6_00_pm",
       "title": "Rodrigo Arreguin",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "January 21, 2026",
       "normalized_date": "2026-01-21T00:00:00",
       "recurring": null,
-      "time": "16:00 PM",
+      "time": "6:00 PM",
       "description": "",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2026/1/21/rodrigo-arreguin",
@@ -1579,14 +1579,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_trident_book_event_rachel_kushner_on_aesthetics_and_politics_in_conversation_with_benjamin_kunkel_january_22_2026_26_00_pm",
+      "id": "trident_booksellers_cafe_trident_book_event_rachel_kushner_on_aesthetics_and_politics_in_conversation_with_benjamin_kunkel_january_22_2026_6_00_pm",
       "title": "Trident Book Event: Rachel Kushner on Aesthetics and Politics, in Conversation with Benjamin Kunkel",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "January 22, 2026",
       "normalized_date": "2026-01-22T00:00:00",
       "recurring": null,
-      "time": "26:00 PM",
+      "time": "6:00 PM",
       "description": "Magic Mountain Talks presents:Rachel Kushneris the author of the novelsCREATION LAKE,THE MARS ROOM,THE FLAMETHROWERS, andTELEX FROM CUBA, a book of short stories,THE STRANGE CASE OF RACHEL K, andTHE\u00a0HARD CROWD: ESSAYS 2000-2020.\u00a0She has won the Prix M\u00e9dicis and been a finalist for the Booker Prize, ...",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2026/1/22/trident-book-event-rachel-kushner-on-aesthetics-and-politics-in-conversation-with-benjamin-kunkel",
@@ -1608,14 +1608,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_tom_andes_january_24_2026_46_00_pm",
+      "id": "trident_booksellers_cafe_tom_andes_january_24_2026_6_00_pm",
       "title": "Tom Andes",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "January 24, 2026",
       "normalized_date": "2026-01-24T00:00:00",
       "recurring": null,
-      "time": "46:00 PM",
+      "time": "6:00 PM",
       "description": "",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2026/1/24/tom-andes",
@@ -1637,14 +1637,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_language_exchange_night_january_26_2026_67_00_pm",
+      "id": "trident_booksellers_cafe_language_exchange_night_january_26_2026_7_00_pm",
       "title": "Language Exchange Night",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "January 26, 2026",
       "normalized_date": "2026-01-26T00:00:00",
       "recurring": null,
-      "time": "67:00 PM",
+      "time": "7:00 PM",
       "description": "Lively conversation for language learners, native speakers, and everyone in between. We regularly have 10+ languages spoken and always have spirited discussions!",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-s7a5x-brgdj-p3rzz-3fp7f",
@@ -1666,14 +1666,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_third_turn_jawa_january_30_2026_06_00_pm",
+      "id": "trident_booksellers_cafe_third_turn_jawa_january_30_2026_6_00_pm",
       "title": "Third Turn & Jawa",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "January 30, 2026",
       "normalized_date": "2026-01-30T00:00:00",
       "recurring": null,
-      "time": "06:00 PM",
+      "time": "6:00 PM",
       "description": "Three lefts makes it right, right? We\u2019re Third Turn, a three-piece jam group from Fort Collins, Colorado. We fuse rock, jazz, reggae, funk, disco, and more with our singer/songwriter style tunes, and throw in some tasteful covers as well. Each set is completely different so you\u2019ll never see anything...",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2026/1/30/third-turn-amp-jawa",
@@ -1695,14 +1695,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_language_exchange_night_february_27_2026_27_00_pm",
+      "id": "trident_booksellers_cafe_language_exchange_night_february_27_2026_7_00_pm",
       "title": "Language Exchange Night",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "February 27, 2026",
       "normalized_date": "2026-02-27T00:00:00",
       "recurring": null,
-      "time": "27:00 PM",
+      "time": "7:00 PM",
       "description": "Lively conversation for language learners, native speakers, and everyone in between. We regularly have 10+ languages spoken and always have spirited discussions!",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-s7a5x-brgdj-p3rzz-bg8wm",
@@ -1724,14 +1724,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_trident_author_series_amanda_mccracken_february_10_2026_06_30_pm",
+      "id": "trident_booksellers_cafe_trident_author_series_amanda_mccracken_february_10_2026_6_30_pm",
       "title": "Trident Author Series: Amanda McCracken",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "February 10, 2026",
       "normalized_date": "2026-02-10T00:00:00",
       "recurring": null,
-      "time": "06:30 PM",
+      "time": "6:30 PM",
       "description": "Author of the popular\u00a0New York Times\u00a0articles \"Is It a Crush or Have You Fallen Into Limerence?\" and \"Does My Virginity Have a Shelf Life?\" Amanda McCracken shares her honest, funny, and at times heartbreaking story of learning how to seek true love and intimacy.Journalist and late-in-life virgin Am...",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2026/2/10/trident-author-series-amanda-jane-mccracken",
@@ -1753,14 +1753,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_salads_sunbeams_february_13_2026_36_00_pm",
+      "id": "trident_booksellers_cafe_salads_sunbeams_february_13_2026_6_00_pm",
       "title": "Salads & Sunbeams",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "February 13, 2026",
       "normalized_date": "2026-02-13T00:00:00",
       "recurring": null,
-      "time": "36:00 PM",
+      "time": "6:00 PM",
       "description": "",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2026/2/13/salads-amp-sunbeams",
@@ -1782,14 +1782,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_language_exchange_night_february_16_2026_67_00_pm",
+      "id": "trident_booksellers_cafe_language_exchange_night_february_16_2026_7_00_pm",
       "title": "Language Exchange Night",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "February 16, 2026",
       "normalized_date": "2026-02-16T00:00:00",
       "recurring": null,
-      "time": "67:00 PM",
+      "time": "7:00 PM",
       "description": "Free!Every Monday evening, 7-9p.m.All languages welcome. Facilitated by Kelvin Tavarez.",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-s7a5x-brgdj-p3rzz-chz3z",
@@ -1811,14 +1811,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_trident_author_series_hilary_giovale_becoming_a_good_relative_february_17_2026_76_30_pm",
+      "id": "trident_booksellers_cafe_trident_author_series_hilary_giovale_becoming_a_good_relative_february_17_2026_6_30_pm",
       "title": "Trident Author Series: Hilary Giovale - Becoming a Good Relative",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "February 17, 2026",
       "normalized_date": "2026-02-17T00:00:00",
       "recurring": null,
-      "time": "76:30 PM",
+      "time": "6:30 PM",
       "description": "\u200b\u200bHilary Giovaleis a mother, writer, community organizer, and facilitator who lives on Hopi, Din\u00e9, Apache, and Havasupai land in Flagstaff, Arizona.\u00a0 A ninth-generation American settler, she is descended from Celtic, Germanic, Nordic, and Indigenous peoples of Ancient Europe.\u00a0 Hilary seeks to follow...",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2026/2/17/trident-author-series-hilary-giovale-becoming-a-good-relative",
@@ -1840,14 +1840,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_magic_mountain_author_series_february_19_2026_96_00_pm",
+      "id": "trident_booksellers_cafe_magic_mountain_author_series_february_19_2026_6_00_pm",
       "title": "Magic Mountain Author Series",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "February 19, 2026",
       "normalized_date": "2026-02-19T00:00:00",
       "recurring": null,
-      "time": "96:00 PM",
+      "time": "6:00 PM",
       "description": "",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2026/1/22/magic-mountain-author-series-8mflg",
@@ -1869,14 +1869,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_language_exchange_night_february_23_2026_37_00_pm",
+      "id": "trident_booksellers_cafe_language_exchange_night_february_23_2026_7_00_pm",
       "title": "Language Exchange Night",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "February 23, 2026",
       "normalized_date": "2026-02-23T00:00:00",
       "recurring": null,
-      "time": "37:00 PM",
+      "time": "7:00 PM",
       "description": "Lively conversation for language learners, native speakers, and everyone in between. We regularly have 10+ languages spoken and always have spirited discussions!",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-s7a5x-brgdj-p3rzz-3b9ns",
@@ -1898,14 +1898,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_mud_marrow_february_28_2026_86_00_pm",
+      "id": "trident_booksellers_cafe_mud_marrow_february_28_2026_6_00_pm",
       "title": "Mud & Marrow",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "February 28, 2026",
       "normalized_date": "2026-02-28T00:00:00",
       "recurring": null,
-      "time": "86:00 PM",
+      "time": "6:00 PM",
       "description": "mud & marrowis an eco-feminist world-folk band from Denver, Colorado who intertwine\u00a0West African percussion, thick vocal harmonies, and political consciousness, with a vibe similar to Rising Appalachia. Their songwriting is all original and with revolutionary intent; their music is invigorating for ...",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2026/2/28/mud-amp-marrow",
@@ -1927,14 +1927,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_language_exchange_night_march_27_2026_27_00_pm",
+      "id": "trident_booksellers_cafe_language_exchange_night_march_27_2026_7_00_pm",
       "title": "Language Exchange Night",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "March 27, 2026",
       "normalized_date": "2026-03-27T00:00:00",
       "recurring": null,
-      "time": "27:00 PM",
+      "time": "7:00 PM",
       "description": "Lively conversation for language learners, native speakers, and everyone in between. We regularly have 10+ languages spoken and always have spirited discussions!",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-s7a5x-brgdj-p3rzz-kbhrm",
@@ -1956,14 +1956,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_trident_poet_series_khadijah_queen_between_the_devil_the_deep_blue_sea_a_veteran_s_memoir_march_10_2026_06_30_pm",
+      "id": "trident_booksellers_cafe_trident_poet_series_khadijah_queen_between_the_devil_the_deep_blue_sea_a_veteran_s_memoir_march_10_2026_6_30_pm",
       "title": "Trident Poet Series: Khadijah Queen - BETWEEN THE DEVIL & THE DEEP BLUE SEA - A Veteran's Memoir",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "March 10, 2026",
       "normalized_date": "2026-03-10T00:00:00",
       "recurring": null,
-      "time": "06:30 PM",
+      "time": "6:30 PM",
       "description": "A book of criticism,Radical \u200bPoetics: Essays on Literature & Culture, was published by the Poets on Poetry Series at University of Michigan Press in January 2025. With K. Ibura, she co-editedInfinite Constellations(FC2 2023), an anthology of speculative writing by authors from the global majority. H...",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2026/3/10/trident-poet-series-khadijah-queen-between-the-devil-amp-the-deep-blue-sea-a-veterans-memoir",
@@ -1985,14 +1985,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_trident_film_series_boulder_county_film_commission_film_support_group_march_11_2026_16_30_pm",
+      "id": "trident_booksellers_cafe_trident_film_series_boulder_county_film_commission_film_support_group_march_11_2026_6_30_pm",
       "title": "Trident Film Series: Boulder County Film Commission Film Support Group",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "March 11, 2026",
       "normalized_date": "2026-03-11T00:00:00",
       "recurring": null,
-      "time": "16:30 PM",
+      "time": "6:30 PM",
       "description": "Filmmaker Support GroupSponsored by the Boulder County Film Commission, these free events are designed to provide creative support for Boulder-area filmmakers! Maybe you'd like some feedback on a project you're working on, or perhaps you're stuck and need an idea for how to transition from this to t...",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2026/3/11/trident-film-series-boulder-county-film-commission-film-support-group",
@@ -2014,14 +2014,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_language_exchange_night_march_16_2026_67_00_pm",
+      "id": "trident_booksellers_cafe_language_exchange_night_march_16_2026_7_00_pm",
       "title": "Language Exchange Night",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "March 16, 2026",
       "normalized_date": "2026-03-16T00:00:00",
       "recurring": null,
-      "time": "67:00 PM",
+      "time": "7:00 PM",
       "description": "Lively conversation for language learners, native speakers, and everyone in between. We regularly have 10+ languages spoken and always have spirited discussions!",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-s7a5x-brgdj-p3rzz-kbhrm-8nzgb",
@@ -2043,14 +2043,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_tident_book_event_tony_tulathimutte_in_conversation_with_hermione_hoby_march_19_2026_96_00_pm",
+      "id": "trident_booksellers_cafe_tident_book_event_tony_tulathimutte_in_conversation_with_hermione_hoby_march_19_2026_6_00_pm",
       "title": "Tident Book Event: Tony Tulathimutte, in Conversation with Hermione Hoby",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "March 19, 2026",
       "normalized_date": "2026-03-19T00:00:00",
       "recurring": null,
-      "time": "96:00 PM",
+      "time": "6:00 PM",
       "description": "Magic Mountain Talks presents:Tony Tulathimutteis the author ofPrivate CitizensandRejection, which was longlisted for the National Book Award. He\u2019s received a Whiting Award and an O. Henry Award, and has written forThe Paris Review, N+1, The New York Times, The Nation,and others. He also runs CRIT, ...",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2026/3/19/tident-books-tony-tulathimutte-in-conversation-with-hermione-hoby",
@@ -2072,14 +2072,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_language_exchange_night_march_23_2026_37_00_pm",
+      "id": "trident_booksellers_cafe_language_exchange_night_march_23_2026_7_00_pm",
       "title": "Language Exchange Night",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "March 23, 2026",
       "normalized_date": "2026-03-23T00:00:00",
       "recurring": null,
-      "time": "37:00 PM",
+      "time": "7:00 PM",
       "description": "Lively conversation for language learners, native speakers, and everyone in between. We regularly have 10+ languages spoken and always have spirited discussions!",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-s7a5x-brgdj-p3rzz-kbhrm-5ehej",
@@ -2101,14 +2101,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_language_exchange_night_march_30_2026_07_00_pm",
+      "id": "trident_booksellers_cafe_language_exchange_night_march_30_2026_7_00_pm",
       "title": "Language Exchange Night",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "March 30, 2026",
       "normalized_date": "2026-03-30T00:00:00",
       "recurring": null,
-      "time": "07:00 PM",
+      "time": "7:00 PM",
       "description": "Free!Every Monday evening, 7-9p.m.All languages welcome. Facilitated by Kelvin Tavarez.",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-s7a5x-brgdj-8cwgk",
@@ -2130,14 +2130,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_trouble_s_braids_april_10_2026_06_00_pm",
+      "id": "trident_booksellers_cafe_trouble_s_braids_april_10_2026_6_00_pm",
       "title": "Trouble's Braids",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "April 10, 2026",
       "normalized_date": "2026-04-10T00:00:00",
       "recurring": null,
-      "time": "06:00 PM",
+      "time": "6:00 PM",
       "description": "",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2026/4/10/troubles-braids",
@@ -2159,14 +2159,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_language_exchange_night_april_13_2026_37_00_pm",
+      "id": "trident_booksellers_cafe_language_exchange_night_april_13_2026_7_00_pm",
       "title": "Language Exchange Night",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "April 13, 2026",
       "normalized_date": "2026-04-13T00:00:00",
       "recurring": null,
-      "time": "37:00 PM",
+      "time": "7:00 PM",
       "description": "Free!Every Monday evening, 7-9p.m.All languages welcome. Facilitated by Kelvin Tavarez.",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-s7a5x-brgdj-6jtkx-xycdn",
@@ -2188,14 +2188,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_magic_mountain_author_series_april_16_2026_66_00_pm",
+      "id": "trident_booksellers_cafe_magic_mountain_author_series_april_16_2026_6_00_pm",
       "title": "Magic Mountain Author Series",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "April 16, 2026",
       "normalized_date": "2026-04-16T00:00:00",
       "recurring": null,
-      "time": "66:00 PM",
+      "time": "6:00 PM",
       "description": "",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2026/1/22/magic-mountain-author-series-pe62t",
@@ -2217,14 +2217,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_language_exchange_night_april_20_2026_07_00_pm",
+      "id": "trident_booksellers_cafe_language_exchange_night_april_20_2026_7_00_pm",
       "title": "Language Exchange Night",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "April 20, 2026",
       "normalized_date": "2026-04-20T00:00:00",
       "recurring": null,
-      "time": "07:00 PM",
+      "time": "7:00 PM",
       "description": "Lively conversation for language learners, native speakers, and everyone in between. We regularly have 10+ languages spoken and always have spirited discussions!",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-s7a5x-brgdj-p3rzz-kbhrm-8nzgb-gkn83",
@@ -2246,14 +2246,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_trident_author_series_michael_sowder_sacred_letters_sanskrit_yoga_and_awakening_the_divine_april_21_2026_16_30_pm",
+      "id": "trident_booksellers_cafe_trident_author_series_michael_sowder_sacred_letters_sanskrit_yoga_and_awakening_the_divine_april_21_2026_6_30_pm",
       "title": "Trident Author Series: Michael Sowder - Sacred Letters:  Sanskrit, Yoga, and Awakening the Divine",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "April 21, 2026",
       "normalized_date": "2026-04-21T00:00:00",
       "recurring": null,
-      "time": "16:30 PM",
+      "time": "6:30 PM",
       "description": "",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2026/4/28/trident-author-series-michael-sowder-sacred-letters-sanskrit-yoga-and-awakening-the-divine",
@@ -2275,14 +2275,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_language_exchange_night_april_27_2026_77_00_pm",
+      "id": "trident_booksellers_cafe_language_exchange_night_april_27_2026_7_00_pm",
       "title": "Language Exchange Night",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "April 27, 2026",
       "normalized_date": "2026-04-27T00:00:00",
       "recurring": null,
-      "time": "77:00 PM",
+      "time": "7:00 PM",
       "description": "Lively conversation for language learners, native speakers, and everyone in between. We regularly have 10+ languages spoken and always have spirited discussions!",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-s7a5x-brgdj-6jtkx-pwzma",
@@ -2304,14 +2304,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_the_local_songwriter_experiment_may_16_2026_16_00_pm",
+      "id": "trident_booksellers_cafe_the_local_songwriter_experiment_may_16_2026_6_00_pm",
       "title": "The Local Songwriter Experiment",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "May 16, 2026",
       "normalized_date": "2026-05-16T00:00:00",
       "recurring": null,
-      "time": "16:00 PM",
+      "time": "6:00 PM",
       "description": "",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2026/1/2/the-local-songwriter-experiment-26p68-2z6wa",
@@ -2333,14 +2333,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_language_exchange_night_may_11_2026_17_00_pm",
+      "id": "trident_booksellers_cafe_language_exchange_night_may_11_2026_7_00_pm",
       "title": "Language Exchange Night",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "May 11, 2026",
       "normalized_date": "2026-05-11T00:00:00",
       "recurring": null,
-      "time": "17:00 PM",
+      "time": "7:00 PM",
       "description": "Free!Every Monday evening, 7-9p.m.All languages welcome. Facilitated by Kelvin Tavarez.",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-s7a5x-brgdj-6jtkx-pwzma-es6f9",
@@ -2362,14 +2362,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_language_exchange_night_may_18_2026_87_00_pm",
+      "id": "trident_booksellers_cafe_language_exchange_night_may_18_2026_7_00_pm",
       "title": "Language Exchange Night",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "May 18, 2026",
       "normalized_date": "2026-05-18T00:00:00",
       "recurring": null,
-      "time": "87:00 PM",
+      "time": "7:00 PM",
       "description": "Free!Every Monday evening, 7-9p.m.All languages welcome. Facilitated by Kelvin Tavarez.",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-s7a5x-brgdj-6jtkx-pwzma-syw95",
@@ -2391,14 +2391,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_magic_mountain_author_series_may_21_2026_16_00_pm",
+      "id": "trident_booksellers_cafe_magic_mountain_author_series_may_21_2026_6_00_pm",
       "title": "Magic Mountain Author Series",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "May 21, 2026",
       "normalized_date": "2026-05-21T00:00:00",
       "recurring": null,
-      "time": "16:00 PM",
+      "time": "6:00 PM",
       "description": "",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2026/1/22/magic-mountain-author-series-t9lzf",
@@ -2420,14 +2420,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_trident_book_event_paul_reitter_on_translating_marx_s_capital_in_conversation_with_arne_h_cker_may_21_2026_16_00_pm",
+      "id": "trident_booksellers_cafe_trident_book_event_paul_reitter_on_translating_marx_s_capital_in_conversation_with_arne_h_cker_may_21_2026_6_00_pm",
       "title": "Trident Book Event: Paul Reitter on Translating Marx\u2019s Capital, in Conversation with Arne H\u00f6cker",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "May 21, 2026",
       "normalized_date": "2026-05-21T00:00:00",
       "recurring": null,
-      "time": "16:00 PM",
+      "time": "6:00 PM",
       "description": "Magic Mountain Talks presents:Paul Reitteris Professor in German Languages and Literatures at The Ohio State University. He is the author ofBambi\u2019s Jewish Roots and Other Essays on German-Jewish Culture(Bloomsbury, 2015),On the Origins of Jewish Self-Hatred(Princeton, 2012), andThe Anti-Journalist: ...",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2026/5/21/trident-book-event-paul-reitter-on-translating-marxs-capital-in-conversation-with-arne-hcker",
@@ -2449,14 +2449,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_language_exchange_night_may_25_2026_57_00_pm",
+      "id": "trident_booksellers_cafe_language_exchange_night_may_25_2026_7_00_pm",
       "title": "Language Exchange Night",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "May 25, 2026",
       "normalized_date": "2026-05-25T00:00:00",
       "recurring": null,
-      "time": "57:00 PM",
+      "time": "7:00 PM",
       "description": "Free!Every Monday evening, 7-9p.m.All languages welcome. Facilitated by Kelvin Tavarez.",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-s7a5x-brgdj-6jtkx-pwzma-2dpfy",
@@ -2478,14 +2478,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_language_exchange_night_june_17_2026_17_00_pm",
+      "id": "trident_booksellers_cafe_language_exchange_night_june_17_2026_7_00_pm",
       "title": "Language Exchange Night",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "June 17, 2026",
       "normalized_date": "2026-06-17T00:00:00",
       "recurring": null,
-      "time": "17:00 PM",
+      "time": "7:00 PM",
       "description": "Free!Every Monday evening, 7-9p.m.All languages welcome. Facilitated by Kelvin Tavarez.",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-s7a5x-brgdj-6jtkx-pwzma-ex96d",
@@ -2507,14 +2507,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_magic_mountain_author_series_june_18_2026_86_00_pm",
+      "id": "trident_booksellers_cafe_magic_mountain_author_series_june_18_2026_6_00_pm",
       "title": "Magic Mountain Author Series",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "June 18, 2026",
       "normalized_date": "2026-06-18T00:00:00",
       "recurring": null,
-      "time": "86:00 PM",
+      "time": "6:00 PM",
       "description": "",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2026/1/22/magic-mountain-author-series-6m6eb",
@@ -2536,14 +2536,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_language_exchange_night_december_15_2026_57_00_pm",
+      "id": "trident_booksellers_cafe_language_exchange_night_december_15_2026_7_00_pm",
       "title": "Language Exchange Night",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "December 15, 2026",
       "normalized_date": "2026-12-15T00:00:00",
       "recurring": null,
-      "time": "57:00 PM",
+      "time": "7:00 PM",
       "description": "Free!Every Monday evening, 7-9p.m.All languages welcome. Facilitated by Kelvin Tavarez.",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-s7a5x-sb4ks",
@@ -2565,14 +2565,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_death_cafe_a_conversation_on_dealing_with_death_december_14_2026_42_00_pm",
+      "id": "trident_booksellers_cafe_death_cafe_a_conversation_on_dealing_with_death_december_14_2026_2_00_pm",
       "title": "Death Cafe: A Conversation On Dealing with Death",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "December 14, 2026",
       "normalized_date": "2026-12-14T00:00:00",
       "recurring": null,
-      "time": "42:00 PM",
+      "time": "2:00 PM",
       "description": "",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2025/12/14/death-cafe-a-conversation-on-dealing-with-death",
@@ -2594,14 +2594,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_jazzetry_w_von_disco_december_13_2026_36_00_pm",
+      "id": "trident_booksellers_cafe_jazzetry_w_von_disco_december_13_2026_6_00_pm",
       "title": "Jazzetry W/ Von Disco",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "December 13, 2026",
       "normalized_date": "2026-12-13T00:00:00",
       "recurring": null,
-      "time": "36:00 PM",
+      "time": "6:00 PM",
       "description": "",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2025/9/13/jazzetry-w-von-disco-5w3sd-rrblg",
@@ -2623,14 +2623,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_duncan_coker_december_11_2026_16_00_pm",
+      "id": "trident_booksellers_cafe_duncan_coker_december_11_2026_6_00_pm",
       "title": "Duncan Coker",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "December 11, 2026",
       "normalized_date": "2026-12-11T00:00:00",
       "recurring": null,
-      "time": "16:00 PM",
+      "time": "6:00 PM",
       "description": "Duncan Coker is an unrepentant balladeer from the Colorado piedmont, with a voice that carries. Solo or with his band, he brings a western swagger that lands like leather boots on barnwood and brass.",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2025/12/11/duncan-coker",
@@ -2652,14 +2652,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_boulder_county_film_commission_filmmaker_support_group_december_10_2026_06_30_pm",
+      "id": "trident_booksellers_cafe_boulder_county_film_commission_filmmaker_support_group_december_10_2026_6_30_pm",
       "title": "Boulder County Film Commission: Filmmaker Support Group",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "December 10, 2026",
       "normalized_date": "2026-12-10T00:00:00",
       "recurring": null,
-      "time": "06:30 PM",
+      "time": "6:30 PM",
       "description": "Sponsored by the Boulder County Film Commission, these free events are designed to provide creative support for Boulder-area filmmakers! Maybe you'd like some feedback on a project you're working on, or perhaps you're stuck and need an idea for how to transition from this to that, or - well, you get...",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2025/12/10/boulder-county-film-commission-filmmaker-support-group",
@@ -2681,14 +2681,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_trident_poet_series_reed_bye_and_mike_parker_december_26_2025_26_30_pm",
+      "id": "trident_booksellers_cafe_trident_poet_series_reed_bye_and_mike_parker_december_26_2025_6_30_pm",
       "title": "Trident Poet Series: Reed Bye and Mike Parker",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "December 26, 2025",
       "normalized_date": "2025-12-26T00:00:00",
       "recurring": null,
-      "time": "26:30 PM",
+      "time": "6:30 PM",
       "description": "Reed Bye\u2019s most recent poetry collections includeEarth\u2019s Hollow Breathing; Morning Rites;andAddled Smoke Material:Collaborative Poemswith Jack Collom 1972-2017. He has new album of original songs,Down Here. He is Professor Emeritus at Naropa University where he served on the core faculty of the Jack...",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2025/12/2/trident-poet-series-reed-bye-and-mike-parker",
@@ -2710,14 +2710,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_language_exchange_night_december_17_2025_17_00_pm",
+      "id": "trident_booksellers_cafe_language_exchange_night_december_17_2025_7_00_pm",
       "title": "Language Exchange Night",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "December 17, 2025",
       "normalized_date": "2025-12-17T00:00:00",
       "recurring": null,
-      "time": "17:00 PM",
+      "time": "7:00 PM",
       "description": "Free!Every Monday evening, 7-9p.m.All languages welcome. Facilitated by Kelvin Tavarez.",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-e82fb",
@@ -2739,14 +2739,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_bethylovelight_justin_roots_november_29_2026_96_00_pm",
+      "id": "trident_booksellers_cafe_bethylovelight_justin_roots_november_29_2026_6_00_pm",
       "title": "BethyLoveLight & Justin Roots",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "November 29, 2026",
       "normalized_date": "2026-11-29T00:00:00",
       "recurring": null,
-      "time": "96:00 PM",
+      "time": "6:00 PM",
       "description": "BethyLoveLight is an intergalactic star-rockin' musician who loves to rock out for Truth, beauty, goodness and the One Love! Living as a multifaceted artist, she composes, records and co-produces all of her original audio creations.\u00a0 BethyLoveLight offers a stellar variety of music from angelic down...",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2025/11/7/third-turn",
@@ -2768,14 +2768,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_language_exchange_night_november_24_2026_47_00_pm",
+      "id": "trident_booksellers_cafe_language_exchange_night_november_24_2026_7_00_pm",
       "title": "Language Exchange Night",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "November 24, 2026",
       "normalized_date": "2026-11-24T00:00:00",
       "recurring": null,
-      "time": "47:00 PM",
+      "time": "7:00 PM",
       "description": "Free!Every Monday evening, 7-9p.m.All languages welcome. Facilitated by Kelvin Tavarez.",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-p95zc-n2als-t7axs-4fcl2",
@@ -2797,14 +2797,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_skyote_november_23_2026_36_00_pm",
+      "id": "trident_booksellers_cafe_skyote_november_23_2026_6_00_pm",
       "title": "Skyote",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "November 23, 2026",
       "normalized_date": "2026-11-23T00:00:00",
       "recurring": null,
-      "time": "36:00 PM",
+      "time": "6:00 PM",
       "description": "",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2025/11/23/taciturn",
@@ -2826,14 +2826,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_emily_barnes_november_22_2026_26_00_pm",
+      "id": "trident_booksellers_cafe_emily_barnes_november_22_2026_6_00_pm",
       "title": "Emily Barnes",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "November 22, 2026",
       "normalized_date": "2026-11-22T00:00:00",
       "recurring": null,
-      "time": "26:00 PM",
+      "time": "6:00 PM",
       "description": "Emily Barnes is a contemporary folk singer-songwriter known for her haunting voice and vividly drawn characters. Hailing from the tiny town of Johnsonburg, NJ, she\u2019s built a grassroots following through heartfelt performances and honest storytelling. With four albums to her name\u2014including her latest...",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2025/11/22/emily-barnes",
@@ -2855,14 +2855,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_randy_miles_martin_balgach_micki_balder_november_21_2026_16_00_pm",
+      "id": "trident_booksellers_cafe_randy_miles_martin_balgach_micki_balder_november_21_2026_6_00_pm",
       "title": "Randy Miles / Martin Balgach / Micki Balder",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "November 21, 2026",
       "normalized_date": "2026-11-21T00:00:00",
       "recurring": null,
-      "time": "16:00 PM",
+      "time": "6:00 PM",
       "description": "Randy Miles is an Alt-folk artist hailing from New England and now rooted in Louisville, CO. After two decades of playing and touring in bands up and down the East Coast, he\u2019s turned inward to craft his first solo album. Set to release in the spring of 2026, the project blends his love for the rustl...",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2025/11/21/randy-miles-martin-balgach-ian-huschle",
@@ -2884,14 +2884,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_boulder_skimo_kickoff_party_november_20_2026_05_00_pm",
+      "id": "trident_booksellers_cafe_boulder_skimo_kickoff_party_november_20_2026_5_00_pm",
       "title": "Boulder Skimo Kickoff Party",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "November 20, 2026",
       "normalized_date": "2026-11-20T00:00:00",
       "recurring": null,
-      "time": "05:00 PM",
+      "time": "5:00 PM",
       "description": "Join us for the Boulder Skimo Kickoff Party on the Back Patio!",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2025/11/20/boulder-skimo-kickoff-party",
@@ -2913,14 +2913,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_kings_of_oblivion_november_19_2026_96_00_pm",
+      "id": "trident_booksellers_cafe_kings_of_oblivion_november_19_2026_6_00_pm",
       "title": "Kings Of Oblivion",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "November 19, 2026",
       "normalized_date": "2026-11-19T00:00:00",
       "recurring": null,
-      "time": "96:00 PM",
+      "time": "6:00 PM",
       "description": "Kings of Oblivion will be playing:Amid all this talk of kings, no kings, and careless flings, come on out and listen to Kings of Oblivion play a distorted collection of folk, rock, and jazz tunes. There will be originals, deep covers, and occasional classic tunes of angst, destruction, quiet despera...",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2025/11/19/wysh-seidman",
@@ -2942,14 +2942,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_trident_author_series_heather_snodgrass_a_love_letter_to_reading_november_18_2026_86_30_pm",
+      "id": "trident_booksellers_cafe_trident_author_series_heather_snodgrass_a_love_letter_to_reading_november_18_2026_6_30_pm",
       "title": "Trident Author Series: Heather Snodgrass - A Love Letter to Reading",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "November 18, 2026",
       "normalized_date": "2026-11-18T00:00:00",
       "recurring": null,
-      "time": "86:30 PM",
+      "time": "6:30 PM",
       "description": "A Love Letter to Readingis a genre-blending literary thriller that follows Ariana Rossi, a skilled assassin raised in a morally corrupt crime family. By day, she\u2019s a compassionate pediatric oncology nurse. By night, she operates as the elusive \"Scorpion,\" executing high-profile targets in choreograp...",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2025/11/18/trident-author-series-heather-snodgrass-a-love-letter-to-reading",
@@ -2971,14 +2971,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_language_exchange_night_november_17_2026_77_00_pm",
+      "id": "trident_booksellers_cafe_language_exchange_night_november_17_2026_7_00_pm",
       "title": "Language Exchange Night",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "November 17, 2026",
       "normalized_date": "2026-11-17T00:00:00",
       "recurring": null,
-      "time": "77:00 PM",
+      "time": "7:00 PM",
       "description": "Free!Every Monday evening, 7-9p.m.All languages welcome. Facilitated by Kelvin Tavarez.",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-p95zc-n2als-t7axs",
@@ -3000,14 +3000,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_frog_and_the_faultline_november_16_2026_65_00_pm",
+      "id": "trident_booksellers_cafe_frog_and_the_faultline_november_16_2026_5_00_pm",
       "title": "Frog and the Faultline",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "November 16, 2026",
       "normalized_date": "2026-11-16T00:00:00",
       "recurring": null,
-      "time": "65:00 PM",
+      "time": "5:00 PM",
       "description": "Frog and the Faultline, a soft-spoken musical partnership between two friends, was born on a cool San Francisco morning after a long night in the city. They cured their morning bleariness with delicate harmonies and acoustic guitars, and were surprised by how easily the music seemed to flow. They co...",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2025/11/16/frog-and-the-faultline",
@@ -3029,14 +3029,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_blue_pink_little_shoe_november_15_2026_56_00_pm",
+      "id": "trident_booksellers_cafe_blue_pink_little_shoe_november_15_2026_6_00_pm",
       "title": "Blue Pink Little Shoe",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "November 15, 2026",
       "normalized_date": "2026-11-15T00:00:00",
       "recurring": null,
-      "time": "56:00 PM",
+      "time": "6:00 PM",
       "description": "\u201cConsisting of four likeminded sonic searchers, Blue Pink Little Shoe steps on the line between intention and happenstance and then runs in the opposite direction. One can never know what hidden timbres might emerge from a session. Unpredictable as they are consistent, melodic as they are chaotic, e...",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2025/11/15/blue-pink-little-shoe",
@@ -3058,14 +3058,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_static_parade_an_mfa_reading_november_14_2026_46_00_pm",
+      "id": "trident_booksellers_cafe_static_parade_an_mfa_reading_november_14_2026_6_00_pm",
       "title": "Static Parade: An MFA Reading",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "November 14, 2026",
       "normalized_date": "2026-11-14T00:00:00",
       "recurring": null,
-      "time": "46:00 PM",
+      "time": "6:00 PM",
       "description": "",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2025/11/12/static-parade-an-mfa-reading",
@@ -3087,14 +3087,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_chanthing_ambient_set_november_13_2026_36_00_pm",
+      "id": "trident_booksellers_cafe_chanthing_ambient_set_november_13_2026_6_00_pm",
       "title": "Chanthing: Ambient Set",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "November 13, 2026",
       "normalized_date": "2026-11-13T00:00:00",
       "recurring": null,
-      "time": "36:00 PM",
+      "time": "6:00 PM",
       "description": "chanthing is a Boulder retiree weaving ambient soundscapes with a modular synthesizer dominantly composed of units from Mutable Instruments. He draws his inspiration from classic electronic musicians like Tangerine Dream, Kraftwerk, Robert Fripp, and Brian Eno, as well as from the natural world. He ...",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2025/11/13/chanthing-ambient-set",
@@ -3116,14 +3116,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_bombay_gin_november_12_2026_26_00_pm",
+      "id": "trident_booksellers_cafe_bombay_gin_november_12_2026_6_00_pm",
       "title": "Bombay Gin",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "November 12, 2026",
       "normalized_date": "2026-11-12T00:00:00",
       "recurring": null,
-      "time": "26:00 PM",
+      "time": "6:00 PM",
       "description": "",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2025/11/12/bombay-gin",
@@ -3145,14 +3145,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_trident_author_series_eddie_ahn_advocate_graphic_memoir_november_11_2026_16_30_pm",
+      "id": "trident_booksellers_cafe_trident_author_series_eddie_ahn_advocate_graphic_memoir_november_11_2026_6_30_pm",
       "title": "Trident Author Series: Eddie Ahn - Advocate (Graphic Memoir)",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "November 11, 2026",
       "normalized_date": "2026-11-11T00:00:00",
       "recurring": null,
-      "time": "16:30 PM",
+      "time": "6:30 PM",
       "description": "About Eddie:Eddie Ahn is the author and artist of \"Advocate,\" the national bestseller graphic memoir published by Penguin Random House in 2024, and he has worked as an environmental justice attorney and nonprofit worker for fifteen years. While working as the executive director of Brightline Defense...",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2025/11/11/trident-author-series-eddie-anh-advocate-graphic-memoir",
@@ -3174,14 +3174,14 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_language_exchange_night_november_10_2026_07_00_pm",
+      "id": "trident_booksellers_cafe_language_exchange_night_november_10_2026_7_00_pm",
       "title": "Language Exchange Night",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "November 10, 2026",
       "normalized_date": "2026-11-10T00:00:00",
       "recurring": null,
-      "time": "07:00 PM",
+      "time": "7:00 PM",
       "description": "Free!Every Monday evening, 7-9p.m.All languages welcome. Facilitated by Kelvin Tavarez.",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-p95zc-n2als",
