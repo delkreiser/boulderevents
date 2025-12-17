@@ -1,11 +1,10 @@
 {
-  "generated_at": "2025-12-17T00:36:14.961749",
-  "total_events": 170,
+  "generated_at": "2025-12-17T00:50:16.173275",
+  "total_events": 165,
   "tags": {
     "venues": [
       "300 Suns Brewing",
       "Bricks on Main",
-      "Gold Hill Inn",
       "Jungle",
       "Junkyard Social Club",
       "License No 1",
@@ -22,7 +21,6 @@
     "locations": [
       "Boulder",
       "Denver",
-      "Gold Hill",
       "Longmont"
     ],
     "venue_types": [
@@ -39,7 +37,6 @@
       "Entertainment",
       "Family Friendly",
       "Food & Drink",
-      "Historic",
       "Hotel",
       "Literary",
       "Live Music",
@@ -47,7 +44,6 @@
       "Nightlife",
       "Performance",
       "Pub",
-      "Restaurant",
       "Retail",
       "Upscale"
     ],
@@ -350,8 +346,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Community"
+        "Community",
+        "All Ages"
       ]
     },
     {
@@ -435,10 +431,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "Educational",
-        "Music",
-        "Community"
+        "Community",
+        "Performance",
+        "Music"
       ]
     },
     {
@@ -466,10 +462,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
+        "Community",
         "All Ages",
         "Music",
-        "Community"
+        "Family Friendly"
       ]
     },
     {
@@ -529,8 +525,8 @@
       ],
       "event_type_tags": [
         "Educational",
-        "Music",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
@@ -558,9 +554,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Community",
         "Performance",
-        "Music",
-        "Community"
+        "Music"
       ]
     },
     {
@@ -588,8 +584,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -617,9 +613,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Community",
         "Performance",
-        "Music",
-        "Community"
+        "Music"
       ]
     },
     {
@@ -647,10 +643,10 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Community",
         "Performance",
         "All Ages",
-        "Music",
-        "Community"
+        "Music"
       ]
     },
     {
@@ -678,9 +674,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
+        "Community",
         "All Ages",
-        "Community"
+        "Family Friendly"
       ]
     },
     {
@@ -709,10 +705,10 @@
       ],
       "event_type_tags": [
         "Performance",
+        "Music",
         "Family Friendly",
         "Community",
-        "All Ages",
-        "Music"
+        "All Ages"
       ]
     },
     {
@@ -796,9 +792,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Community",
         "Performance",
-        "Music",
-        "Community"
+        "Music"
       ]
     },
     {
@@ -826,9 +822,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Community",
         "Performance",
-        "Music",
-        "Community"
+        "Music"
       ]
     },
     {
@@ -3741,136 +3737,6 @@
       ]
     },
     {
-      "id": "gold_hill_inn_bonnie_taylor_sims_w_bear_hat_december_19_2025_7_30_pm",
-      "title": "Bonnie & Taylor Sims w/Bear Hat",
-      "venue": "Gold Hill Inn",
-      "location": "Gold Hill",
-      "date": "December 19, 2025",
-      "normalized_date": "2025-12-19T00:00:00",
-      "recurring": null,
-      "time": "7:30 PM",
-      "description": "Americana/Bluegrass - It's a Holiday Concert and Dance With Bonnie & Taylor Sims and Bear Hat in the Big Room! Doors at 6 p.m. $20 Advance Tickets for music. $25 cash at door Day of Show.$20 Cash Light Buffet 6 - 8 p.m.Purchase Advance Tickets",
-      "additional_info": "",
-      "link": "https://www.goldhillinn.com/music/",
-      "image": "goldhillinn.jpg",
-      "source_url": "https://www.goldhillinn.com/music/",
-      "age_restriction": "21+",
-      "venue_tag": "Gold Hill Inn",
-      "location_tag": "Gold Hill",
-      "venue_type_tags": [
-        "Live Music",
-        "Restaurant",
-        "Historic"
-      ],
-      "event_type_tags": [
-        "Live Music"
-      ]
-    },
-    {
-      "id": "gold_hill_inn_daniel_rodriguez_w_emma_rose_december_20_2025_7_30_pm",
-      "title": "Daniel Rodriguez w/Emma Rose",
-      "venue": "Gold Hill Inn",
-      "location": "Gold Hill",
-      "date": "December 20, 2025",
-      "normalized_date": "2025-12-20T00:00:00",
-      "recurring": null,
-      "time": "7:30 PM",
-      "description": "Folk/Rock - Gold Hill Inn presents a special holiday show with Daniel Rodriguez and Emma RoseDoors open 6 p.m.Light dinner buffet for $20 cash from 6-7:30 p.m.Purchase Advance Tickets",
-      "additional_info": "",
-      "link": "https://www.goldhillinn.com/music/",
-      "image": "goldhillinn.jpg",
-      "source_url": "https://www.goldhillinn.com/music/",
-      "age_restriction": "21+",
-      "venue_tag": "Gold Hill Inn",
-      "location_tag": "Gold Hill",
-      "venue_type_tags": [
-        "Live Music",
-        "Restaurant",
-        "Historic"
-      ],
-      "event_type_tags": [
-        "Live Music"
-      ]
-    },
-    {
-      "id": "gold_hill_inn_gregory_alan_isakov_reed_foehl_december_21_2025_7_30_pm",
-      "title": "Gregory Alan Isakov & Reed Foehl",
-      "venue": "Gold Hill Inn",
-      "location": "Gold Hill",
-      "date": "December 21, 2025",
-      "normalized_date": "2025-12-21T00:00:00",
-      "recurring": null,
-      "time": "7:30 PM",
-      "description": "Folk - Sold Out!Gregory Alan Isakov andReed Foehlreturn to the Gold Hill Inn this December 21st & 22nd!Doors at 6 p.m. - Music at 7:30 p.m.We will be serving a light dinner buffet 6-7:30 p.m.$20 cash for buffet",
-      "additional_info": "",
-      "link": "https://www.goldhillinn.com/music/",
-      "image": "goldhillinn.jpg",
-      "source_url": "https://www.goldhillinn.com/music/",
-      "age_restriction": "21+",
-      "venue_tag": "Gold Hill Inn",
-      "location_tag": "Gold Hill",
-      "venue_type_tags": [
-        "Live Music",
-        "Restaurant",
-        "Historic"
-      ],
-      "event_type_tags": [
-        "Live Music"
-      ]
-    },
-    {
-      "id": "gold_hill_inn_gregory_alan_isakov_reed_foehl_december_22_2025_7_30_pm",
-      "title": "Gregory Alan Isakov & Reed Foehl",
-      "venue": "Gold Hill Inn",
-      "location": "Gold Hill",
-      "date": "December 22, 2025",
-      "normalized_date": "2025-12-22T00:00:00",
-      "recurring": null,
-      "time": "7:30 PM",
-      "description": "Folk - Sold Out!Gregory Alan Isakov andReed Foehlreturn to the Gold Hill Inn this December 21st & 22nd!Doors at 6 p.m. - Music at 7:30 p.m.We will be serving a light dinner buffet 6-7:30 p.m.$20 cash for buffet",
-      "additional_info": "",
-      "link": "https://www.goldhillinn.com/music/",
-      "image": "goldhillinn.jpg",
-      "source_url": "https://www.goldhillinn.com/music/",
-      "age_restriction": "21+",
-      "venue_tag": "Gold Hill Inn",
-      "location_tag": "Gold Hill",
-      "venue_type_tags": [
-        "Live Music",
-        "Restaurant",
-        "Historic"
-      ],
-      "event_type_tags": [
-        "Live Music"
-      ]
-    },
-    {
-      "id": "gold_hill_inn_new_year_s_eve_dance_party_december_31_2025_7_00_pm",
-      "title": "New Year's Eve Dance Party",
-      "venue": "Gold Hill Inn",
-      "location": "Gold Hill",
-      "date": "December 31, 2025",
-      "normalized_date": "2025-12-31T00:00:00",
-      "recurring": null,
-      "time": "7:00 PM",
-      "description": "NYE 2024 - Gold Hill Inn PresentsA New Years Eve Dance Party!Featuring:The Clay Rose Bandw/ Taylor Sims, Jeb Bows, Scott Coulter and Adam PerrySpecial GuestsThe Poudre Valley PlayboysDoors 7 p.m.Music 8 p.m.We will serve a light dinner buffet 7- 9 p.m.Tickets are $53 which includes Music, Food, Champagne at Mi...",
-      "additional_info": "",
-      "link": "https://www.goldhillinn.com/music/",
-      "image": "goldhillinn.jpg",
-      "source_url": "https://www.goldhillinn.com/music/",
-      "age_restriction": "21+",
-      "venue_tag": "Gold Hill Inn",
-      "location_tag": "Gold Hill",
-      "venue_type_tags": [
-        "Live Music",
-        "Restaurant",
-        "Historic"
-      ],
-      "event_type_tags": [
-        "Live Music"
-      ]
-    },
-    {
       "id": "300_suns_brewing_john_mieras_ugly_sweater_december_18_2025_6_00_8_00_pm",
       "title": "John Mieras/Ugly Sweater",
       "venue": "300 Suns Brewing",
@@ -3994,7 +3860,7 @@
       "description": "Take the Bricks Main Stage ... you're the headliner!",
       "additional_info": "",
       "link": "https://www.bricksretail.com/event-details/karaoke-night-2025-12-17-18-00",
-      "image": "https://static.wixstatic.com/media/0f3cdb_cc11739aca8043a8a8cbdf5cdc8f3661~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/0f3cdb_cc11739aca8043a8a8cbdf5cdc8f3661~mv2.jpg",
+      "image": "https://static.wixstatic.com/media/0f3cdb_cc11739aca8043a8a8cbdf5cdc8f3661~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/0f3cdb_cc11739aca8043a8a8cbdf5cdc8f3661~mv2.jpg",
       "source_url": "https://www.bricksretail.com/events-calendar",
       "age_restriction": null,
       "venue_tag": "Bricks on Main",
@@ -4022,7 +3888,7 @@
       "description": "Colorado folk duo Jenny and Tim Ostdiek bring a rare mix of heart and humor to the stage. Their soulful harmonies and thoughtful songwriting move effortlessly between joy and introspection, drawing listeners into a space of warmth and connection.",
       "additional_info": "",
       "link": "https://www.bricksretail.com/event-details/tim-jenny-ostdiek",
-      "image": "https://static.wixstatic.com/media/ea2d6f_5e7d87d7d97d4c57b067869c3eccd119~mv2.jpeg/v1/fill/w_147,h_110,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/ea2d6f_5e7d87d7d97d4c57b067869c3eccd119~mv2.jpeg",
+      "image": "https://static.wixstatic.com/media/ea2d6f_5e7d87d7d97d4c57b067869c3eccd119~mv2.jpeg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_5e7d87d7d97d4c57b067869c3eccd119~mv2.jpeg",
       "source_url": "https://www.bricksretail.com/events-calendar",
       "age_restriction": null,
       "venue_tag": "Bricks on Main",
@@ -4049,7 +3915,7 @@
       "description": "The Saints is a seven-piece band that has a real New Orleans feel.  We play funk, R&B, soul, and rock, both original tunes and cover songs. We cover music by popular artists like Prince, Jon Cleary, the Neville Brothers, Tina Turner, and Aretha Franklin, as well as newer artists.",
       "additional_info": "",
       "link": "https://www.bricksretail.com/event-details/the-saints-6",
-      "image": "https://static.wixstatic.com/media/ea2d6f_98aec6e04acd4f47acc032d4fae35948~mv2.jpeg/v1/fill/w_147,h_83,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/ea2d6f_98aec6e04acd4f47acc032d4fae35948~mv2.jpeg",
+      "image": "https://static.wixstatic.com/media/ea2d6f_98aec6e04acd4f47acc032d4fae35948~mv2.jpeg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_98aec6e04acd4f47acc032d4fae35948~mv2.jpeg",
       "source_url": "https://www.bricksretail.com/events-calendar",
       "age_restriction": null,
       "venue_tag": "Bricks on Main",
@@ -4076,7 +3942,7 @@
       "description": "Join us for a festive day at the Winter Farm Market & Art Show!",
       "additional_info": "",
       "link": "https://www.bricksretail.com/event-details/farm-market-and-art-show",
-      "image": "https://static.wixstatic.com/media/ea2d6f_31732202645d4bfd9fd06602fe360d0e~mv2.jpg/v1/fill/w_147,h_190,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/ea2d6f_31732202645d4bfd9fd06602fe360d0e~mv2.jpg",
+      "image": "https://static.wixstatic.com/media/ea2d6f_31732202645d4bfd9fd06602fe360d0e~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_31732202645d4bfd9fd06602fe360d0e~mv2.jpg",
       "source_url": "https://www.bricksretail.com/events-calendar",
       "age_restriction": null,
       "venue_tag": "Bricks on Main",
@@ -4104,7 +3970,7 @@
       "description": "Rockin Horse is a variety Dance Band with high octane audience participation.",
       "additional_info": "",
       "link": "https://www.bricksretail.com/event-details/rockin-horse-4",
-      "image": "https://static.wixstatic.com/media/f119ff_522e2399016d4a648506d3f10e9b8a8c~mv2.jpeg/v1/fill/w_147,h_115,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f119ff_522e2399016d4a648506d3f10e9b8a8c~mv2.jpeg",
+      "image": "https://static.wixstatic.com/media/f119ff_522e2399016d4a648506d3f10e9b8a8c~mv2.jpeg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/f119ff_522e2399016d4a648506d3f10e9b8a8c~mv2.jpeg",
       "source_url": "https://www.bricksretail.com/events-calendar",
       "age_restriction": null,
       "venue_tag": "Bricks on Main",
@@ -4131,7 +3997,7 @@
       "description": "Get ready to swap your favorite holiday treats with fellow sweet lovers! Join us in person at Bricks on Main for a fun and tasty exchange. Bring your best cookies or sweets to share and discover delicious goodies from others. It's the perfect way to celebrate the season, meet new friends, and enjoy!",
       "additional_info": "",
       "link": "https://www.bricksretail.com/event-details/holiday-cookie-sweets-exchange-2",
-      "image": "https://static.wixstatic.com/media/ea2d6f_e4369d836fbf41649984ac7c73439075~mv2.jpg/v1/fill/w_144,h_96,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/ea2d6f_e4369d836fbf41649984ac7c73439075~mv2.jpg",
+      "image": "https://static.wixstatic.com/media/ea2d6f_e4369d836fbf41649984ac7c73439075~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_e4369d836fbf41649984ac7c73439075~mv2.jpg",
       "source_url": "https://www.bricksretail.com/events-calendar",
       "age_restriction": null,
       "venue_tag": "Bricks on Main",
@@ -4158,7 +4024,7 @@
       "description": "Oligarchy Ditch is Dave Simons, with a potential all-star cast of drop-ins from Longmont and beyond.",
       "additional_info": "",
       "link": "https://www.bricksretail.com/event-details/oligarchy-ditch-2",
-      "image": "https://static.wixstatic.com/media/ea2d6f_aea007abab6a4c1b8b8d86217a7b05ee~mv2.jpg/v1/fill/w_147,h_63,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/ea2d6f_aea007abab6a4c1b8b8d86217a7b05ee~mv2.jpg",
+      "image": "https://static.wixstatic.com/media/ea2d6f_aea007abab6a4c1b8b8d86217a7b05ee~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_aea007abab6a4c1b8b8d86217a7b05ee~mv2.jpg",
       "source_url": "https://www.bricksretail.com/events-calendar",
       "age_restriction": null,
       "venue_tag": "Bricks on Main",
@@ -4185,7 +4051,7 @@
       "description": "50's & 60's Rock n' Roll. The way it was meant to be played.",
       "additional_info": "",
       "link": "https://www.bricksretail.com/event-details/the-responders-oldies-band",
-      "image": "https://static.wixstatic.com/media/ea2d6f_77e4c03984a34bc6a3f3ef2edd18382a~mv2.jpg/v1/fill/w_147,h_104,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/ea2d6f_77e4c03984a34bc6a3f3ef2edd18382a~mv2.jpg",
+      "image": "https://static.wixstatic.com/media/ea2d6f_77e4c03984a34bc6a3f3ef2edd18382a~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_77e4c03984a34bc6a3f3ef2edd18382a~mv2.jpg",
       "source_url": "https://www.bricksretail.com/events-calendar",
       "age_restriction": null,
       "venue_tag": "Bricks on Main",
@@ -4212,7 +4078,7 @@
       "description": "Deborah Stafford & The Night Stalkers - Horn-driven Blues, Roots and Soul. This 8-piece band will get you shakin' it with their brand of original Soul & Blues, Come and dance with us.",
       "additional_info": "",
       "link": "https://www.bricksretail.com/event-details/deborah-stafford-the-night-stalkers",
-      "image": "https://static.wixstatic.com/media/ea2d6f_1d7eb7f042cb41179724d12bed17875e~mv2.jpg/v1/fill/w_147,h_133,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/ea2d6f_1d7eb7f042cb41179724d12bed17875e~mv2.jpg",
+      "image": "https://static.wixstatic.com/media/ea2d6f_1d7eb7f042cb41179724d12bed17875e~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_1d7eb7f042cb41179724d12bed17875e~mv2.jpg",
       "source_url": "https://www.bricksretail.com/events-calendar",
       "age_restriction": null,
       "venue_tag": "Bricks on Main",
@@ -4266,7 +4132,7 @@
       "description": "Celebrate early with us on New Year's Eve with AudioMedz! Dance the night away and enjoy some great food and drinks!",
       "additional_info": "",
       "link": "https://www.bricksretail.com/event-details/3rd-annual-audiomedz-before-the-ball-drops",
-      "image": "https://static.wixstatic.com/media/ea2d6f_60efbc47f1d540beaf809772cf9261a9~mv2.jpg/v1/fill/w_117,h_79,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/ea2d6f_60efbc47f1d540beaf809772cf9261a9~mv2.jpg",
+      "image": "https://static.wixstatic.com/media/ea2d6f_60efbc47f1d540beaf809772cf9261a9~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_60efbc47f1d540beaf809772cf9261a9~mv2.jpg",
       "source_url": "https://www.bricksretail.com/events-calendar",
       "age_restriction": null,
       "venue_tag": "Bricks on Main",
@@ -4293,7 +4159,7 @@
       "description": "Sugar Britches are a blend of mischievous and witty lyricists with eclectic and talented musicians from genres such as bluegrass, folk, rock and honky tonk.",
       "additional_info": "",
       "link": "https://www.bricksretail.com/event-details/sugar-britches-2",
-      "image": "https://static.wixstatic.com/media/ea2d6f_cf7b5e53baa74d4caaf6d628a38fd729~mv2.jpg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/ea2d6f_cf7b5e53baa74d4caaf6d628a38fd729~mv2.jpg",
+      "image": "https://static.wixstatic.com/media/ea2d6f_cf7b5e53baa74d4caaf6d628a38fd729~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_cf7b5e53baa74d4caaf6d628a38fd729~mv2.jpg",
       "source_url": "https://www.bricksretail.com/events-calendar",
       "age_restriction": null,
       "venue_tag": "Bricks on Main",
@@ -4320,7 +4186,7 @@
       "description": "",
       "additional_info": "",
       "link": "https://www.bricksretail.com/event-details/cat-jerky-5",
-      "image": "https://static.wixstatic.com/media/ea2d6f_fb55b72ba80b40a8aaed29790c9be694~mv2.jpeg/v1/fill/w_147,h_102,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/ea2d6f_fb55b72ba80b40a8aaed29790c9be694~mv2.jpeg",
+      "image": "https://static.wixstatic.com/media/ea2d6f_fb55b72ba80b40a8aaed29790c9be694~mv2.jpeg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_fb55b72ba80b40a8aaed29790c9be694~mv2.jpeg",
       "source_url": "https://www.bricksretail.com/events-calendar",
       "age_restriction": null,
       "venue_tag": "Bricks on Main",
@@ -4347,7 +4213,7 @@
       "description": "Asteria Jazz Collective is a dynamic ensemble led by the captivating vocalist Stephany Prodromos and masterful bassist and musical director John Sleet Johnson.",
       "additional_info": "",
       "link": "https://www.bricksretail.com/event-details/asteria-jazz-collective-9",
-      "image": "https://static.wixstatic.com/media/083345_a8b23c9c17a64db6a2a4eef2668adf9f~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/083345_a8b23c9c17a64db6a2a4eef2668adf9f~mv2.jpg",
+      "image": "https://static.wixstatic.com/media/083345_a8b23c9c17a64db6a2a4eef2668adf9f~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/083345_a8b23c9c17a64db6a2a4eef2668adf9f~mv2.jpg",
       "source_url": "https://www.bricksretail.com/events-calendar",
       "age_restriction": null,
       "venue_tag": "Bricks on Main",
