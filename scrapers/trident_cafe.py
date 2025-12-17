@@ -218,26 +218,31 @@ def parse_date_time(date_text):
             result['date'] = date_str
             result['date_obj'] = parsed_date
         
-        # Try to extract time - look for patterns like "2:00 PM" or "14:00"
-        time_match = re.search(r'(\d{1,2}):(\d{2})\s*(AM|PM)?', date_text, re.I)
-        if time_match:
-            hour = time_match.group(1)
-            minute = time_match.group(2)
-            meridiem = time_match.group(3)
+        # Try to extract time
+        # Strategy: Trident includes both 12-hour and 24-hour times like "2:00 PM14:00"
+        # Use the 24-hour time at the end for accuracy
+        time_match_24 = re.search(r'(\d{2}):(\d{2})$', date_text.strip())
+        if time_match_24:
+            hour_int = int(time_match_24.group(1))
+            minute = time_match_24.group(2)
             
-            if meridiem:
-                result['time'] = f"{hour}:{minute} {meridiem.upper()}"
+            # Convert 24-hour to 12-hour
+            if hour_int == 0:
+                result['time'] = f"12:{minute} AM"
+            elif hour_int < 12:
+                result['time'] = f"{hour_int}:{minute} AM"
+            elif hour_int == 12:
+                result['time'] = f"12:{minute} PM"
             else:
-                # Convert 24-hour to 12-hour
-                hour_int = int(hour)
-                if hour_int == 0:
-                    result['time'] = f"12:{minute} AM"
-                elif hour_int < 12:
-                    result['time'] = f"{hour}:{minute} AM"
-                elif hour_int == 12:
-                    result['time'] = f"12:{minute} PM"
-                else:
-                    result['time'] = f"{hour_int - 12}:{minute} PM"
+                result['time'] = f"{hour_int - 12}:{minute} PM"
+        else:
+            # Fall back to AM/PM time search
+            time_match = re.search(r'(\d{1,2}):(\d{2})\s*(AM|PM)', date_text, re.I)
+            if time_match:
+                hour = time_match.group(1)
+                minute = time_match.group(2)
+                meridiem = time_match.group(3)
+                result['time'] = f"{hour}:{minute} {meridiem.upper()}"
         
     except Exception as e:
         print(f"    Error parsing date '{date_text}': {e}")
