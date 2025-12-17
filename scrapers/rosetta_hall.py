@@ -10,6 +10,7 @@ from bs4 import BeautifulSoup
 import json
 import re
 from datetime import datetime, date
+import pytz
 
 
 def scrape_rosetta_hall_events():
@@ -62,7 +63,9 @@ def parse_rosetta_hall_html(html):
     print(f"Found {len(title_elements)} potential event titles")
     
     events = []
-    today = date.today()
+    # Use Mountain Time for Boulder events (GitHub Actions runs in UTC)
+    mountain_tz = pytz.timezone('America/Denver')
+    today = datetime.now(mountain_tz).date()
     
     for title_elem in title_elements:
         try:
@@ -191,7 +194,10 @@ def parse_date_time(datetime_text):
         
         # Try to create a full date
         try:
-            current_year = datetime.now().year
+            # Use Mountain Time for current year/date comparison
+            mountain_tz = pytz.timezone('America/Denver')
+            current_year = datetime.now(mountain_tz).year
+            today_mountain = datetime.now(mountain_tz).date()
             
             # Capitalize the month name
             month_capitalized = month.capitalize()
@@ -201,7 +207,7 @@ def parse_date_time(datetime_text):
             parsed_date = datetime.strptime(date_str, '%B %d, %Y').date()
             
             # If the date is in the past, use next year
-            if parsed_date < date.today():
+            if parsed_date < today_mountain:
                 date_str = f"{month_capitalized} {day}, {current_year + 1}"
                 parsed_date = datetime.strptime(date_str, '%B %d, %Y').date()
             
