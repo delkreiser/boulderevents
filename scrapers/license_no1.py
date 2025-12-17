@@ -7,6 +7,7 @@ Scrapes directly from calendar page HTML - simple and fast!
 import re
 import json
 from datetime import datetime, date
+import pytz
 from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup
 
@@ -74,7 +75,8 @@ def parse_calendar_html(html):
         print(f"Using upcoming_items instead")
     
     events = []
-    today = date.today()
+    mountain_tz = pytz.timezone('America/Denver')
+    today = datetime.now(mountain_tz).date()
     
     print(f"\nProcessing {len(event_items)} event items...")
     

@@ -10,6 +10,7 @@ from bs4 import BeautifulSoup
 import json
 import re
 from datetime import datetime, date
+import pytz
 
 
 def scrape_gold_hill_inn_events():
@@ -67,7 +68,8 @@ def parse_gold_hill_html(html):
     print(f"Found {len(event_containers)} event containers")
     
     events = []
-    today = date.today()
+    mountain_tz = pytz.timezone('America/Denver')
+    today = datetime.now(mountain_tz).date()
     
     for container in event_containers:
         try:

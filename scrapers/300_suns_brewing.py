@@ -10,6 +10,7 @@ from bs4 import BeautifulSoup
 import json
 import re
 from datetime import datetime, date
+import pytz
 
 
 def scrape_300_suns_events():
@@ -62,7 +63,8 @@ def parse_300_suns_html(html):
     print(f"Found {len(event_items)} event items")
     
     events = []
-    today = date.today()
+    mountain_tz = pytz.timezone('America/Denver')
+    today = datetime.now(mountain_tz).date()
     
     for item in event_items:
         try:
@@ -241,8 +243,10 @@ def parse_month_day_to_date(month_abbr, day):
     month_full = month_map.get(month_abbr, month_abbr)
     
     try:
-        current_year = datetime.now().year
-        current_date = date.today()
+        mountain_tz = pytz.timezone('America/Denver')
+            current_year = datetime.now(mountain_tz).year
+        mountain_tz = pytz.timezone('America/Denver')
+            current_date = datetime.now(mountain_tz).date()
         current_month = current_date.month
         
         # Parse the month number

@@ -10,6 +10,7 @@ from bs4 import BeautifulSoup
 import json
 import re
 from datetime import datetime, date
+import pytz
 
 
 def scrape_st_julien_events():
@@ -62,7 +63,8 @@ def parse_st_julien_html(html):
     print(f"Found {len(json_ld_scripts)} JSON-LD script tags")
     
     events = []
-    today = date.today()
+    mountain_tz = pytz.timezone('America/Denver')
+    today = datetime.now(mountain_tz).date()
     
     for script in json_ld_scripts:
         try:

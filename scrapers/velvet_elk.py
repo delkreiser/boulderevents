@@ -10,6 +10,7 @@ from bs4 import BeautifulSoup
 import json
 import re
 from datetime import datetime, date
+import pytz
 
 
 def scrape_velvet_elk_events():
@@ -56,7 +57,8 @@ def parse_velvet_elk_html(html):
     print(f"Found {len(event_links)} event cards")
     
     events = []
-    today = date.today()
+    mountain_tz = pytz.timezone('America/Denver')
+    today = datetime.now(mountain_tz).date()
     
     for link in event_links:
         aria_label = link.get('aria-label', '')
@@ -132,12 +134,13 @@ def parse_aria_label(aria_label, href=''):
         # Try to create a full date for filtering
         try:
             # Add current year
-            current_year = datetime.now().year
+            mountain_tz = pytz.timezone('America/Denver')
+            current_year = datetime.now(mountain_tz).year
             date_str = f"{month} {day}, {current_year}"
             parsed_date = datetime.strptime(date_str, '%B %d, %Y').date()
             
             # If the date is in the past, try next year
-            if parsed_date < date.today():
+            if parsed_date < datetime.now(mountain_tz).date():
                 date_str = f"{month} {day}, {current_year + 1}"
                 parsed_date = datetime.strptime(date_str, '%B %d, %Y').date()
             

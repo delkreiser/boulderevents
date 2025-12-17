@@ -9,6 +9,7 @@ import requests
 from bs4 import BeautifulSoup
 import json
 from datetime import datetime, date
+import pytz
 import re
 
 
@@ -52,7 +53,8 @@ def parse_bricks_html(html):
     print(f"Found {len(event_links)} event links")
     
     events = []
-    today = date.today()
+    mountain_tz = pytz.timezone('America/Denver')
+    today = datetime.now(mountain_tz).date()
     seen_titles = set()  # Avoid duplicates
     
     for link in event_links:

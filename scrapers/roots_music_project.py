@@ -10,6 +10,7 @@ from bs4 import BeautifulSoup
 import json
 import re
 from datetime import datetime, date
+import pytz
 
 
 def scrape_roots_music_events():
@@ -62,7 +63,8 @@ def parse_eventbrite_html(html):
     print(f"Found {len(json_ld_scripts)} JSON-LD script tags")
     
     events = []
-    today = date.today()
+    mountain_tz = pytz.timezone('America/Denver')
+    today = datetime.now(mountain_tz).date()
     seen_titles = set()  # Track titles to avoid duplicates
     
     for script in json_ld_scripts:

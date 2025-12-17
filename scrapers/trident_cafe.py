@@ -9,6 +9,7 @@ from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup
 import json
 from datetime import datetime, date
+import pytz
 import re
 
 
@@ -77,7 +78,8 @@ def parse_trident_html(html):
     print(f"Total event elements found: {len(event_elements)}")
     
     events = []
-    today = date.today()
+    mountain_tz = pytz.timezone('America/Denver')
+    today = datetime.now(mountain_tz).date()
     
     for element in event_elements:
         try:
@@ -204,8 +206,10 @@ def parse_date_time(date_text):
             month_full = month_map.get(month_str[:3], month_str)
             
             # Get current year and determine if we need next year
-            current_year = datetime.now().year
-            current_date = date.today()
+            mountain_tz = pytz.timezone('America/Denver')
+            current_year = datetime.now(mountain_tz).year
+            mountain_tz = pytz.timezone('America/Denver')
+            current_date = datetime.now(mountain_tz).date()
             
             date_str = f"{month_full} {day_str}, {current_year}"
             parsed_date = datetime.strptime(date_str, '%B %d, %Y').date()
