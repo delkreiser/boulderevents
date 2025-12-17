@@ -130,17 +130,42 @@ def parse_bricks_event_item(link, container):
             href = f"https://www.bricksretail.com{href}"
         event['link'] = href
     
-    # Title - Get text from link or nearby heading
-    title_text = link.get_text(strip=True)
+    # Get all text from container
+    all_text = container.get_text(separator='\n', strip=True)
+    lines = [l.strip() for l in all_text.split('\n') if l.strip()]
+    
+    # Find title - it's usually in a line with " / " separators
+    # Format: "Event Name / Location / Venue"
+    title_text = None
+    for line in lines:
+        # Look for lines with " / " that aren't dates
+        if ' / ' in line and not re.search(r'\d{1,2}:\d{2}\s+[AP]M', line):
+            # Split by " / " and take the first part
+            parts = [p.strip() for p in line.split(' / ')]
+            # Filter out location names
+            for part in parts:
+                if part.lower() not in ['bricks on main', 'miss krissy\'s bistro', 'longmont', '']:
+                    title_text = part
+                    break
+            if title_text:
+                break
+    
+    # If no title found with " / ", try other methods
     if not title_text:
-        # Try to find title in container
-        title_elem = container.find(['h2', 'h3', 'h4'])
-        if title_elem:
-            title_text = title_elem.get_text(strip=True)
+        for line in lines:
+            # Skip known non-title lines
+            if (line.lower() in ['learn more', 'multiple dates', 'longmont', 'bricks on main'] 
+                or re.search(r'[A-Z][a-z]{2}\s+\d{1,2},?\s+\d{4}', line)  # Date pattern
+                or re.search(r'\d{1,2}:\d{2}\s+[AP]M', line)  # Time pattern
+                or re.search(r'^(Mon|Tue|Wed|Thu|Fri|Sat|Sun),', line)  # Day of week
+                or len(line) < 3 or len(line) > 200):
+                continue
+            title_text = line
+            break
     
     if title_text and len(title_text) < 200:
-        # Clean up title - remove "Multiple Dates" prefix if present
-        title_text = re.sub(r'^Multiple Dates\s*', '', title_text)
+        # Clean up trailing slash and whitespace
+        title_text = re.sub(r'\s*/\s*$', '', title_text).strip()
         event['title'] = title_text
     else:
         return None
