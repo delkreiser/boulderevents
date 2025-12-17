@@ -125,6 +125,30 @@
             width: 100%;
         }
         
+        .search-clear-btn {
+            position: absolute;
+            right: 15px;
+            top: 50%;
+            transform: translateY(-50%);
+            background: none;
+            border: none;
+            font-size: 20px;
+            color: #999;
+            cursor: pointer;
+            padding: 5px 10px;
+            line-height: 1;
+            transition: color 0.2s ease;
+            z-index: 10;
+        }
+        
+        .search-clear-btn:hover {
+            color: #667eea;
+        }
+        
+        .search-clear-btn:active {
+            transform: translateY(-50%) scale(0.95);
+        }
+        
         .search-autocomplete {
             position: absolute;
             top: 100%;
@@ -991,6 +1015,7 @@
         <div class="search-section">
             <div class="search-container">
                 <input type="text" class="search-box" id="searchBox" placeholder="🔍 Search events by name, venue, or keyword...">
+                <button class="search-clear-btn" id="searchClearBtn" style="display: none;" aria-label="Clear search">✕</button>
                 <div class="search-autocomplete" id="searchAutocomplete"></div>
             </div>
         </div>
@@ -1311,16 +1336,19 @@
             
             const statusBanner = document.getElementById('statusBanner');
             
+            // Always show today's count, and if 0, also show this week's count
             if (todayEvents.length > 0) {
                 statusBanner.innerHTML = '🎉 <span class="status-count">' + todayEvents.length + '</span> <span id="statusText">events today!</span>';
             } else {
-                // Count events in next 7 days
+                // Count events in next 7 days (excluding today since we know it's 0)
+                const tomorrow = new Date(today);
+                tomorrow.setDate(tomorrow.getDate() + 1);
                 const weekEnd = new Date(today);
                 weekEnd.setDate(weekEnd.getDate() + 7);
                 const next7DaysEvents = allEvents.filter(event => {
                     if (!event.normalized_date) return false;
                     const eventDate = new Date(event.normalized_date);
-                    return eventDate >= today && eventDate <= weekEnd;
+                    return eventDate >= tomorrow && eventDate <= weekEnd;
                 });
                 statusBanner.innerHTML = '📅 <span class="status-count">' + next7DaysEvents.length + '</span> <span id="statusText">events this week!</span>';
             }
@@ -1347,12 +1375,60 @@
         // Search box
         // Search autocomplete
         const searchBox = document.getElementById('searchBox');
+        const searchClearBtn = document.getElementById('searchClearBtn');
         const autocompleteDropdown = document.getElementById('searchAutocomplete');
         let selectedIndex = -1;
         let autocompleteItems = [];
         
+        // Clear search function
+        function clearSearch() {
+            searchBox.value = '';
+            searchClearBtn.style.display = 'none';
+            hideAutocomplete();
+            activeFilters.search = '';
+            activeFilters.exactTag = '';
+            applyFilters();
+        }
+        
+        // Show/hide clear button based on input
+        function updateClearButton() {
+            searchClearBtn.style.display = searchBox.value.length > 0 ? 'block' : 'none';
+        }
+        
+        // Clear button click handler
+        searchClearBtn.addEventListener('click', () => {
+            clearSearch();
+            searchBox.focus();
+        });
+        
+        // IMPORTANT: Clear search box on page load/refresh (don't persist search)
+        searchBox.value = '';
+        updateClearButton();
+        
+        // Select all text when search box is focused (easier to replace text)
+        searchBox.addEventListener('focus', (e) => {
+            if (e.target.value.length > 0) {
+                e.target.select();
+            }
+        });
+        
+        // ESC key to clear search
+        searchBox.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') {
+                clearSearch();
+                searchBox.blur(); // Remove focus after clearing
+                return;
+            }
+            
+            // Continue with normal keyboard navigation...
+        });
+        
+        // Input event handler for search
         searchBox.addEventListener('input', (e) => {
             const query = e.target.value.trim();
+            
+            // Update clear button visibility
+            updateClearButton();
             
             if (query.length === 0) {
                 hideAutocomplete();
@@ -1377,8 +1453,13 @@
             applyFilters();
         });
         
-        // Handle keyboard navigation
+        // Handle keyboard navigation in autocomplete
         searchBox.addEventListener('keydown', (e) => {
+            // ESC was already handled above, skip it here
+            if (e.key === 'Escape') {
+                return;
+            }
+            
             const items = autocompleteDropdown.querySelectorAll('.autocomplete-item');
             
             if (e.key === 'ArrowDown') {
