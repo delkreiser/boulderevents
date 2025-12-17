@@ -7,6 +7,7 @@ import json
 from datetime import datetime
 import re
 from pathlib import Path
+import pytz
 
 
 class EventAggregator:
@@ -180,7 +181,9 @@ class EventAggregator:
     def aggregate_all_events(self):
         """Load and aggregate all events from all venues"""
         all_events = []
-        today = datetime.now().date()
+        # Use Mountain Time for Colorado events (GitHub Actions runs in UTC)
+        mountain_tz = pytz.timezone('America/Denver')
+        today = datetime.now(mountain_tz).date()
         
         for venue_name, config in self.venue_configs.items():
             print(f"\nProcessing {venue_name}...")
@@ -198,13 +201,13 @@ class EventAggregator:
                 # Normalize the date first
                 normalized_date = self.normalize_date(event)
                 
-                # Skip past events
+                # Skip past events (before today, but include today's events)
                 if normalized_date:
                     try:
                         event_date = datetime.fromisoformat(normalized_date).date()
                         if event_date < today:
                             print(f"  Skipping past event: {event.get('title', 'Unknown')} ({event.get('date')})")
-                            continue  # Skip past events
+                            continue  # Skip events before today
                     except Exception as e:
                         print(f"  Error parsing date for {event.get('title')}: {e}")
                         pass  # If parsing fails, include the event anyway
