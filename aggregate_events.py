@@ -123,6 +123,13 @@ class EventAggregator:
                     tags.add('Educational')
                 if 'Family Fun' in cat:
                     tags.add('Family Friendly')
+                if 'Games' in cat or 'Game' in cat:
+                    tags.add('Games')
+        
+        # Check title for game-related keywords
+        title = event.get('title', '').lower()
+        if any(keyword in title for keyword in ['game night', 'mahjongg', 'mah jongg', 'board game', 'puzzle', 'trivia']):
+            tags.add('Games')
         
         # Check category field (singular)
         if event.get('category'):

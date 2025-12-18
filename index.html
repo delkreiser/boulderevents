@@ -601,6 +601,10 @@
             background: linear-gradient(135deg, #30cfd0 0%, #330867 100%);
         }
         
+        .games-mood {
+            background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+        }
+        
         /* Quick Filters */
         .quick-filters {
             background: white;
@@ -1161,6 +1165,16 @@
                     </svg>
                     <div class="mood-count" id="artsCount"></div>
                 </button>
+                
+                <button class="mood-button games-mood" data-mood="games">
+                    <div class="mood-label">Games</div>
+                    <svg class="mood-icon" viewBox="0 0 24 24" fill="white" xmlns="http://www.w3.org/2000/svg">
+                        <g transform="matrix(0.00639141,0.0317543,-0.0317543,0.00639141,20.2193,1.37561)">
+                            <path d="M271.485,0L0,156.742L0,470.225L271.485,626.967L542.969,470.225L542.969,156.742L271.485,0ZM278.328,22.626L499.946,150.578L278.328,125.546L278.328,22.626ZM524.976,167.178L429.237,391.209L284.191,139.981L524.976,167.178ZM418.301,399.638L124.669,399.638L271.485,145.345L418.301,399.638ZM264.642,22.626L264.642,125.546L43.023,150.578L264.642,22.626ZM258.779,139.981L113.732,391.21L17.993,167.178L258.779,139.981ZM16.174,197.747L104.116,403.532L16.174,453.138L16.174,197.747ZM23.151,464.915L110.952,415.389L243.972,592.407L23.151,464.915ZM126.518,413.323L416.452,413.323L271.485,606.238L126.518,413.323ZM298.997,592.407L432.018,415.388L519.818,464.914L298.997,592.407ZM526.795,453.138L438.854,403.533L526.795,197.749L526.795,453.138Z" fill-rule="nonzero"/>
+                        </g>
+                    </svg>
+                    <div class="mood-count" id="gamesCount"></div>
+                </button>
             </div>
         </div>
         
@@ -1226,9 +1240,10 @@
             music: ['Music', 'Live Music', 'Dance/Music', 'Jazz'],
             party: ['Nightlife', '21+', 'DJ', 'Dance'],  // Removed 'Performance' and 'Dance/Music'
             learning: ['Educational', 'Books & Literary', 'Books', 'Literary', 'Cafe', 'Bookstore'],
-            family: ['All Ages', 'Family Friendly', 'Family Fun'],
+            family: ['All Ages', 'Family Friendly', 'Family Fun', 'Games'],  // Added 'Games'
             chill: ['Bar', 'Pub', 'Food & Drink', 'Brewery', 'Restaurant'],
-            arts: ['Arts', 'Performance', 'Community', 'Books & Literary', 'Historic', 'Comedy']
+            arts: ['Arts', 'Performance', 'Community', 'Books & Literary', 'Historic', 'Comedy'],
+            games: ['Games', 'Game Night', 'Board Games', 'Puzzles', 'Mahjongg']  // New games mood
         };
         
         // Load events

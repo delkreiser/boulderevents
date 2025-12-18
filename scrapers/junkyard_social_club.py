@@ -206,6 +206,15 @@ def parse_junkyard_event_card(card):
     if img_elem and img_elem.get('src'):
         event['image'] = img_elem['src']
     
+    # Add Games tag for game-related events
+    if event.get('title'):
+        title_lower = event['title'].lower()
+        if any(keyword in title_lower for keyword in ['mahjongg', 'mah jongg', 'game night', 'board game', 'puzzle']):
+            if 'categories' not in event:
+                event['categories'] = []
+            if 'Games' not in event['categories']:
+                event['categories'].append('Games')
+    
     return event if event.get('title') else None
 
 
