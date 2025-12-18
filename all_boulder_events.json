@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T14:03:43.629862",
-  "total_events": 167,
+  "generated_at": "2025-12-18T08:32:45.026669",
+  "total_events": 165,
   "tags": {
     "venues": [
       "300 Suns Brewing",
@@ -60,7 +60,6 @@
       "Family Friendly",
       "Hotel Events",
       "Jazz",
-      "Karaoke",
       "Live Music",
       "Market",
       "Music",
@@ -323,35 +322,6 @@
       ]
     },
     {
-      "id": "junkyard_social_club_community_craft_night_wednesday_december_17_2025_6_00_8_30_pm",
-      "title": "Community Craft Night",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Wednesday, December 17, 2025",
-      "normalized_date": "2025-12-17T00:00:00",
-      "recurring": null,
-      "time": "6:00 - 8:30 PM",
-      "description": "",
-      "additional_info": "All Ages are Welcome",
-      "link": "https://junkyardsocialclub.org/drop-in-event/community-craft-night/",
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/10/Community-Craft-Night.jpeg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": "All Ages",
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Dance",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Community",
-        "All Ages"
-      ]
-    },
-    {
       "id": "junkyard_social_club_drop_in_mahjongg_thursdays_thursday_december_18_2025_3_30_5_30_pm",
       "title": "Drop-In Mahjongg \u2013 Thursdays",
       "venue": "Junkyard Social Club",
@@ -433,9 +403,9 @@
       ],
       "event_type_tags": [
         "Community",
+        "Educational",
         "Performance",
-        "Music",
-        "Educational"
+        "Music"
       ]
     },
     {
@@ -464,9 +434,9 @@
       ],
       "event_type_tags": [
         "Community",
+        "All Ages",
         "Music",
-        "Family Friendly",
-        "All Ages"
+        "Family Friendly"
       ]
     },
     {
@@ -494,10 +464,10 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "All Ages",
         "Performance",
         "Music",
-        "Family Friendly",
-        "All Ages"
+        "Family Friendly"
       ]
     },
     {
@@ -526,8 +496,8 @@
       ],
       "event_type_tags": [
         "Community",
-        "Music",
-        "Educational"
+        "Educational",
+        "Music"
       ]
     },
     {
@@ -645,9 +615,9 @@
       ],
       "event_type_tags": [
         "Community",
+        "All Ages",
         "Performance",
-        "Music",
-        "All Ages"
+        "Music"
       ]
     },
     {
@@ -676,8 +646,8 @@
       ],
       "event_type_tags": [
         "Community",
-        "Family Friendly",
-        "All Ages"
+        "All Ages",
+        "Family Friendly"
       ]
     },
     {
@@ -707,9 +677,9 @@
       "event_type_tags": [
         "Music",
         "Community",
+        "All Ages",
         "Family Friendly",
-        "Performance",
-        "All Ages"
+        "Performance"
       ]
     },
     {
@@ -2711,12 +2681,12 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_language_exchange_night_december_17_2025_7_00_pm",
+      "id": "trident_booksellers_cafe_language_exchange_night_december_17_2026_7_00_pm",
       "title": "Language Exchange Night",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
-      "date": "December 17, 2025",
-      "normalized_date": "2025-12-17T00:00:00",
+      "date": "December 17, 2026",
+      "normalized_date": "2026-12-17T00:00:00",
       "recurring": null,
       "time": "7:00 PM",
       "description": "Free!Every Monday evening, 7-9p.m.All languages welcome. Facilitated by Kelvin Tavarez.",
@@ -3847,34 +3817,6 @@
         "Live Music",
         "Brewery",
         "Family Friendly"
-      ]
-    },
-    {
-      "id": "bricks_on_main_karaoke_night_december_17_2025_6_00_pm_8_00_pm",
-      "title": "Karaoke Night",
-      "venue": "Bricks on Main",
-      "location": "Longmont",
-      "date": "December 17, 2025",
-      "normalized_date": "2025-12-17T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM - 8:00 PM",
-      "description": "Take the Bricks Main Stage ... you're the headliner!",
-      "additional_info": "",
-      "link": "https://www.bricksretail.com/event-details/karaoke-night-2025-12-17-18-00",
-      "image": "https://static.wixstatic.com/media/0f3cdb_cc11739aca8043a8a8cbdf5cdc8f3661~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/0f3cdb_cc11739aca8043a8a8cbdf5cdc8f3661~mv2.jpg",
-      "source_url": "https://www.bricksretail.com/events-calendar",
-      "age_restriction": null,
-      "venue_tag": "Bricks on Main",
-      "location_tag": "Longmont",
-      "venue_type_tags": [
-        "Community",
-        "Retail",
-        "Entertainment"
-      ],
-      "event_type_tags": [
-        "Karaoke",
-        "Music",
-        "Entertainment"
       ]
     },
     {
