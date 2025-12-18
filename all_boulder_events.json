@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-18T08:32:45.026669",
+  "generated_at": "2025-12-18T14:07:31.219037",
   "total_events": 165,
   "tags": {
     "venues": [
@@ -58,6 +58,7 @@
       "Educational",
       "Entertainment",
       "Family Friendly",
+      "Games",
       "Hotel Events",
       "Jazz",
       "Live Music",
@@ -341,11 +342,11 @@
       "venue_type_tags": [
         "Community",
         "Arts",
-        "Dance",
         "Performance",
         "All Ages"
       ],
       "event_type_tags": [
+        "Games",
         "Community"
       ]
     },
@@ -369,7 +370,6 @@
       "venue_type_tags": [
         "Community",
         "Arts",
-        "Dance",
         "Performance",
         "All Ages"
       ],
@@ -397,14 +397,13 @@
       "venue_type_tags": [
         "Community",
         "Arts",
-        "Dance",
         "Performance",
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Educational",
         "Performance",
+        "Educational",
+        "Community",
         "Music"
       ]
     },
@@ -428,15 +427,14 @@
       "venue_type_tags": [
         "Community",
         "Arts",
-        "Dance",
         "Performance",
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "All Ages",
-        "Music",
-        "Family Friendly"
+        "Family Friendly",
+        "Community",
+        "Music"
       ]
     },
     {
@@ -459,15 +457,14 @@
       "venue_type_tags": [
         "Community",
         "Arts",
-        "Dance",
         "Performance",
         "All Ages"
       ],
       "event_type_tags": [
         "All Ages",
+        "Family Friendly",
         "Performance",
-        "Music",
-        "Family Friendly"
+        "Music"
       ]
     },
     {
@@ -490,13 +487,12 @@
       "venue_type_tags": [
         "Community",
         "Arts",
-        "Dance",
         "Performance",
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Educational",
+        "Community",
         "Music"
       ]
     },
@@ -520,13 +516,12 @@
       "venue_type_tags": [
         "Community",
         "Arts",
-        "Dance",
         "Performance",
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Performance",
+        "Community",
         "Music"
       ]
     },
@@ -550,13 +545,12 @@
       "venue_type_tags": [
         "Community",
         "Arts",
-        "Dance",
         "Performance",
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Performance"
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -579,13 +573,12 @@
       "venue_type_tags": [
         "Community",
         "Arts",
-        "Dance",
         "Performance",
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Performance",
+        "Community",
         "Music"
       ]
     },
@@ -609,14 +602,13 @@
       "venue_type_tags": [
         "Community",
         "Arts",
-        "Dance",
         "Performance",
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "All Ages",
         "Performance",
+        "Community",
         "Music"
       ]
     },
@@ -640,14 +632,14 @@
       "venue_type_tags": [
         "Community",
         "Arts",
-        "Dance",
         "Performance",
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "All Ages",
-        "Family Friendly"
+        "Games",
+        "Family Friendly",
+        "Community"
       ]
     },
     {
@@ -670,16 +662,15 @@
       "venue_type_tags": [
         "Community",
         "Arts",
-        "Dance",
         "Performance",
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "Community",
         "All Ages",
+        "Performance",
+        "Music",
         "Family Friendly",
-        "Performance"
+        "Community"
       ]
     },
     {
@@ -702,7 +693,6 @@
       "venue_type_tags": [
         "Community",
         "Arts",
-        "Dance",
         "Performance",
         "All Ages"
       ],
@@ -730,7 +720,6 @@
       "venue_type_tags": [
         "Community",
         "Arts",
-        "Dance",
         "Performance",
         "All Ages"
       ],
@@ -758,13 +747,12 @@
       "venue_type_tags": [
         "Community",
         "Arts",
-        "Dance",
         "Performance",
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Performance",
+        "Community",
         "Music"
       ]
     },
@@ -788,13 +776,12 @@
       "venue_type_tags": [
         "Community",
         "Arts",
-        "Dance",
         "Performance",
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Performance",
+        "Community",
         "Music"
       ]
     },
@@ -871,7 +858,9 @@
         "Bar",
         "Food & Drink"
       ],
-      "event_type_tags": []
+      "event_type_tags": [
+        "Games"
+      ]
     },
     {
       "id": "southern_sun_pub_the_bluegrass_pick_every_thursday_7_30_pm_9_30_pm",
