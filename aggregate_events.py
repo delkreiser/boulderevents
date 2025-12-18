@@ -31,7 +31,7 @@ class EventAggregator:
             },
             'Junkyard Social Club': {
                 'location': 'Boulder',
-                'tags': ['Community', 'Arts', 'Dance', 'Performance', 'All Ages'],
+                'tags': ['Community', 'Arts', 'Performance', 'All Ages'],  # Removed 'Dance' - not all events involve dancing
                 'scraper_output': 'junkyard_events.json'
             },
             'Mountain Sun Pubs': {
