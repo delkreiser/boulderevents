@@ -149,6 +149,28 @@
     ]
   },
   {
+    "link": "https://www.bricksretail.com/event-details/karaoke-night-2025-12-24-18-00",
+    "title": "Karaoke Night",
+    "date": "December 24, 2025",
+    "time": "6:00 PM - 8:00 PM",
+    "description": "Take the Bricks Main Stage ... you're the headliner!",
+    "image": "https://static.wixstatic.com/media/0f3cdb_cc11739aca8043a8a8cbdf5cdc8f3661~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/0f3cdb_cc11739aca8043a8a8cbdf5cdc8f3661~mv2.jpg",
+    "venue": "Bricks on Main",
+    "location": "Longmont",
+    "category": "Music",
+    "source_url": "https://www.bricksretail.com/events-calendar",
+    "event_type_tags": [
+      "Karaoke",
+      "Music",
+      "Entertainment"
+    ],
+    "venue_type_tags": [
+      "Music Venue",
+      "Bar",
+      "Restaurant"
+    ]
+  },
+  {
     "link": "https://www.bricksretail.com/event-details/the-responders-oldies-band",
     "title": "The Responders Oldies Band",
     "date": "December 26, 2025",
@@ -298,6 +320,26 @@
     "title": "AoxomoxoA",
     "date": "January 09, 2026",
     "time": "6:00 PM - 9:00 PM",
+    "venue": "Bricks on Main",
+    "location": "Longmont",
+    "category": "Music",
+    "source_url": "https://www.bricksretail.com/events-calendar",
+    "event_type_tags": [
+      "Live Music",
+      "Entertainment"
+    ],
+    "venue_type_tags": [
+      "Music Venue",
+      "Bar",
+      "Restaurant"
+    ],
+    "image": "bricks.jpg"
+  },
+  {
+    "link": "https://www.bricksretail.com/event-details/tony-and-earl",
+    "title": "Tony and Earl",
+    "date": "January 11, 2026",
+    "time": "5:00 PM - 8:00 PM",
     "venue": "Bricks on Main",
     "location": "Longmont",
     "category": "Music",

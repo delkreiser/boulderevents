@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T14:07:31.219037",
-  "total_events": 165,
+  "generated_at": "2025-12-18T18:33:15.123664",
+  "total_events": 177,
   "tags": {
     "venues": [
       "300 Suns Brewing",
@@ -61,6 +61,7 @@
       "Games",
       "Hotel Events",
       "Jazz",
+      "Karaoke",
       "Live Music",
       "Market",
       "Music",
@@ -401,10 +402,10 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Music",
         "Performance",
-        "Educational",
         "Community",
-        "Music"
+        "Educational"
       ]
     },
     {
@@ -432,9 +433,9 @@
       ],
       "event_type_tags": [
         "All Ages",
-        "Family Friendly",
+        "Music",
         "Community",
-        "Music"
+        "Family Friendly"
       ]
     },
     {
@@ -462,9 +463,9 @@
       ],
       "event_type_tags": [
         "All Ages",
+        "Music",
         "Family Friendly",
-        "Performance",
-        "Music"
+        "Performance"
       ]
     },
     {
@@ -491,9 +492,37 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Educational",
+        "Music",
         "Community",
-        "Music"
+        "Educational"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_drop_in_mahjongg_tuesdays_tuesday_december_23_2025_12_00_2_00_pm",
+      "title": "Drop-In Mahjongg \u2013 Tuesdays",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Tuesday, December 23, 2025",
+      "normalized_date": "2025-12-23T00:00:00",
+      "recurring": null,
+      "time": "12:00 - 2:00 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://junkyardsocialclub.org/drop-in-event/drop-in-mahjongg-tuesdays/",
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/08/Drop-In-MahJongg-Tuesday.jpg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": null,
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Games",
+        "Community"
       ]
     },
     {
@@ -520,9 +549,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
+        "Music",
         "Community",
-        "Music"
+        "Performance"
       ]
     },
     {
@@ -549,8 +578,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -577,9 +606,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
+        "Music",
         "Community",
-        "Music"
+        "Performance"
       ]
     },
     {
@@ -607,9 +636,37 @@
       ],
       "event_type_tags": [
         "All Ages",
-        "Performance",
+        "Music",
         "Community",
-        "Music"
+        "Performance"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_community_craft_night_wednesday_january_7_2026_6_00_8_30_pm",
+      "title": "Community Craft Night",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Wednesday, January 7, 2026",
+      "normalized_date": "2026-01-07T00:00:00",
+      "recurring": null,
+      "time": "6:00 - 8:30 PM",
+      "description": "",
+      "additional_info": "All Ages are Welcome",
+      "link": "https://junkyardsocialclub.org/drop-in-event/community-craft-night/",
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/10/Community-Craft-Night.jpeg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": "All Ages",
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "All Ages",
+        "Community"
       ]
     },
     {
@@ -638,8 +695,8 @@
       "event_type_tags": [
         "All Ages",
         "Games",
-        "Family Friendly",
-        "Community"
+        "Community",
+        "Family Friendly"
       ]
     },
     {
@@ -668,9 +725,9 @@
       "event_type_tags": [
         "All Ages",
         "Performance",
-        "Music",
         "Family Friendly",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
@@ -751,9 +808,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
+        "Music",
         "Community",
-        "Music"
+        "Performance"
       ]
     },
     {
@@ -780,9 +837,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
+        "Music",
         "Community",
-        "Music"
+        "Performance"
       ]
     },
     {
@@ -1373,7 +1430,7 @@
       "normalized_date": "2026-01-16T00:00:00",
       "recurring": null,
       "time": "6:00 PM",
-      "description": "",
+      "description": "Boundless in Creation: A Climatique Music & Arts Gathering space for BIPOC, AFAB (assigned female at birth), and LGBTQIA+ artists to share, discuss, and uplift each other. We will showcase local talent, engage in a round-table discussion about our experiences with marginalization, explore strategies...",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2026/1/16/climatique",
       "image": "trident.jpg",
@@ -1713,6 +1770,35 @@
       ]
     },
     {
+      "id": "trident_booksellers_cafe_jazzetry_w_von_disco_february_14_2026_6_00_pm",
+      "title": "Jazzetry W/ Von Disco",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "February 14, 2026",
+      "normalized_date": "2026-02-14T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.tridentcafe.com/events/2025/9/13/jazzetry-w-von-disco-5w3sd-b4jws-4dz6c-shb2b",
+      "image": "trident.jpg",
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Books",
+        "Community"
+      ]
+    },
+    {
       "id": "trident_booksellers_cafe_language_exchange_night_february_16_2026_7_00_pm",
       "title": "Language Exchange Night",
       "venue": "Trident Booksellers & Cafe",
@@ -1945,6 +2031,35 @@
       ]
     },
     {
+      "id": "trident_booksellers_cafe_jazzetry_w_von_disco_march_14_2026_6_00_pm",
+      "title": "Jazzetry W/ Von Disco",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "March 14, 2026",
+      "normalized_date": "2026-03-14T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.tridentcafe.com/events/2025/9/13/jazzetry-w-von-disco-5w3sd-b4jws-4dz6c-g6gtk",
+      "image": "trident.jpg",
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Books",
+        "Community"
+      ]
+    },
+    {
       "id": "trident_booksellers_cafe_language_exchange_night_march_16_2026_7_00_pm",
       "title": "Language Exchange Night",
       "venue": "Trident Booksellers & Cafe",
@@ -2069,9 +2184,38 @@
       "normalized_date": "2026-04-10T00:00:00",
       "recurring": null,
       "time": "6:00 PM",
-      "description": "",
+      "description": "Trouble\u2019s Braids is a musical group from Boulder, Colorado that creates dynamic folk rock with teeth. Their first EP, The Big Tourist, has been featured in Westword Magazine, Business Insider, and numerous radio shows, and the act has booked out all over the Front Range, including Boulder Theater, R...",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2026/4/10/troubles-braids",
+      "image": "trident.jpg",
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Books",
+        "Community"
+      ]
+    },
+    {
+      "id": "trident_booksellers_cafe_jazzetry_w_von_disco_april_11_2026_6_00_pm",
+      "title": "Jazzetry W/ Von Disco",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "April 11, 2026",
+      "normalized_date": "2026-04-11T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.tridentcafe.com/events/2025/9/13/jazzetry-w-von-disco-5w3sd-b4jws-4dz6c-wc4ca",
       "image": "trident.jpg",
       "source_url": "https://www.tridentcafe.com/events",
       "age_restriction": null,
@@ -2264,6 +2408,35 @@
       ]
     },
     {
+      "id": "trident_booksellers_cafe_dylan_hoock_emily_barnes_may_26_2026_6_00_pm",
+      "title": "Dylan Hoock & Emily Barnes",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "May 26, 2026",
+      "normalized_date": "2026-05-26T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM",
+      "description": "Dillon Hoock is a songwriter from Colorado Springs who writes the kind of songs that stay with you. Rooted in Americana and Folk, his voice and guitar carry a quiet emotion that feels honest and lived-in. His music wrestles with purpose, mental health, and what it means to find peace in a noisy worl...",
+      "additional_info": "",
+      "link": "https://www.tridentcafe.com/events/2026/5/2/dylan-hoock-amp-emily-barnes",
+      "image": "trident.jpg",
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Books",
+        "Community"
+      ]
+    },
+    {
       "id": "trident_booksellers_cafe_language_exchange_night_may_11_2026_7_00_pm",
       "title": "Language Exchange Night",
       "venue": "Trident Booksellers & Cafe",
@@ -2409,6 +2582,35 @@
       ]
     },
     {
+      "id": "trident_booksellers_cafe_mark_winters_may_28_2026_6_00_pm",
+      "title": "Mark Winters",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "May 28, 2026",
+      "normalized_date": "2026-05-28T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM",
+      "description": "Texas-based rock singer-songwriter Mark Winters is many things; a witty poet, passionate musician, entrepreneur, optimist, family man, and a bonafide rocket scientist. He first picked up a guitar to play a song for his wife on their anniversary. That\u2019s when he discovered the joy of connecting with p...",
+      "additional_info": "",
+      "link": "https://www.tridentcafe.com/events/2026/5/28/mark-winters",
+      "image": "trident.jpg",
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Books",
+        "Community"
+      ]
+    },
+    {
       "id": "trident_booksellers_cafe_language_exchange_night_june_17_2026_7_00_pm",
       "title": "Language Exchange Night",
       "venue": "Trident Booksellers & Cafe",
@@ -2438,6 +2640,35 @@
       ]
     },
     {
+      "id": "trident_booksellers_cafe_jazzetry_w_von_disco_june_13_2026_6_00_pm",
+      "title": "Jazzetry W/ Von Disco",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "June 13, 2026",
+      "normalized_date": "2026-06-13T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.tridentcafe.com/events/2025/9/13/jazzetry-w-von-disco-5w3sd-b4jws-4dz6c-xeld3",
+      "image": "trident.jpg",
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Books",
+        "Community"
+      ]
+    },
+    {
       "id": "trident_booksellers_cafe_magic_mountain_author_series_june_18_2026_6_00_pm",
       "title": "Magic Mountain Author Series",
       "venue": "Trident Booksellers & Cafe",
@@ -2449,6 +2680,93 @@
       "description": "",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2026/1/22/magic-mountain-author-series-6m6eb",
+      "image": "trident.jpg",
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Books",
+        "Community"
+      ]
+    },
+    {
+      "id": "trident_booksellers_cafe_jazzetry_w_von_disco_july_11_2026_6_00_pm",
+      "title": "Jazzetry W/ Von Disco",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "July 11, 2026",
+      "normalized_date": "2026-07-11T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.tridentcafe.com/events/2025/9/13/jazzetry-w-von-disco-5w3sd-b4jws-4dz6c-tdrk7",
+      "image": "trident.jpg",
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Books",
+        "Community"
+      ]
+    },
+    {
+      "id": "trident_booksellers_cafe_jazzetry_w_von_disco_september_12_2026_6_00_pm",
+      "title": "Jazzetry W/ Von Disco",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "September 12, 2026",
+      "normalized_date": "2026-09-12T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.tridentcafe.com/events/2025/9/13/jazzetry-w-von-disco-5w3sd-b4jws-4dz6c-m7tm5",
+      "image": "trident.jpg",
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Books",
+        "Community"
+      ]
+    },
+    {
+      "id": "trident_booksellers_cafe_creatives_for_palestine_featuring_diva_cup_nionea_calamity_fever_december_17_2026_4_30_pm",
+      "title": "Creatives For Palestine: Featuring Diva Cup/ Nionea/ Calamity Fever",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "December 17, 2026",
+      "normalized_date": "2026-12-17T00:00:00",
+      "recurring": null,
+      "time": "4:30 PM",
+      "description": "\"Through the efforts of local organizing groups, Students for Justice in Palestine and Earth Angels Act - as well as creatives from the Denver/Boulder area - presentCreatives for Palestine: A Benefit Show. This concert and art event will raise money for families in Gaza and build\u00a0solidarity within o...",
+      "additional_info": "",
+      "link": "https://www.tridentcafe.com/events/2025/12/17/creatives-for-palestine-featuring-diva-cup-nionea-calamity-fever",
       "image": "trident.jpg",
       "source_url": "https://www.tridentcafe.com/events",
       "age_restriction": null,
@@ -3116,35 +3434,6 @@
       "description": "About Eddie:Eddie Ahn is the author and artist of \"Advocate,\" the national bestseller graphic memoir published by Penguin Random House in 2024, and he has worked as an environmental justice attorney and nonprofit worker for fifteen years. While working as the executive director of Brightline Defense...",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2025/11/11/trident-author-series-eddie-anh-advocate-graphic-memoir",
-      "image": "trident.jpg",
-      "source_url": "https://www.tridentcafe.com/events",
-      "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Books",
-        "Community"
-      ]
-    },
-    {
-      "id": "trident_booksellers_cafe_language_exchange_night_november_10_2026_7_00_pm",
-      "title": "Language Exchange Night",
-      "venue": "Trident Booksellers & Cafe",
-      "location": "Boulder",
-      "date": "November 10, 2026",
-      "normalized_date": "2026-11-10T00:00:00",
-      "recurring": null,
-      "time": "7:00 PM",
-      "description": "Free!Every Monday evening, 7-9p.m.All languages welcome. Facilitated by Kelvin Tavarez.",
-      "additional_info": "",
-      "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-p95zc-n2als",
       "image": "trident.jpg",
       "source_url": "https://www.tridentcafe.com/events",
       "age_restriction": null,
@@ -4000,6 +4289,34 @@
       ]
     },
     {
+      "id": "bricks_on_main_karaoke_night_december_24_2025_6_00_pm_8_00_pm",
+      "title": "Karaoke Night",
+      "venue": "Bricks on Main",
+      "location": "Longmont",
+      "date": "December 24, 2025",
+      "normalized_date": "2025-12-24T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM - 8:00 PM",
+      "description": "Take the Bricks Main Stage ... you're the headliner!",
+      "additional_info": "",
+      "link": "https://www.bricksretail.com/event-details/karaoke-night-2025-12-24-18-00",
+      "image": "https://static.wixstatic.com/media/0f3cdb_cc11739aca8043a8a8cbdf5cdc8f3661~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/0f3cdb_cc11739aca8043a8a8cbdf5cdc8f3661~mv2.jpg",
+      "source_url": "https://www.bricksretail.com/events-calendar",
+      "age_restriction": null,
+      "venue_tag": "Bricks on Main",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Community",
+        "Retail",
+        "Entertainment"
+      ],
+      "event_type_tags": [
+        "Karaoke",
+        "Music",
+        "Entertainment"
+      ]
+    },
+    {
       "id": "bricks_on_main_the_responders_oldies_band_december_26_2025_6_00_pm_9_00_pm",
       "title": "The Responders Oldies Band",
       "venue": "Bricks on Main",
@@ -4200,6 +4517,33 @@
       "description": "",
       "additional_info": "",
       "link": "https://www.bricksretail.com/event-details/aoxomoxoa",
+      "image": "bricks.jpg",
+      "source_url": "https://www.bricksretail.com/events-calendar",
+      "age_restriction": null,
+      "venue_tag": "Bricks on Main",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Community",
+        "Retail",
+        "Entertainment"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "bricks_on_main_tony_and_earl_january_11_2026_5_00_pm_8_00_pm",
+      "title": "Tony and Earl",
+      "venue": "Bricks on Main",
+      "location": "Longmont",
+      "date": "January 11, 2026",
+      "normalized_date": "2026-01-11T00:00:00",
+      "recurring": null,
+      "time": "5:00 PM - 8:00 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.bricksretail.com/event-details/tony-and-earl",
       "image": "bricks.jpg",
       "source_url": "https://www.bricksretail.com/events-calendar",
       "age_restriction": null,
