@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T08:32:40.561872",
-  "total_events": 169,
+  "generated_at": "2025-12-19T18:31:26.610347",
+  "total_events": 170,
   "tags": {
     "venues": [
       "300 Suns Brewing",
@@ -404,9 +404,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Family Friendly",
         "Music",
         "All Ages",
-        "Family Friendly",
         "Community"
       ]
     },
@@ -434,10 +434,10 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Family Friendly",
         "Music",
-        "Performance",
         "All Ages",
-        "Family Friendly"
+        "Performance"
       ]
     },
     {
@@ -522,8 +522,8 @@
       ],
       "event_type_tags": [
         "Music",
-        "Performance",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -550,8 +550,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -579,8 +579,8 @@
       ],
       "event_type_tags": [
         "Music",
-        "Performance",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -609,8 +609,8 @@
       "event_type_tags": [
         "Music",
         "All Ages",
-        "Performance",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -666,7 +666,35 @@
       ],
       "event_type_tags": [
         "Family Friendly",
+        "Games",
         "All Ages",
+        "Community"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_drop_in_mahjongg_thursdays_thursday_january_8_2026_3_30_5_30_pm",
+      "title": "Drop-In Mahjongg \u2013 Thursdays",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Thursday, January 8, 2026",
+      "normalized_date": "2026-01-08T00:00:00",
+      "recurring": null,
+      "time": "3:30 - 5:30 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://junkyardsocialclub.org/drop-in-event/drop-in-mahjongg-thursdays/",
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/08/Drop-In-Mah-Jongg-Thursday.jpg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": null,
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
         "Games",
         "Community"
       ]
@@ -697,9 +725,9 @@
       "event_type_tags": [
         "Family Friendly",
         "Performance",
-        "Community",
         "Music",
-        "All Ages"
+        "All Ages",
+        "Community"
       ]
     },
     {
@@ -781,8 +809,8 @@
       ],
       "event_type_tags": [
         "Music",
-        "Performance",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -810,8 +838,8 @@
       ],
       "event_type_tags": [
         "Music",
-        "Performance",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
