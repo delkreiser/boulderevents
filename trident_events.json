@@ -1,48 +1,5 @@
 [
   {
-    "title": "Variety Show: And Now Featuring...",
-    "link": "https://www.tridentcafe.com/events/2025/12/18/variety-show-and-now-featuring",
-    "date": "December 18, 2026",
-    "time": "6:00 PM",
-    "venue": "Trident Booksellers & Cafe",
-    "location": "Boulder",
-    "category": "Books & Literary",
-    "source_url": "https://www.tridentcafe.com/events",
-    "image": "trident.jpg",
-    "event_type_tags": [
-      "Live Music",
-      "Books",
-      "Community"
-    ],
-    "venue_type_tags": [
-      "Cafe",
-      "Bookstore",
-      "Music Venue"
-    ]
-  },
-  {
-    "title": "Jackson Cloud",
-    "link": "https://www.tridentcafe.com/events/2025/12/19/jackson-cloud",
-    "date": "December 19, 2025",
-    "time": "6:00 PM",
-    "description": "Jackson Cloud is a new alternative artist out of Boulder Colorado. His newest releases \"Twisted Faces\" (album) \"I Love You Sometimes\" and \"Let On\" (singles) are produced entirely by Cloud. \"Twisted Faces\" offer's a wide range of genres from synth heavy electronic tracks, melancholic melodies with to...",
-    "venue": "Trident Booksellers & Cafe",
-    "location": "Boulder",
-    "category": "Books & Literary",
-    "source_url": "https://www.tridentcafe.com/events",
-    "image": "trident.jpg",
-    "event_type_tags": [
-      "Live Music",
-      "Books",
-      "Community"
-    ],
-    "venue_type_tags": [
-      "Cafe",
-      "Bookstore",
-      "Music Venue"
-    ]
-  },
-  {
     "title": "Light Technics & Friends (Ambient & Electronic Improv)",
     "link": "https://www.tridentcafe.com/events/2025/12/17/light-technics-amp-friends-ambient-amp-electronic-improv",
     "date": "December 20, 2025",
@@ -1215,6 +1172,49 @@
     ]
   },
   {
+    "title": "Jackson Cloud",
+    "link": "https://www.tridentcafe.com/events/2025/12/19/jackson-cloud",
+    "date": "December 19, 2026",
+    "time": "6:00 PM",
+    "description": "Jackson Cloud is a new alternative artist out of Boulder Colorado. His newest releases \"Twisted Faces\" (album) \"I Love You Sometimes\" and \"Let On\" (singles) are produced entirely by Cloud. \"Twisted Faces\" offer's a wide range of genres from synth heavy electronic tracks, melancholic melodies with to...",
+    "venue": "Trident Booksellers & Cafe",
+    "location": "Boulder",
+    "category": "Books & Literary",
+    "source_url": "https://www.tridentcafe.com/events",
+    "image": "trident.jpg",
+    "event_type_tags": [
+      "Live Music",
+      "Books",
+      "Community"
+    ],
+    "venue_type_tags": [
+      "Cafe",
+      "Bookstore",
+      "Music Venue"
+    ]
+  },
+  {
+    "title": "Variety Show: And Now Featuring...",
+    "link": "https://www.tridentcafe.com/events/2025/12/18/variety-show-and-now-featuring",
+    "date": "December 18, 2026",
+    "time": "6:00 PM",
+    "venue": "Trident Booksellers & Cafe",
+    "location": "Boulder",
+    "category": "Books & Literary",
+    "source_url": "https://www.tridentcafe.com/events",
+    "image": "trident.jpg",
+    "event_type_tags": [
+      "Live Music",
+      "Books",
+      "Community"
+    ],
+    "venue_type_tags": [
+      "Cafe",
+      "Bookstore",
+      "Music Venue"
+    ]
+  },
+  {
     "title": "Creatives For Palestine: Featuring Diva Cup/ Nionea/ Calamity Fever",
     "link": "https://www.tridentcafe.com/events/2025/12/17/creatives-for-palestine-featuring-diva-cup-nionea-calamity-fever",
     "date": "December 17, 2026",
@@ -1679,49 +1679,6 @@
     "date": "November 13, 2026",
     "time": "6:00 PM",
     "description": "chanthing is a Boulder retiree weaving ambient soundscapes with a modular synthesizer dominantly composed of units from Mutable Instruments. He draws his inspiration from classic electronic musicians like Tangerine Dream, Kraftwerk, Robert Fripp, and Brian Eno, as well as from the natural world. He ...",
-    "venue": "Trident Booksellers & Cafe",
-    "location": "Boulder",
-    "category": "Books & Literary",
-    "source_url": "https://www.tridentcafe.com/events",
-    "image": "trident.jpg",
-    "event_type_tags": [
-      "Live Music",
-      "Books",
-      "Community"
-    ],
-    "venue_type_tags": [
-      "Cafe",
-      "Bookstore",
-      "Music Venue"
-    ]
-  },
-  {
-    "title": "Bombay Gin",
-    "link": "https://www.tridentcafe.com/events/2025/11/12/bombay-gin",
-    "date": "November 12, 2026",
-    "time": "6:00 PM",
-    "venue": "Trident Booksellers & Cafe",
-    "location": "Boulder",
-    "category": "Books & Literary",
-    "source_url": "https://www.tridentcafe.com/events",
-    "image": "trident.jpg",
-    "event_type_tags": [
-      "Live Music",
-      "Books",
-      "Community"
-    ],
-    "venue_type_tags": [
-      "Cafe",
-      "Bookstore",
-      "Music Venue"
-    ]
-  },
-  {
-    "title": "Trident Author Series: Eddie Ahn - Advocate (Graphic Memoir)",
-    "link": "https://www.tridentcafe.com/events/2025/11/11/trident-author-series-eddie-anh-advocate-graphic-memoir",
-    "date": "November 11, 2026",
-    "time": "6:30 PM",
-    "description": "About Eddie:Eddie Ahn is the author and artist of \"Advocate,\" the national bestseller graphic memoir published by Penguin Random House in 2024, and he has worked as an environmental justice attorney and nonprofit worker for fifteen years. While working as the executive director of Brightline Defense...",
     "venue": "Trident Booksellers & Cafe",
     "location": "Boulder",
     "category": "Books & Literary",

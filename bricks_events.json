@@ -1,26 +1,5 @@
 [
   {
-    "link": "https://www.bricksretail.com/event-details/the-saints-6",
-    "title": "The Saints",
-    "date": "December 19, 2025",
-    "time": "6:00 PM - 9:00 PM",
-    "description": "The Saints is a seven-piece band that has a real New Orleans feel.  We play funk, R&B, soul, and rock, both original tunes and cover songs. We cover music by popular artists like Prince, Jon Cleary, the Neville Brothers, Tina Turner, and Aretha Franklin, as well as newer artists.",
-    "image": "https://static.wixstatic.com/media/ea2d6f_98aec6e04acd4f47acc032d4fae35948~mv2.jpeg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_98aec6e04acd4f47acc032d4fae35948~mv2.jpeg",
-    "venue": "Bricks on Main",
-    "location": "Longmont",
-    "category": "Music",
-    "source_url": "https://www.bricksretail.com/events-calendar",
-    "event_type_tags": [
-      "Live Music",
-      "Entertainment"
-    ],
-    "venue_type_tags": [
-      "Music Venue",
-      "Bar",
-      "Restaurant"
-    ]
-  },
-  {
     "link": "https://www.bricksretail.com/event-details/farm-market-and-art-show",
     "title": "Farm Market and Art Show",
     "date": "December 20, 2025",
@@ -192,10 +171,12 @@
     ]
   },
   {
-    "link": "https://www.bricksretail.com/event-details/lionel-young-band-2",
-    "title": "Lionel Young Band",
+    "link": "https://www.bricksretail.com/event-details/the-lionel-young-band",
+    "title": "The Lionel Young Band",
     "date": "December 28, 2025",
     "time": "5:00 PM - 8:00 PM",
+    "description": "Blues and R& B. This band won the 2011 International Blues Challenge in Memphis.",
+    "image": "https://static.wixstatic.com/media/ea2d6f_6fc6bd6031e44be98ad43db8e0ef6cf8~mv2.jpeg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_6fc6bd6031e44be98ad43db8e0ef6cf8~mv2.jpeg",
     "venue": "Bricks on Main",
     "location": "Longmont",
     "category": "Music",
@@ -208,8 +189,7 @@
       "Music Venue",
       "Bar",
       "Restaurant"
-    ],
-    "image": "bricks.jpg"
+    ]
   },
   {
     "link": "https://www.bricksretail.com/event-details/3rd-annual-audiomedz-before-the-ball-drops",
@@ -333,5 +313,47 @@
       "Restaurant"
     ],
     "image": "bricks.jpg"
+  },
+  {
+    "link": "https://www.bricksretail.com/event-details/jay-stott-band",
+    "title": "Jay Stott Band",
+    "date": "January 15, 2026",
+    "time": "6:00 PM - 8:00 PM",
+    "description": "While playing the I25 corridor from Colorado to Montana for over 10 years, Lyons based Americana artist Jay Stott has been a finalist in songwriting competitions in Texas, Colorado and Montana, and performed at Rail on the River and Boulder’s Big Hootenanny this year.",
+    "image": "https://static.wixstatic.com/media/ea2d6f_23b10e5f3f6749239691f3384fef3fbc~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_23b10e5f3f6749239691f3384fef3fbc~mv2.jpg",
+    "venue": "Bricks on Main",
+    "location": "Longmont",
+    "category": "Music",
+    "source_url": "https://www.bricksretail.com/events-calendar",
+    "event_type_tags": [
+      "Live Music",
+      "Entertainment"
+    ],
+    "venue_type_tags": [
+      "Music Venue",
+      "Bar",
+      "Restaurant"
+    ]
+  },
+  {
+    "link": "https://www.bricksretail.com/event-details/the-m-o-b-mike-ortiz-band",
+    "title": "The M.O.B. (Mike Ortiz Band)",
+    "date": "January 16, 2026",
+    "time": "6:00 PM - 9:00 PM",
+    "description": "The M.O.B. plays what you want to hear! From Allmans to ZZ Top with some Motown, Funk, Country and Blues tossed in.",
+    "image": "https://static.wixstatic.com/media/ea2d6f_bbbfd74cc8a84d3a8b09d9cbdc1991d9~mv2.png/v1/fill/w_400,h_400,al_c,q_85,enc_auto/ea2d6f_bbbfd74cc8a84d3a8b09d9cbdc1991d9~mv2.png",
+    "venue": "Bricks on Main",
+    "location": "Longmont",
+    "category": "Music",
+    "source_url": "https://www.bricksretail.com/events-calendar",
+    "event_type_tags": [
+      "Live Music",
+      "Entertainment"
+    ],
+    "venue_type_tags": [
+      "Music Venue",
+      "Bar",
+      "Restaurant"
+    ]
   }
 ]
