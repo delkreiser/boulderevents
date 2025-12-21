@@ -1,28 +1,6 @@
 [
   {
     "time": "7:30 PM",
-    "date": "December 20, 2025",
-    "title": "Daniel Rodriguez w/Emma Rose",
-    "genre": "Folk/Rock",
-    "description": "Folk/Rock - Gold Hill Inn presents a special holiday show with Daniel Rodriguez and Emma RoseDoors open 6 p.m.Light dinner buffet for $20 cash from 6-7:30 p.m.Purchase Advance Tickets",
-    "venue": "Gold Hill Inn",
-    "location": "Gold Hill",
-    "category": "Music",
-    "source_url": "https://www.goldhillinn.com/music/",
-    "link": "https://www.goldhillinn.com/music/",
-    "image": "goldhillinn.jpg",
-    "age_restriction": "21+",
-    "event_type_tags": [
-      "Live Music"
-    ],
-    "venue_type_tags": [
-      "Live Music",
-      "Restaurant",
-      "Historic"
-    ]
-  },
-  {
-    "time": "7:30 PM",
     "date": "December 21, 2025",
     "title": "Gregory Alan Isakov & Reed Foehl",
     "genre": "Folk",

@@ -1,48 +1,5 @@
 [
   {
-    "link": "https://www.bricksretail.com/event-details/farm-market-and-art-show",
-    "title": "Farm Market and Art Show",
-    "date": "December 20, 2025",
-    "time": "10:00 AM - 2:00 PM",
-    "description": "Join us for a festive day at the Winter Farm Market & Art Show!",
-    "image": "https://static.wixstatic.com/media/ea2d6f_31732202645d4bfd9fd06602fe360d0e~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_31732202645d4bfd9fd06602fe360d0e~mv2.jpg",
-    "venue": "Bricks on Main",
-    "location": "Longmont",
-    "category": "Music",
-    "source_url": "https://www.bricksretail.com/events-calendar",
-    "event_type_tags": [
-      "Market",
-      "Community",
-      "Family Friendly"
-    ],
-    "venue_type_tags": [
-      "Music Venue",
-      "Bar",
-      "Restaurant"
-    ]
-  },
-  {
-    "link": "https://www.bricksretail.com/event-details/rockin-horse-4",
-    "title": "Rockin Horse",
-    "date": "December 20, 2025",
-    "time": "6:00 PM - 9:00 PM",
-    "description": "Rockin Horse is a variety Dance Band with high octane audience participation.",
-    "image": "https://static.wixstatic.com/media/f119ff_522e2399016d4a648506d3f10e9b8a8c~mv2.jpeg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/f119ff_522e2399016d4a648506d3f10e9b8a8c~mv2.jpeg",
-    "venue": "Bricks on Main",
-    "location": "Longmont",
-    "category": "Music",
-    "source_url": "https://www.bricksretail.com/events-calendar",
-    "event_type_tags": [
-      "Live Music",
-      "Entertainment"
-    ],
-    "venue_type_tags": [
-      "Music Venue",
-      "Bar",
-      "Restaurant"
-    ]
-  },
-  {
     "link": "https://www.bricksretail.com/event-details/holiday-cookie-sweets-exchange-2",
     "title": "Holiday Cookie & Sweets Exchange",
     "date": "December 21, 2025",
@@ -334,5 +291,67 @@
       "Bar",
       "Restaurant"
     ]
+  },
+  {
+    "link": "https://www.bricksretail.com/event-details/the-m-o-b-mike-ortiz-band",
+    "title": "The M.O.B. (Mike Ortiz Band)",
+    "date": "January 16, 2026",
+    "time": "6:00 PM - 9:00 PM",
+    "description": "The M.O.B. plays what you want to hear! From Allmans to ZZ Top with some Motown, Funk, Country and Blues tossed in.",
+    "image": "https://static.wixstatic.com/media/ea2d6f_bbbfd74cc8a84d3a8b09d9cbdc1991d9~mv2.png/v1/fill/w_400,h_400,al_c,q_85,enc_auto/ea2d6f_bbbfd74cc8a84d3a8b09d9cbdc1991d9~mv2.png",
+    "venue": "Bricks on Main",
+    "location": "Longmont",
+    "category": "Music",
+    "source_url": "https://www.bricksretail.com/events-calendar",
+    "event_type_tags": [
+      "Live Music",
+      "Entertainment"
+    ],
+    "venue_type_tags": [
+      "Music Venue",
+      "Bar",
+      "Restaurant"
+    ]
+  },
+  {
+    "link": "https://www.bricksretail.com/event-details/crick-wooder-1",
+    "title": "Crick Wooder",
+    "date": "January 17, 2026",
+    "time": "6:00 PM - 9:00 PM",
+    "description": "An Owsley-Grade Grateful Dead Experience.",
+    "image": "https://static.wixstatic.com/media/ea2d6f_87c80b623fc94403a9ca8d74d950f3d9~mv2.png/v1/fill/w_400,h_400,al_c,q_85,enc_auto/ea2d6f_87c80b623fc94403a9ca8d74d950f3d9~mv2.png",
+    "venue": "Bricks on Main",
+    "location": "Longmont",
+    "category": "Music",
+    "source_url": "https://www.bricksretail.com/events-calendar",
+    "event_type_tags": [
+      "Live Music",
+      "Entertainment"
+    ],
+    "venue_type_tags": [
+      "Music Venue",
+      "Bar",
+      "Restaurant"
+    ]
+  },
+  {
+    "link": "https://www.bricksretail.com/event-details/john-mckay-band",
+    "title": "John McKay Band",
+    "date": "January 23, 2026",
+    "time": "6:00 PM - 9:00 PM",
+    "venue": "Bricks on Main",
+    "location": "Longmont",
+    "category": "Music",
+    "source_url": "https://www.bricksretail.com/events-calendar",
+    "event_type_tags": [
+      "Live Music",
+      "Entertainment"
+    ],
+    "venue_type_tags": [
+      "Music Venue",
+      "Bar",
+      "Restaurant"
+    ],
+    "image": "bricks.jpg"
   }
 ]

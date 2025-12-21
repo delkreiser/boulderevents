@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T18:25:39.703082",
-  "total_events": 169,
+  "generated_at": "2025-12-21T08:26:54.852955",
+  "total_events": 166,
   "tags": {
     "venues": [
       "300 Suns Brewing",
@@ -67,7 +67,6 @@
       "Jazz",
       "Karaoke",
       "Live Music",
-      "Market",
       "Music",
       "Nightlife",
       "Open Mic",
@@ -328,36 +327,6 @@
       ]
     },
     {
-      "id": "junkyard_social_club_uprooting_qahr_live_music_film_and_monologues_saturday_december_20_2025_3_30_pm_networking_4_00_5_30_pm_showtime",
-      "title": "Uprooting Qahr \u2013 Live Music, Film, and Monologues",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Saturday, December 20, 2025",
-      "normalized_date": "2025-12-20T00:00:00",
-      "recurring": null,
-      "time": "3:30 PM Networking | 4:00 - 5:30 PM Showtime",
-      "description": "",
-      "additional_info": "Ages 9+ (ages 9-14 need adult company)",
-      "link": "https://junkyardsocialclub.org/event/uprooting-qahr-live-music-film-and-monologues/",
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/12/Uprooting-Qahr-768x540.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Community",
-        "Music",
-        "Performance",
-        "Educational"
-      ]
-    },
-    {
       "id": "junkyard_social_club_salsa_sunday_sunday_december_21_2025_postponed_until_january",
       "title": "Salsa Sunday",
       "venue": "Junkyard Social Club",
@@ -381,10 +350,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Music",
         "Family Friendly",
-        "All Ages"
+        "All Ages",
+        "Community"
       ]
     },
     {
@@ -411,10 +380,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "All Ages",
+        "Performance",
         "Family Friendly",
-        "Performance"
+        "All Ages",
+        "Music"
       ]
     },
     {
@@ -441,9 +410,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Music",
-        "Educational"
+        "Educational",
+        "Community"
       ]
     },
     {
@@ -470,8 +439,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Games"
+        "Games",
+        "Community"
       ]
     },
     {
@@ -498,9 +467,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Music",
-        "Performance"
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -527,8 +496,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Performance"
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -555,9 +524,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Music",
-        "Performance"
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -584,10 +553,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "All Ages",
         "Music",
-        "Performance"
+        "Performance",
+        "All Ages",
+        "Community"
       ]
     },
     {
@@ -614,8 +583,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "All Ages"
+        "All Ages",
+        "Community"
       ]
     },
     {
@@ -642,10 +611,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
+        "Games",
         "Family Friendly",
         "All Ages",
-        "Games"
+        "Community"
       ]
     },
     {
@@ -672,8 +641,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Games"
+        "Games",
+        "Community"
       ]
     },
     {
@@ -700,11 +669,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Performance",
+        "Family Friendly",
+        "Music",
         "Community",
-        "All Ages",
-        "Family Friendly"
+        "All Ages"
       ]
     },
     {
@@ -785,9 +754,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Music",
-        "Performance"
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -814,9 +783,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Music",
-        "Performance"
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -843,9 +812,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Music",
-        "Performance"
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -1084,12 +1053,70 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_light_technics_friends_ambient_electronic_improv_december_20_2025_6_00_pm",
+      "id": "trident_booksellers_cafe_variety_show_and_now_featuring_december_18_2026_6_00_pm",
+      "title": "Variety Show: And Now Featuring...",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "December 18, 2026",
+      "normalized_date": "2026-12-18T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.tridentcafe.com/events/2025/12/18/variety-show-and-now-featuring",
+      "image": "trident.jpg",
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Books",
+        "Community"
+      ]
+    },
+    {
+      "id": "trident_booksellers_cafe_jackson_cloud_december_19_2026_6_00_pm",
+      "title": "Jackson Cloud",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "December 19, 2026",
+      "normalized_date": "2026-12-19T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM",
+      "description": "Jackson Cloud is a new alternative artist out of Boulder Colorado. His newest releases \"Twisted Faces\" (album) \"I Love You Sometimes\" and \"Let On\" (singles) are produced entirely by Cloud. \"Twisted Faces\" offer's a wide range of genres from synth heavy electronic tracks, melancholic melodies with to...",
+      "additional_info": "",
+      "link": "https://www.tridentcafe.com/events/2025/12/19/jackson-cloud",
+      "image": "trident.jpg",
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Books",
+        "Community"
+      ]
+    },
+    {
+      "id": "trident_booksellers_cafe_light_technics_friends_ambient_electronic_improv_december_20_2026_6_00_pm",
       "title": "Light Technics & Friends (Ambient & Electronic Improv)",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
-      "date": "December 20, 2025",
-      "normalized_date": "2025-12-20T00:00:00",
+      "date": "December 20, 2026",
+      "normalized_date": "2026-12-20T00:00:00",
       "recurring": null,
       "time": "6:00 PM",
       "description": "Light Technics is the experimental alias and project of Ted Stevens. He will be playing some tunes from his upcoming album as well as improvisations. Joining him will be his bandmates; Protorhythm (Will Tyson) doing an improv analog techno set, and WEIRDer (Ryan Schlichtman) doing something of a sim...",
@@ -2650,64 +2677,6 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_jackson_cloud_december_19_2026_6_00_pm",
-      "title": "Jackson Cloud",
-      "venue": "Trident Booksellers & Cafe",
-      "location": "Boulder",
-      "date": "December 19, 2026",
-      "normalized_date": "2026-12-19T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM",
-      "description": "Jackson Cloud is a new alternative artist out of Boulder Colorado. His newest releases \"Twisted Faces\" (album) \"I Love You Sometimes\" and \"Let On\" (singles) are produced entirely by Cloud. \"Twisted Faces\" offer's a wide range of genres from synth heavy electronic tracks, melancholic melodies with to...",
-      "additional_info": "",
-      "link": "https://www.tridentcafe.com/events/2025/12/19/jackson-cloud",
-      "image": "trident.jpg",
-      "source_url": "https://www.tridentcafe.com/events",
-      "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Books",
-        "Community"
-      ]
-    },
-    {
-      "id": "trident_booksellers_cafe_variety_show_and_now_featuring_december_18_2026_6_00_pm",
-      "title": "Variety Show: And Now Featuring...",
-      "venue": "Trident Booksellers & Cafe",
-      "location": "Boulder",
-      "date": "December 18, 2026",
-      "normalized_date": "2026-12-18T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.tridentcafe.com/events/2025/12/18/variety-show-and-now-featuring",
-      "image": "trident.jpg",
-      "source_url": "https://www.tridentcafe.com/events",
-      "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Books",
-        "Community"
-      ]
-    },
-    {
       "id": "trident_booksellers_cafe_creatives_for_palestine_featuring_diva_cup_nionea_calamity_fever_december_17_2026_4_30_pm",
       "title": "Creatives For Palestine: Featuring Diva Cup/ Nionea/ Calamity Fever",
       "venue": "Trident Booksellers & Cafe",
@@ -3346,84 +3315,61 @@
       ]
     },
     {
-      "id": "license_no_1_the_underground_comedy_show_saturday_december_20_2025_7_30_pm_8_30_pm",
-      "title": "The Underground Comedy Show",
-      "venue": "License No 1",
+      "id": "trident_booksellers_cafe_bombay_gin_november_12_2026_6_00_pm",
+      "title": "Bombay Gin",
+      "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
-      "date": "Saturday, December 20, 2025",
-      "normalized_date": "2025-12-20T00:00:00",
+      "date": "November 12, 2026",
+      "normalized_date": "2026-11-12T00:00:00",
       "recurring": null,
-      "time": "7:30\u202fPM - 8:30\u202fPM",
+      "time": "6:00 PM",
       "description": "",
       "additional_info": "",
-      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-fd65x-2x4z6-pjfxj-ze78w-7n25y",
-      "image": "licenseno1.jpg",
-      "source_url": "https://www.license1boulderado.com/calendar",
+      "link": "https://www.tridentcafe.com/events/2025/11/12/bombay-gin",
+      "image": "trident.jpg",
+      "source_url": "https://www.tridentcafe.com/events",
       "age_restriction": null,
-      "venue_tag": "License No 1",
+      "venue_tag": "Trident Booksellers & Cafe",
       "location_tag": "Boulder",
       "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+"
-      ],
-      "event_type_tags": [
-        "Comedy",
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "license_no_1_live_music_with_the_rhythm_allstars_saturday_december_20_2025_9_00_pm_11_59_pm",
-      "title": "Live Music with The Rhythm Allstars",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": "Saturday, December 20, 2025",
-      "normalized_date": "2025-12-20T00:00:00",
-      "recurring": null,
-      "time": "9:00\u202fPM - 11:59\u202fPM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.license1boulderado.com/calendar/live-music-with-the-rhythm-allstars",
-      "image": "licenseno1.jpg",
-      "source_url": "https://www.license1boulderado.com/calendar",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+"
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
       ],
       "event_type_tags": [
         "Live Music",
-        "Nightlife"
+        "Books",
+        "Community"
       ]
     },
     {
-      "id": "license_no_1_the_underground_comedy_show_saturday_december_20_2025_9_15_pm_10_15_pm",
-      "title": "The Underground Comedy Show",
-      "venue": "License No 1",
+      "id": "trident_booksellers_cafe_trident_author_series_eddie_ahn_advocate_graphic_memoir_november_11_2026_6_30_pm",
+      "title": "Trident Author Series: Eddie Ahn - Advocate (Graphic Memoir)",
+      "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
-      "date": "Saturday, December 20, 2025",
-      "normalized_date": "2025-12-20T00:00:00",
+      "date": "November 11, 2026",
+      "normalized_date": "2026-11-11T00:00:00",
       "recurring": null,
-      "time": "9:15\u202fPM - 10:15\u202fPM",
-      "description": "",
+      "time": "6:30 PM",
+      "description": "About Eddie:Eddie Ahn is the author and artist of \"Advocate,\" the national bestseller graphic memoir published by Penguin Random House in 2024, and he has worked as an environmental justice attorney and nonprofit worker for fifteen years. While working as the executive director of Brightline Defense...",
       "additional_info": "",
-      "link": "https://www.license1boulderado.com/calendar/lj824kawfej4rbl-ygrxa-6afcr-95jfl-727ce",
-      "image": "licenseno1.jpg",
-      "source_url": "https://www.license1boulderado.com/calendar",
+      "link": "https://www.tridentcafe.com/events/2025/11/11/trident-author-series-eddie-anh-advocate-graphic-memoir",
+      "image": "trident.jpg",
+      "source_url": "https://www.tridentcafe.com/events",
       "age_restriction": null,
-      "venue_tag": "License No 1",
+      "venue_tag": "Trident Booksellers & Cafe",
       "location_tag": "Boulder",
       "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+"
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
       ],
       "event_type_tags": [
-        "Comedy",
-        "Nightlife"
+        "Live Music",
+        "Books",
+        "Community"
       ]
     },
     {
@@ -3768,32 +3714,6 @@
       ]
     },
     {
-      "id": "gold_hill_inn_daniel_rodriguez_w_emma_rose_december_20_2025_7_30_pm",
-      "title": "Daniel Rodriguez w/Emma Rose",
-      "venue": "Gold Hill Inn",
-      "location": "Gold Hill",
-      "date": "December 20, 2025",
-      "normalized_date": "2025-12-20T00:00:00",
-      "recurring": null,
-      "time": "7:30 PM",
-      "description": "Folk/Rock - Gold Hill Inn presents a special holiday show with Daniel Rodriguez and Emma RoseDoors open 6 p.m.Light dinner buffet for $20 cash from 6-7:30 p.m.Purchase Advance Tickets",
-      "additional_info": "",
-      "link": "https://www.goldhillinn.com/music/",
-      "image": "goldhillinn.jpg",
-      "source_url": "https://www.goldhillinn.com/music/",
-      "age_restriction": "21+",
-      "venue_tag": "Gold Hill Inn",
-      "location_tag": "Gold Hill",
-      "venue_type_tags": [
-        "Live Music",
-        "Restaurant",
-        "Historic"
-      ],
-      "event_type_tags": [
-        "Live Music"
-      ]
-    },
-    {
       "id": "gold_hill_inn_gregory_alan_isakov_reed_foehl_december_21_2025_7_30_pm",
       "title": "Gregory Alan Isakov & Reed Foehl",
       "venue": "Gold Hill Inn",
@@ -3953,61 +3873,6 @@
         "Live Music",
         "Brewery",
         "Family Friendly"
-      ]
-    },
-    {
-      "id": "bricks_on_main_farm_market_and_art_show_december_20_2025_10_00_am_2_00_pm",
-      "title": "Farm Market and Art Show",
-      "venue": "Bricks on Main",
-      "location": "Longmont",
-      "date": "December 20, 2025",
-      "normalized_date": "2025-12-20T00:00:00",
-      "recurring": null,
-      "time": "10:00 AM - 2:00 PM",
-      "description": "Join us for a festive day at the Winter Farm Market & Art Show!",
-      "additional_info": "",
-      "link": "https://www.bricksretail.com/event-details/farm-market-and-art-show",
-      "image": "https://static.wixstatic.com/media/ea2d6f_31732202645d4bfd9fd06602fe360d0e~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_31732202645d4bfd9fd06602fe360d0e~mv2.jpg",
-      "source_url": "https://www.bricksretail.com/events-calendar",
-      "age_restriction": null,
-      "venue_tag": "Bricks on Main",
-      "location_tag": "Longmont",
-      "venue_type_tags": [
-        "Community",
-        "Retail",
-        "Entertainment"
-      ],
-      "event_type_tags": [
-        "Market",
-        "Community",
-        "Family Friendly"
-      ]
-    },
-    {
-      "id": "bricks_on_main_rockin_horse_december_20_2025_6_00_pm_9_00_pm",
-      "title": "Rockin Horse",
-      "venue": "Bricks on Main",
-      "location": "Longmont",
-      "date": "December 20, 2025",
-      "normalized_date": "2025-12-20T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM - 9:00 PM",
-      "description": "Rockin Horse is a variety Dance Band with high octane audience participation.",
-      "additional_info": "",
-      "link": "https://www.bricksretail.com/event-details/rockin-horse-4",
-      "image": "https://static.wixstatic.com/media/f119ff_522e2399016d4a648506d3f10e9b8a8c~mv2.jpeg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/f119ff_522e2399016d4a648506d3f10e9b8a8c~mv2.jpeg",
-      "source_url": "https://www.bricksretail.com/events-calendar",
-      "age_restriction": null,
-      "venue_tag": "Bricks on Main",
-      "location_tag": "Longmont",
-      "venue_type_tags": [
-        "Community",
-        "Retail",
-        "Entertainment"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Entertainment"
       ]
     },
     {
@@ -4391,28 +4256,84 @@
       ]
     },
     {
-      "id": "roots_music_project_the_4th_annual_boulder_county_jingle_jam_december_20_2025_6_00_pm_11_00_pm",
-      "title": "The 4th Annual Boulder County Jingle Jam",
-      "venue": "Roots Music Project",
-      "location": "Boulder",
-      "date": "December 20, 2025",
-      "normalized_date": "2025-12-20T00:00:00",
+      "id": "bricks_on_main_the_m_o_b_mike_ortiz_band_january_16_2026_6_00_pm_9_00_pm",
+      "title": "The M.O.B. (Mike Ortiz Band)",
+      "venue": "Bricks on Main",
+      "location": "Longmont",
+      "date": "January 16, 2026",
+      "normalized_date": "2026-01-16T00:00:00",
       "recurring": null,
-      "time": "6:00 PM - 11:00 PM",
-      "description": "KGNU Presents with the Colorado Bluegrass Music Society : The 4th Annual Boulder County Jingle Jam",
+      "time": "6:00 PM - 9:00 PM",
+      "description": "The M.O.B. plays what you want to hear! From Allmans to ZZ Top with some Motown, Funk, Country and Blues tossed in.",
       "additional_info": "",
-      "link": "https://www.eventbrite.com/e/the-4th-annual-boulder-county-jingle-jam-tickets-1926803905349",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173300867%2F1125606624043%2F1%2Foriginal.20251219-222234?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=e2d413253d937f4478a56553fc7ed328",
-      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
-      "age_restriction": "21+",
-      "venue_tag": "Roots Music Project",
-      "location_tag": "Boulder",
+      "link": "https://www.bricksretail.com/event-details/the-m-o-b-mike-ortiz-band",
+      "image": "https://static.wixstatic.com/media/ea2d6f_bbbfd74cc8a84d3a8b09d9cbdc1991d9~mv2.png/v1/fill/w_400,h_400,al_c,q_85,enc_auto/ea2d6f_bbbfd74cc8a84d3a8b09d9cbdc1991d9~mv2.png",
+      "source_url": "https://www.bricksretail.com/events-calendar",
+      "age_restriction": null,
+      "venue_tag": "Bricks on Main",
+      "location_tag": "Longmont",
       "venue_type_tags": [
-        "Live Music",
-        "Community"
+        "Community",
+        "Retail",
+        "Entertainment"
       ],
       "event_type_tags": [
-        "Live Music"
+        "Live Music",
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "bricks_on_main_crick_wooder_january_17_2026_6_00_pm_9_00_pm",
+      "title": "Crick Wooder",
+      "venue": "Bricks on Main",
+      "location": "Longmont",
+      "date": "January 17, 2026",
+      "normalized_date": "2026-01-17T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM - 9:00 PM",
+      "description": "An Owsley-Grade Grateful Dead Experience.",
+      "additional_info": "",
+      "link": "https://www.bricksretail.com/event-details/crick-wooder-1",
+      "image": "https://static.wixstatic.com/media/ea2d6f_87c80b623fc94403a9ca8d74d950f3d9~mv2.png/v1/fill/w_400,h_400,al_c,q_85,enc_auto/ea2d6f_87c80b623fc94403a9ca8d74d950f3d9~mv2.png",
+      "source_url": "https://www.bricksretail.com/events-calendar",
+      "age_restriction": null,
+      "venue_tag": "Bricks on Main",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Community",
+        "Retail",
+        "Entertainment"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "bricks_on_main_john_mckay_band_january_23_2026_6_00_pm_9_00_pm",
+      "title": "John McKay Band",
+      "venue": "Bricks on Main",
+      "location": "Longmont",
+      "date": "January 23, 2026",
+      "normalized_date": "2026-01-23T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM - 9:00 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.bricksretail.com/event-details/john-mckay-band",
+      "image": "bricks.jpg",
+      "source_url": "https://www.bricksretail.com/events-calendar",
+      "age_restriction": null,
+      "venue_tag": "Bricks on Main",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Community",
+        "Retail",
+        "Entertainment"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Entertainment"
       ]
     },
     {
