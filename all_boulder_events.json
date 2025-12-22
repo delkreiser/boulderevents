@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T18:27:24.004199",
-  "total_events": 166,
+  "generated_at": "2025-12-22T08:31:09.543315",
+  "total_events": 158,
   "tags": {
     "venues": [
       "300 Suns Brewing",
@@ -327,66 +327,6 @@
       ]
     },
     {
-      "id": "junkyard_social_club_salsa_sunday_sunday_december_21_2025_postponed_until_january",
-      "title": "Salsa Sunday",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Sunday, December 21, 2025",
-      "normalized_date": "2025-12-21T00:00:00",
-      "recurring": null,
-      "time": "POSTPONED UNTIL JANUARY",
-      "description": "",
-      "additional_info": "Family Friendly",
-      "link": "https://junkyardsocialclub.org/drop-in-event/salsa-sunday/",
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/09/Salsa-Sunday-1.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": "All Ages",
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Family Friendly",
-        "Music",
-        "All Ages",
-        "Community"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_frosty_family_jam_sunday_december_21_2025_1_30_doors_2_20_3_20_show",
-      "title": "Frosty Family Jam",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Sunday, December 21, 2025",
-      "normalized_date": "2025-12-21T00:00:00",
-      "recurring": null,
-      "time": "1:30 Doors | 2:20 - 3:20 Show",
-      "description": "",
-      "additional_info": "Family Friendly",
-      "link": "https://junkyardsocialclub.org/drop-in-event/frosty-family-jam/",
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/12/FrostyFamilyJamSmall-Joe-Kremer.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": "All Ages",
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Performance",
-        "Family Friendly",
-        "Music",
-        "All Ages"
-      ]
-    },
-    {
       "id": "junkyard_social_club_flow_jam_tuesday_december_23_2025_6_00_9_00_pm",
       "title": "Flow Jam",
       "venue": "Junkyard Social Club",
@@ -410,9 +350,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Educational",
         "Music",
-        "Community"
+        "Community",
+        "Educational"
       ]
     },
     {
@@ -439,8 +379,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
-        "Community"
+        "Community",
+        "Games"
       ]
     },
     {
@@ -467,9 +407,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "Music",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -496,8 +436,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -524,9 +464,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "Music",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -553,10 +493,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "Music",
-        "All Ages",
-        "Community"
+        "Community",
+        "Performance",
+        "All Ages"
       ]
     },
     {
@@ -583,8 +523,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Community"
+        "Community",
+        "All Ages"
       ]
     },
     {
@@ -611,10 +551,10 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Community",
         "Family Friendly",
-        "Games",
         "All Ages",
-        "Community"
+        "Games"
       ]
     },
     {
@@ -641,8 +581,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
-        "Community"
+        "Community",
+        "Games"
       ]
     },
     {
@@ -669,11 +609,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
+        "Music",
         "Community",
-        "All Ages",
         "Performance",
-        "Music"
+        "Family Friendly",
+        "All Ages"
       ]
     },
     {
@@ -754,9 +694,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "Music",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -783,9 +723,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "Music",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -812,9 +752,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "Music",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -1050,93 +990,6 @@
       "event_type_tags": [
         "Entertainment",
         "Hotel Events"
-      ]
-    },
-    {
-      "id": "trident_booksellers_cafe_variety_show_and_now_featuring_december_18_2026_6_00_pm",
-      "title": "Variety Show: And Now Featuring...",
-      "venue": "Trident Booksellers & Cafe",
-      "location": "Boulder",
-      "date": "December 18, 2026",
-      "normalized_date": "2026-12-18T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.tridentcafe.com/events/2025/12/18/variety-show-and-now-featuring",
-      "image": "trident.jpg",
-      "source_url": "https://www.tridentcafe.com/events",
-      "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Books",
-        "Community"
-      ]
-    },
-    {
-      "id": "trident_booksellers_cafe_jackson_cloud_december_19_2026_6_00_pm",
-      "title": "Jackson Cloud",
-      "venue": "Trident Booksellers & Cafe",
-      "location": "Boulder",
-      "date": "December 19, 2026",
-      "normalized_date": "2026-12-19T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM",
-      "description": "Jackson Cloud is a new alternative artist out of Boulder Colorado. His newest releases \"Twisted Faces\" (album) \"I Love You Sometimes\" and \"Let On\" (singles) are produced entirely by Cloud. \"Twisted Faces\" offer's a wide range of genres from synth heavy electronic tracks, melancholic melodies with to...",
-      "additional_info": "",
-      "link": "https://www.tridentcafe.com/events/2025/12/19/jackson-cloud",
-      "image": "trident.jpg",
-      "source_url": "https://www.tridentcafe.com/events",
-      "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Books",
-        "Community"
-      ]
-    },
-    {
-      "id": "trident_booksellers_cafe_light_technics_friends_ambient_electronic_improv_december_20_2026_6_00_pm",
-      "title": "Light Technics & Friends (Ambient & Electronic Improv)",
-      "venue": "Trident Booksellers & Cafe",
-      "location": "Boulder",
-      "date": "December 20, 2026",
-      "normalized_date": "2026-12-20T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM",
-      "description": "Light Technics is the experimental alias and project of Ted Stevens. He will be playing some tunes from his upcoming album as well as improvisations. Joining him will be his bandmates; Protorhythm (Will Tyson) doing an improv analog techno set, and WEIRDer (Ryan Schlichtman) doing something of a sim...",
-      "additional_info": "",
-      "link": "https://www.tridentcafe.com/events/2025/12/17/light-technics-amp-friends-ambient-amp-electronic-improv",
-      "image": "trident.jpg",
-      "source_url": "https://www.tridentcafe.com/events",
-      "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Books",
-        "Community"
       ]
     },
     {
@@ -2677,6 +2530,93 @@
       ]
     },
     {
+      "id": "trident_booksellers_cafe_light_technics_friends_ambient_electronic_improv_december_20_2026_6_00_pm",
+      "title": "Light Technics & Friends (Ambient & Electronic Improv)",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "December 20, 2026",
+      "normalized_date": "2026-12-20T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM",
+      "description": "Light Technics is the experimental alias and project of Ted Stevens. He will be playing some tunes from his upcoming album as well as improvisations. Joining him will be his bandmates; Protorhythm (Will Tyson) doing an improv analog techno set, and WEIRDer (Ryan Schlichtman) doing something of a sim...",
+      "additional_info": "",
+      "link": "https://www.tridentcafe.com/events/2025/12/17/light-technics-amp-friends-ambient-amp-electronic-improv",
+      "image": "trident.jpg",
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Books",
+        "Community"
+      ]
+    },
+    {
+      "id": "trident_booksellers_cafe_jackson_cloud_december_19_2026_6_00_pm",
+      "title": "Jackson Cloud",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "December 19, 2026",
+      "normalized_date": "2026-12-19T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM",
+      "description": "Jackson Cloud is a new alternative artist out of Boulder Colorado. His newest releases \"Twisted Faces\" (album) \"I Love You Sometimes\" and \"Let On\" (singles) are produced entirely by Cloud. \"Twisted Faces\" offer's a wide range of genres from synth heavy electronic tracks, melancholic melodies with to...",
+      "additional_info": "",
+      "link": "https://www.tridentcafe.com/events/2025/12/19/jackson-cloud",
+      "image": "trident.jpg",
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Books",
+        "Community"
+      ]
+    },
+    {
+      "id": "trident_booksellers_cafe_variety_show_and_now_featuring_december_18_2026_6_00_pm",
+      "title": "Variety Show: And Now Featuring...",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "December 18, 2026",
+      "normalized_date": "2026-12-18T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.tridentcafe.com/events/2025/12/18/variety-show-and-now-featuring",
+      "image": "trident.jpg",
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Books",
+        "Community"
+      ]
+    },
+    {
       "id": "trident_booksellers_cafe_creatives_for_palestine_featuring_diva_cup_nionea_calamity_fever_december_17_2026_4_30_pm",
       "title": "Creatives For Palestine: Featuring Diva Cup/ Nionea/ Calamity Fever",
       "venue": "Trident Booksellers & Cafe",
@@ -3286,93 +3226,6 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_chanthing_ambient_set_november_13_2026_6_00_pm",
-      "title": "Chanthing: Ambient Set",
-      "venue": "Trident Booksellers & Cafe",
-      "location": "Boulder",
-      "date": "November 13, 2026",
-      "normalized_date": "2026-11-13T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM",
-      "description": "chanthing is a Boulder retiree weaving ambient soundscapes with a modular synthesizer dominantly composed of units from Mutable Instruments. He draws his inspiration from classic electronic musicians like Tangerine Dream, Kraftwerk, Robert Fripp, and Brian Eno, as well as from the natural world. He ...",
-      "additional_info": "",
-      "link": "https://www.tridentcafe.com/events/2025/11/13/chanthing-ambient-set",
-      "image": "trident.jpg",
-      "source_url": "https://www.tridentcafe.com/events",
-      "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Books",
-        "Community"
-      ]
-    },
-    {
-      "id": "trident_booksellers_cafe_bombay_gin_november_12_2026_6_00_pm",
-      "title": "Bombay Gin",
-      "venue": "Trident Booksellers & Cafe",
-      "location": "Boulder",
-      "date": "November 12, 2026",
-      "normalized_date": "2026-11-12T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.tridentcafe.com/events/2025/11/12/bombay-gin",
-      "image": "trident.jpg",
-      "source_url": "https://www.tridentcafe.com/events",
-      "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Books",
-        "Community"
-      ]
-    },
-    {
-      "id": "trident_booksellers_cafe_trident_author_series_eddie_ahn_advocate_graphic_memoir_november_11_2026_6_30_pm",
-      "title": "Trident Author Series: Eddie Ahn - Advocate (Graphic Memoir)",
-      "venue": "Trident Booksellers & Cafe",
-      "location": "Boulder",
-      "date": "November 11, 2026",
-      "normalized_date": "2026-11-11T00:00:00",
-      "recurring": null,
-      "time": "6:30 PM",
-      "description": "About Eddie:Eddie Ahn is the author and artist of \"Advocate,\" the national bestseller graphic memoir published by Penguin Random House in 2024, and he has worked as an environmental justice attorney and nonprofit worker for fifteen years. While working as the executive director of Brightline Defense...",
-      "additional_info": "",
-      "link": "https://www.tridentcafe.com/events/2025/11/11/trident-author-series-eddie-anh-advocate-graphic-memoir",
-      "image": "trident.jpg",
-      "source_url": "https://www.tridentcafe.com/events",
-      "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Books",
-        "Community"
-      ]
-    },
-    {
       "id": "license_no_1_live_music_with_george_nelson_band_wednesday_december_24_2025_8_00_pm_11_59_pm",
       "title": "Live Music with George Nelson Band",
       "venue": "License No 1",
@@ -3714,32 +3567,6 @@
       ]
     },
     {
-      "id": "gold_hill_inn_gregory_alan_isakov_reed_foehl_december_21_2025_7_30_pm",
-      "title": "Gregory Alan Isakov & Reed Foehl",
-      "venue": "Gold Hill Inn",
-      "location": "Gold Hill",
-      "date": "December 21, 2025",
-      "normalized_date": "2025-12-21T00:00:00",
-      "recurring": null,
-      "time": "7:30 PM",
-      "description": "Folk - Sold Out!Gregory Alan Isakov andReed Foehlreturn to the Gold Hill Inn this December 21st & 22nd!Doors at 6 p.m. - Music at 7:30 p.m.We will be serving a light dinner buffet 6-7:30 p.m.$20 cash for buffet",
-      "additional_info": "",
-      "link": "https://www.goldhillinn.com/music/",
-      "image": "goldhillinn.jpg",
-      "source_url": "https://www.goldhillinn.com/music/",
-      "age_restriction": "21+",
-      "venue_tag": "Gold Hill Inn",
-      "location_tag": "Gold Hill",
-      "venue_type_tags": [
-        "Live Music",
-        "Restaurant",
-        "Historic"
-      ],
-      "event_type_tags": [
-        "Live Music"
-      ]
-    },
-    {
       "id": "gold_hill_inn_gregory_alan_isakov_reed_foehl_december_22_2025_7_30_pm",
       "title": "Gregory Alan Isakov & Reed Foehl",
       "venue": "Gold Hill Inn",
@@ -3873,60 +3700,6 @@
         "Live Music",
         "Brewery",
         "Family Friendly"
-      ]
-    },
-    {
-      "id": "bricks_on_main_holiday_cookie_sweets_exchange_december_21_2025_12_00_pm_2_00_pm",
-      "title": "Holiday Cookie & Sweets Exchange",
-      "venue": "Bricks on Main",
-      "location": "Longmont",
-      "date": "December 21, 2025",
-      "normalized_date": "2025-12-21T00:00:00",
-      "recurring": null,
-      "time": "12:00 PM - 2:00 PM",
-      "description": "Get ready to swap your favorite holiday treats with fellow sweet lovers! Join us in person at Bricks on Main for a fun and tasty exchange. Bring your best cookies or sweets to share and discover delicious goodies from others. It's the perfect way to celebrate the season, meet new friends, and enjoy!",
-      "additional_info": "",
-      "link": "https://www.bricksretail.com/event-details/holiday-cookie-sweets-exchange-2",
-      "image": "https://static.wixstatic.com/media/ea2d6f_e4369d836fbf41649984ac7c73439075~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_e4369d836fbf41649984ac7c73439075~mv2.jpg",
-      "source_url": "https://www.bricksretail.com/events-calendar",
-      "age_restriction": null,
-      "venue_tag": "Bricks on Main",
-      "location_tag": "Longmont",
-      "venue_type_tags": [
-        "Community",
-        "Retail",
-        "Entertainment"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Entertainment"
-      ]
-    },
-    {
-      "id": "bricks_on_main_oligarchy_ditch_december_21_2025_5_00_pm_8_00_pm",
-      "title": "Oligarchy Ditch",
-      "venue": "Bricks on Main",
-      "location": "Longmont",
-      "date": "December 21, 2025",
-      "normalized_date": "2025-12-21T00:00:00",
-      "recurring": null,
-      "time": "5:00 PM - 8:00 PM",
-      "description": "Oligarchy Ditch is Dave Simons, with a potential all-star cast of drop-ins from Longmont and beyond.",
-      "additional_info": "",
-      "link": "https://www.bricksretail.com/event-details/oligarchy-ditch-2",
-      "image": "https://static.wixstatic.com/media/ea2d6f_aea007abab6a4c1b8b8d86217a7b05ee~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_aea007abab6a4c1b8b8d86217a7b05ee~mv2.jpg",
-      "source_url": "https://www.bricksretail.com/events-calendar",
-      "age_restriction": null,
-      "venue_tag": "Bricks on Main",
-      "location_tag": "Longmont",
-      "venue_type_tags": [
-        "Community",
-        "Retail",
-        "Entertainment"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Entertainment"
       ]
     },
     {
