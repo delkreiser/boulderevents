@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T08:31:09.543315",
-  "total_events": 158,
+  "generated_at": "2025-12-22T18:30:11.495958",
+  "total_events": 162,
   "tags": {
     "venues": [
       "300 Suns Brewing",
@@ -351,8 +351,8 @@
       ],
       "event_type_tags": [
         "Music",
-        "Community",
-        "Educational"
+        "Educational",
+        "Community"
       ]
     },
     {
@@ -379,8 +379,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Games"
+        "Games",
+        "Community"
       ]
     },
     {
@@ -408,8 +408,8 @@
       ],
       "event_type_tags": [
         "Music",
-        "Community",
-        "Performance"
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -436,8 +436,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Performance"
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -465,8 +465,8 @@
       ],
       "event_type_tags": [
         "Music",
-        "Community",
-        "Performance"
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -494,9 +494,9 @@
       ],
       "event_type_tags": [
         "Music",
-        "Community",
+        "All Ages",
         "Performance",
-        "All Ages"
+        "Community"
       ]
     },
     {
@@ -523,8 +523,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "All Ages"
+        "All Ages",
+        "Community"
       ]
     },
     {
@@ -551,10 +551,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Family Friendly",
+        "Games",
         "All Ages",
-        "Games"
+        "Family Friendly",
+        "Community"
       ]
     },
     {
@@ -581,8 +581,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Games"
+        "Games",
+        "Community"
       ]
     },
     {
@@ -610,10 +610,10 @@
       ],
       "event_type_tags": [
         "Music",
-        "Community",
+        "All Ages",
         "Performance",
         "Family Friendly",
-        "All Ages"
+        "Community"
       ]
     },
     {
@@ -671,6 +671,33 @@
       ]
     },
     {
+      "id": "junkyard_social_club_creativemornings_friday_january_16_2026_8_00_am_doors_9_00_am_talk",
+      "title": "CreativeMornings",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Friday, January 16, 2026",
+      "normalized_date": "2026-01-16T00:00:00",
+      "recurring": null,
+      "time": "8:00 AM doors | 9:00 AM talk",
+      "description": "",
+      "additional_info": "Family Friendly",
+      "link": "https://junkyardsocialclub.org/event/creative-mornings/",
+      "image": "junkyard.jpg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": null,
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Community"
+      ]
+    },
+    {
       "id": "junkyard_social_club_poletry_friday_january_30_2026_7_00_pm_doors_and_market_8_00_pm_show",
       "title": "Poletry",
       "venue": "Junkyard Social Club",
@@ -695,8 +722,8 @@
       ],
       "event_type_tags": [
         "Music",
-        "Community",
-        "Performance"
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -724,8 +751,8 @@
       ],
       "event_type_tags": [
         "Music",
-        "Community",
-        "Performance"
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -753,8 +780,37 @@
       ],
       "event_type_tags": [
         "Music",
+        "Performance",
+        "Community"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_osmp_after_dark_a_valentine_s_day_trivia_event_tuesday_february_10_2026_6_00_8_00_pm",
+      "title": "OSMP After Dark: A Valentine\u2019s Day Trivia Event",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Tuesday, February 10, 2026",
+      "normalized_date": "2026-02-10T00:00:00",
+      "recurring": null,
+      "time": "6:00 - 8:00 PM",
+      "description": "",
+      "additional_info": "Must be age 18+",
+      "link": "https://junkyardsocialclub.org/drop-in-event/osmp-after-dark/",
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/12/OSMP-After-Dark-Flyer-768x993.jpg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": null,
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
         "Community",
-        "Performance"
+        "Arts",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Games",
+        "Educational",
+        "Community"
       ]
     },
     {
@@ -4095,6 +4151,60 @@
       "additional_info": "",
       "link": "https://www.bricksretail.com/event-details/john-mckay-band",
       "image": "bricks.jpg",
+      "source_url": "https://www.bricksretail.com/events-calendar",
+      "age_restriction": null,
+      "venue_tag": "Bricks on Main",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Community",
+        "Retail",
+        "Entertainment"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "bricks_on_main_the_delta_sonics_january_24_2026_6_00_pm_9_00_pm",
+      "title": "The Delta Sonics",
+      "venue": "Bricks on Main",
+      "location": "Longmont",
+      "date": "January 24, 2026",
+      "normalized_date": "2026-01-24T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM - 9:00 PM",
+      "description": "The Delta Sonics music takes a Chicago Blues base and seasons it with Swing, Delta, N\u2019awlins R&B and some early Rock n' Roll . This hard -working band averages over 200 shows a year. They have been featured at many of the major festivals in Colorado.",
+      "additional_info": "",
+      "link": "https://www.bricksretail.com/event-details/the-delta-sonics",
+      "image": "https://static.wixstatic.com/media/ea2d6f_070b3d8fb35746299734f022ec630b07~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_070b3d8fb35746299734f022ec630b07~mv2.jpg",
+      "source_url": "https://www.bricksretail.com/events-calendar",
+      "age_restriction": null,
+      "venue_tag": "Bricks on Main",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Community",
+        "Retail",
+        "Entertainment"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "bricks_on_main_boogie_river_january_25_2026_5_00_pm_8_00_pm",
+      "title": "Boogie River",
+      "venue": "Bricks on Main",
+      "location": "Longmont",
+      "date": "January 25, 2026",
+      "normalized_date": "2026-01-25T00:00:00",
+      "recurring": null,
+      "time": "5:00 PM - 8:00 PM",
+      "description": "Blending tight grooves, infectious energy, and a mix of rock, funk, and soul, Boogie River delivers a sound that\u2019s both nostalgic and fresh. With each member bringing years of experience from their previous bands, the result is a powerhouse of musicianship, creativity, and pure fun.",
+      "additional_info": "",
+      "link": "https://www.bricksretail.com/event-details/boogie-river",
+      "image": "https://static.wixstatic.com/media/ea2d6f_135ec425e39443578a983ac034389603~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_135ec425e39443578a983ac034389603~mv2.jpg",
       "source_url": "https://www.bricksretail.com/events-calendar",
       "age_restriction": null,
       "venue_tag": "Bricks on Main",
