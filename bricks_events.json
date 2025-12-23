@@ -1,132 +1,5 @@
 [
   {
-    "link": "https://www.bricksretail.com/event-details/tim-jenny-ostdiek",
-    "title": "Tim & Jenny Ostdiek",
-    "date": "December 18, 2025",
-    "time": "6:00 PM - 8:00 PM",
-    "description": "Colorado folk duo Jenny and Tim Ostdiek bring a rare mix of heart and humor to the stage. Their soulful harmonies and thoughtful songwriting move effortlessly between joy and introspection, drawing listeners into a space of warmth and connection.",
-    "image": "https://static.wixstatic.com/media/ea2d6f_5e7d87d7d97d4c57b067869c3eccd119~mv2.jpeg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_5e7d87d7d97d4c57b067869c3eccd119~mv2.jpeg",
-    "venue": "Bricks on Main",
-    "location": "Longmont",
-    "category": "Music",
-    "source_url": "https://www.bricksretail.com/events-calendar",
-    "event_type_tags": [
-      "Live Music",
-      "Entertainment"
-    ],
-    "venue_type_tags": [
-      "Music Venue",
-      "Bar",
-      "Restaurant"
-    ]
-  },
-  {
-    "link": "https://www.bricksretail.com/event-details/the-saints-6",
-    "title": "The Saints",
-    "date": "December 19, 2025",
-    "time": "6:00 PM - 9:00 PM",
-    "description": "The Saints is a seven-piece band that has a real New Orleans feel.  We play funk, R&B, soul, and rock, both original tunes and cover songs. We cover music by popular artists like Prince, Jon Cleary, the Neville Brothers, Tina Turner, and Aretha Franklin, as well as newer artists.",
-    "image": "https://static.wixstatic.com/media/ea2d6f_98aec6e04acd4f47acc032d4fae35948~mv2.jpeg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_98aec6e04acd4f47acc032d4fae35948~mv2.jpeg",
-    "venue": "Bricks on Main",
-    "location": "Longmont",
-    "category": "Music",
-    "source_url": "https://www.bricksretail.com/events-calendar",
-    "event_type_tags": [
-      "Live Music",
-      "Entertainment"
-    ],
-    "venue_type_tags": [
-      "Music Venue",
-      "Bar",
-      "Restaurant"
-    ]
-  },
-  {
-    "link": "https://www.bricksretail.com/event-details/farm-market-and-art-show",
-    "title": "Farm Market and Art Show",
-    "date": "December 20, 2025",
-    "time": "10:00 AM - 2:00 PM",
-    "description": "Join us for a festive day at the Winter Farm Market & Art Show!",
-    "image": "https://static.wixstatic.com/media/ea2d6f_31732202645d4bfd9fd06602fe360d0e~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_31732202645d4bfd9fd06602fe360d0e~mv2.jpg",
-    "venue": "Bricks on Main",
-    "location": "Longmont",
-    "category": "Music",
-    "source_url": "https://www.bricksretail.com/events-calendar",
-    "event_type_tags": [
-      "Market",
-      "Community",
-      "Family Friendly"
-    ],
-    "venue_type_tags": [
-      "Music Venue",
-      "Bar",
-      "Restaurant"
-    ]
-  },
-  {
-    "link": "https://www.bricksretail.com/event-details/rockin-horse-4",
-    "title": "Rockin Horse",
-    "date": "December 20, 2025",
-    "time": "6:00 PM - 9:00 PM",
-    "description": "Rockin Horse is a variety Dance Band with high octane audience participation.",
-    "image": "https://static.wixstatic.com/media/f119ff_522e2399016d4a648506d3f10e9b8a8c~mv2.jpeg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/f119ff_522e2399016d4a648506d3f10e9b8a8c~mv2.jpeg",
-    "venue": "Bricks on Main",
-    "location": "Longmont",
-    "category": "Music",
-    "source_url": "https://www.bricksretail.com/events-calendar",
-    "event_type_tags": [
-      "Live Music",
-      "Entertainment"
-    ],
-    "venue_type_tags": [
-      "Music Venue",
-      "Bar",
-      "Restaurant"
-    ]
-  },
-  {
-    "link": "https://www.bricksretail.com/event-details/holiday-cookie-sweets-exchange-2",
-    "title": "Holiday Cookie & Sweets Exchange",
-    "date": "December 21, 2025",
-    "time": "12:00 PM - 2:00 PM",
-    "description": "Get ready to swap your favorite holiday treats with fellow sweet lovers! Join us in person at Bricks on Main for a fun and tasty exchange. Bring your best cookies or sweets to share and discover delicious goodies from others. It's the perfect way to celebrate the season, meet new friends, and enjoy!",
-    "image": "https://static.wixstatic.com/media/ea2d6f_e4369d836fbf41649984ac7c73439075~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_e4369d836fbf41649984ac7c73439075~mv2.jpg",
-    "venue": "Bricks on Main",
-    "location": "Longmont",
-    "category": "Music",
-    "source_url": "https://www.bricksretail.com/events-calendar",
-    "event_type_tags": [
-      "Live Music",
-      "Entertainment"
-    ],
-    "venue_type_tags": [
-      "Music Venue",
-      "Bar",
-      "Restaurant"
-    ]
-  },
-  {
-    "link": "https://www.bricksretail.com/event-details/oligarchy-ditch-2",
-    "title": "Oligarchy Ditch",
-    "date": "December 21, 2025",
-    "time": "5:00 PM - 8:00 PM",
-    "description": "Oligarchy Ditch is Dave Simons, with a potential all-star cast of drop-ins from Longmont and beyond.",
-    "image": "https://static.wixstatic.com/media/ea2d6f_aea007abab6a4c1b8b8d86217a7b05ee~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_aea007abab6a4c1b8b8d86217a7b05ee~mv2.jpg",
-    "venue": "Bricks on Main",
-    "location": "Longmont",
-    "category": "Music",
-    "source_url": "https://www.bricksretail.com/events-calendar",
-    "event_type_tags": [
-      "Live Music",
-      "Entertainment"
-    ],
-    "venue_type_tags": [
-      "Music Venue",
-      "Bar",
-      "Restaurant"
-    ]
-  },
-  {
     "link": "https://www.bricksretail.com/event-details/open-mic-night-2025-12-23-18-00",
     "title": "Open Mic Night",
     "date": "December 23, 2025",
@@ -141,6 +14,28 @@
       "Open Mic",
       "Music",
       "Community"
+    ],
+    "venue_type_tags": [
+      "Music Venue",
+      "Bar",
+      "Restaurant"
+    ]
+  },
+  {
+    "link": "https://www.bricksretail.com/event-details/karaoke-night-2025-12-24-18-00",
+    "title": "Karaoke Night",
+    "date": "December 24, 2025",
+    "time": "6:00 PM - 8:00 PM",
+    "description": "Take the Bricks Main Stage ... you're the headliner!",
+    "image": "https://static.wixstatic.com/media/0f3cdb_cc11739aca8043a8a8cbdf5cdc8f3661~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/0f3cdb_cc11739aca8043a8a8cbdf5cdc8f3661~mv2.jpg",
+    "venue": "Bricks on Main",
+    "location": "Longmont",
+    "category": "Music",
+    "source_url": "https://www.bricksretail.com/events-calendar",
+    "event_type_tags": [
+      "Karaoke",
+      "Music",
+      "Entertainment"
     ],
     "venue_type_tags": [
       "Music Venue",
@@ -191,10 +86,12 @@
     ]
   },
   {
-    "link": "https://www.bricksretail.com/event-details/lionel-young-band-2",
-    "title": "Lionel Young Band",
+    "link": "https://www.bricksretail.com/event-details/the-lionel-young-band",
+    "title": "The Lionel Young Band",
     "date": "December 28, 2025",
     "time": "5:00 PM - 8:00 PM",
+    "description": "Blues and R& B. This band won the 2011 International Blues Challenge in Memphis.",
+    "image": "https://static.wixstatic.com/media/ea2d6f_6fc6bd6031e44be98ad43db8e0ef6cf8~mv2.jpeg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_6fc6bd6031e44be98ad43db8e0ef6cf8~mv2.jpeg",
     "venue": "Bricks on Main",
     "location": "Longmont",
     "category": "Music",
@@ -207,8 +104,7 @@
       "Music Venue",
       "Bar",
       "Restaurant"
-    ],
-    "image": "bricks.jpg"
+    ]
   },
   {
     "link": "https://www.bricksretail.com/event-details/3rd-annual-audiomedz-before-the-ball-drops",
@@ -312,5 +208,150 @@
       "Restaurant"
     ],
     "image": "bricks.jpg"
+  },
+  {
+    "link": "https://www.bricksretail.com/event-details/tony-and-earl",
+    "title": "Tony and Earl",
+    "date": "January 11, 2026",
+    "time": "5:00 PM - 8:00 PM",
+    "venue": "Bricks on Main",
+    "location": "Longmont",
+    "category": "Music",
+    "source_url": "https://www.bricksretail.com/events-calendar",
+    "event_type_tags": [
+      "Live Music",
+      "Entertainment"
+    ],
+    "venue_type_tags": [
+      "Music Venue",
+      "Bar",
+      "Restaurant"
+    ],
+    "image": "bricks.jpg"
+  },
+  {
+    "link": "https://www.bricksretail.com/event-details/jay-stott-band",
+    "title": "Jay Stott Band",
+    "date": "January 15, 2026",
+    "time": "6:00 PM - 8:00 PM",
+    "description": "While playing the I25 corridor from Colorado to Montana for over 10 years, Lyons based Americana artist Jay Stott has been a finalist in songwriting competitions in Texas, Colorado and Montana, and performed at Rail on the River and Boulder’s Big Hootenanny this year.",
+    "image": "https://static.wixstatic.com/media/ea2d6f_23b10e5f3f6749239691f3384fef3fbc~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_23b10e5f3f6749239691f3384fef3fbc~mv2.jpg",
+    "venue": "Bricks on Main",
+    "location": "Longmont",
+    "category": "Music",
+    "source_url": "https://www.bricksretail.com/events-calendar",
+    "event_type_tags": [
+      "Live Music",
+      "Entertainment"
+    ],
+    "venue_type_tags": [
+      "Music Venue",
+      "Bar",
+      "Restaurant"
+    ]
+  },
+  {
+    "link": "https://www.bricksretail.com/event-details/the-m-o-b-mike-ortiz-band",
+    "title": "The M.O.B. (Mike Ortiz Band)",
+    "date": "January 16, 2026",
+    "time": "6:00 PM - 9:00 PM",
+    "description": "The M.O.B. plays what you want to hear! From Allmans to ZZ Top with some Motown, Funk, Country and Blues tossed in.",
+    "image": "https://static.wixstatic.com/media/ea2d6f_bbbfd74cc8a84d3a8b09d9cbdc1991d9~mv2.png/v1/fill/w_400,h_400,al_c,q_85,enc_auto/ea2d6f_bbbfd74cc8a84d3a8b09d9cbdc1991d9~mv2.png",
+    "venue": "Bricks on Main",
+    "location": "Longmont",
+    "category": "Music",
+    "source_url": "https://www.bricksretail.com/events-calendar",
+    "event_type_tags": [
+      "Live Music",
+      "Entertainment"
+    ],
+    "venue_type_tags": [
+      "Music Venue",
+      "Bar",
+      "Restaurant"
+    ]
+  },
+  {
+    "link": "https://www.bricksretail.com/event-details/crick-wooder-1",
+    "title": "Crick Wooder",
+    "date": "January 17, 2026",
+    "time": "6:00 PM - 9:00 PM",
+    "description": "An Owsley-Grade Grateful Dead Experience.",
+    "image": "https://static.wixstatic.com/media/ea2d6f_87c80b623fc94403a9ca8d74d950f3d9~mv2.png/v1/fill/w_400,h_400,al_c,q_85,enc_auto/ea2d6f_87c80b623fc94403a9ca8d74d950f3d9~mv2.png",
+    "venue": "Bricks on Main",
+    "location": "Longmont",
+    "category": "Music",
+    "source_url": "https://www.bricksretail.com/events-calendar",
+    "event_type_tags": [
+      "Live Music",
+      "Entertainment"
+    ],
+    "venue_type_tags": [
+      "Music Venue",
+      "Bar",
+      "Restaurant"
+    ]
+  },
+  {
+    "link": "https://www.bricksretail.com/event-details/john-mckay-band",
+    "title": "John McKay Band",
+    "date": "January 23, 2026",
+    "time": "6:00 PM - 9:00 PM",
+    "venue": "Bricks on Main",
+    "location": "Longmont",
+    "category": "Music",
+    "source_url": "https://www.bricksretail.com/events-calendar",
+    "event_type_tags": [
+      "Live Music",
+      "Entertainment"
+    ],
+    "venue_type_tags": [
+      "Music Venue",
+      "Bar",
+      "Restaurant"
+    ],
+    "image": "bricks.jpg"
+  },
+  {
+    "link": "https://www.bricksretail.com/event-details/the-delta-sonics",
+    "title": "The Delta Sonics",
+    "date": "January 24, 2026",
+    "time": "6:00 PM - 9:00 PM",
+    "description": "The Delta Sonics music takes a Chicago Blues base and seasons it with Swing, Delta, N’awlins R&B and some early Rock n' Roll . This hard -working band averages over 200 shows a year. They have been featured at many of the major festivals in Colorado.",
+    "image": "https://static.wixstatic.com/media/ea2d6f_070b3d8fb35746299734f022ec630b07~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_070b3d8fb35746299734f022ec630b07~mv2.jpg",
+    "venue": "Bricks on Main",
+    "location": "Longmont",
+    "category": "Music",
+    "source_url": "https://www.bricksretail.com/events-calendar",
+    "event_type_tags": [
+      "Live Music",
+      "Entertainment"
+    ],
+    "venue_type_tags": [
+      "Music Venue",
+      "Bar",
+      "Restaurant"
+    ]
+  },
+  {
+    "link": "https://www.bricksretail.com/event-details/boogie-river",
+    "title": "Boogie River",
+    "date": "January 25, 2026",
+    "time": "5:00 PM - 8:00 PM",
+    "description": "Blending tight grooves, infectious energy, and a mix of rock, funk, and soul, Boogie River delivers a sound that’s both nostalgic and fresh. With each member bringing years of experience from their previous bands, the result is a powerhouse of musicianship, creativity, and pure fun.",
+    "image": "https://static.wixstatic.com/media/ea2d6f_135ec425e39443578a983ac034389603~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_135ec425e39443578a983ac034389603~mv2.jpg",
+    "venue": "Bricks on Main",
+    "location": "Longmont",
+    "category": "Music",
+    "source_url": "https://www.bricksretail.com/events-calendar",
+    "event_type_tags": [
+      "Live Music",
+      "Entertainment"
+    ],
+    "venue_type_tags": [
+      "Music Venue",
+      "Bar",
+      "Restaurant"
+    ]
   }
 ]

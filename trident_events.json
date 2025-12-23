@@ -1,92 +1,5 @@
 [
   {
-    "title": "Variety Show: And Now Featuring...",
-    "link": "https://www.tridentcafe.com/events/2025/12/18/variety-show-and-now-featuring",
-    "date": "December 18, 2025",
-    "time": "6:00 PM",
-    "venue": "Trident Booksellers & Cafe",
-    "location": "Boulder",
-    "category": "Books & Literary",
-    "source_url": "https://www.tridentcafe.com/events",
-    "image": "trident.jpg",
-    "event_type_tags": [
-      "Live Music",
-      "Books",
-      "Community"
-    ],
-    "venue_type_tags": [
-      "Cafe",
-      "Bookstore",
-      "Music Venue"
-    ]
-  },
-  {
-    "title": "Jackson Cloud",
-    "link": "https://www.tridentcafe.com/events/2025/12/19/jackson-cloud",
-    "date": "December 19, 2025",
-    "time": "6:00 PM",
-    "description": "Jackson Cloud is a new alternative artist out of Boulder Colorado. His newest releases \"Twisted Faces\" (album) \"I Love You Sometimes\" and \"Let On\" (singles) are produced entirely by Cloud. \"Twisted Faces\" offer's a wide range of genres from synth heavy electronic tracks, melancholic melodies with to...",
-    "venue": "Trident Booksellers & Cafe",
-    "location": "Boulder",
-    "category": "Books & Literary",
-    "source_url": "https://www.tridentcafe.com/events",
-    "image": "trident.jpg",
-    "event_type_tags": [
-      "Live Music",
-      "Books",
-      "Community"
-    ],
-    "venue_type_tags": [
-      "Cafe",
-      "Bookstore",
-      "Music Venue"
-    ]
-  },
-  {
-    "title": "Light Technics & Friends (Ambient & Electronic Improv)",
-    "link": "https://www.tridentcafe.com/events/2025/12/17/light-technics-amp-friends-ambient-amp-electronic-improv",
-    "date": "December 20, 2025",
-    "time": "6:00 PM",
-    "description": "Light Technics is the experimental alias and project of Ted Stevens. He will be playing some tunes from his upcoming album as well as improvisations. Joining him will be his bandmates; Protorhythm (Will Tyson) doing an improv analog techno set, and WEIRDer (Ryan Schlichtman) doing something of a sim...",
-    "venue": "Trident Booksellers & Cafe",
-    "location": "Boulder",
-    "category": "Books & Literary",
-    "source_url": "https://www.tridentcafe.com/events",
-    "image": "trident.jpg",
-    "event_type_tags": [
-      "Live Music",
-      "Books",
-      "Community"
-    ],
-    "venue_type_tags": [
-      "Cafe",
-      "Bookstore",
-      "Music Venue"
-    ]
-  },
-  {
-    "title": "Language Exchange Night",
-    "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-s7a5x-sfh87",
-    "date": "December 22, 2025",
-    "time": "7:00 PM",
-    "description": "Free!Every Monday evening, 7-9p.m.All languages welcome. Facilitated by Kelvin Tavarez.",
-    "venue": "Trident Booksellers & Cafe",
-    "location": "Boulder",
-    "category": "Books & Literary",
-    "source_url": "https://www.tridentcafe.com/events",
-    "image": "trident.jpg",
-    "event_type_tags": [
-      "Live Music",
-      "Books",
-      "Community"
-    ],
-    "venue_type_tags": [
-      "Cafe",
-      "Bookstore",
-      "Music Venue"
-    ]
-  },
-  {
     "title": "Language Exchange Night",
     "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-s7a5x-brgdj",
     "date": "December 29, 2025",
@@ -222,6 +135,7 @@
     "link": "https://www.tridentcafe.com/events/2026/1/16/climatique",
     "date": "January 16, 2026",
     "time": "6:00 PM",
+    "description": "Boundless in Creation: A Climatique Music & Arts Gathering space for BIPOC, AFAB (assigned female at birth), and LGBTQIA+ artists to share, discuss, and uplift each other. We will showcase local talent, engage in a round-table discussion about our experiences with marginalization, explore strategies...",
     "venue": "Trident Booksellers & Cafe",
     "location": "Boulder",
     "category": "Books & Literary",
@@ -478,6 +392,27 @@
     ]
   },
   {
+    "title": "Jazzetry W/ Von Disco",
+    "link": "https://www.tridentcafe.com/events/2025/9/13/jazzetry-w-von-disco-5w3sd-b4jws-4dz6c-shb2b",
+    "date": "February 14, 2026",
+    "time": "6:00 PM",
+    "venue": "Trident Booksellers & Cafe",
+    "location": "Boulder",
+    "category": "Books & Literary",
+    "source_url": "https://www.tridentcafe.com/events",
+    "image": "trident.jpg",
+    "event_type_tags": [
+      "Live Music",
+      "Books",
+      "Community"
+    ],
+    "venue_type_tags": [
+      "Cafe",
+      "Bookstore",
+      "Music Venue"
+    ]
+  },
+  {
     "title": "Language Exchange Night",
     "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-s7a5x-brgdj-p3rzz-chz3z",
     "date": "February 16, 2026",
@@ -653,6 +588,27 @@
     ]
   },
   {
+    "title": "Jazzetry W/ Von Disco",
+    "link": "https://www.tridentcafe.com/events/2025/9/13/jazzetry-w-von-disco-5w3sd-b4jws-4dz6c-g6gtk",
+    "date": "March 14, 2026",
+    "time": "6:00 PM",
+    "venue": "Trident Booksellers & Cafe",
+    "location": "Boulder",
+    "category": "Books & Literary",
+    "source_url": "https://www.tridentcafe.com/events",
+    "image": "trident.jpg",
+    "event_type_tags": [
+      "Live Music",
+      "Books",
+      "Community"
+    ],
+    "venue_type_tags": [
+      "Cafe",
+      "Bookstore",
+      "Music Venue"
+    ]
+  },
+  {
     "title": "Language Exchange Night",
     "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-s7a5x-brgdj-p3rzz-kbhrm-8nzgb",
     "date": "March 16, 2026",
@@ -744,6 +700,28 @@
     "title": "Trouble's Braids",
     "link": "https://www.tridentcafe.com/events/2026/4/10/troubles-braids",
     "date": "April 10, 2026",
+    "time": "6:00 PM",
+    "description": "Trouble\u2019s Braids is a musical group from Boulder, Colorado that creates dynamic folk rock with teeth. Their first EP, The Big Tourist, has been featured in Westword Magazine, Business Insider, and numerous radio shows, and the act has booked out all over the Front Range, including Boulder Theater, R...",
+    "venue": "Trident Booksellers & Cafe",
+    "location": "Boulder",
+    "category": "Books & Literary",
+    "source_url": "https://www.tridentcafe.com/events",
+    "image": "trident.jpg",
+    "event_type_tags": [
+      "Live Music",
+      "Books",
+      "Community"
+    ],
+    "venue_type_tags": [
+      "Cafe",
+      "Bookstore",
+      "Music Venue"
+    ]
+  },
+  {
+    "title": "Jazzetry W/ Von Disco",
+    "link": "https://www.tridentcafe.com/events/2025/9/13/jazzetry-w-von-disco-5w3sd-b4jws-4dz6c-wc4ca",
+    "date": "April 11, 2026",
     "time": "6:00 PM",
     "venue": "Trident Booksellers & Cafe",
     "location": "Boulder",
@@ -891,6 +869,28 @@
     ]
   },
   {
+    "title": "Dylan Hoock & Emily Barnes",
+    "link": "https://www.tridentcafe.com/events/2026/5/2/dylan-hoock-amp-emily-barnes",
+    "date": "May 26, 2026",
+    "time": "6:00 PM",
+    "description": "Dillon Hoock is a songwriter from Colorado Springs who writes the kind of songs that stay with you. Rooted in Americana and Folk, his voice and guitar carry a quiet emotion that feels honest and lived-in. His music wrestles with purpose, mental health, and what it means to find peace in a noisy worl...",
+    "venue": "Trident Booksellers & Cafe",
+    "location": "Boulder",
+    "category": "Books & Literary",
+    "source_url": "https://www.tridentcafe.com/events",
+    "image": "trident.jpg",
+    "event_type_tags": [
+      "Live Music",
+      "Books",
+      "Community"
+    ],
+    "venue_type_tags": [
+      "Cafe",
+      "Bookstore",
+      "Music Venue"
+    ]
+  },
+  {
     "title": "Language Exchange Night",
     "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-s7a5x-brgdj-6jtkx-pwzma-es6f9",
     "date": "May 11, 2026",
@@ -1000,6 +1000,28 @@
     ]
   },
   {
+    "title": "Mark Winters",
+    "link": "https://www.tridentcafe.com/events/2026/5/28/mark-winters",
+    "date": "May 28, 2026",
+    "time": "6:00 PM",
+    "description": "Texas-based rock singer-songwriter Mark Winters is many things; a witty poet, passionate musician, entrepreneur, optimist, family man, and a bonafide rocket scientist. He first picked up a guitar to play a song for his wife on their anniversary. That\u2019s when he discovered the joy of connecting with p...",
+    "venue": "Trident Booksellers & Cafe",
+    "location": "Boulder",
+    "category": "Books & Literary",
+    "source_url": "https://www.tridentcafe.com/events",
+    "image": "trident.jpg",
+    "event_type_tags": [
+      "Live Music",
+      "Books",
+      "Community"
+    ],
+    "venue_type_tags": [
+      "Cafe",
+      "Bookstore",
+      "Music Venue"
+    ]
+  },
+  {
     "title": "Language Exchange Night",
     "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-s7a5x-brgdj-6jtkx-pwzma-ex96d",
     "date": "June 17, 2026",
@@ -1022,10 +1044,182 @@
     ]
   },
   {
+    "title": "Jazzetry W/ Von Disco",
+    "link": "https://www.tridentcafe.com/events/2025/9/13/jazzetry-w-von-disco-5w3sd-b4jws-4dz6c-xeld3",
+    "date": "June 13, 2026",
+    "time": "6:00 PM",
+    "venue": "Trident Booksellers & Cafe",
+    "location": "Boulder",
+    "category": "Books & Literary",
+    "source_url": "https://www.tridentcafe.com/events",
+    "image": "trident.jpg",
+    "event_type_tags": [
+      "Live Music",
+      "Books",
+      "Community"
+    ],
+    "venue_type_tags": [
+      "Cafe",
+      "Bookstore",
+      "Music Venue"
+    ]
+  },
+  {
     "title": "Magic Mountain Author Series",
     "link": "https://www.tridentcafe.com/events/2026/1/22/magic-mountain-author-series-6m6eb",
     "date": "June 18, 2026",
     "time": "6:00 PM",
+    "venue": "Trident Booksellers & Cafe",
+    "location": "Boulder",
+    "category": "Books & Literary",
+    "source_url": "https://www.tridentcafe.com/events",
+    "image": "trident.jpg",
+    "event_type_tags": [
+      "Live Music",
+      "Books",
+      "Community"
+    ],
+    "venue_type_tags": [
+      "Cafe",
+      "Bookstore",
+      "Music Venue"
+    ]
+  },
+  {
+    "title": "Jazzetry W/ Von Disco",
+    "link": "https://www.tridentcafe.com/events/2025/9/13/jazzetry-w-von-disco-5w3sd-b4jws-4dz6c-tdrk7",
+    "date": "July 11, 2026",
+    "time": "6:00 PM",
+    "venue": "Trident Booksellers & Cafe",
+    "location": "Boulder",
+    "category": "Books & Literary",
+    "source_url": "https://www.tridentcafe.com/events",
+    "image": "trident.jpg",
+    "event_type_tags": [
+      "Live Music",
+      "Books",
+      "Community"
+    ],
+    "venue_type_tags": [
+      "Cafe",
+      "Bookstore",
+      "Music Venue"
+    ]
+  },
+  {
+    "title": "Jazzetry W/ Von Disco",
+    "link": "https://www.tridentcafe.com/events/2025/9/13/jazzetry-w-von-disco-5w3sd-b4jws-4dz6c-m7tm5",
+    "date": "September 12, 2026",
+    "time": "6:00 PM",
+    "venue": "Trident Booksellers & Cafe",
+    "location": "Boulder",
+    "category": "Books & Literary",
+    "source_url": "https://www.tridentcafe.com/events",
+    "image": "trident.jpg",
+    "event_type_tags": [
+      "Live Music",
+      "Books",
+      "Community"
+    ],
+    "venue_type_tags": [
+      "Cafe",
+      "Bookstore",
+      "Music Venue"
+    ]
+  },
+  {
+    "title": "Language Exchange Night",
+    "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-s7a5x-sfh87",
+    "date": "December 22, 2026",
+    "time": "7:00 PM",
+    "description": "Free!Every Monday evening, 7-9p.m.All languages welcome. Facilitated by Kelvin Tavarez.",
+    "venue": "Trident Booksellers & Cafe",
+    "location": "Boulder",
+    "category": "Books & Literary",
+    "source_url": "https://www.tridentcafe.com/events",
+    "image": "trident.jpg",
+    "event_type_tags": [
+      "Live Music",
+      "Books",
+      "Community"
+    ],
+    "venue_type_tags": [
+      "Cafe",
+      "Bookstore",
+      "Music Venue"
+    ]
+  },
+  {
+    "title": "Light Technics & Friends (Ambient & Electronic Improv)",
+    "link": "https://www.tridentcafe.com/events/2025/12/17/light-technics-amp-friends-ambient-amp-electronic-improv",
+    "date": "December 20, 2026",
+    "time": "6:00 PM",
+    "description": "Light Technics is the experimental alias and project of Ted Stevens. He will be playing some tunes from his upcoming album as well as improvisations. Joining him will be his bandmates; Protorhythm (Will Tyson) doing an improv analog techno set, and WEIRDer (Ryan Schlichtman) doing something of a sim...",
+    "venue": "Trident Booksellers & Cafe",
+    "location": "Boulder",
+    "category": "Books & Literary",
+    "source_url": "https://www.tridentcafe.com/events",
+    "image": "trident.jpg",
+    "event_type_tags": [
+      "Live Music",
+      "Books",
+      "Community"
+    ],
+    "venue_type_tags": [
+      "Cafe",
+      "Bookstore",
+      "Music Venue"
+    ]
+  },
+  {
+    "title": "Jackson Cloud",
+    "link": "https://www.tridentcafe.com/events/2025/12/19/jackson-cloud",
+    "date": "December 19, 2026",
+    "time": "6:00 PM",
+    "description": "Jackson Cloud is a new alternative artist out of Boulder Colorado. His newest releases \"Twisted Faces\" (album) \"I Love You Sometimes\" and \"Let On\" (singles) are produced entirely by Cloud. \"Twisted Faces\" offer's a wide range of genres from synth heavy electronic tracks, melancholic melodies with to...",
+    "venue": "Trident Booksellers & Cafe",
+    "location": "Boulder",
+    "category": "Books & Literary",
+    "source_url": "https://www.tridentcafe.com/events",
+    "image": "trident.jpg",
+    "event_type_tags": [
+      "Live Music",
+      "Books",
+      "Community"
+    ],
+    "venue_type_tags": [
+      "Cafe",
+      "Bookstore",
+      "Music Venue"
+    ]
+  },
+  {
+    "title": "Variety Show: And Now Featuring...",
+    "link": "https://www.tridentcafe.com/events/2025/12/18/variety-show-and-now-featuring",
+    "date": "December 18, 2026",
+    "time": "6:00 PM",
+    "venue": "Trident Booksellers & Cafe",
+    "location": "Boulder",
+    "category": "Books & Literary",
+    "source_url": "https://www.tridentcafe.com/events",
+    "image": "trident.jpg",
+    "event_type_tags": [
+      "Live Music",
+      "Books",
+      "Community"
+    ],
+    "venue_type_tags": [
+      "Cafe",
+      "Bookstore",
+      "Music Venue"
+    ]
+  },
+  {
+    "title": "Creatives For Palestine: Featuring Diva Cup/ Nionea/ Calamity Fever",
+    "link": "https://www.tridentcafe.com/events/2025/12/17/creatives-for-palestine-featuring-diva-cup-nionea-calamity-fever",
+    "date": "December 17, 2026",
+    "time": "4:30 PM",
+    "description": "\"Through the efforts of local organizing groups, Students for Justice in Palestine and Earth Angels Act - as well as creatives from the Denver/Boulder area - presentCreatives for Palestine: A Benefit Show. This concert and art event will raise money for families in Gaza and build\u00a0solidarity within o...",
     "venue": "Trident Booksellers & Cafe",
     "location": "Boulder",
     "category": "Books & Literary",
@@ -1442,114 +1636,6 @@
     "date": "November 15, 2026",
     "time": "6:00 PM",
     "description": "\u201cConsisting of four likeminded sonic searchers, Blue Pink Little Shoe steps on the line between intention and happenstance and then runs in the opposite direction. One can never know what hidden timbres might emerge from a session. Unpredictable as they are consistent, melodic as they are chaotic, e...",
-    "venue": "Trident Booksellers & Cafe",
-    "location": "Boulder",
-    "category": "Books & Literary",
-    "source_url": "https://www.tridentcafe.com/events",
-    "image": "trident.jpg",
-    "event_type_tags": [
-      "Live Music",
-      "Books",
-      "Community"
-    ],
-    "venue_type_tags": [
-      "Cafe",
-      "Bookstore",
-      "Music Venue"
-    ]
-  },
-  {
-    "title": "Static Parade: An MFA Reading",
-    "link": "https://www.tridentcafe.com/events/2025/11/12/static-parade-an-mfa-reading",
-    "date": "November 14, 2026",
-    "time": "6:00 PM",
-    "venue": "Trident Booksellers & Cafe",
-    "location": "Boulder",
-    "category": "Books & Literary",
-    "source_url": "https://www.tridentcafe.com/events",
-    "image": "trident.jpg",
-    "event_type_tags": [
-      "Live Music",
-      "Books",
-      "Community"
-    ],
-    "venue_type_tags": [
-      "Cafe",
-      "Bookstore",
-      "Music Venue"
-    ]
-  },
-  {
-    "title": "Chanthing: Ambient Set",
-    "link": "https://www.tridentcafe.com/events/2025/11/13/chanthing-ambient-set",
-    "date": "November 13, 2026",
-    "time": "6:00 PM",
-    "description": "chanthing is a Boulder retiree weaving ambient soundscapes with a modular synthesizer dominantly composed of units from Mutable Instruments. He draws his inspiration from classic electronic musicians like Tangerine Dream, Kraftwerk, Robert Fripp, and Brian Eno, as well as from the natural world. He ...",
-    "venue": "Trident Booksellers & Cafe",
-    "location": "Boulder",
-    "category": "Books & Literary",
-    "source_url": "https://www.tridentcafe.com/events",
-    "image": "trident.jpg",
-    "event_type_tags": [
-      "Live Music",
-      "Books",
-      "Community"
-    ],
-    "venue_type_tags": [
-      "Cafe",
-      "Bookstore",
-      "Music Venue"
-    ]
-  },
-  {
-    "title": "Bombay Gin",
-    "link": "https://www.tridentcafe.com/events/2025/11/12/bombay-gin",
-    "date": "November 12, 2026",
-    "time": "6:00 PM",
-    "venue": "Trident Booksellers & Cafe",
-    "location": "Boulder",
-    "category": "Books & Literary",
-    "source_url": "https://www.tridentcafe.com/events",
-    "image": "trident.jpg",
-    "event_type_tags": [
-      "Live Music",
-      "Books",
-      "Community"
-    ],
-    "venue_type_tags": [
-      "Cafe",
-      "Bookstore",
-      "Music Venue"
-    ]
-  },
-  {
-    "title": "Trident Author Series: Eddie Ahn - Advocate (Graphic Memoir)",
-    "link": "https://www.tridentcafe.com/events/2025/11/11/trident-author-series-eddie-anh-advocate-graphic-memoir",
-    "date": "November 11, 2026",
-    "time": "6:30 PM",
-    "description": "About Eddie:Eddie Ahn is the author and artist of \"Advocate,\" the national bestseller graphic memoir published by Penguin Random House in 2024, and he has worked as an environmental justice attorney and nonprofit worker for fifteen years. While working as the executive director of Brightline Defense...",
-    "venue": "Trident Booksellers & Cafe",
-    "location": "Boulder",
-    "category": "Books & Literary",
-    "source_url": "https://www.tridentcafe.com/events",
-    "image": "trident.jpg",
-    "event_type_tags": [
-      "Live Music",
-      "Books",
-      "Community"
-    ],
-    "venue_type_tags": [
-      "Cafe",
-      "Bookstore",
-      "Music Venue"
-    ]
-  },
-  {
-    "title": "Language Exchange Night",
-    "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-p95zc-n2als",
-    "date": "November 10, 2026",
-    "time": "7:00 PM",
-    "description": "Free!Every Monday evening, 7-9p.m.All languages welcome. Facilitated by Kelvin Tavarez.",
     "venue": "Trident Booksellers & Cafe",
     "location": "Boulder",
     "category": "Books & Literary",
