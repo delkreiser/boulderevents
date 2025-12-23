@@ -118,6 +118,29 @@
             padding: 20px;
             margin-bottom: 20px;
             box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            transition: all 0.3s ease;
+        }
+        
+        /* Mobile: Sticky Search with Glass Effect */
+        @media (max-width: 640px) {
+            .search-section.sticky {
+                position: fixed;
+                top: 0;
+                left: 0;
+                right: 0;
+                z-index: 1000;
+                margin: 0;
+                border-radius: 0;
+                background: rgba(255, 255, 255, 0.85);
+                backdrop-filter: blur(20px);
+                -webkit-backdrop-filter: blur(20px);
+                box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+                padding: 15px 20px;
+            }
+            
+            .search-section.sticky + * {
+                margin-top: 100px; /* Prevent content jump */
+            }
         }
         
         .search-container {
@@ -266,6 +289,117 @@
             color: #333;
             margin-bottom: 25px;
             font-weight: 600;
+        }
+        
+        /* Mobile Toggle Buttons */
+        .mobile-only {
+            display: none;
+        }
+        
+        @media (max-width: 640px) {
+            .mobile-only {
+                display: block;
+            }
+            
+            /* Mood Toggle Button */
+            .mood-toggle-btn {
+                width: 100%;
+                padding: 18px 20px;
+                background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%);
+                border: none;
+                border-radius: 15px;
+                font-size: 1.1em;
+                font-weight: 600;
+                color: #333;
+                cursor: pointer;
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+                transition: all 0.3s ease;
+                margin-bottom: 15px;
+            }
+            
+            .mood-toggle-btn:active {
+                transform: scale(0.98);
+            }
+            
+            .mood-toggle-icon {
+                font-size: 0.9em;
+                transition: transform 0.3s ease;
+            }
+            
+            .mood-toggle-btn.expanded .mood-toggle-icon {
+                transform: rotate(180deg);
+            }
+            
+            /* Filters Toggle Button */
+            .filters-toggle-btn {
+                width: 100%;
+                padding: 18px 20px;
+                background: linear-gradient(135deg, #89f7fe 0%, #66a6ff 100%);
+                border: none;
+                border-radius: 15px;
+                font-size: 1.1em;
+                font-weight: 600;
+                color: white;
+                cursor: pointer;
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+                transition: all 0.3s ease;
+                margin-bottom: 15px;
+            }
+            
+            .filters-toggle-btn:active {
+                transform: scale(0.98);
+            }
+            
+            .filters-toggle-icon {
+                font-size: 0.9em;
+                transition: transform 0.3s ease;
+            }
+            
+            .filters-toggle-btn.expanded .filters-toggle-icon {
+                transform: rotate(180deg);
+            }
+            
+            /* Collapsible Content */
+            .mood-content {
+                max-height: 0;
+                overflow: hidden;
+                transition: max-height 0.4s ease;
+            }
+            
+            .mood-content.expanded {
+                max-height: 2000px;
+            }
+            
+            .quick-filters {
+                max-height: 0;
+                overflow: hidden;
+                transition: max-height 0.4s ease;
+            }
+            
+            .quick-filters.expanded {
+                max-height: 500px;
+            }
+            
+            .mood-content .mood-title {
+                display: block;
+            }
+        }
+        
+        /* Hide toggle buttons on desktop */
+        @media (min-width: 641px) {
+            .mood-content {
+                max-height: none !important;
+            }
+            
+            .quick-filters {
+                max-height: none !important;
+            }
         }
         
         .mood-grid {
@@ -1030,8 +1164,16 @@
         
         <!-- Mood Filter Buttons -->
         <div class="mood-section">
-            <h2 class="mood-title">✨ What's Your Mood?</h2>
-            <div class="mood-grid">
+            <!-- Mobile Collapsible Button -->
+            <button class="mood-toggle-btn mobile-only" id="moodToggleBtn">
+                <span class="mood-toggle-text">✨ Mood Selector</span>
+                <span class="mood-toggle-icon">▼</span>
+            </button>
+            
+            <!-- Mood Content (collapsible on mobile) -->
+            <div class="mood-content" id="moodContent">
+                <h2 class="mood-title">✨ Mood Selector</h2>
+                <div class="mood-grid">
                 <button class="mood-button music-mood" data-mood="music">
                     <div class="mood-label">Live Music</div>
                     <svg class="mood-icon" viewBox="0 0 24 24" fill="white" xmlns="http://www.w3.org/2000/svg">
@@ -1203,10 +1345,19 @@
                     <div class="mood-count" id="comedyCount"></div>
                 </button>
             </div>
+            </div> <!-- End mood-content -->
         </div>
         
         <!-- Quick Filters -->
-        <div class="quick-filters">
+        <div class="quick-filters-wrapper">
+            <!-- Mobile Collapsible Button -->
+            <button class="filters-toggle-btn mobile-only" id="filtersToggleBtn">
+                <span class="filters-toggle-text">🎛️ Filters</span>
+                <span class="filters-toggle-icon">▼</span>
+            </button>
+            
+            <!-- Filters Content (collapsible on mobile) -->
+            <div class="quick-filters" id="filtersContent">
             <div class="filter-group">
                 <label for="locationFilter">📍 Location</label>
                 <select id="locationFilter" class="filter-dropdown">
@@ -1232,7 +1383,8 @@
                     <option value="">All Venues</option>
                 </select>
             </div>
-        </div>
+        </div> <!-- End quick-filters -->
+        </div> <!-- End quick-filters-wrapper -->
         
         <!-- Active Filters Pills -->
         <div class="active-filters" id="activeFilters" style="display: none;">
@@ -1273,6 +1425,51 @@
             games: ['Games', 'Game Night', 'Board Games', 'Puzzles', 'Mahjongg'],
             comedy: ['Comedy', 'Stand-Up', 'Improv', 'Comic', 'Comedian']  // New comedy mood
         };
+        
+        // Mobile: Toggle buttons and sticky search
+        if (window.innerWidth <= 640) {
+            // Mood Toggle
+            const moodToggleBtn = document.getElementById('moodToggleBtn');
+            const moodContent = document.getElementById('moodContent');
+            
+            moodToggleBtn.addEventListener('click', () => {
+                moodToggleBtn.classList.toggle('expanded');
+                moodContent.classList.toggle('expanded');
+            });
+            
+            // Filters Toggle
+            const filtersToggleBtn = document.getElementById('filtersToggleBtn');
+            const filtersContent = document.getElementById('filtersContent');
+            
+            filtersToggleBtn.addEventListener('click', () => {
+                filtersToggleBtn.classList.toggle('expanded');
+                filtersContent.classList.toggle('expanded');
+            });
+            
+            // Sticky Search on Scroll
+            const searchSection = document.querySelector('.search-section');
+            const searchSectionOffset = searchSection.offsetTop;
+            
+            window.addEventListener('scroll', () => {
+                if (window.pageYOffset > searchSectionOffset) {
+                    searchSection.classList.add('sticky');
+                } else {
+                    searchSection.classList.remove('sticky');
+                }
+            });
+        }
+        
+        // Scroll to first event after filter selection
+        function scrollToResults() {
+            if (window.innerWidth <= 640) {
+                const firstEvent = document.querySelector('.event-card');
+                if (firstEvent) {
+                    setTimeout(() => {
+                        firstEvent.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                    }, 100);
+                }
+            }
+        }
         
         // Load events
         async function loadEvents() {
@@ -1408,18 +1605,21 @@
         document.getElementById('venueFilter').addEventListener('change', (e) => {
             activeFilters.venue = e.target.value;
             applyFilters();
+            scrollToResults();
         });
         
         // Location dropdown
         document.getElementById('locationFilter').addEventListener('change', (e) => {
             activeFilters.location = e.target.value;
             applyFilters();
+            scrollToResults();
         });
         
         // When filter
         document.getElementById('whenFilter').addEventListener('change', (e) => {
             activeFilters.when = e.target.value;
             applyFilters();
+            scrollToResults();
         });
         
         // Search box
