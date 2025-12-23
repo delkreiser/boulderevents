@@ -1613,7 +1613,17 @@
                 const firstEvent = document.querySelector('.event-card');
                 if (firstEvent) {
                     setTimeout(() => {
-                        firstEvent.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                        const searchBar = document.querySelector('.search-section');
+                        const searchBarHeight = searchBar ? searchBar.offsetHeight : 0;
+                        const offset = searchBarHeight + 32; // searchBarHeight + top margin (16px * 2)
+                        
+                        const elementPosition = firstEvent.getBoundingClientRect().top + window.pageYOffset;
+                        const offsetPosition = elementPosition - offset;
+                        
+                        window.scrollTo({
+                            top: offsetPosition,
+                            behavior: 'smooth'
+                        });
                     }, 100);
                 }
             }
@@ -2051,12 +2061,6 @@
         }
         
         // Scroll to results function
-        function scrollToResults() {
-            const stats = document.getElementById('stats');
-            if (stats) {
-                stats.scrollIntoView({ behavior: 'smooth', block: 'start' });
-            }
-        }
         
         // Clear all button
         document.getElementById('clearAllBtn').addEventListener('click', () => {
