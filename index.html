@@ -421,18 +421,6 @@
                 display: none;
             }
             
-            /* Filter dropdowns white text on mobile */
-            .filter-group select {
-                color: white;
-                background: rgba(255, 255, 255, 0.15);
-                border: 1px solid rgba(255, 255, 255, 0.3);
-            }
-            
-            .filter-group select option {
-                color: #333;
-                background: white;
-            }
-            
         }
         
         /* Desktop & Tablet: Glass effect with collapsible Mood Selector */
@@ -864,11 +852,13 @@
         
         /* Quick Filters */
         .quick-filters {
-            background: white;
+            background: rgba(255, 255, 255, 0.2);
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.3);
             border-radius: 15px;
             padding: 20px;
             margin-bottom: 20px;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
             display: flex;
             gap: 20px;
             flex-wrap: wrap;
@@ -927,16 +917,23 @@
         .filter-dropdown {
             width: 100%;
             padding: 10px 15px;
-            border: 2px solid #e0e0e0;
+            border: 1px solid rgba(255, 255, 255, 0.3);
             border-radius: 10px;
             font-size: 1em;
-            background: white;
+            background: rgba(255, 255, 255, 0.15);
+            color: white;
             cursor: pointer;
             transition: all 0.3s ease;
         }
         
+        .filter-dropdown option {
+            color: #333;
+            background: white;
+        }
+        
         .filter-dropdown:hover {
-            border-color: #667eea;
+            background: rgba(255, 255, 255, 0.25);
+            border-color: rgba(255, 255, 255, 0.5);
         }
         
         .filter-dropdown:focus {
