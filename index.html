@@ -1615,7 +1615,7 @@
                     setTimeout(() => {
                         const searchBar = document.querySelector('.search-section');
                         const searchBarHeight = searchBar ? searchBar.offsetHeight : 0;
-                        const offset = searchBarHeight + 32; // searchBarHeight + top margin (16px * 2)
+                        const offset = searchBarHeight + 48; // searchBarHeight + extra spacing
                         
                         const elementPosition = firstEvent.getBoundingClientRect().top + window.pageYOffset;
                         const offsetPosition = elementPosition - offset;
