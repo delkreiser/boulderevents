@@ -1,11 +1,10 @@
 {
-  "generated_at": "2025-12-22T18:30:11.495958",
-  "total_events": 162,
+  "generated_at": "2025-12-23T08:32:38.336390",
+  "total_events": 159,
   "tags": {
     "venues": [
       "300 Suns Brewing",
       "Bricks on Main",
-      "Gold Hill Inn",
       "Jungle",
       "Junkyard Social Club",
       "License No 1",
@@ -22,7 +21,6 @@
     "locations": [
       "Boulder",
       "Denver",
-      "Gold Hill",
       "Longmont"
     ],
     "venue_types": [
@@ -39,7 +37,6 @@
       "Entertainment",
       "Family Friendly",
       "Food & Drink",
-      "Historic",
       "Hotel",
       "Literary",
       "Live Music",
@@ -47,7 +44,6 @@
       "Nightlife",
       "Performance",
       "Pub",
-      "Restaurant",
       "Retail",
       "Upscale"
     ],
@@ -350,9 +346,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Educational",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
@@ -407,9 +403,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Performance",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
@@ -436,8 +432,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -464,9 +460,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Performance",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
@@ -493,10 +489,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "All Ages",
         "Performance",
-        "Community"
+        "All Ages",
+        "Community",
+        "Music"
       ]
     },
     {
@@ -553,8 +549,8 @@
       "event_type_tags": [
         "Games",
         "All Ages",
-        "Family Friendly",
-        "Community"
+        "Community",
+        "Family Friendly"
       ]
     },
     {
@@ -609,11 +605,11 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Community",
         "Music",
         "All Ages",
         "Performance",
-        "Family Friendly",
-        "Community"
+        "Family Friendly"
       ]
     },
     {
@@ -721,9 +717,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Performance",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
@@ -750,9 +746,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Performance",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
@@ -779,9 +775,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Performance",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
@@ -1046,35 +1042,6 @@
       "event_type_tags": [
         "Entertainment",
         "Hotel Events"
-      ]
-    },
-    {
-      "id": "trident_booksellers_cafe_language_exchange_night_december_22_2025_7_00_pm",
-      "title": "Language Exchange Night",
-      "venue": "Trident Booksellers & Cafe",
-      "location": "Boulder",
-      "date": "December 22, 2025",
-      "normalized_date": "2025-12-22T00:00:00",
-      "recurring": null,
-      "time": "7:00 PM",
-      "description": "Free!Every Monday evening, 7-9p.m.All languages welcome. Facilitated by Kelvin Tavarez.",
-      "additional_info": "",
-      "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-s7a5x-sfh87",
-      "image": "trident.jpg",
-      "source_url": "https://www.tridentcafe.com/events",
-      "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Books",
-        "Community"
       ]
     },
     {
@@ -2586,6 +2553,35 @@
       ]
     },
     {
+      "id": "trident_booksellers_cafe_language_exchange_night_december_22_2026_7_00_pm",
+      "title": "Language Exchange Night",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "December 22, 2026",
+      "normalized_date": "2026-12-22T00:00:00",
+      "recurring": null,
+      "time": "7:00 PM",
+      "description": "Free!Every Monday evening, 7-9p.m.All languages welcome. Facilitated by Kelvin Tavarez.",
+      "additional_info": "",
+      "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-s7a5x-sfh87",
+      "image": "trident.jpg",
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Books",
+        "Community"
+      ]
+    },
+    {
       "id": "trident_booksellers_cafe_light_technics_friends_ambient_electronic_improv_december_20_2026_6_00_pm",
       "title": "Light Technics & Friends (Ambient & Electronic Improv)",
       "venue": "Trident Booksellers & Cafe",
@@ -3253,35 +3249,6 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_static_parade_an_mfa_reading_november_14_2026_6_00_pm",
-      "title": "Static Parade: An MFA Reading",
-      "venue": "Trident Booksellers & Cafe",
-      "location": "Boulder",
-      "date": "November 14, 2026",
-      "normalized_date": "2026-11-14T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.tridentcafe.com/events/2025/11/12/static-parade-an-mfa-reading",
-      "image": "trident.jpg",
-      "source_url": "https://www.tridentcafe.com/events",
-      "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Books",
-        "Community"
-      ]
-    },
-    {
       "id": "license_no_1_live_music_with_george_nelson_band_wednesday_december_24_2025_8_00_pm_11_59_pm",
       "title": "Live Music with George Nelson Band",
       "venue": "License No 1",
@@ -3620,58 +3587,6 @@
         "Nightlife",
         "Dance",
         "DJ"
-      ]
-    },
-    {
-      "id": "gold_hill_inn_gregory_alan_isakov_reed_foehl_december_22_2025_7_30_pm",
-      "title": "Gregory Alan Isakov & Reed Foehl",
-      "venue": "Gold Hill Inn",
-      "location": "Gold Hill",
-      "date": "December 22, 2025",
-      "normalized_date": "2025-12-22T00:00:00",
-      "recurring": null,
-      "time": "7:30 PM",
-      "description": "Folk - Sold Out!Gregory Alan Isakov andReed Foehlreturn to the Gold Hill Inn this December 21st & 22nd!Doors at 6 p.m. - Music at 7:30 p.m.We will be serving a light dinner buffet 6-7:30 p.m.$20 cash for buffet",
-      "additional_info": "",
-      "link": "https://www.goldhillinn.com/music/",
-      "image": "goldhillinn.jpg",
-      "source_url": "https://www.goldhillinn.com/music/",
-      "age_restriction": "21+",
-      "venue_tag": "Gold Hill Inn",
-      "location_tag": "Gold Hill",
-      "venue_type_tags": [
-        "Live Music",
-        "Restaurant",
-        "Historic"
-      ],
-      "event_type_tags": [
-        "Live Music"
-      ]
-    },
-    {
-      "id": "gold_hill_inn_new_year_s_eve_dance_party_december_31_2025_7_00_pm",
-      "title": "New Year's Eve Dance Party",
-      "venue": "Gold Hill Inn",
-      "location": "Gold Hill",
-      "date": "December 31, 2025",
-      "normalized_date": "2025-12-31T00:00:00",
-      "recurring": null,
-      "time": "7:00 PM",
-      "description": "NYE 2024 - Gold Hill Inn PresentsA New Years Eve Dance Party!Featuring:The Clay Rose Bandw/ Taylor Sims, Jeb Bows, Scott Coulter and Adam PerrySpecial GuestsThe Poudre Valley PlayboysDoors 7 p.m.Music 8 p.m.We will serve a light dinner buffet 7- 9 p.m.Tickets include Music, Food, Champagne at Midnight and Bead...",
-      "additional_info": "",
-      "link": "https://www.goldhillinn.com/music/",
-      "image": "goldhillinn.jpg",
-      "source_url": "https://www.goldhillinn.com/music/",
-      "age_restriction": "21+",
-      "venue_tag": "Gold Hill Inn",
-      "location_tag": "Gold Hill",
-      "venue_type_tags": [
-        "Live Music",
-        "Restaurant",
-        "Historic"
-      ],
-      "event_type_tags": [
-        "Live Music"
       ]
     },
     {
