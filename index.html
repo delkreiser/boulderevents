@@ -433,35 +433,91 @@
                 background: white;
             }
             
-            /* Active Filters - Glass effect on mobile */
-            .active-filters {
-                background: rgba(255, 255, 255, 0.2) !important;
+        }
+        
+        /* Desktop & Tablet: Glass effect with collapsible Mood Selector */
+        @media (min-width: 641px) {
+            /* Show mood toggle button on desktop/tablet */
+            .mood-toggle-btn {
+                display: block;
+                width: 100%;
+                padding: 18px 20px;
+                background: rgba(255, 255, 255, 0.2);
                 backdrop-filter: blur(10px);
                 -webkit-backdrop-filter: blur(10px);
                 border: 1px solid rgba(255, 255, 255, 0.3);
                 border-radius: 15px;
-                padding: 15px 20px;
-                margin-bottom: 15px;
-            }
-            
-            .active-filters-label {
+                font-size: 1.1em;
+                font-weight: 600;
                 color: white;
-            }
-        }
-        
-        /* Desktop: Keep original white backgrounds */
-        @media (min-width: 641px) {
-            .mood-content {
-                max-height: none !important;
-                background: white;
-                border-radius: 15px;
-                padding: 30px;
-                margin-bottom: 30px;
-                box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+                cursor: pointer;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                transition: all 0.3s ease;
+                margin-bottom: 15px;
+                gap: 10px;
             }
             
+            .mood-toggle-btn:hover {
+                background: rgba(255, 255, 255, 0.35);
+            }
+            
+            .mood-toggle-icon {
+                font-size: 0.9em;
+                transition: transform 0.3s ease;
+                margin-left: auto;
+            }
+            
+            .mood-toggle-text {
+                flex: 1;
+                text-align: center;
+            }
+            
+            .mood-toggle-btn.expanded {
+                border-radius: 15px 15px 0 0;
+                margin-bottom: 0;
+            }
+            
+            .mood-toggle-btn.expanded .mood-toggle-icon {
+                transform: rotate(180deg);
+            }
+            
+            /* Mood content - glass effect, collapsible */
+            .mood-content {
+                max-height: 0;
+                overflow: hidden;
+                transition: max-height 0.4s ease;
+            }
+            
+            .mood-content.expanded {
+                max-height: 2000px;
+                padding: 30px;
+                background: rgba(255, 255, 255, 0.2);
+                backdrop-filter: blur(10px);
+                -webkit-backdrop-filter: blur(10px);
+                border: 1px solid rgba(255, 255, 255, 0.3);
+                border-top: none;
+                border-radius: 0 0 15px 15px;
+                margin-bottom: 30px;
+            }
+            
+            /* Filters - glass effect, always open */
             .quick-filters {
                 max-height: none !important;
+                background: rgba(255, 255, 255, 0.2);
+                backdrop-filter: blur(10px);
+                -webkit-backdrop-filter: blur(10px);
+                border: 1px solid rgba(255, 255, 255, 0.3);
+                border-radius: 15px;
+                padding: 20px;
+                margin-bottom: 20px;
+                box-shadow: none;
+            }
+            
+            /* Hide mood title in expanded view */
+            .mood-content .mood-title {
+                display: none;
             }
         }
         
@@ -891,11 +947,13 @@
         
         /* Active Filters Pills */
         .active-filters {
-            background: white;
+            background: rgba(255, 255, 255, 0.2);
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.3);
             border-radius: 15px;
             padding: 15px 20px;
             margin-bottom: 20px;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
             display: flex;
             align-items: center;
             gap: 15px;
@@ -1514,25 +1572,29 @@
             comedy: ['Comedy', 'Stand-Up', 'Improv', 'Comic', 'Comedian']  // New comedy mood
         };
         
-        // Mobile: Toggle buttons and sticky search
-        if (window.innerWidth <= 640) {
-            // Mood Toggle
-            const moodToggleBtn = document.getElementById('moodToggleBtn');
-            const moodContent = document.getElementById('moodContent');
-            
+        // Mood Toggle - All screen sizes (desktop/tablet/mobile)
+        const moodToggleBtn = document.getElementById('moodToggleBtn');
+        const moodContent = document.getElementById('moodContent');
+        
+        if (moodToggleBtn && moodContent) {
             moodToggleBtn.addEventListener('click', () => {
                 moodToggleBtn.classList.toggle('expanded');
                 moodContent.classList.toggle('expanded');
             });
-            
+        }
+        
+        // Mobile only: Filters Toggle and Sticky Search
+        if (window.innerWidth <= 640) {
             // Filters Toggle
             const filtersToggleBtn = document.getElementById('filtersToggleBtn');
             const filtersContent = document.getElementById('filtersContent');
             
-            filtersToggleBtn.addEventListener('click', () => {
-                filtersToggleBtn.classList.toggle('expanded');
-                filtersContent.classList.toggle('expanded');
-            });
+            if (filtersToggleBtn && filtersContent) {
+                filtersToggleBtn.addEventListener('click', () => {
+                    filtersToggleBtn.classList.toggle('expanded');
+                    filtersContent.classList.toggle('expanded');
+                });
+            }
             
             // Sticky Search on Scroll
             const searchSection = document.querySelector('.search-section');
@@ -1547,7 +1609,7 @@
             });
         }
         
-        // Scroll to first event after filter selection
+        // Scroll to first event after filter selection (mobile only)
         function scrollToResults() {
             if (window.innerWidth <= 640) {
                 const firstEvent = document.querySelector('.event-card');
