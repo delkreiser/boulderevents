@@ -1,10 +1,11 @@
 {
-  "generated_at": "2025-12-23T08:32:38.336390",
-  "total_events": 159,
+  "generated_at": "2025-12-23T18:30:20.944746",
+  "total_events": 160,
   "tags": {
     "venues": [
       "300 Suns Brewing",
       "Bricks on Main",
+      "Gold Hill Inn",
       "Jungle",
       "Junkyard Social Club",
       "License No 1",
@@ -21,6 +22,7 @@
     "locations": [
       "Boulder",
       "Denver",
+      "Gold Hill",
       "Longmont"
     ],
     "venue_types": [
@@ -37,6 +39,7 @@
       "Entertainment",
       "Family Friendly",
       "Food & Drink",
+      "Historic",
       "Hotel",
       "Literary",
       "Live Music",
@@ -44,6 +47,7 @@
       "Nightlife",
       "Performance",
       "Pub",
+      "Restaurant",
       "Retail",
       "Upscale"
     ],
@@ -346,9 +350,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Music",
         "Educational",
-        "Community",
-        "Music"
+        "Community"
       ]
     },
     {
@@ -403,9 +407,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Music",
         "Performance",
-        "Community",
-        "Music"
+        "Community"
       ]
     },
     {
@@ -432,8 +436,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Performance"
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -460,9 +464,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Music",
         "Performance",
-        "Community",
-        "Music"
+        "Community"
       ]
     },
     {
@@ -489,10 +493,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "All Ages",
-        "Community",
-        "Music"
+        "Music",
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -547,10 +551,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
         "All Ages",
-        "Community",
-        "Family Friendly"
+        "Games",
+        "Family Friendly",
+        "Community"
       ]
     },
     {
@@ -605,11 +609,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Music",
-        "All Ages",
+        "Family Friendly",
         "Performance",
-        "Family Friendly"
+        "Community",
+        "All Ages",
+        "Music"
       ]
     },
     {
@@ -717,9 +721,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Music",
         "Performance",
-        "Community",
-        "Music"
+        "Community"
       ]
     },
     {
@@ -746,9 +750,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Music",
         "Performance",
-        "Community",
-        "Music"
+        "Community"
       ]
     },
     {
@@ -775,9 +779,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Music",
         "Performance",
-        "Community",
-        "Music"
+        "Community"
       ]
     },
     {
@@ -3590,6 +3594,32 @@
       ]
     },
     {
+      "id": "gold_hill_inn_new_year_s_eve_dance_party_december_31_2025_7_00_pm",
+      "title": "New Year's Eve Dance Party",
+      "venue": "Gold Hill Inn",
+      "location": "Gold Hill",
+      "date": "December 31, 2025",
+      "normalized_date": "2025-12-31T00:00:00",
+      "recurring": null,
+      "time": "7:00 PM",
+      "description": "NYE 2024 - Gold Hill Inn PresentsA New Years Eve Dance Party!Featuring:The Clay Rose Bandw/ Taylor Sims, Jeb Bows, Scott Coulter and Adam PerrySpecial GuestsThe Poudre Valley PlayboysDoors 7 p.m.Music 8 p.m.We will serve a light dinner buffet 7- 9 p.m.Tickets include Music, Food, Champagne at Midnight and Bead...",
+      "additional_info": "",
+      "link": "https://www.goldhillinn.com/music/",
+      "image": "goldhillinn.jpg",
+      "source_url": "https://www.goldhillinn.com/music/",
+      "age_restriction": "21+",
+      "venue_tag": "Gold Hill Inn",
+      "location_tag": "Gold Hill",
+      "venue_type_tags": [
+        "Live Music",
+        "Restaurant",
+        "Historic"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
       "id": "300_suns_brewing_thomas_dow_january_10_2026_6_00_8_00_pm",
       "title": "Thomas Dow",
       "venue": "300 Suns Brewing",
@@ -3849,7 +3879,7 @@
       "description": "Sugar Britches are a blend of mischievous and witty lyricists with eclectic and talented musicians from genres such as bluegrass, folk, rock and honky tonk.",
       "additional_info": "",
       "link": "https://www.bricksretail.com/event-details/sugar-britches-2",
-      "image": "https://static.wixstatic.com/media/ea2d6f_cf7b5e53baa74d4caaf6d628a38fd729~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_cf7b5e53baa74d4caaf6d628a38fd729~mv2.jpg",
+      "image": "https://static.wixstatic.com/media/f119ff_1a2dbc51913341b481bea8412883b96e~mv2.jpeg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/f119ff_1a2dbc51913341b481bea8412883b96e~mv2.jpeg",
       "source_url": "https://www.bricksretail.com/events-calendar",
       "age_restriction": null,
       "venue_tag": "Bricks on Main",
@@ -3919,6 +3949,33 @@
       ]
     },
     {
+      "id": "bricks_on_main_main_st_laughs_free_comedy_at_bricks_on_main_january_08_2026_6_00_pm_8_00_pm",
+      "title": "Main St Laughs- free Comedy at Bricks on Main",
+      "venue": "Bricks on Main",
+      "location": "Longmont",
+      "date": "January 08, 2026",
+      "normalized_date": "2026-01-08T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM - 8:00 PM",
+      "description": "2nd free comedy show organized by up and comer Kristian Velando! First show was a full crowd and lots of laughs so come check out this new monthly series and support local comedians! (Mostly clean comedy, could be some language but we try for mostly PG and relatable content)",
+      "additional_info": "",
+      "link": "https://www.bricksretail.com/event-details/main-st-laughs-free-comedy-at-bricks-on-main",
+      "image": "https://static.wixstatic.com/media/f119ff_476de9e586e84b5081b3eba58941244f~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/f119ff_476de9e586e84b5081b3eba58941244f~mv2.jpg",
+      "source_url": "https://www.bricksretail.com/events-calendar",
+      "age_restriction": null,
+      "venue_tag": "Bricks on Main",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Community",
+        "Retail",
+        "Entertainment"
+      ],
+      "event_type_tags": [
+        "Comedy",
+        "Entertainment"
+      ]
+    },
+    {
       "id": "bricks_on_main_aoxomoxoa_january_09_2026_6_00_pm_9_00_pm",
       "title": "AoxomoxoA",
       "venue": "Bricks on Main",
@@ -3946,18 +4003,18 @@
       ]
     },
     {
-      "id": "bricks_on_main_tony_and_earl_january_11_2026_5_00_pm_8_00_pm",
-      "title": "Tony and Earl",
+      "id": "bricks_on_main_spanish_classical_magic_january_11_2026_5_00_pm_8_00_pm",
+      "title": "Spanish Classical Magic",
       "venue": "Bricks on Main",
       "location": "Longmont",
       "date": "January 11, 2026",
       "normalized_date": "2026-01-11T00:00:00",
       "recurring": null,
       "time": "5:00 PM - 8:00 PM",
-      "description": "",
+      "description": "Tony Crank and guest(s) will delight and amaze with classical guitar originals and covers. Come eat and enjoy another fun night at the Stage at Bricks.   Menu : www.bricksonmain.com",
       "additional_info": "",
-      "link": "https://www.bricksretail.com/event-details/tony-and-earl",
-      "image": "bricks.jpg",
+      "link": "https://www.bricksretail.com/event-details/spanish-classical-magic",
+      "image": "https://static.wixstatic.com/media/f119ff_37f1e1bb5ab74c9db4dfce2051d2209b~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/f119ff_37f1e1bb5ab74c9db4dfce2051d2209b~mv2.jpg",
       "source_url": "https://www.bricksretail.com/events-calendar",
       "age_restriction": null,
       "venue_tag": "Bricks on Main",
@@ -4093,33 +4150,6 @@
       "additional_info": "",
       "link": "https://www.bricksretail.com/event-details/the-delta-sonics",
       "image": "https://static.wixstatic.com/media/ea2d6f_070b3d8fb35746299734f022ec630b07~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_070b3d8fb35746299734f022ec630b07~mv2.jpg",
-      "source_url": "https://www.bricksretail.com/events-calendar",
-      "age_restriction": null,
-      "venue_tag": "Bricks on Main",
-      "location_tag": "Longmont",
-      "venue_type_tags": [
-        "Community",
-        "Retail",
-        "Entertainment"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Entertainment"
-      ]
-    },
-    {
-      "id": "bricks_on_main_boogie_river_january_25_2026_5_00_pm_8_00_pm",
-      "title": "Boogie River",
-      "venue": "Bricks on Main",
-      "location": "Longmont",
-      "date": "January 25, 2026",
-      "normalized_date": "2026-01-25T00:00:00",
-      "recurring": null,
-      "time": "5:00 PM - 8:00 PM",
-      "description": "Blending tight grooves, infectious energy, and a mix of rock, funk, and soul, Boogie River delivers a sound that\u2019s both nostalgic and fresh. With each member bringing years of experience from their previous bands, the result is a powerhouse of musicianship, creativity, and pure fun.",
-      "additional_info": "",
-      "link": "https://www.bricksretail.com/event-details/boogie-river",
-      "image": "https://static.wixstatic.com/media/ea2d6f_135ec425e39443578a983ac034389603~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_135ec425e39443578a983ac034389603~mv2.jpg",
       "source_url": "https://www.bricksretail.com/events-calendar",
       "age_restriction": null,
       "venue_tag": "Bricks on Main",
