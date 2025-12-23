@@ -182,7 +182,7 @@
             max-height: 400px;
             overflow-y: auto;
             display: none;
-            z-index: 1000;
+            z-index: 2000;  /* Higher than everything else */
             box-shadow: 0 8px 20px rgba(102, 126, 234, 0.3);
             margin-top: -10px;
         }
@@ -313,7 +313,7 @@
             
             .mood-toggle-btn:hover {
                 background: rgba(255, 255, 255, 0.35);
-                transform: scale(1.02);
+                /* Removed transform to prevent lift */
             }
             
             .mood-toggle-btn:active {
@@ -363,7 +363,7 @@
             
             .filters-toggle-btn:hover {
                 background: rgba(255, 255, 255, 0.35);
-                transform: scale(1.02);
+                /* Removed transform to prevent lift */
             }
             
             .filters-toggle-btn:active {
@@ -435,8 +435,30 @@
                 display: none;
             }
             
-            /* Filter labels white on mobile */
-            .filter-group label {
+            /* Filter dropdowns white text on mobile */
+            .filter-group select {
+                color: white;
+                background: rgba(255, 255, 255, 0.15);
+                border: 1px solid rgba(255, 255, 255, 0.3);
+            }
+            
+            .filter-group select option {
+                color: #333;
+                background: white;
+            }
+            
+            /* Active Filters - Glass effect on mobile */
+            .active-filters {
+                background: rgba(255, 255, 255, 0.2) !important;
+                backdrop-filter: blur(10px);
+                -webkit-backdrop-filter: blur(10px);
+                border: 1px solid rgba(255, 255, 255, 0.3);
+                border-radius: 15px;
+                padding: 15px 20px;
+                margin-bottom: 15px;
+            }
+            
+            .active-filters-label {
                 color: white;
             }
         }
@@ -1405,23 +1427,26 @@
         <div class="quick-filters-wrapper">
             <!-- Mobile Collapsible Button -->
             <button class="filters-toggle-btn mobile-only" id="filtersToggleBtn">
-                <span class="filters-toggle-text">🎛️ Filters</span>
+                <span class="filters-toggle-text">
+                    <svg class="filter-funnel-icon" viewBox="0 0 24 24" fill="white" xmlns="http://www.w3.org/2000/svg" style="width: 20px; height: 20px; display: inline-block; vertical-align: middle; margin-right: 8px;">
+                        <path d="M10 18h4v-2h-4v2zM3 6v2h18V6H3zm3 7h12v-2H6v2z"/>
+                    </svg>
+                    Filters
+                </span>
                 <span class="filters-toggle-icon">▼</span>
             </button>
             
             <!-- Filters Content (collapsible on mobile) -->
             <div class="quick-filters" id="filtersContent">
             <div class="filter-group">
-                <label for="locationFilter">📍 Location</label>
                 <select id="locationFilter" class="filter-dropdown">
-                    <option value="">All Locations</option>
+                    <option value="">📍 All Locations</option>
                 </select>
             </div>
             
             <div class="filter-group">
-                <label for="whenFilter">📅 When</label>
                 <select id="whenFilter" class="filter-dropdown">
-                    <option value="all">All Events</option>
+                    <option value="all">📅 All Events</option>
                     <option value="today">Today</option>
                     <option value="tomorrow">Tomorrow</option>
                     <option value="weekend">This Weekend</option>
@@ -1431,9 +1456,8 @@
             </div>
             
             <div class="filter-group">
-                <label for="venueFilter">🏢 Venues</label>
                 <select id="venueFilter" class="filter-dropdown">
-                    <option value="">All Venues</option>
+                    <option value="">🏢 All Venues</option>
                 </select>
             </div>
         </div> <!-- End quick-filters -->
