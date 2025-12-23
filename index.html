@@ -416,23 +416,6 @@
                 margin-bottom: 15px;
             }
             
-            .quick-filters {
-                max-height: 0;
-                overflow: hidden;
-                transition: max-height 0.4s ease;
-            }
-            
-            .quick-filters.expanded {
-                max-height: 500px;
-                padding: 20px;
-                background: rgba(255, 255, 255, 0.2);
-                backdrop-filter: blur(10px);
-                -webkit-backdrop-filter: blur(10px);
-                border: 1px solid rgba(255, 255, 255, 0.3);
-                border-top: none;
-                border-radius: 0 0 15px 15px;
-            }
-            
             /* Hide title in mobile expanded view */
             .mood-content .mood-title {
                 display: none;
@@ -835,7 +818,32 @@
             flex-wrap: wrap;
         }
         
-        @media (max-width: 768px) {
+        /* Hide on mobile by default - controlled by expanded class */
+        @media (max-width: 640px) {
+            .quick-filters {
+                display: none;  /* Hidden by default on mobile */
+                background: transparent;  /* Remove white background */
+                box-shadow: none;
+                padding: 0;
+                margin-bottom: 0;
+            }
+            
+            .quick-filters.expanded {
+                display: flex;  /* Show when expanded */
+                flex-direction: column;
+                padding: 20px;
+                background: rgba(255, 255, 255, 0.2);
+                backdrop-filter: blur(10px);
+                -webkit-backdrop-filter: blur(10px);
+                border: 1px solid rgba(255, 255, 255, 0.3);
+                border-top: none;
+                border-radius: 0 0 15px 15px;
+                box-shadow: none;
+                margin-bottom: 0;
+            }
+        }
+        
+        @media (max-width: 768px) and (min-width: 641px) {
             .quick-filters {
                 flex-direction: column;
             }
@@ -896,7 +904,7 @@
         
         .active-filters-label {
             font-weight: 600;
-            color: #555;
+            color: white;  /* Changed from #555 to white */
             font-size: 0.95em;
         }
         
