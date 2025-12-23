@@ -121,6 +121,8 @@
             margin-bottom: 20px;
             border: 1px solid rgba(255, 255, 255, 0.3);
             transition: all 0.3s ease;
+            position: relative;
+            z-index: 100;  /* Higher than mood/filter buttons */
         }
         
         /* Mobile: Sticky Search stays glass effect */
@@ -144,6 +146,7 @@
         .search-container {
             position: relative;
             width: 100%;
+            z-index: 100;  /* Ensure container is also above buttons */
         }
         
         .search-clear-btn {
