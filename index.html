@@ -125,17 +125,21 @@
         @media (max-width: 640px) {
             .search-section.sticky {
                 position: fixed;
-                top: 0;
-                left: 0;
-                right: 0;
+                top: 16px;
+                left: 50%;
+                transform: translateX(-50%);
+                right: auto;
                 z-index: 1000;
+                width: calc(100% - 32px);  /* Keep same width with margins */
+                max-width: 640px;
                 margin: 0;
-                border-radius: 0;
-                background: rgba(255, 255, 255, 0.85);
-                backdrop-filter: blur(20px);
-                -webkit-backdrop-filter: blur(20px);
-                box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
-                padding: 15px 20px;
+                border-radius: 15px;  /* Keep rounded corners */
+                background: rgba(255, 255, 255, 0.7);  /* Semi-transparent white */
+                backdrop-filter: blur(20px);  /* Heavy blur */
+                -webkit-backdrop-filter: blur(20px);  /* Safari support */
+                box-shadow: 0 8px 32px rgba(0, 0, 0, 0.15);  /* Drop shadow */
+                border: 1px solid rgba(255, 255, 255, 0.4);  /* Subtle border for glass effect */
+                padding: 15px 20px;  /* Keep same padding */
             }
             
             .search-section.sticky + * {
@@ -274,13 +278,15 @@
             color: #FFD700;
         }
         
-        /* Mood Section */
-        .mood-section {
-            background: white;
-            border-radius: 15px;
-            padding: 30px;
-            margin-bottom: 30px;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+        /* Mood Section - Desktop only wrapper */
+        @media (min-width: 641px) {
+            .mood-content {
+                background: white;
+                border-radius: 15px;
+                padding: 30px;
+                margin-bottom: 30px;
+                box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            }
         }
         
         .mood-title {
@@ -301,23 +307,24 @@
                 display: block;
             }
             
-            /* Mood Toggle Button */
+            /* Mood Toggle Button - Full width, no wrapper */
             .mood-toggle-btn {
                 width: 100%;
                 padding: 18px 20px;
-                background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%);
+                background: linear-gradient(135deg, #ff9a56 0%, #ff6a88 100%);  /* Warmer: orange to pink-red */
                 border: none;
                 border-radius: 15px;
                 font-size: 1.1em;
                 font-weight: 600;
-                color: #333;
+                color: white;
                 cursor: pointer;
                 display: flex;
-                justify-content: space-between;
+                justify-content: center;  /* Center text */
                 align-items: center;
                 box-shadow: 0 4px 15px rgba(0,0,0,0.1);
                 transition: all 0.3s ease;
                 margin-bottom: 15px;
+                gap: 10px;  /* Space between text and icon */
             }
             
             .mood-toggle-btn:active {
@@ -327,6 +334,12 @@
             .mood-toggle-icon {
                 font-size: 0.9em;
                 transition: transform 0.3s ease;
+                margin-left: auto;  /* Push icon to right */
+            }
+            
+            .mood-toggle-text {
+                flex: 1;
+                text-align: center;
             }
             
             .mood-toggle-btn.expanded .mood-toggle-icon {
@@ -345,11 +358,12 @@
                 color: white;
                 cursor: pointer;
                 display: flex;
-                justify-content: space-between;
+                justify-content: center;  /* Center text */
                 align-items: center;
                 box-shadow: 0 4px 15px rgba(0,0,0,0.1);
                 transition: all 0.3s ease;
                 margin-bottom: 15px;
+                gap: 10px;  /* Space between text and icon */
             }
             
             .filters-toggle-btn:active {
@@ -359,6 +373,12 @@
             .filters-toggle-icon {
                 font-size: 0.9em;
                 transition: transform 0.3s ease;
+                margin-left: auto;  /* Push icon to right */
+            }
+            
+            .filters-toggle-text {
+                flex: 1;
+                text-align: center;
             }
             
             .filters-toggle-btn.expanded .filters-toggle-icon {
@@ -370,10 +390,15 @@
                 max-height: 0;
                 overflow: hidden;
                 transition: max-height 0.4s ease;
+                background: white;
+                border-radius: 15px;
+                margin-bottom: 15px;
             }
             
             .mood-content.expanded {
                 max-height: 2000px;
+                padding: 20px;
+                box-shadow: 0 4px 15px rgba(0,0,0,0.1);
             }
             
             .quick-filters {
@@ -386,8 +411,9 @@
                 max-height: 500px;
             }
             
+            /* Hide title in mobile expanded view */
             .mood-content .mood-title {
-                display: block;
+                display: none;
             }
         }
         
@@ -1163,17 +1189,16 @@
         </div>
         
         <!-- Mood Filter Buttons -->
-        <div class="mood-section">
-            <!-- Mobile Collapsible Button -->
-            <button class="mood-toggle-btn mobile-only" id="moodToggleBtn">
-                <span class="mood-toggle-text">✨ Mood Selector</span>
-                <span class="mood-toggle-icon">▼</span>
-            </button>
-            
-            <!-- Mood Content (collapsible on mobile) -->
-            <div class="mood-content" id="moodContent">
-                <h2 class="mood-title">✨ Mood Selector</h2>
-                <div class="mood-grid">
+        <!-- Mood Selector (Mobile Collapsible) -->
+        <!-- Mobile Collapsible Button -->
+        <button class="mood-toggle-btn mobile-only" id="moodToggleBtn">
+            <span class="mood-toggle-text">✨ Mood Selector</span>
+            <span class="mood-toggle-icon">▼</span>
+        </button>
+        
+        <!-- Mood Content (collapsible on mobile) -->
+        <div class="mood-content" id="moodContent">
+            <div class="mood-grid">
                 <button class="mood-button music-mood" data-mood="music">
                     <div class="mood-label">Live Music</div>
                     <svg class="mood-icon" viewBox="0 0 24 24" fill="white" xmlns="http://www.w3.org/2000/svg">
@@ -1346,7 +1371,6 @@
                 </button>
             </div>
             </div> <!-- End mood-content -->
-        </div>
         
         <!-- Quick Filters -->
         <div class="quick-filters-wrapper">
