@@ -594,19 +594,20 @@
             }
         }
         
-        /* Mobile landscape - MUST be larger for 3-column view */
+        /* Mobile landscape - 4 columns for iPhone landscape */
         @media (max-height: 600px) and (orientation: landscape) {
             .mood-grid {
-                grid-template-columns: repeat(3, 1fr) !important;
+                grid-template-columns: repeat(4, 1fr) !important;
+                gap: 15px;
             }
             
             .mood-icon {
-                width: 70px !important;
-                height: 70px !important;
+                width: 48px !important;
+                height: 48px !important;
             }
             
             .mood-label {
-                font-size: 1.35em !important;
+                font-size: 1em !important;
             }
             
             .mood-button {
