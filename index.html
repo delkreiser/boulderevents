@@ -953,22 +953,28 @@
             padding: 15px 20px;
             margin-bottom: 20px;
             display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+        
+        .active-filters-header {
+            display: flex;
+            justify-content: space-between;
             align-items: center;
             gap: 15px;
-            flex-wrap: wrap;
         }
         
         .active-filters-label {
             font-weight: 600;
-            color: white;  /* Changed from #555 to white */
+            color: white;
             font-size: 0.95em;
+            white-space: nowrap;
         }
         
         .filter-pills {
             display: flex;
             gap: 8px;
             flex-wrap: wrap;
-            flex: 1;
         }
         
         .filter-pill {
@@ -1532,9 +1538,11 @@
         
         <!-- Active Filters Pills -->
         <div class="active-filters" id="activeFilters" style="display: none;">
-            <div class="active-filters-label">Active Filters:</div>
+            <div class="active-filters-header">
+                <div class="active-filters-label">Active Filters:</div>
+                <button class="clear-all-btn" id="clearAllBtn">Clear All</button>
+            </div>
             <div class="filter-pills" id="filterPills"></div>
-            <button class="clear-all-btn" id="clearAllBtn">Clear All</button>
         </div>
         
         <div class="stats" id="stats"></div>
