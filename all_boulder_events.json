@@ -1,11 +1,10 @@
 {
-  "generated_at": "2025-12-23T18:30:20.944746",
-  "total_events": 160,
+  "generated_at": "2025-12-24T08:32:36.316408",
+  "total_events": 158,
   "tags": {
     "venues": [
       "300 Suns Brewing",
       "Bricks on Main",
-      "Gold Hill Inn",
       "Jungle",
       "Junkyard Social Club",
       "License No 1",
@@ -22,7 +21,6 @@
     "locations": [
       "Boulder",
       "Denver",
-      "Gold Hill",
       "Longmont"
     ],
     "venue_types": [
@@ -39,7 +37,6 @@
       "Entertainment",
       "Family Friendly",
       "Food & Drink",
-      "Historic",
       "Hotel",
       "Literary",
       "Live Music",
@@ -47,7 +44,6 @@
       "Nightlife",
       "Performance",
       "Pub",
-      "Restaurant",
       "Retail",
       "Upscale"
     ],
@@ -327,63 +323,6 @@
       ]
     },
     {
-      "id": "junkyard_social_club_flow_jam_tuesday_december_23_2025_6_00_9_00_pm",
-      "title": "Flow Jam",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Tuesday, December 23, 2025",
-      "normalized_date": "2025-12-23T00:00:00",
-      "recurring": null,
-      "time": "6:00 -9:00 PM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://junkyardsocialclub.org/drop-in-event/flow-jam/",
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/09/FlowJam-2025-768x768.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Music",
-        "Educational",
-        "Community"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_drop_in_mahjongg_tuesdays_tuesday_december_23_2025_12_00_2_00_pm",
-      "title": "Drop-In Mahjongg \u2013 Tuesdays",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Tuesday, December 23, 2025",
-      "normalized_date": "2025-12-23T00:00:00",
-      "recurring": null,
-      "time": "12:00 - 2:00 PM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://junkyardsocialclub.org/drop-in-event/drop-in-mahjongg-tuesdays/",
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/08/Drop-In-MahJongg-Tuesday.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Games",
-        "Community"
-      ]
-    },
-    {
       "id": "junkyard_social_club_new_year_s_salsa_masquerade_saturday_december_27_2025_7_30_pm_11_30_pm",
       "title": "New Year\u2019s Salsa Masquerade",
       "venue": "Junkyard Social Club",
@@ -407,8 +346,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Performance",
+        "Music",
         "Community"
       ]
     },
@@ -464,8 +403,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Performance",
+        "Music",
         "Community"
       ]
     },
@@ -493,10 +432,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Music",
         "Performance",
-        "Community"
+        "Music",
+        "Community",
+        "All Ages"
       ]
     },
     {
@@ -523,8 +462,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Community"
+        "Community",
+        "All Ages"
       ]
     },
     {
@@ -552,9 +491,9 @@
       ],
       "event_type_tags": [
         "All Ages",
-        "Games",
         "Family Friendly",
-        "Community"
+        "Community",
+        "Games"
       ]
     },
     {
@@ -581,8 +520,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
-        "Community"
+        "Community",
+        "Games"
       ]
     },
     {
@@ -609,10 +548,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
         "Performance",
         "Community",
         "All Ages",
+        "Family Friendly",
         "Music"
       ]
     },
@@ -721,8 +660,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Performance",
+        "Music",
         "Community"
       ]
     },
@@ -750,8 +689,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Performance",
+        "Music",
         "Community"
       ]
     },
@@ -779,8 +718,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Performance",
+        "Music",
         "Community"
       ]
     },
@@ -808,9 +747,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
         "Educational",
-        "Community"
+        "Community",
+        "Games"
       ]
     },
     {
@@ -3470,12 +3409,12 @@
       ]
     },
     {
-      "id": "rosetta_hall_danny_shafer_december_23_2025_6_00_pm",
+      "id": "rosetta_hall_danny_shafer_december_23_2026_6_00_pm",
       "title": "DANNY SHAFER",
       "venue": "Rosetta Hall",
       "location": "Boulder",
-      "date": "December 23, 2025",
-      "normalized_date": "2025-12-23T00:00:00",
+      "date": "December 23, 2026",
+      "normalized_date": "2026-12-23T00:00:00",
       "recurring": null,
       "time": "6:00 PM",
       "description": "ACOUSTIC GUITAR",
@@ -3594,32 +3533,6 @@
       ]
     },
     {
-      "id": "gold_hill_inn_new_year_s_eve_dance_party_december_31_2025_7_00_pm",
-      "title": "New Year's Eve Dance Party",
-      "venue": "Gold Hill Inn",
-      "location": "Gold Hill",
-      "date": "December 31, 2025",
-      "normalized_date": "2025-12-31T00:00:00",
-      "recurring": null,
-      "time": "7:00 PM",
-      "description": "NYE 2024 - Gold Hill Inn PresentsA New Years Eve Dance Party!Featuring:The Clay Rose Bandw/ Taylor Sims, Jeb Bows, Scott Coulter and Adam PerrySpecial GuestsThe Poudre Valley PlayboysDoors 7 p.m.Music 8 p.m.We will serve a light dinner buffet 7- 9 p.m.Tickets include Music, Food, Champagne at Midnight and Bead...",
-      "additional_info": "",
-      "link": "https://www.goldhillinn.com/music/",
-      "image": "goldhillinn.jpg",
-      "source_url": "https://www.goldhillinn.com/music/",
-      "age_restriction": "21+",
-      "venue_tag": "Gold Hill Inn",
-      "location_tag": "Gold Hill",
-      "venue_type_tags": [
-        "Live Music",
-        "Restaurant",
-        "Historic"
-      ],
-      "event_type_tags": [
-        "Live Music"
-      ]
-    },
-    {
       "id": "300_suns_brewing_thomas_dow_january_10_2026_6_00_8_00_pm",
       "title": "Thomas Dow",
       "venue": "300 Suns Brewing",
@@ -3701,34 +3614,6 @@
         "Live Music",
         "Brewery",
         "Family Friendly"
-      ]
-    },
-    {
-      "id": "bricks_on_main_open_mic_night_december_23_2025_6_00_pm_8_00_pm",
-      "title": "Open Mic Night",
-      "venue": "Bricks on Main",
-      "location": "Longmont",
-      "date": "December 23, 2025",
-      "normalized_date": "2025-12-23T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM - 8:00 PM",
-      "description": "Music open mic, sign up at 5:30, about 15 minute time slots, often runs till 8:30 or a little later but general timeline is 6-8. Come down and eat dinner and have drinks and enjoy the music community here!",
-      "additional_info": "",
-      "link": "https://www.bricksretail.com/event-details/open-mic-night-2025-12-23-18-00",
-      "image": "https://static.wixstatic.com/media/ea2d6f_62265f664f584370bdb46453a5b11e1e~mv2.png/v1/fill/w_400,h_400,al_c,q_85,enc_auto/ea2d6f_62265f664f584370bdb46453a5b11e1e~mv2.png",
-      "source_url": "https://www.bricksretail.com/events-calendar",
-      "age_restriction": null,
-      "venue_tag": "Bricks on Main",
-      "location_tag": "Longmont",
-      "venue_type_tags": [
-        "Community",
-        "Retail",
-        "Entertainment"
-      ],
-      "event_type_tags": [
-        "Open Mic",
-        "Music",
-        "Community"
       ]
     },
     {
@@ -3838,6 +3723,34 @@
       "event_type_tags": [
         "Live Music",
         "Entertainment"
+      ]
+    },
+    {
+      "id": "bricks_on_main_open_mic_night_december_30_2025_6_00_pm_8_00_pm",
+      "title": "Open Mic Night",
+      "venue": "Bricks on Main",
+      "location": "Longmont",
+      "date": "December 30, 2025",
+      "normalized_date": "2025-12-30T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM - 8:00 PM",
+      "description": "Music open mic, sign up at 5:30, about 15 minute time slots, often runs till 8:30 or a little later but general timeline is 6-8. Come down and eat dinner and have drinks and enjoy the music community here!",
+      "additional_info": "",
+      "link": "https://www.bricksretail.com/event-details/open-mic-night-2025-12-30-18-00",
+      "image": "https://static.wixstatic.com/media/ea2d6f_62265f664f584370bdb46453a5b11e1e~mv2.png/v1/fill/w_400,h_400,al_c,q_85,enc_auto/ea2d6f_62265f664f584370bdb46453a5b11e1e~mv2.png",
+      "source_url": "https://www.bricksretail.com/events-calendar",
+      "age_restriction": null,
+      "venue_tag": "Bricks on Main",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Community",
+        "Retail",
+        "Entertainment"
+      ],
+      "event_type_tags": [
+        "Open Mic",
+        "Music",
+        "Community"
       ]
     },
     {
@@ -4150,6 +4063,33 @@
       "additional_info": "",
       "link": "https://www.bricksretail.com/event-details/the-delta-sonics",
       "image": "https://static.wixstatic.com/media/ea2d6f_070b3d8fb35746299734f022ec630b07~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_070b3d8fb35746299734f022ec630b07~mv2.jpg",
+      "source_url": "https://www.bricksretail.com/events-calendar",
+      "age_restriction": null,
+      "venue_tag": "Bricks on Main",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Community",
+        "Retail",
+        "Entertainment"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "bricks_on_main_boogie_river_january_25_2026_5_00_pm_8_00_pm",
+      "title": "Boogie River",
+      "venue": "Bricks on Main",
+      "location": "Longmont",
+      "date": "January 25, 2026",
+      "normalized_date": "2026-01-25T00:00:00",
+      "recurring": null,
+      "time": "5:00 PM - 8:00 PM",
+      "description": "Blending tight grooves, infectious energy, and a mix of rock, funk, and soul, Boogie River delivers a sound that\u2019s both nostalgic and fresh. With each member bringing years of experience from their previous bands, the result is a powerhouse of musicianship, creativity, and pure fun.",
+      "additional_info": "",
+      "link": "https://www.bricksretail.com/event-details/boogie-river",
+      "image": "https://static.wixstatic.com/media/ea2d6f_135ec425e39443578a983ac034389603~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_135ec425e39443578a983ac034389603~mv2.jpg",
       "source_url": "https://www.bricksretail.com/events-calendar",
       "age_restriction": null,
       "venue_tag": "Bricks on Main",
