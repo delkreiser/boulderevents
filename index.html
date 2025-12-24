@@ -125,21 +125,12 @@
             z-index: 100;  /* Higher than mood/filter buttons */
         }
         
-        /* Mobile: Sticky Search stays glass effect */
+        /* Mobile: Sticky Search with smooth transition */
         @media (max-width: 640px) {
-            .search-section.sticky {
-                position: fixed;
+            .search-section {
+                position: sticky;
                 top: 16px;
-                left: 16px;
-                right: 16px;
                 z-index: 1000;
-                margin: 0;
-                box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
-            }
-            
-            /* Space placeholder to prevent jump */
-            .search-section.sticky ~ .mood-toggle-btn {
-                margin-top: 100px;
             }
         }
         
@@ -1601,18 +1592,6 @@
                     filtersContent.classList.toggle('expanded');
                 });
             }
-            
-            // Sticky Search on Scroll
-            const searchSection = document.querySelector('.search-section');
-            const searchSectionOffset = searchSection.offsetTop;
-            
-            window.addEventListener('scroll', () => {
-                if (window.pageYOffset > searchSectionOffset) {
-                    searchSection.classList.add('sticky');
-                } else {
-                    searchSection.classList.remove('sticky');
-                }
-            });
         }
         
         // Scroll to first event after filter selection (mobile only)
