@@ -1602,7 +1602,7 @@
                     setTimeout(() => {
                         const searchBar = document.querySelector('.search-section');
                         const searchBarHeight = searchBar ? searchBar.offsetHeight : 0;
-                        const offset = searchBarHeight + 80; // searchBarHeight + extra spacing
+                        const offset = searchBarHeight + 32; // Reduced from 80 - sticky position needs less offset
                         
                         const elementPosition = firstEvent.getBoundingClientRect().top + window.pageYOffset;
                         const offsetPosition = elementPosition - offset;
