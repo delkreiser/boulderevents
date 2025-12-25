@@ -1,11 +1,10 @@
 {
-  "generated_at": "2025-12-24T18:29:29.923539",
-  "total_events": 159,
+  "generated_at": "2025-12-25T08:31:33.074190",
+  "total_events": 155,
   "tags": {
     "venues": [
       "300 Suns Brewing",
       "Bricks on Main",
-      "Gold Hill Inn",
       "Jungle",
       "Junkyard Social Club",
       "License No 1",
@@ -22,7 +21,6 @@
     "locations": [
       "Boulder",
       "Denver",
-      "Gold Hill",
       "Longmont"
     ],
     "venue_types": [
@@ -39,7 +37,6 @@
       "Entertainment",
       "Family Friendly",
       "Food & Drink",
-      "Historic",
       "Hotel",
       "Literary",
       "Live Music",
@@ -47,7 +44,6 @@
       "Nightlife",
       "Performance",
       "Pub",
-      "Restaurant",
       "Retail",
       "Upscale"
     ],
@@ -65,7 +61,6 @@
       "Games",
       "Hotel Events",
       "Jazz",
-      "Karaoke",
       "Live Music",
       "Music",
       "Nightlife",
@@ -74,34 +69,6 @@
     ]
   },
   "events": [
-    {
-      "id": "velvet_elk_lounge_rockin_eve_with_montana_sand_free_show_december_24_2025",
-      "title": "Rockin' Eve with Montana Sand, FREE SHOW!!!",
-      "venue": "Velvet Elk Lounge",
-      "location": "Boulder",
-      "date": "December 24, 2025",
-      "normalized_date": "2025-12-24T00:00:00",
-      "recurring": null,
-      "time": null,
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.velvetelklounge.com/event/december-24th-rockin-eve-with-montana-sand/",
-      "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/69114photo-output.png?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
-      "source_url": "https://www.velvetelklounge.com/events/",
-      "age_restriction": null,
-      "venue_tag": "Velvet Elk Lounge",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Music",
-        "Live Music",
-        "Bar",
-        "Nightlife"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Nightlife"
-      ]
-    },
     {
       "id": "velvet_elk_lounge_rapidgrass_with_josy_rosales_december_27_2025",
       "title": "Rapidgrass with Josy Rosales",
@@ -350,9 +317,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Community",
         "Performance",
-        "Music",
-        "Community"
+        "Music"
       ]
     },
     {
@@ -379,8 +346,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -407,9 +374,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Community",
         "Performance",
-        "Music",
-        "Community"
+        "Music"
       ]
     },
     {
@@ -436,10 +403,10 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Community",
         "Performance",
         "All Ages",
-        "Music",
-        "Community"
+        "Music"
       ]
     },
     {
@@ -466,8 +433,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Community"
+        "Community",
+        "All Ages"
       ]
     },
     {
@@ -495,9 +462,9 @@
       ],
       "event_type_tags": [
         "Games",
-        "Family Friendly",
+        "Community",
         "All Ages",
-        "Community"
+        "Family Friendly"
       ]
     },
     {
@@ -552,9 +519,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
-        "All Ages",
         "Music",
+        "All Ages",
+        "Family Friendly",
         "Community",
         "Performance"
       ]
@@ -664,9 +631,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Community",
         "Performance",
-        "Music",
-        "Community"
+        "Music"
       ]
     },
     {
@@ -693,9 +660,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Community",
         "Performance",
-        "Music",
-        "Community"
+        "Music"
       ]
     },
     {
@@ -722,9 +689,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Community",
         "Performance",
-        "Music",
-        "Community"
+        "Music"
       ]
     },
     {
@@ -752,8 +719,8 @@
       ],
       "event_type_tags": [
         "Educational",
-        "Games",
-        "Community"
+        "Community",
+        "Games"
       ]
     },
     {
@@ -3196,33 +3163,6 @@
       ]
     },
     {
-      "id": "license_no_1_live_music_with_george_nelson_band_wednesday_december_24_2025_8_00_pm_11_59_pm",
-      "title": "Live Music with George Nelson Band",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": "Wednesday, December 24, 2025",
-      "normalized_date": "2025-12-24T00:00:00",
-      "recurring": null,
-      "time": "8:00\u202fPM - 11:59\u202fPM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.license1boulderado.com/calendar/w29l869jy77f9de-fra8t-84nxw-d8apz-wh5df-pafk8-m6f64-px634-8h2nn-zzyp5-mmy96-lzlae-km69t-5czt5-yd8k3-ephd8-yhbyn-mjeyd-bynrj-jcclt-6hgal-gbzcp-pldf9-cytzb-kl5rl-wddhd",
-      "image": "licenseno1.jpg",
-      "source_url": "https://www.license1boulderado.com/calendar",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Nightlife"
-      ]
-    },
-    {
       "id": "license_no_1_the_underground_comedy_show_friday_december_26_2025_8_00_pm_9_00_pm",
       "title": "The Underground Comedy Show",
       "venue": "License No 1",
@@ -3537,32 +3477,6 @@
       ]
     },
     {
-      "id": "gold_hill_inn_new_year_s_eve_dance_party_december_31_2025_7_00_pm",
-      "title": "New Year's Eve Dance Party",
-      "venue": "Gold Hill Inn",
-      "location": "Gold Hill",
-      "date": "December 31, 2025",
-      "normalized_date": "2025-12-31T00:00:00",
-      "recurring": null,
-      "time": "7:00 PM",
-      "description": "NYE 2024 - Gold Hill Inn PresentsA New Years Eve Dance Party!Sold Out!Featuring:The Clay Rose Bandw/ Taylor Sims, Jeb Bows, Scott Coulter and Adam PerrySpecial GuestsThe Poudre Valley PlayboysDoors 7 p.m.Music 8 p.m.We will serve a light dinner buffet 7- 9 p.m.Tickets include Music, Food, Champagne at Midnight...",
-      "additional_info": "",
-      "link": "https://www.goldhillinn.com/music/",
-      "image": "goldhillinn.jpg",
-      "source_url": "https://www.goldhillinn.com/music/",
-      "age_restriction": "21+",
-      "venue_tag": "Gold Hill Inn",
-      "location_tag": "Gold Hill",
-      "venue_type_tags": [
-        "Live Music",
-        "Restaurant",
-        "Historic"
-      ],
-      "event_type_tags": [
-        "Live Music"
-      ]
-    },
-    {
       "id": "300_suns_brewing_thomas_dow_january_10_2026_6_00_8_00_pm",
       "title": "Thomas Dow",
       "venue": "300 Suns Brewing",
@@ -3644,34 +3558,6 @@
         "Live Music",
         "Brewery",
         "Family Friendly"
-      ]
-    },
-    {
-      "id": "bricks_on_main_karaoke_night_december_24_2025_6_00_pm_8_00_pm",
-      "title": "Karaoke Night",
-      "venue": "Bricks on Main",
-      "location": "Longmont",
-      "date": "December 24, 2025",
-      "normalized_date": "2025-12-24T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM - 8:00 PM",
-      "description": "Take the Bricks Main Stage ... you're the headliner!",
-      "additional_info": "",
-      "link": "https://www.bricksretail.com/event-details/karaoke-night-2025-12-24-18-00",
-      "image": "https://static.wixstatic.com/media/0f3cdb_cc11739aca8043a8a8cbdf5cdc8f3661~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/0f3cdb_cc11739aca8043a8a8cbdf5cdc8f3661~mv2.jpg",
-      "source_url": "https://www.bricksretail.com/events-calendar",
-      "age_restriction": null,
-      "venue_tag": "Bricks on Main",
-      "location_tag": "Longmont",
-      "venue_type_tags": [
-        "Community",
-        "Retail",
-        "Entertainment"
-      ],
-      "event_type_tags": [
-        "Karaoke",
-        "Music",
-        "Entertainment"
       ]
     },
     {
@@ -4360,8 +4246,8 @@
       ]
     },
     {
-      "id": "roots_music_project_jeremy_mohney_s_big_band_orchestra_authentic_swing_jazz_classics_january_24_2026_7_00_pm_11_00_pm",
-      "title": "Jeremy Mohney's Big Band Orchestra \u2013 Authentic Swing & Jazz Classics",
+      "id": "roots_music_project_jeremy_mohney_his_orchestra_new_big_band_classics_lindy_hop_lessons_january_24_2026_7_00_pm_11_00_pm",
+      "title": "Jeremy Mohney & his Orchestra - New Big Band Classics + Lindy Hop Lessons",
       "venue": "Roots Music Project",
       "location": "Boulder",
       "date": "January 24, 2026",
@@ -4370,7 +4256,7 @@
       "time": "7:00 PM - 11:00 PM",
       "description": "Celebrate one year of Colorado's hottest swing orchestra with an unforgettable night of jazz classics and original compositions!",
       "additional_info": "",
-      "link": "https://www.eventbrite.com/e/jeremy-mohneys-big-band-orchestra-authentic-swing-jazz-classics-tickets-1977785302079",
+      "link": "https://www.eventbrite.com/e/jeremy-mohney-his-orchestra-new-big-band-classics-lindy-hop-lessons-tickets-1977785302079",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172921298%2F1125606624043%2F1%2Foriginal.20251214-013939?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=5608626cd7661df978c5d103d33d3644",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
