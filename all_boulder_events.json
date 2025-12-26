@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T08:31:02.233100",
-  "total_events": 156,
+  "generated_at": "2025-12-26T18:31:43.141986",
+  "total_events": 155,
   "tags": {
     "venues": [
       "300 Suns Brewing",
@@ -317,9 +317,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Community",
-        "Performance"
+        "Performance",
+        "Music"
       ]
     },
     {
@@ -374,9 +374,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Community",
-        "Performance"
+        "Performance",
+        "Music"
       ]
     },
     {
@@ -403,10 +403,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "Community",
         "All Ages",
-        "Performance"
+        "Community",
+        "Performance",
+        "Music"
       ]
     },
     {
@@ -433,8 +433,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "All Ages"
+        "All Ages",
+        "Community"
       ]
     },
     {
@@ -461,10 +461,10 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Games",
         "Family Friendly",
         "Community",
-        "All Ages",
-        "Games"
+        "All Ages"
       ]
     },
     {
@@ -519,9 +519,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
         "Performance",
         "Family Friendly",
+        "All Ages",
         "Community",
         "Music"
       ]
@@ -631,9 +631,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Community",
-        "Performance"
+        "Performance",
+        "Music"
       ]
     },
     {
@@ -660,9 +660,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Community",
-        "Performance"
+        "Performance",
+        "Music"
       ]
     },
     {
@@ -689,9 +689,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Community",
-        "Performance"
+        "Performance",
+        "Music"
       ]
     },
     {
@@ -718,8 +718,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Educational",
         "Games",
+        "Educational",
         "Community"
       ]
     },
@@ -970,35 +970,6 @@
       "description": "Free!Every Monday evening, 7-9p.m.All languages welcome. Facilitated by Kelvin Tavarez.",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-s7a5x-brgdj",
-      "image": "trident.jpg",
-      "source_url": "https://www.tridentcafe.com/events",
-      "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Books",
-        "Community"
-      ]
-    },
-    {
-      "id": "trident_booksellers_cafe_the_local_songwriter_experiment_january_26_2026_6_00_pm",
-      "title": "The Local Songwriter Experiment",
-      "venue": "Trident Booksellers & Cafe",
-      "location": "Boulder",
-      "date": "January 26, 2026",
-      "normalized_date": "2026-01-26T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.tridentcafe.com/events/2026/1/2/the-local-songwriter-experiment",
       "image": "trident.jpg",
       "source_url": "https://www.tridentcafe.com/events",
       "age_restriction": null,
