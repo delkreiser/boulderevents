@@ -353,5 +353,25 @@
       "Bar",
       "Restaurant"
     ]
+  },
+  {
+    "link": "https://www.bricksretail.com/event-details/mountain-reverb-1",
+    "title": "Mountain Reverb",
+    "date": "January 30, 2026",
+    "time": "6:00 PM - 9:00 PM",
+    "venue": "Bricks on Main",
+    "location": "Longmont",
+    "category": "Music",
+    "source_url": "https://www.bricksretail.com/events-calendar",
+    "event_type_tags": [
+      "Live Music",
+      "Entertainment"
+    ],
+    "venue_type_tags": [
+      "Music Venue",
+      "Bar",
+      "Restaurant"
+    ],
+    "image": "bricks.jpg"
   }
 ]

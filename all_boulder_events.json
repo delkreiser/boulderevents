@@ -1,11 +1,10 @@
 {
-  "generated_at": "2025-12-25T18:28:50.239011",
+  "generated_at": "2025-12-26T08:31:02.233100",
   "total_events": 156,
   "tags": {
     "venues": [
       "300 Suns Brewing",
       "Bricks on Main",
-      "Gold Hill Inn",
       "Jungle",
       "Junkyard Social Club",
       "License No 1",
@@ -22,7 +21,6 @@
     "locations": [
       "Boulder",
       "Denver",
-      "Gold Hill",
       "Longmont"
     ],
     "venue_types": [
@@ -39,7 +37,6 @@
       "Entertainment",
       "Family Friendly",
       "Food & Drink",
-      "Historic",
       "Hotel",
       "Literary",
       "Live Music",
@@ -47,7 +44,6 @@
       "Nightlife",
       "Performance",
       "Pub",
-      "Restaurant",
       "Retail",
       "Upscale"
     ],
@@ -321,8 +317,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Music",
+        "Community",
         "Performance"
       ]
     },
@@ -378,8 +374,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Music",
+        "Community",
         "Performance"
       ]
     },
@@ -407,9 +403,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Music",
         "Community",
         "All Ages",
-        "Music",
         "Performance"
       ]
     },
@@ -465,9 +461,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Family Friendly",
         "Community",
         "All Ages",
-        "Family Friendly",
         "Games"
       ]
     },
@@ -495,8 +491,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Games"
+        "Games",
+        "Community"
       ]
     },
     {
@@ -526,8 +522,8 @@
         "All Ages",
         "Performance",
         "Family Friendly",
-        "Music",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
@@ -635,8 +631,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Music",
+        "Community",
         "Performance"
       ]
     },
@@ -664,8 +660,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Music",
+        "Community",
         "Performance"
       ]
     },
@@ -693,8 +689,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Music",
+        "Community",
         "Performance"
       ]
     },
@@ -722,9 +718,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Educational",
-        "Games"
+        "Games",
+        "Community"
       ]
     },
     {
@@ -3481,32 +3477,6 @@
       ]
     },
     {
-      "id": "gold_hill_inn_new_year_s_eve_dance_party_december_31_2025_7_00_pm",
-      "title": "New Year's Eve Dance Party",
-      "venue": "Gold Hill Inn",
-      "location": "Gold Hill",
-      "date": "December 31, 2025",
-      "normalized_date": "2025-12-31T00:00:00",
-      "recurring": null,
-      "time": "7:00 PM",
-      "description": "NYE 2024 - Gold Hill Inn PresentsA New Years Eve Dance Party!Sold Out!Featuring:The Clay Rose Bandw/ Taylor Sims, Jeb Bows, Scott Coulter and Adam PerrySpecial GuestsThe Poudre Valley PlayboysDoors 7 p.m.Music 8 p.m.We will serve a light dinner buffet 7- 9 p.m.Tickets include Music, Food, Champagne at Midnight...",
-      "additional_info": "",
-      "link": "https://www.goldhillinn.com/music/",
-      "image": "goldhillinn.jpg",
-      "source_url": "https://www.goldhillinn.com/music/",
-      "age_restriction": "21+",
-      "venue_tag": "Gold Hill Inn",
-      "location_tag": "Gold Hill",
-      "venue_type_tags": [
-        "Live Music",
-        "Restaurant",
-        "Historic"
-      ],
-      "event_type_tags": [
-        "Live Music"
-      ]
-    },
-    {
       "id": "300_suns_brewing_thomas_dow_january_10_2026_6_00_8_00_pm",
       "title": "Thomas Dow",
       "venue": "300 Suns Brewing",
@@ -4036,6 +4006,33 @@
       "additional_info": "",
       "link": "https://www.bricksretail.com/event-details/boogie-river",
       "image": "https://static.wixstatic.com/media/ea2d6f_135ec425e39443578a983ac034389603~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_135ec425e39443578a983ac034389603~mv2.jpg",
+      "source_url": "https://www.bricksretail.com/events-calendar",
+      "age_restriction": null,
+      "venue_tag": "Bricks on Main",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Community",
+        "Retail",
+        "Entertainment"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "bricks_on_main_mountain_reverb_january_30_2026_6_00_pm_9_00_pm",
+      "title": "Mountain Reverb",
+      "venue": "Bricks on Main",
+      "location": "Longmont",
+      "date": "January 30, 2026",
+      "normalized_date": "2026-01-30T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM - 9:00 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.bricksretail.com/event-details/mountain-reverb-1",
+      "image": "bricks.jpg",
       "source_url": "https://www.bricksretail.com/events-calendar",
       "age_restriction": null,
       "venue_tag": "Bricks on Main",
