@@ -147,10 +147,12 @@
     ]
   },
   {
-    "link": "https://www.bricksretail.com/event-details/aoxomoxoa",
-    "title": "AoxomoxoA",
+    "link": "https://www.bricksretail.com/event-details/aoxomoxoa-the-stage-at-bricks",
+    "title": "AoxomoxoA @ the stage at Bricks",
     "date": "January 09, 2026",
     "time": "6:00 PM - 9:00 PM",
+    "description": "AoxomoxoA is a Boulder County based band that plays music from the Grateful Dead universe. With strong vocals, creative interpretations, and the love of all things Grateful Dead, AoxomoxoA plays all over the Front Range region and puts on a professional and fan friendly show!",
+    "image": "https://static.wixstatic.com/media/f119ff_49e8ae4b37c641f682726f4aba079722~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/f119ff_49e8ae4b37c641f682726f4aba079722~mv2.jpg",
     "venue": "Bricks on Main",
     "location": "Longmont",
     "category": "Music",
@@ -163,8 +165,28 @@
       "Music Venue",
       "Bar",
       "Restaurant"
+    ]
+  },
+  {
+    "link": "https://www.bricksretail.com/event-details/joe-cool-band-7",
+    "title": "Joe Cool Band",
+    "date": "January 10, 2026",
+    "time": "6:00 PM - 9:00 PM",
+    "description": "The “Joe Cool Band” is a 6 piece high energy variety dance band that will “ROCK” your event.  Our goal is simple, to give you a night to remember, a celebration filled with fun, laughter, family and friends, GREAT MUSIC and a PACKED DANCE FLOOR.",
+    "image": "https://static.wixstatic.com/media/ea2d6f_8c0ec41248e84cb1b9bc4b65bbfa6384~mv2.png/v1/fill/w_400,h_400,al_c,q_85,enc_auto/ea2d6f_8c0ec41248e84cb1b9bc4b65bbfa6384~mv2.png",
+    "venue": "Bricks on Main",
+    "location": "Longmont",
+    "category": "Music",
+    "source_url": "https://www.bricksretail.com/events-calendar",
+    "event_type_tags": [
+      "Live Music",
+      "Entertainment"
     ],
-    "image": "bricks.jpg"
+    "venue_type_tags": [
+      "Music Venue",
+      "Bar",
+      "Restaurant"
+    ]
   },
   {
     "link": "https://www.bricksretail.com/event-details/spanish-classical-magic",
@@ -251,32 +273,33 @@
     ]
   },
   {
+    "link": "https://www.bricksretail.com/event-details/mojazz-trio",
+    "title": "MoJazz Trio",
+    "date": "January 18, 2026",
+    "time": "5:00 PM - 8:00 PM",
+    "description": "We play some jazz and some funky R&B it's all instrumental and it's made of of Mojomama members and teachers from our music school. Mojo's Music Academy... You gotta come check it out... Food and bar menu www.misskrissys.com  No cover.",
+    "image": "https://static.wixstatic.com/media/f119ff_ad9123eec648473398824f38746a0b1e~mv2.png/v1/fill/w_400,h_400,al_c,q_85,enc_auto/f119ff_ad9123eec648473398824f38746a0b1e~mv2.png",
+    "venue": "Bricks on Main",
+    "location": "Longmont",
+    "category": "Music",
+    "source_url": "https://www.bricksretail.com/events-calendar",
+    "event_type_tags": [
+      "Jazz",
+      "Live Music"
+    ],
+    "venue_type_tags": [
+      "Music Venue",
+      "Bar",
+      "Restaurant"
+    ]
+  },
+  {
     "link": "https://www.bricksretail.com/event-details/john-mckay-band",
     "title": "John McKay Band",
     "date": "January 23, 2026",
     "time": "6:00 PM - 9:00 PM",
-    "venue": "Bricks on Main",
-    "location": "Longmont",
-    "category": "Music",
-    "source_url": "https://www.bricksretail.com/events-calendar",
-    "event_type_tags": [
-      "Live Music",
-      "Entertainment"
-    ],
-    "venue_type_tags": [
-      "Music Venue",
-      "Bar",
-      "Restaurant"
-    ],
-    "image": "bricks.jpg"
-  },
-  {
-    "link": "https://www.bricksretail.com/event-details/the-delta-sonics",
-    "title": "The Delta Sonics",
-    "date": "January 24, 2026",
-    "time": "6:00 PM - 9:00 PM",
-    "description": "The Delta Sonics music takes a Chicago Blues base and seasons it with Swing, Delta, N’awlins R&B and some early Rock n' Roll . This hard -working band averages over 200 shows a year. They have been featured at many of the major festivals in Colorado.",
-    "image": "https://static.wixstatic.com/media/ea2d6f_070b3d8fb35746299734f022ec630b07~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_070b3d8fb35746299734f022ec630b07~mv2.jpg",
+    "description": "Longmont local.. come on out for an enjoyable night of music with no cover. Food and bar menu www.misskrissys.com",
+    "image": "https://static.wixstatic.com/media/f119ff_db079a2ca19e45738a39147b3bbe2a99~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/f119ff_db079a2ca19e45738a39147b3bbe2a99~mv2.jpg",
     "venue": "Bricks on Main",
     "location": "Longmont",
     "category": "Music",
@@ -290,66 +313,5 @@
       "Bar",
       "Restaurant"
     ]
-  },
-  {
-    "link": "https://www.bricksretail.com/event-details/boogie-river",
-    "title": "Boogie River",
-    "date": "January 25, 2026",
-    "time": "5:00 PM - 8:00 PM",
-    "description": "Blending tight grooves, infectious energy, and a mix of rock, funk, and soul, Boogie River delivers a sound that’s both nostalgic and fresh. With each member bringing years of experience from their previous bands, the result is a powerhouse of musicianship, creativity, and pure fun.",
-    "image": "https://static.wixstatic.com/media/ea2d6f_135ec425e39443578a983ac034389603~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_135ec425e39443578a983ac034389603~mv2.jpg",
-    "venue": "Bricks on Main",
-    "location": "Longmont",
-    "category": "Music",
-    "source_url": "https://www.bricksretail.com/events-calendar",
-    "event_type_tags": [
-      "Live Music",
-      "Entertainment"
-    ],
-    "venue_type_tags": [
-      "Music Venue",
-      "Bar",
-      "Restaurant"
-    ]
-  },
-  {
-    "link": "https://www.bricksretail.com/event-details/mountain-reverb-1",
-    "title": "Mountain Reverb",
-    "date": "January 30, 2026",
-    "time": "6:00 PM - 9:00 PM",
-    "venue": "Bricks on Main",
-    "location": "Longmont",
-    "category": "Music",
-    "source_url": "https://www.bricksretail.com/events-calendar",
-    "event_type_tags": [
-      "Live Music",
-      "Entertainment"
-    ],
-    "venue_type_tags": [
-      "Music Venue",
-      "Bar",
-      "Restaurant"
-    ],
-    "image": "bricks.jpg"
-  },
-  {
-    "link": "https://www.bricksretail.com/event-details/tenbucksixer-5",
-    "title": "Tenbucksixer",
-    "date": "January 31, 2026",
-    "time": "6:00 PM - 9:00 PM",
-    "venue": "Bricks on Main",
-    "location": "Longmont",
-    "category": "Music",
-    "source_url": "https://www.bricksretail.com/events-calendar",
-    "event_type_tags": [
-      "Live Music",
-      "Entertainment"
-    ],
-    "venue_type_tags": [
-      "Music Venue",
-      "Bar",
-      "Restaurant"
-    ],
-    "image": "bricks.jpg"
   }
 ]
