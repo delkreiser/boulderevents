@@ -1,12 +1,12 @@
 {
-  "generated_at": "2025-12-26T18:31:43.141986",
-  "total_events": 155,
+  "generated_at": "2025-12-28T08:27:52.001768",
+  "total_events": 146,
   "tags": {
     "venues": [
       "300 Suns Brewing",
       "Bricks on Main",
+      "Gold Hill Inn",
       "Jungle",
-      "Junkyard Social Club",
       "License No 1",
       "Longs Peak Pub",
       "Mountain Sun Pub",
@@ -21,11 +21,11 @@
     "locations": [
       "Boulder",
       "Denver",
+      "Gold Hill",
       "Longmont"
     ],
     "venue_types": [
       "21+",
-      "All Ages",
       "Arts",
       "Bar",
       "Books",
@@ -37,25 +37,24 @@
       "Entertainment",
       "Family Friendly",
       "Food & Drink",
+      "Historic",
       "Hotel",
       "Literary",
       "Live Music",
       "Music",
       "Nightlife",
-      "Performance",
       "Pub",
+      "Restaurant",
       "Retail",
       "Upscale"
     ],
     "event_types": [
-      "All Ages",
       "Books",
       "Brewery",
       "Comedy",
       "Community",
       "DJ",
       "Dance",
-      "Educational",
       "Entertainment",
       "Family Friendly",
       "Games",
@@ -64,18 +63,17 @@
       "Live Music",
       "Music",
       "Nightlife",
-      "Open Mic",
-      "Performance"
+      "Open Mic"
     ]
   },
   "events": [
     {
-      "id": "velvet_elk_lounge_rapidgrass_with_josy_rosales_december_27_2025",
+      "id": "velvet_elk_lounge_rapidgrass_with_josy_rosales_december_27_2026",
       "title": "Rapidgrass with Josy Rosales",
       "venue": "Velvet Elk Lounge",
       "location": "Boulder",
-      "date": "December 27, 2025",
-      "normalized_date": "2025-12-27T00:00:00",
+      "date": "December 27, 2026",
+      "normalized_date": "2026-12-27T00:00:00",
       "recurring": null,
       "time": null,
       "description": "",
@@ -294,436 +292,6 @@
       ]
     },
     {
-      "id": "junkyard_social_club_new_year_s_salsa_masquerade_saturday_december_27_2025_7_30_pm_11_30_pm",
-      "title": "New Year\u2019s Salsa Masquerade",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Saturday, December 27, 2025",
-      "normalized_date": "2025-12-27T00:00:00",
-      "recurring": null,
-      "time": "7:30 PM - 11:30 PM",
-      "description": "",
-      "additional_info": "Must be age 18+",
-      "link": "https://junkyardsocialclub.org/product/new-years-salsa-masquerade/",
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/11/New-Years-Salsa-Masquerade.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Community",
-        "Performance",
-        "Music"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_queer_art_organics_open_mic_monday_december_29_2025_4_30_8_00_pm",
-      "title": "Queer Art Organics Open Mic",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Monday, December 29, 2025",
-      "normalized_date": "2025-12-29T00:00:00",
-      "recurring": null,
-      "time": "4:30 - 8:00 PM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://junkyardsocialclub.org/drop-in-event/queer-art-organics-open-mic/",
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/07/Queer-Art-Organics-Open-Mic.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Community",
-        "Performance"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_revolution_nye_2025_wednesday_december_31_2025_8_00_pm_doors_2_00_am_end",
-      "title": "rEVOLUTION: NYE 2025",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Wednesday, December 31, 2025",
-      "normalized_date": "2025-12-31T00:00:00",
-      "recurring": null,
-      "time": "8:00 PM Doors | 2:00 AM End",
-      "description": "",
-      "additional_info": "Must be age 21+",
-      "link": "https://junkyardsocialclub.org/product/revolution-nye-2025/",
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/11/2025-NYE-rEVOLUTION-768x768.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Community",
-        "Performance",
-        "Music"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_stage_party_friday_january_2_2026_7_00_pm_doors_8_00_pm_show",
-      "title": "Stage Party",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Friday, January 2, 2026",
-      "normalized_date": "2026-01-02T00:00:00",
-      "recurring": null,
-      "time": "7:00 PM Doors | 8:00 PM  Show",
-      "description": "",
-      "additional_info": "All Ages are Welcome",
-      "link": "https://junkyardsocialclub.org/drop-in-event/stage-party/",
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/03/Boulder-Juggling-Stage-Party-768x402.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": "All Ages",
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "All Ages",
-        "Community",
-        "Performance",
-        "Music"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_community_craft_night_wednesday_january_7_2026_6_00_8_30_pm",
-      "title": "Community Craft Night",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Wednesday, January 7, 2026",
-      "normalized_date": "2026-01-07T00:00:00",
-      "recurring": null,
-      "time": "6:00 - 8:30 PM",
-      "description": "",
-      "additional_info": "All Ages are Welcome",
-      "link": "https://junkyardsocialclub.org/drop-in-event/community-craft-night/",
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/10/Community-Craft-Night.jpeg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": "All Ages",
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "All Ages",
-        "Community"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_junkyard_game_night_thursday_january_8_2026_6_00_9_00_pm",
-      "title": "Junkyard Game Night",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Thursday, January 8, 2026",
-      "normalized_date": "2026-01-08T00:00:00",
-      "recurring": null,
-      "time": "6:00 - 9:00 PM",
-      "description": "",
-      "additional_info": "All Ages are Welcome",
-      "link": "https://junkyardsocialclub.org/drop-in-event/junkyard-game-night/",
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/06/Game-Night-768x768.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": "All Ages",
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Games",
-        "Family Friendly",
-        "Community",
-        "All Ages"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_drop_in_mahjongg_thursdays_thursday_january_8_2026_3_30_5_30_pm",
-      "title": "Drop-In Mahjongg \u2013 Thursdays",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Thursday, January 8, 2026",
-      "normalized_date": "2026-01-08T00:00:00",
-      "recurring": null,
-      "time": "3:30 - 5:30 PM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://junkyardsocialclub.org/drop-in-event/drop-in-mahjongg-thursdays/",
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/08/Drop-In-Mah-Jongg-Thursday.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Games",
-        "Community"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_salsaton_events_friday_january_9_2026_7_30_11_00_pm",
-      "title": "Salsaton Events",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Friday, January 9, 2026",
-      "normalized_date": "2026-01-09T00:00:00",
-      "recurring": null,
-      "time": "7:30 - 11:00 PM",
-      "description": "",
-      "additional_info": "Family Friendly",
-      "link": "https://junkyardsocialclub.org/product/salsaton-events/",
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/12/Salsaton-Dance-Party-768x644.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": "All Ages",
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Performance",
-        "Family Friendly",
-        "All Ages",
-        "Community",
-        "Music"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_b_e_a_t_meet_up_wednesday_january_14_2026_6_00_7_00_pm",
-      "title": "B.E.A.T. Meet-Up",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Wednesday, January 14, 2026",
-      "normalized_date": "2026-01-14T00:00:00",
-      "recurring": null,
-      "time": "6:00 - 7:00 PM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://junkyardsocialclub.org/drop-in-event/b-e-a-t-meet-up/",
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/06/BEAT-768x768.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Community"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_boulder_burner_meet_up_wednesday_january_14_2026_6_30_8_30_pm",
-      "title": "Boulder Burner Meet-up",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Wednesday, January 14, 2026",
-      "normalized_date": "2026-01-14T00:00:00",
-      "recurring": null,
-      "time": "6:30 - 8:30 PM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://junkyardsocialclub.org/drop-in-event/burner/",
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/07/Burner-768x434.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Community"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_creativemornings_friday_january_16_2026_8_00_am_doors_9_00_am_talk",
-      "title": "CreativeMornings",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Friday, January 16, 2026",
-      "normalized_date": "2026-01-16T00:00:00",
-      "recurring": null,
-      "time": "8:00 AM doors | 9:00 AM talk",
-      "description": "",
-      "additional_info": "Family Friendly",
-      "link": "https://junkyardsocialclub.org/event/creative-mornings/",
-      "image": "junkyard.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Community"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_poletry_friday_january_30_2026_7_00_pm_doors_and_market_8_00_pm_show",
-      "title": "Poletry",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Friday, January 30, 2026",
-      "normalized_date": "2026-01-30T00:00:00",
-      "recurring": null,
-      "time": "7:00 PM Doors and Market | 8:00 PM Show",
-      "description": "",
-      "additional_info": "Must be age 18+",
-      "link": "https://junkyardsocialclub.org/event/poletry/",
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/12/poletry-768x768.jpeg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Community",
-        "Performance",
-        "Music"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_cathartic_compost_saturday_night_saturday_january_31_2026_6_00_pm_doors_7_00_pm_show",
-      "title": "cathARTic compost \u2013 Saturday Night",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Saturday, January 31, 2026",
-      "normalized_date": "2026-01-31T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM Doors | 7:00 PM Show",
-      "description": "",
-      "additional_info": "Ages 13+",
-      "link": "https://junkyardsocialclub.org/product/cathartic-compost-saturday/",
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/10/cathARTic-compost.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Community",
-        "Performance",
-        "Music"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_cathartic_compost_sunday_night_sunday_february_1_2026_6_00_pm_doors_7_00_pm_show",
-      "title": "cathARTic compost \u2013 Sunday Night",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Sunday, February 1, 2026",
-      "normalized_date": "2026-02-01T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM Doors | 7:00 PM Show",
-      "description": "",
-      "additional_info": "Ages 13+",
-      "link": "https://junkyardsocialclub.org/product/cathartic-compost-sunday/",
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/10/cathARTic-compost.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Community",
-        "Performance",
-        "Music"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_osmp_after_dark_a_valentine_s_day_trivia_event_tuesday_february_10_2026_6_00_8_00_pm",
-      "title": "OSMP After Dark: A Valentine\u2019s Day Trivia Event",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Tuesday, February 10, 2026",
-      "normalized_date": "2026-02-10T00:00:00",
-      "recurring": null,
-      "time": "6:00 - 8:00 PM",
-      "description": "",
-      "additional_info": "Must be age 18+",
-      "link": "https://junkyardsocialclub.org/drop-in-event/osmp-after-dark/",
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/12/OSMP-After-Dark-Flyer-768x993.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Games",
-        "Educational",
-        "Community"
-      ]
-    },
-    {
       "id": "vine_street_pub_vinyl_night_every_monday_5_00_pm_9_00_pm",
       "title": "Vinyl Night",
       "venue": "Vine Street Pub",
@@ -849,60 +417,6 @@
         "Food & Drink"
       ],
       "event_type_tags": []
-    },
-    {
-      "id": "st_julien_hotel_spa_grown_a_man_band_december_26_2025_6_00_pm_9_00_pm",
-      "title": "Grown A** Man Band",
-      "venue": "St Julien Hotel & Spa",
-      "location": "Boulder",
-      "date": "December 26, 2025",
-      "normalized_date": "2025-12-26T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM - 9:00 PM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://stjulien.com/event/grown-a-man-band-3/",
-      "image": "stjulien.jpg",
-      "source_url": "https://stjulien.com/boulder-colorado-events/month/?tribe_eventcategory%5B0%5D=83",
-      "age_restriction": null,
-      "venue_tag": "St Julien Hotel & Spa",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Entertainment",
-        "Hotel",
-        "Upscale"
-      ],
-      "event_type_tags": [
-        "Entertainment",
-        "Hotel Events"
-      ]
-    },
-    {
-      "id": "st_julien_hotel_spa_nice_work_jazz_quartet_december_27_2025_6_00_pm_9_00_pm",
-      "title": "Nice Work Jazz Quartet",
-      "venue": "St Julien Hotel & Spa",
-      "location": "Boulder",
-      "date": "December 27, 2025",
-      "normalized_date": "2025-12-27T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM - 9:00 PM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://stjulien.com/event/nice-work-jazz-quartet-23/",
-      "image": "stjulien.jpg",
-      "source_url": "https://stjulien.com/boulder-colorado-events/month/?tribe_eventcategory%5B0%5D=83",
-      "age_restriction": null,
-      "venue_tag": "St Julien Hotel & Spa",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Entertainment",
-        "Hotel",
-        "Upscale"
-      ],
-      "event_type_tags": [
-        "Entertainment",
-        "Hotel Events"
-      ]
     },
     {
       "id": "st_julien_hotel_spa_roaring_20_s_new_year_s_eve_party_tickets_required_december_31_2025_9_00_pm_1_00_am",
@@ -2757,12 +2271,12 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_trident_poet_series_reed_bye_and_mike_parker_december_26_2025_6_30_pm",
+      "id": "trident_booksellers_cafe_trident_poet_series_reed_bye_and_mike_parker_december_26_2026_6_30_pm",
       "title": "Trident Poet Series: Reed Bye and Mike Parker",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
-      "date": "December 26, 2025",
-      "normalized_date": "2025-12-26T00:00:00",
+      "date": "December 26, 2026",
+      "normalized_date": "2026-12-26T00:00:00",
       "recurring": null,
       "time": "6:30 PM",
       "description": "Reed Bye\u2019s most recent poetry collections includeEarth\u2019s Hollow Breathing; Morning Rites;andAddled Smoke Material:Collaborative Poemswith Jack Collom 1972-2017. He has new album of original songs,Down Here. He is Professor Emeritus at Naropa University where he served on the core faculty of the Jack...",
@@ -3134,141 +2648,6 @@
       ]
     },
     {
-      "id": "license_no_1_the_underground_comedy_show_friday_december_26_2025_8_00_pm_9_00_pm",
-      "title": "The Underground Comedy Show",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": "Friday, December 26, 2025",
-      "normalized_date": "2025-12-26T00:00:00",
-      "recurring": null,
-      "time": "8:00\u202fPM - 9:00\u202fPM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-j86d3-9mbac-5j687-6wwda-e4mpt-f3jwf-9d769",
-      "image": "licenseno1.jpg",
-      "source_url": "https://www.license1boulderado.com/calendar",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+"
-      ],
-      "event_type_tags": [
-        "Comedy",
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "license_no_1_live_music_with_phoebe_nix_friday_december_26_2025_9_00_pm_11_59_pm",
-      "title": "Live Music with Phoebe Nix",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": "Friday, December 26, 2025",
-      "normalized_date": "2025-12-26T00:00:00",
-      "recurring": null,
-      "time": "9:00\u202fPM - 11:59\u202fPM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.license1boulderado.com/calendar/live-music-with-phoebe-nix-1-wkm45-c8ct8",
-      "image": "licenseno1.jpg",
-      "source_url": "https://www.license1boulderado.com/calendar",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "license_no_1_the_underground_comedy_show_saturday_december_27_2025_7_30_pm_8_30_pm",
-      "title": "The Underground Comedy Show",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": "Saturday, December 27, 2025",
-      "normalized_date": "2025-12-27T00:00:00",
-      "recurring": null,
-      "time": "7:30\u202fPM - 8:30\u202fPM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.license1boulderado.com/calendar/anl95g22jgrswsr-j95ne-bfkbc-fd65x-2x4z6-pjfxj-ze78w-ln5r2",
-      "image": "licenseno1.jpg",
-      "source_url": "https://www.license1boulderado.com/calendar",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+"
-      ],
-      "event_type_tags": [
-        "Comedy",
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "license_no_1_live_music_with_blove_saturday_december_27_2025_9_00_pm_11_59_pm",
-      "title": "Live Music with Blove",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": "Saturday, December 27, 2025",
-      "normalized_date": "2025-12-27T00:00:00",
-      "recurring": null,
-      "time": "9:00\u202fPM - 11:59\u202fPM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.license1boulderado.com/calendar/live-music-with-superimposition-3-tzj3w-ragmp-n3wp5-bm6da-7238m-r3mpg-2tk4t-etj9j-x52nl-43zhr-rta6x-7xyzy-w592k-7rgwt-p2ga6-yg2m3-ybk7a-3fxsm-kg2b8-r54sk-5639t-fw4a8-t9cwn-rg6f3-n2jr4",
-      "image": "licenseno1.jpg",
-      "source_url": "https://www.license1boulderado.com/calendar",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "license_no_1_the_underground_comedy_show_saturday_december_27_2025_9_15_pm_10_15_pm",
-      "title": "The Underground Comedy Show",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": "Saturday, December 27, 2025",
-      "normalized_date": "2025-12-27T00:00:00",
-      "recurring": null,
-      "time": "9:15\u202fPM - 10:15\u202fPM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.license1boulderado.com/calendar/lj824kawfej4rbl-ygrxa-6afcr-95jfl-dn4wm",
-      "image": "licenseno1.jpg",
-      "source_url": "https://www.license1boulderado.com/calendar",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+"
-      ],
-      "event_type_tags": [
-        "Comedy",
-        "Nightlife"
-      ]
-    },
-    {
       "id": "license_no_1_cocktails_countdown_wed_dec_31_2025_8_00_pm_wed_dec_31_2025_2_00_am_thu_jan_1_2026",
       "title": "Cocktails & Countdown",
       "venue": "License No 1",
@@ -3321,37 +2700,6 @@
       "event_type_tags": [
         "Live Music",
         "Jazz"
-      ]
-    },
-    {
-      "id": "rosetta_hall_danny_shafer_december_23_2026_6_00_pm",
-      "title": "DANNY SHAFER",
-      "venue": "Rosetta Hall",
-      "location": "Boulder",
-      "date": "December 23, 2026",
-      "normalized_date": "2026-12-23T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM",
-      "description": "ACOUSTIC GUITAR",
-      "additional_info": "",
-      "link": "https://rosettahall.com/live-music/",
-      "image": "rosettahall.jpg",
-      "source_url": "https://rosettahall.com/live-music/",
-      "age_restriction": "21+",
-      "venue_tag": "Rosetta Hall",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Music",
-        "Nightlife",
-        "Dance",
-        "DJ",
-        "21+"
-      ],
-      "event_type_tags": [
-        "Music",
-        "Nightlife",
-        "Dance",
-        "DJ"
       ]
     },
     {
@@ -3448,6 +2796,373 @@
       ]
     },
     {
+      "id": "rosetta_hall_shares_january_15_2026_10_00_pm",
+      "title": "SHARES",
+      "venue": "Rosetta Hall",
+      "location": "Boulder",
+      "date": "January 15, 2026",
+      "normalized_date": "2026-01-15T00:00:00",
+      "recurring": null,
+      "time": "10:00 PM",
+      "description": "TECH HOUSE / TECHNO",
+      "additional_info": "",
+      "link": "https://rosettahall.com/live-music/",
+      "image": "rosettahall.jpg",
+      "source_url": "https://rosettahall.com/live-music/",
+      "age_restriction": "21+",
+      "venue_tag": "Rosetta Hall",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Nightlife",
+        "Dance",
+        "DJ",
+        "21+"
+      ],
+      "event_type_tags": [
+        "Music",
+        "Nightlife",
+        "Dance",
+        "DJ"
+      ]
+    },
+    {
+      "id": "rosetta_hall_tba_january_16_2026_10_00_pm",
+      "title": "TBA",
+      "venue": "Rosetta Hall",
+      "location": "Boulder",
+      "date": "January 16, 2026",
+      "normalized_date": "2026-01-16T00:00:00",
+      "recurring": null,
+      "time": "10:00 PM",
+      "description": "TBA",
+      "additional_info": "",
+      "link": "https://rosettahall.com/live-music/",
+      "image": "rosettahall.jpg",
+      "source_url": "https://rosettahall.com/live-music/",
+      "age_restriction": "21+",
+      "venue_tag": "Rosetta Hall",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Nightlife",
+        "Dance",
+        "DJ",
+        "21+"
+      ],
+      "event_type_tags": [
+        "Music",
+        "Nightlife",
+        "Dance",
+        "DJ"
+      ]
+    },
+    {
+      "id": "rosetta_hall_stuey_january_17_2026_10_00_pm",
+      "title": "STUEY",
+      "venue": "Rosetta Hall",
+      "location": "Boulder",
+      "date": "January 17, 2026",
+      "normalized_date": "2026-01-17T00:00:00",
+      "recurring": null,
+      "time": "10:00 PM",
+      "description": "HIP HOP / HOUSE",
+      "additional_info": "",
+      "link": "https://rosettahall.com/live-music/",
+      "image": "rosettahall.jpg",
+      "source_url": "https://rosettahall.com/live-music/",
+      "age_restriction": "21+",
+      "venue_tag": "Rosetta Hall",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Nightlife",
+        "Dance",
+        "DJ",
+        "21+"
+      ],
+      "event_type_tags": [
+        "Music",
+        "Nightlife",
+        "Dance",
+        "DJ"
+      ]
+    },
+    {
+      "id": "rosetta_hall_tales_of_hoffman_january_20_2026_6_00_pm",
+      "title": "TALES OF HOFFMAN",
+      "venue": "Rosetta Hall",
+      "location": "Boulder",
+      "date": "January 20, 2026",
+      "normalized_date": "2026-01-20T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM",
+      "description": "ACOUSTIC ROCK",
+      "additional_info": "",
+      "link": "https://rosettahall.com/live-music/",
+      "image": "rosettahall.jpg",
+      "source_url": "https://rosettahall.com/live-music/",
+      "age_restriction": "21+",
+      "venue_tag": "Rosetta Hall",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Nightlife",
+        "Dance",
+        "DJ",
+        "21+"
+      ],
+      "event_type_tags": [
+        "Music",
+        "Nightlife",
+        "Dance",
+        "DJ"
+      ]
+    },
+    {
+      "id": "rosetta_hall_davey_daydream_january_22_2026_10_00_pm",
+      "title": "DAVEY DAYDREAM",
+      "venue": "Rosetta Hall",
+      "location": "Boulder",
+      "date": "January 22, 2026",
+      "normalized_date": "2026-01-22T00:00:00",
+      "recurring": null,
+      "time": "10:00 PM",
+      "description": "OPEN FORMAT",
+      "additional_info": "",
+      "link": "https://rosettahall.com/live-music/",
+      "image": "rosettahall.jpg",
+      "source_url": "https://rosettahall.com/live-music/",
+      "age_restriction": "21+",
+      "venue_tag": "Rosetta Hall",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Nightlife",
+        "Dance",
+        "DJ",
+        "21+"
+      ],
+      "event_type_tags": [
+        "Music",
+        "Nightlife",
+        "Dance",
+        "DJ"
+      ]
+    },
+    {
+      "id": "rosetta_hall_tba_january_23_2026_10_00_pm",
+      "title": "TBA",
+      "venue": "Rosetta Hall",
+      "location": "Boulder",
+      "date": "January 23, 2026",
+      "normalized_date": "2026-01-23T00:00:00",
+      "recurring": null,
+      "time": "10:00 PM",
+      "description": "TBA",
+      "additional_info": "",
+      "link": "https://rosettahall.com/live-music/",
+      "image": "rosettahall.jpg",
+      "source_url": "https://rosettahall.com/live-music/",
+      "age_restriction": "21+",
+      "venue_tag": "Rosetta Hall",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Nightlife",
+        "Dance",
+        "DJ",
+        "21+"
+      ],
+      "event_type_tags": [
+        "Music",
+        "Nightlife",
+        "Dance",
+        "DJ"
+      ]
+    },
+    {
+      "id": "rosetta_hall_strom_january_24_2026_10_00_pm",
+      "title": "STROM",
+      "venue": "Rosetta Hall",
+      "location": "Boulder",
+      "date": "January 24, 2026",
+      "normalized_date": "2026-01-24T00:00:00",
+      "recurring": null,
+      "time": "10:00 PM",
+      "description": "TECH HOUSE",
+      "additional_info": "",
+      "link": "https://rosettahall.com/live-music/",
+      "image": "rosettahall.jpg",
+      "source_url": "https://rosettahall.com/live-music/",
+      "age_restriction": "21+",
+      "venue_tag": "Rosetta Hall",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Nightlife",
+        "Dance",
+        "DJ",
+        "21+"
+      ],
+      "event_type_tags": [
+        "Music",
+        "Nightlife",
+        "Dance",
+        "DJ"
+      ]
+    },
+    {
+      "id": "rosetta_hall_derek_dames_ohl_january_27_2026_6_00_pm",
+      "title": "DEREK DAMES OHL",
+      "venue": "Rosetta Hall",
+      "location": "Boulder",
+      "date": "January 27, 2026",
+      "normalized_date": "2026-01-27T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM",
+      "description": "ACOUSTIC",
+      "additional_info": "",
+      "link": "https://rosettahall.com/live-music/",
+      "image": "rosettahall.jpg",
+      "source_url": "https://rosettahall.com/live-music/",
+      "age_restriction": "21+",
+      "venue_tag": "Rosetta Hall",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Nightlife",
+        "Dance",
+        "DJ",
+        "21+"
+      ],
+      "event_type_tags": [
+        "Music",
+        "Nightlife",
+        "Dance",
+        "DJ"
+      ]
+    },
+    {
+      "id": "rosetta_hall_corbin_glover_january_29_2026_10_00_pm",
+      "title": "CORBIN GLOVER",
+      "venue": "Rosetta Hall",
+      "location": "Boulder",
+      "date": "January 29, 2026",
+      "normalized_date": "2026-01-29T00:00:00",
+      "recurring": null,
+      "time": "10:00 PM",
+      "description": "LIVE VIOLIN / HOUSE",
+      "additional_info": "",
+      "link": "https://rosettahall.com/live-music/",
+      "image": "rosettahall.jpg",
+      "source_url": "https://rosettahall.com/live-music/",
+      "age_restriction": "21+",
+      "venue_tag": "Rosetta Hall",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Nightlife",
+        "Dance",
+        "DJ",
+        "21+"
+      ],
+      "event_type_tags": [
+        "Music",
+        "Nightlife",
+        "Dance",
+        "DJ"
+      ]
+    },
+    {
+      "id": "rosetta_hall_tba_january_30_2026_10_00_pm",
+      "title": "TBA",
+      "venue": "Rosetta Hall",
+      "location": "Boulder",
+      "date": "January 30, 2026",
+      "normalized_date": "2026-01-30T00:00:00",
+      "recurring": null,
+      "time": "10:00 PM",
+      "description": "TBA",
+      "additional_info": "",
+      "link": "https://rosettahall.com/live-music/",
+      "image": "rosettahall.jpg",
+      "source_url": "https://rosettahall.com/live-music/",
+      "age_restriction": "21+",
+      "venue_tag": "Rosetta Hall",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Nightlife",
+        "Dance",
+        "DJ",
+        "21+"
+      ],
+      "event_type_tags": [
+        "Music",
+        "Nightlife",
+        "Dance",
+        "DJ"
+      ]
+    },
+    {
+      "id": "rosetta_hall_tez_january_31_2026_10_00_pm",
+      "title": "TEZ",
+      "venue": "Rosetta Hall",
+      "location": "Boulder",
+      "date": "January 31, 2026",
+      "normalized_date": "2026-01-31T00:00:00",
+      "recurring": null,
+      "time": "10:00 PM",
+      "description": "HOUSE",
+      "additional_info": "",
+      "link": "https://rosettahall.com/live-music/",
+      "image": "rosettahall.jpg",
+      "source_url": "https://rosettahall.com/live-music/",
+      "age_restriction": "21+",
+      "venue_tag": "Rosetta Hall",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Nightlife",
+        "Dance",
+        "DJ",
+        "21+"
+      ],
+      "event_type_tags": [
+        "Music",
+        "Nightlife",
+        "Dance",
+        "DJ"
+      ]
+    },
+    {
+      "id": "gold_hill_inn_new_year_s_eve_dance_party_december_31_2025_7_00_pm",
+      "title": "New Year's Eve Dance Party",
+      "venue": "Gold Hill Inn",
+      "location": "Gold Hill",
+      "date": "December 31, 2025",
+      "normalized_date": "2025-12-31T00:00:00",
+      "recurring": null,
+      "time": "7:00 PM",
+      "description": "NYE 2024 - Gold Hill Inn PresentsA New Years Eve Dance Party!Sold Out!Featuring:The Clay Rose Bandw/ Taylor Sims, Jeb Bows, Scott Coulter and Adam PerrySpecial GuestsThe Poudre Valley PlayboysDoors 7 p.m.Music 8 p.m.We will serve a light dinner buffet 7- 9 p.m.Tickets include Music, Food, Champagne at Midnight...",
+      "additional_info": "",
+      "link": "https://www.goldhillinn.com/music/",
+      "image": "goldhillinn.jpg",
+      "source_url": "https://www.goldhillinn.com/music/",
+      "age_restriction": "21+",
+      "venue_tag": "Gold Hill Inn",
+      "location_tag": "Gold Hill",
+      "venue_type_tags": [
+        "Live Music",
+        "Restaurant",
+        "Historic"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
       "id": "300_suns_brewing_thomas_dow_january_10_2026_6_00_8_00_pm",
       "title": "Thomas Dow",
       "venue": "300 Suns Brewing",
@@ -3532,60 +3247,6 @@
       ]
     },
     {
-      "id": "bricks_on_main_the_responders_oldies_band_december_26_2025_6_00_pm_9_00_pm",
-      "title": "The Responders Oldies Band",
-      "venue": "Bricks on Main",
-      "location": "Longmont",
-      "date": "December 26, 2025",
-      "normalized_date": "2025-12-26T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM - 9:00 PM",
-      "description": "50's & 60's Rock n' Roll. The way it was meant to be played.",
-      "additional_info": "",
-      "link": "https://www.bricksretail.com/event-details/the-responders-oldies-band",
-      "image": "https://static.wixstatic.com/media/ea2d6f_77e4c03984a34bc6a3f3ef2edd18382a~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_77e4c03984a34bc6a3f3ef2edd18382a~mv2.jpg",
-      "source_url": "https://www.bricksretail.com/events-calendar",
-      "age_restriction": null,
-      "venue_tag": "Bricks on Main",
-      "location_tag": "Longmont",
-      "venue_type_tags": [
-        "Community",
-        "Retail",
-        "Entertainment"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Entertainment"
-      ]
-    },
-    {
-      "id": "bricks_on_main_deborah_stafford_the_night_stalkers_december_27_2025_6_00_pm_9_00_pm",
-      "title": "Deborah Stafford & The Night Stalkers",
-      "venue": "Bricks on Main",
-      "location": "Longmont",
-      "date": "December 27, 2025",
-      "normalized_date": "2025-12-27T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM - 9:00 PM",
-      "description": "Deborah Stafford & The Night Stalkers - Horn-driven Blues, Roots and Soul. This 8-piece band will get you shakin' it with their brand of original Soul & Blues, Come and dance with us.",
-      "additional_info": "",
-      "link": "https://www.bricksretail.com/event-details/deborah-stafford-the-night-stalkers",
-      "image": "https://static.wixstatic.com/media/ea2d6f_1d7eb7f042cb41179724d12bed17875e~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_1d7eb7f042cb41179724d12bed17875e~mv2.jpg",
-      "source_url": "https://www.bricksretail.com/events-calendar",
-      "age_restriction": null,
-      "venue_tag": "Bricks on Main",
-      "location_tag": "Longmont",
-      "venue_type_tags": [
-        "Community",
-        "Retail",
-        "Entertainment"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Entertainment"
-      ]
-    },
-    {
       "id": "bricks_on_main_the_lionel_young_band_december_28_2025_5_00_pm_8_00_pm",
       "title": "The Lionel Young Band",
       "venue": "Bricks on Main",
@@ -3594,7 +3255,7 @@
       "normalized_date": "2025-12-28T00:00:00",
       "recurring": null,
       "time": "5:00 PM - 8:00 PM",
-      "description": "Blues and R& B. This band won the 2011 International Blues Challenge in Memphis.",
+      "description": "Blues and R& B. This band won the 2011 International Blues Challenge in Memphis. Free full band performance at Longmont's favorite stage! Food and bar menu www.bricksonmain.com .  Table reservations can be made for $10 per seat by contacting misskrissysbistro@gmail.com or calling 720-600-2350.",
       "additional_info": "",
       "link": "https://www.bricksretail.com/event-details/the-lionel-young-band",
       "image": "https://static.wixstatic.com/media/ea2d6f_6fc6bd6031e44be98ad43db8e0ef6cf8~mv2.jpeg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_6fc6bd6031e44be98ad43db8e0ef6cf8~mv2.jpeg",
@@ -4019,6 +3680,33 @@
       ]
     },
     {
+      "id": "bricks_on_main_tenbucksixer_january_31_2026_6_00_pm_9_00_pm",
+      "title": "Tenbucksixer",
+      "venue": "Bricks on Main",
+      "location": "Longmont",
+      "date": "January 31, 2026",
+      "normalized_date": "2026-01-31T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM - 9:00 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.bricksretail.com/event-details/tenbucksixer-5",
+      "image": "bricks.jpg",
+      "source_url": "https://www.bricksretail.com/events-calendar",
+      "age_restriction": null,
+      "venue_tag": "Bricks on Main",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Community",
+        "Retail",
+        "Entertainment"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Entertainment"
+      ]
+    },
+    {
       "id": "roots_music_project_billy_hoke_s_xtrav_xx_super_pro_jam_december_28_2025_6_00_pm_10_00_pm",
       "title": "Billy Hoke's XTRAV XX Super Pro Jam",
       "venue": "Roots Music Project",
@@ -4030,7 +3718,7 @@
       "description": "The Biggest and Baddest Pro Jam this side of the Mississippi!",
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/billy-hokes-xtrav-xx-super-pro-jam-tickets-1976523826973",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172110157%2F1125606624043%2F1%2Foriginal.20251202-004024?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=fd3c14f3da69d0d3858d817da6ac1e7d",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172110157%2F1125606624043%2F1%2Foriginal.20251202-004024?crop=focalpoint&fit=crop&w=355&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=0d3eb8bd9decedb7ef4286174f7928ec",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -4056,6 +3744,31 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/new-years-eve-party-with-riley-j-band-cabaret-vinyl-djs-tickets-1976500611535",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172088009%2F1125606624043%2F1%2Foriginal.20251201-201350?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=835ffac8acf09d8695c04be458dafaec",
+      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_rmp_s_monthly_jazz_soul_and_groove_jam_sessions_january_08_2026_7_30_pm_10_00_pm",
+      "title": "RMP's Monthly Jazz, Soul, and Groove Jam Sessions",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": "January 08, 2026",
+      "normalized_date": "2026-01-08T00:00:00",
+      "recurring": null,
+      "time": "7:30 PM - 10:00 PM",
+      "description": "RMP Monthly Jam: Musicians unite for collaborative jazz, soul & groove performance. Pro artists create dynamic musical fusion. Free Event!",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/rmps-monthly-jazz-soul-and-groove-jam-sessions-tickets-1979094989389",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F954537953%2F1125606624043%2F1%2Foriginal.20250206-174854?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=e6697e534a6f2fddc6b7e9d404724717",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -4105,7 +3818,7 @@
       "description": "Come and be part of this historic live recording!  Your screams, your voices, dancing, and  joy will shape the sound of this album.",
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/blessing-bled-chimanga-light-hope-live-album-recording-tickets-1975148176365",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171528402%2F1408677475953%2F1%2Foriginal.20251121-214623?h=200&auto=format%2Ccompress&q=75&sharp=10&s=c8203b029b05bc27f0dc8029e72fe53b",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171528402%2F1408677475953%2F1%2Foriginal.20251121-214623?h=200&w=355&auto=format%2Ccompress&q=75&sharp=10&s=a1cae8e7f5b8e0f979bbfe5d11082ff5",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -4130,7 +3843,7 @@
       "description": "Join Fox Linnea Drickey for community singing! Learn folk & roots songs by ear, layer harmonies, and sing together in joy. All welcome!",
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/honeycomb-open-sing-with-fox-linnea-drickey-joyful-community-harmony-tickets-1975123903765",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172733632%2F1125606624043%2F1%2Foriginal.20251211-001504?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=6cfd464639bf6bbbabe011b5aff0f213",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172733632%2F1125606624043%2F1%2Foriginal.20251211-001504?crop=focalpoint&fit=crop&w=355&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=56ca163ea4bca30d5cb3de5b4bdbb833",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -4155,7 +3868,7 @@
       "description": "An intimate evening of improvised jazz grooves and soulful vocals featuring JJ Murphy Trio and Denver's Halle Tomlinson.",
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/jj-murphy-wyatt-wear-and-gabriel-mangione-and-halle-tomlinson-tickets-1977675210793",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172912388%2F1125606624043%2F1%2Foriginal.20251213-194413?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=ccb727b73d82b357fe0e80282e299e51",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172912388%2F1125606624043%2F1%2Foriginal.20251213-194413?crop=focalpoint&fit=crop&w=355&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=c73902ba04d987632288ba450ef02e9f",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -4180,7 +3893,7 @@
       "description": "A night of Funk Punk Jazz Fusion with The Mike Dillon Band and Photon",
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/the-mike-dillon-band-feat-brian-haas-w-photon-tickets-1977676602957",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172809210%2F1125606624043%2F1%2Foriginal.20251212-003248?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=8cce3ac27aba190b4560d805f5764ebd",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172809210%2F1125606624043%2F1%2Foriginal.20251212-003248?crop=focalpoint&fit=crop&w=355&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=eae3b9ade39cd7af41d744eb3ecaeae6",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -4255,7 +3968,7 @@
       "description": "Celebrate one year of Colorado's hottest swing orchestra with an unforgettable night of jazz classics and original compositions!",
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/jeremy-mohney-his-orchestra-new-big-band-classics-lindy-hop-lessons-tickets-1977785302079",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172921298%2F1125606624043%2F1%2Foriginal.20251214-013939?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=5608626cd7661df978c5d103d33d3644",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172921298%2F1125606624043%2F1%2Foriginal.20251214-013939?crop=focalpoint&fit=crop&w=355&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=041d7c162ef1a7ec8008ce0c5e203d2f",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -4305,7 +4018,7 @@
       "description": "Subdudes bassist Tim Cook + Godson Seth Strickland of Green Buddha perform intimate originals & classics.",
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/tim-cook-godson-an-intimate-soul-roots-evening-tickets-1977324060493",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172573132%2F1125606624043%2F1%2Foriginal.20251209-005808?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=6cbdd2b1cd09bc3286504cab7dbff2ca",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172573132%2F1125606624043%2F1%2Foriginal.20251209-005808?crop=focalpoint&fit=crop&w=355&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=99aeed510f015a9586533ac8a4228616",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -4330,7 +4043,7 @@
       "description": "Colorado music legends, Hazel Miller and Jack Hadley join forces for a special evening of soul, heart, laughter and song.",
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/roots-soul-an-evening-with-hazel-miller-jack-hadley-tickets-1976353960899",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172329391%2F1125606624043%2F1%2Foriginal.20251204-175611?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=93e7405e27a399886c37b4fb1dc28494",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172329391%2F1125606624043%2F1%2Foriginal.20251204-175611?crop=focalpoint&fit=crop&w=355&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=22d121de927d2e1b01fe182da689bfc1",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -4355,7 +4068,7 @@
       "description": "Celebrate love in all forms with Face Vocal Band's stunning harmonies, heartfelt ballads & infectious energy. Valentine's magic awaits!",
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/face-vocal-band-a-valentines-night-of-harmony-heart-tickets-1975614440975",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171737840%2F1125606624043%2F1%2Foriginal.20251125-170141?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=2e3d2d8db9c2528ad305125799fc7545",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171737840%2F1125606624043%2F1%2Foriginal.20251125-170141?crop=focalpoint&fit=crop&w=355&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=78f977acf60d1d3e7c3226098429e9a3",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -4380,7 +4093,7 @@
       "description": "\"Two incredible songwriters bring nostalgia & heart to the stage. An unforgettable evening of soulful music & storytelling awaits!\"",
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/stephen-kellogg-and-the-homecoming-wspecial-guest-gutter-sinatra-night-1-tickets-1730968386039",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1131586293%2F1125606624043%2F1%2Foriginal.20250922-165943?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=33c5584bf97d4f0210d1d5b5c78c5405",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1131586293%2F1125606624043%2F1%2Foriginal.20250922-165943?crop=focalpoint&fit=crop&w=355&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a375c8dae92f08b882f9dc2f37260e1b",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -4405,7 +4118,57 @@
       "description": "\"Two incredible songwriters bring nostalgia & heart to the stage. An unforgettable evening of soulful music & storytelling awaits!\"",
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/stephen-kellogg-and-the-homecoming-wspecial-guest-gutter-sinatra-night-2-tickets-1730981384919",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1131586293%2F1125606624043%2F1%2Foriginal.20250922-165943?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=33c5584bf97d4f0210d1d5b5c78c5405",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1131586293%2F1125606624043%2F1%2Foriginal.20250922-165943?crop=focalpoint&fit=crop&w=355&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a375c8dae92f08b882f9dc2f37260e1b",
+      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_resonance_ritual_featuring_tim_snider_kayla_diana_february_26_2026_7_30_pm_11_00_pm",
+      "title": "Resonance & Ritual featuring Tim Snider & Kayla Diana",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": "February 26, 2026",
+      "normalized_date": "2026-02-26T00:00:00",
+      "recurring": null,
+      "time": "7:30 PM - 11:00 PM",
+      "description": "Step into an evening where sound becomes medicine and rhythm becomes ritual.",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/resonance-ritual-featuring-tim-snider-kayla-diana-tickets-1979120897882",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173575342%2F1125606624043%2F1%2Foriginal.20251227-192139?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=f4d37a9f80462cddc986c4f4a747f16b",
+      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_global_bass_gathering_w_mah_ze_tar_peace_sine_bloomurian_and_dros_march_06_2026_7_30_pm_11_45_pm",
+      "title": "Global Bass Gathering w/ Mah Ze Tar, Peace Sine, Bloomurian and DROS",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": "March 06, 2026",
+      "normalized_date": "2026-03-06T00:00:00",
+      "recurring": null,
+      "time": "7:30 PM - 11:45 PM",
+      "description": "\u2728 Step into a World Bass Ritual where ancient tones meet future frequencies.",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/global-bass-gathering-w-mah-ze-tar-peace-sine-bloomurian-and-dros-tickets-1979121656150",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173576470%2F1125606624043%2F1%2Foriginal.20251227-195426?w=355&auto=format%2Ccompress&q=75&sharp=10&s=e91cd5c6b51d0f1af57a305c7118f187",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
