@@ -67,7 +67,7 @@ def scrape_events():
         info = row.get('Info', '').strip()
         url = row.get('url', '').strip()
         
-        # Format date
+        # Format date to match aggregator format
         formatted_date = parse_date(date_raw)
         
         # Get location
@@ -76,77 +76,34 @@ def scrape_events():
         # Get venue image
         image = VENUE_IMAGES.get(venue, "images/default.jpg")
         
-        # Create event object
+        # Create event object in aggregator format
         event = {
-            "name": event_name,
+            "title": event_name,
             "venue": venue,
             "location": location,
             "date": formatted_date,
             "time": time,
             "image": image,
-            "url": url,
-            "tags": ["Live Music", "All Ages", "Free"],
-            "normalized_date": datetime.strptime(date_raw, "%m/%d/%Y").strftime("%Y-%m-%d")
+            "link": url if url else None,
+            "description": "",
+            "additional_info": info if info else "",
+            "event_type_tags": ["Live Music", "All Ages", "Free"]
         }
-        
-        # Add info if present
-        if info:
-            event["info"] = info
-        
-        # Add day if present
-        if day:
-            event["day"] = day
         
         events.append(event)
         print(f"✓ Added: {event_name} at {venue} on {formatted_date}")
     
     return events
 
-def merge_with_existing(new_events):
-    """Merge new events with existing all_boulder_events.json"""
-    json_file = Path("all_boulder_events.json")
+def save_events(events):
+    """Save events to summer_series_events.json for aggregator to process"""
+    output_file = "summer_series_events.json"
     
-    # Load existing events
-    if json_file.exists():
-        with open(json_file, 'r', encoding='utf-8') as f:
-            data = json.load(f)
-            existing_events = data.get('events', [])
-    else:
-        existing_events = []
-        data = {}
+    with open(output_file, 'w', encoding='utf-8') as f:
+        json.dump(events, f, indent=2, ensure_ascii=False)
     
-    print(f"\nExisting events: {len(existing_events)}")
-    print(f"New events: {len(new_events)}")
-    
-    # Create set of existing event identifiers to avoid duplicates
-    existing_ids = set()
-    for event in existing_events:
-        event_id = f"{event.get('name', '')}|{event.get('venue', '')}|{event.get('normalized_date', '')}"
-        existing_ids.add(event_id)
-    
-    # Add new events that don't exist
-    added_count = 0
-    for event in new_events:
-        event_id = f"{event['name']}|{event['venue']}|{event['normalized_date']}"
-        if event_id not in existing_ids:
-            existing_events.append(event)
-            added_count += 1
-        else:
-            print(f"⊘ Skipped duplicate: {event['name']} at {event['venue']}")
-    
-    # Sort by normalized_date
-    existing_events.sort(key=lambda x: x.get('normalized_date', ''))
-    
-    # Update data
-    data['events'] = existing_events
-    
-    # Save back to file
-    with open(json_file, 'w', encoding='utf-8') as f:
-        json.dump(data, f, indent=2, ensure_ascii=False)
-    
-    print(f"\n✓ Added {added_count} new events")
-    print(f"✓ Total events: {len(existing_events)}")
-    print(f"✓ Saved to {json_file}")
+    print(f"\n✓ Saved {len(events)} events to {output_file}")
+    print(f"✓ Run aggregate_events.py to merge into all_boulder_events.json")
 
 def main():
     """Main function"""
@@ -162,8 +119,8 @@ def main():
             print("\n⚠ No events found in sheet")
             return
         
-        # Merge with existing events
-        merge_with_existing(events)
+        # Save to intermediate JSON file
+        save_events(events)
         
         print("\n" + "=" * 60)
         print("✓ Scraping completed successfully!")

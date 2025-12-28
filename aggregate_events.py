@@ -84,6 +84,11 @@ class EventAggregator:
                 'tags': ['Live Music', 'Community'],
                 'scraper_output': 'roots_music_events.json'
             },
+            'Summer Concert Series': {
+                'location': 'Various',  # Will be overridden by event-specific locations
+                'tags': ['Live Music', 'All Ages', 'Free', 'Community'],
+                'scraper_output': 'summer_series_events.json'
+            },
         }
     
     def load_events_from_file(self, filepath):
