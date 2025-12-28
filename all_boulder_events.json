@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-28T23:08:44.126045",
+  "generated_at": "2025-12-28T23:15:30.739004",
   "total_events": 160,
   "tags": {
     "venues": [
@@ -321,8 +321,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -349,8 +349,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
-        "Community"
+        "Community",
+        "Games"
       ]
     },
     {
@@ -377,9 +377,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
+        "Music",
         "Community",
-        "Music"
+        "Performance"
       ]
     },
     {
@@ -406,10 +406,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
+        "Music",
         "Community",
         "All Ages",
-        "Music"
+        "Performance"
       ]
     },
     {
@@ -436,8 +436,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "All Ages"
+        "All Ages",
+        "Community"
       ]
     },
     {
@@ -464,10 +464,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
-        "Community",
         "All Ages",
-        "Family Friendly"
+        "Community",
+        "Family Friendly",
+        "Games"
       ]
     },
     {
@@ -494,8 +494,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
-        "Community"
+        "Community",
+        "Games"
       ]
     },
     {
@@ -522,11 +522,11 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Family Friendly",
         "Performance",
         "All Ages",
-        "Family Friendly",
-        "Music",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
@@ -634,9 +634,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Music",
         "Community",
-        "Educational",
-        "Music"
+        "Educational"
       ]
     },
     {
@@ -663,9 +663,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
+        "Music",
         "Community",
-        "Music"
+        "Performance"
       ]
     },
     {
@@ -692,9 +692,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
+        "Music",
         "Community",
-        "Music"
+        "Performance"
       ]
     },
     {
@@ -721,9 +721,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
+        "Music",
         "Community",
-        "Music"
+        "Performance"
       ]
     },
     {
@@ -750,9 +750,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
         "Community",
-        "Educational"
+        "Educational",
+        "Games"
       ]
     },
     {
