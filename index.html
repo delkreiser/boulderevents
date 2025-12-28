@@ -46,10 +46,11 @@
             
             .mobile-status-banner-wrapper {
                 position: absolute;
-                bottom: 15%;  /* Lower third positioning */
+                bottom: 20%;  /* Lower 1/5 positioning */
                 left: 50%;
                 transform: translateX(-50%);
                 z-index: 10;
+                white-space: nowrap; /* Prevent wrapping */
             }
             
             /* Mobile status banner should look exactly like desktop */
@@ -66,6 +67,17 @@
                 transition: all 0.3s ease;
                 border: 1px solid rgba(255, 255, 255, 0.3);
                 user-select: none;
+                white-space: nowrap; /* Prevent text wrapping */
+            }
+            
+            .mobile-status-banner:hover {
+                background: rgba(255, 255, 255, 0.35);
+                transform: scale(1.05);
+                box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+            }
+            
+            .mobile-status-banner:active {
+                transform: scale(1.02);
             }
             
             /* Hide desktop header elements on mobile */
@@ -1351,7 +1363,7 @@
     <div class="container">
         <!-- Mobile Header Image (visible only on mobile) -->
         <div class="mobile-header-image">
-            <img src="images/boulderevents-header-small.jpg" alt="Boulder Events Calendar">
+            <img src="images/boulderevents-header-small.png" alt="Boulder Events Calendar">
             <div class="mobile-status-banner-wrapper">
                 <div class="status-banner mobile-status-banner" id="mobileStatusBanner">
                     🎉 <span class="status-count" id="mobileStatusCount">0</span> <span id="mobileStatusText">events today</span>
