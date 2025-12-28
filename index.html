@@ -23,6 +23,58 @@
             margin: 0 auto;
         }
         
+        /* Mobile Header Image */
+        .mobile-header-image {
+            display: none; /* Hidden by default */
+        }
+        
+        @media (max-width: 640px) {
+            .mobile-header-image {
+                display: block;
+                position: relative;
+                width: 100%;
+                margin: -20px -20px 20px -20px; /* Extend to edges */
+                overflow: hidden;
+            }
+            
+            .mobile-header-image img {
+                width: 100%;
+                height: auto;
+                display: block;
+                aspect-ratio: 3 / 2;
+                object-fit: cover;
+            }
+            
+            .mobile-status-banner-wrapper {
+                position: absolute;
+                bottom: 15%;  /* Lower third positioning */
+                left: 50%;
+                transform: translateX(-50%);
+                z-index: 10;
+            }
+            
+            /* Hide desktop header elements on mobile */
+            header h1,
+            header .subtitle,
+            .desktop-status-banner {
+                display: none;
+            }
+            
+            /* Keep header element but hide content */
+            header {
+                margin-bottom: 0;
+                padding: 0;
+                min-height: 0;
+            }
+        }
+        
+        /* Desktop/Tablet: Hide mobile header, show regular header */
+        @media (min-width: 641px) {
+            .mobile-header-image {
+                display: none;
+            }
+        }
+        
         header {
             text-align: center;
             color: white;
@@ -1282,12 +1334,22 @@
 </head>
 <body>
     <div class="container">
+        <!-- Mobile Header Image (visible only on mobile) -->
+        <div class="mobile-header-image">
+            <img src="images/boulderevents-header-small.jpg" alt="Boulder Events Calendar">
+            <div class="mobile-status-banner-wrapper">
+                <div class="status-banner mobile-status-banner" id="mobileStatusBanner">
+                    🎉 <span class="status-count" id="mobileStatusCount">0</span> <span id="mobileStatusText">events today</span>
+                </div>
+            </div>
+        </div>
+        
         <header>
             <h1>🎉 Boulder Events Calendar</h1>
             <p class="subtitle">Discover what's happening in Boulder County</p>
             
-            <!-- Smart Status Banner -->
-            <div class="status-banner-wrapper">
+            <!-- Smart Status Banner (desktop/tablet only) -->
+            <div class="status-banner-wrapper desktop-status-banner">
                 <div class="status-banner" id="statusBanner">
                     🎉 <span class="status-count" id="statusCount">0</span> <span id="statusText">events today</span>
                 </div>
@@ -1681,7 +1743,8 @@
         });
         
         // Smart Status Banner click
-        document.getElementById('statusBanner').addEventListener('click', () => {
+        // Status banner click handlers (both desktop and mobile)
+        function handleStatusBannerClick() {
             // Get the current status
             const statusText = document.getElementById('statusText').textContent;
             
@@ -1712,7 +1775,10 @@
             
             applyFilters();
             scrollToResults();
-        });
+        }
+        
+        document.getElementById('statusBanner').addEventListener('click', handleStatusBannerClick);
+        document.getElementById('mobileStatusBanner').addEventListener('click', handleStatusBannerClick);
         
         // Update status banner with event counts
         function updateStatusBanner() {
@@ -1727,10 +1793,13 @@
             });
             
             const statusBanner = document.getElementById('statusBanner');
+            const mobileStatusBanner = document.getElementById('mobileStatusBanner');
+            
+            let bannerHTML = '';
             
             // Always show today's count, and if 0, also show this week's count
             if (todayEvents.length > 0) {
-                statusBanner.innerHTML = '🎉 <span class="status-count">' + todayEvents.length + '</span> <span id="statusText">events today!</span>';
+                bannerHTML = '🎉 <span class="status-count">' + todayEvents.length + '</span> <span id="statusText">events today!</span>';
             } else {
                 // Count events in next 7 days (excluding today since we know it's 0)
                 const tomorrow = new Date(today);
@@ -1742,8 +1811,12 @@
                     const eventDate = new Date(event.normalized_date);
                     return eventDate >= tomorrow && eventDate <= weekEnd;
                 });
-                statusBanner.innerHTML = '📅 <span class="status-count">' + next7DaysEvents.length + '</span> <span id="statusText">events this week!</span>';
+                bannerHTML = '📅 <span class="status-count">' + next7DaysEvents.length + '</span> <span id="statusText">events this week!</span>';
             }
+            
+            // Update both banners
+            if (statusBanner) statusBanner.innerHTML = bannerHTML;
+            if (mobileStatusBanner) mobileStatusBanner.innerHTML = bannerHTML;
         }
         
         // Venue dropdown
