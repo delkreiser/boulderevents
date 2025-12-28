@@ -32,7 +32,7 @@
             .mobile-header-image {
                 display: block;
                 position: relative;
-                width: 100%;
+                width: calc(100% + 40px); /* Account for body padding */
                 margin: -20px -20px 20px -20px; /* Extend to edges */
                 overflow: hidden;
             }
@@ -41,7 +41,6 @@
                 width: 100%;
                 height: auto;
                 display: block;
-                aspect-ratio: 3 / 2;
                 object-fit: cover;
             }
             
@@ -51,6 +50,22 @@
                 left: 50%;
                 transform: translateX(-50%);
                 z-index: 10;
+            }
+            
+            /* Mobile status banner should look exactly like desktop */
+            .mobile-status-banner {
+                display: inline-block;
+                background: rgba(255, 255, 255, 0.2);
+                backdrop-filter: blur(10px);
+                -webkit-backdrop-filter: blur(10px);
+                border-radius: 25px;
+                padding: 10px 24px;
+                color: white;
+                font-size: 0.95em;
+                cursor: pointer;
+                transition: all 0.3s ease;
+                border: 1px solid rgba(255, 255, 255, 0.3);
+                user-select: none;
             }
             
             /* Hide desktop header elements on mobile */
