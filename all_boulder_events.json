@@ -1,29 +1,35 @@
 {
-  "generated_at": "2025-12-28T23:35:00.925701",
-  "total_events": 160,
+  "generated_at": "2025-12-28T23:41:27.559108",
+  "total_events": 191,
   "tags": {
     "venues": [
       "300 Suns Brewing",
+      "Bands on the Bricks",
       "Bricks on Main",
       "Gold Hill Inn",
       "Jungle",
       "Junkyard Social Club",
       "License No 1",
       "Longs Peak Pub",
+      "Louisville Street Faire",
       "Mountain Sun Pub",
+      "Rock & Rails",
       "Roots Music Project",
       "Rosetta Hall",
       "Southern Sun Pub",
       "St Julien Hotel & Spa",
       "Trident Booksellers & Cafe",
       "Velvet Elk Lounge",
+      "Village at The Peaks - Summer Concert Series",
       "Vine Street Pub"
     ],
     "locations": [
       "Boulder",
       "Denver",
       "Gold Hill",
-      "Longmont"
+      "Longmont",
+      "Louisville",
+      "Niwot"
     ],
     "venue_types": [
       "21+",
@@ -39,6 +45,7 @@
       "Entertainment",
       "Family Friendly",
       "Food & Drink",
+      "Free",
       "Historic",
       "Hotel",
       "Literary",
@@ -62,6 +69,7 @@
       "Educational",
       "Entertainment",
       "Family Friendly",
+      "Free",
       "Games",
       "Hotel Events",
       "Jazz",
@@ -298,16 +306,16 @@
       ]
     },
     {
-      "id": "junkyard_social_club_queer_art_organics_open_mic_monday_december_29_2025_4_30_8_00_pm",
+      "id": "junkyard_social_club_queer_art_organics_open_mic_monday_december_29_2025",
       "title": "Queer Art Organics Open Mic",
       "venue": "Junkyard Social Club",
       "location": "Boulder",
       "date": "Monday, December 29, 2025",
       "normalized_date": "2025-12-29T00:00:00",
       "recurring": null,
-      "time": "4:30 - 8:00 PM",
+      "time": null,
       "description": "",
-      "additional_info": "",
+      "additional_info": "CANCELED for December - See you in January!",
       "link": "https://junkyardsocialclub.org/drop-in-event/queer-art-organics-open-mic/",
       "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/07/Queer-Art-Organics-Open-Mic.jpg",
       "source_url": "https://junkyardsocialclub.org/events/",
@@ -321,8 +329,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Performance"
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -349,8 +357,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
-        "Community"
+        "Community",
+        "Games"
       ]
     },
     {
@@ -377,9 +385,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
+        "Performance",
         "Community",
-        "Performance"
+        "Music"
       ]
     },
     {
@@ -406,10 +414,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "All Ages",
+        "Performance",
         "Community",
-        "Performance"
+        "Music",
+        "All Ages"
       ]
     },
     {
@@ -436,8 +444,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "All Ages"
+        "All Ages",
+        "Community"
       ]
     },
     {
@@ -464,10 +472,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
-        "Family Friendly",
+        "All Ages",
         "Community",
-        "All Ages"
+        "Family Friendly",
+        "Games"
       ]
     },
     {
@@ -494,8 +502,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
-        "Community"
+        "Community",
+        "Games"
       ]
     },
     {
@@ -522,11 +530,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "All Ages",
         "Performance",
+        "Music",
+        "Community",
         "Family Friendly",
-        "Music"
+        "All Ages"
       ]
     },
     {
@@ -634,9 +642,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Educational",
+        "Community",
         "Music",
-        "Community"
+        "Educational"
       ]
     },
     {
@@ -663,9 +671,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
+        "Performance",
         "Community",
-        "Performance"
+        "Music"
       ]
     },
     {
@@ -692,9 +700,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
+        "Performance",
         "Community",
-        "Performance"
+        "Music"
       ]
     },
     {
@@ -721,9 +729,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
+        "Performance",
         "Community",
-        "Performance"
+        "Music"
       ]
     },
     {
@@ -750,9 +758,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
+        "Community",
         "Educational",
-        "Community"
+        "Games"
       ]
     },
     {
@@ -4589,6 +4597,905 @@
       ],
       "event_type_tags": [
         "Live Music"
+      ]
+    },
+    {
+      "id": "bands_on_the_bricks_tba_june_11_2026_5_30pm_9_00pm",
+      "title": "TBA",
+      "venue": "Bands on the Bricks",
+      "location": "Boulder",
+      "date": "June 11, 2026",
+      "normalized_date": "2026-06-11T00:00:00",
+      "recurring": null,
+      "time": "5:30pm - 9:00pm",
+      "description": "",
+      "additional_info": "The summer concert series hasn't been announced yet. Stay tuned!",
+      "link": "https://boulderdowntown.com/events/bands-on-the-bricks",
+      "image": "images/bandsonthebricks.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Bands on the Bricks",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free"
+      ]
+    },
+    {
+      "id": "bands_on_the_bricks_tba_june_18_2026_5_30pm_9_00pm",
+      "title": "TBA",
+      "venue": "Bands on the Bricks",
+      "location": "Boulder",
+      "date": "June 18, 2026",
+      "normalized_date": "2026-06-18T00:00:00",
+      "recurring": null,
+      "time": "5:30pm - 9:00pm",
+      "description": "",
+      "additional_info": "The summer concert series hasn't been announced yet. Stay tuned!",
+      "link": "https://boulderdowntown.com/events/bands-on-the-bricks",
+      "image": "images/bandsonthebricks.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Bands on the Bricks",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free"
+      ]
+    },
+    {
+      "id": "bands_on_the_bricks_tba_june_25_2026_5_30pm_9_00pm",
+      "title": "TBA",
+      "venue": "Bands on the Bricks",
+      "location": "Boulder",
+      "date": "June 25, 2026",
+      "normalized_date": "2026-06-25T00:00:00",
+      "recurring": null,
+      "time": "5:30pm - 9:00pm",
+      "description": "",
+      "additional_info": "The summer concert series hasn't been announced yet. Stay tuned!",
+      "link": "https://boulderdowntown.com/events/bands-on-the-bricks",
+      "image": "images/bandsonthebricks.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Bands on the Bricks",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free"
+      ]
+    },
+    {
+      "id": "bands_on_the_bricks_tba_july_02_2026_5_30pm_9_00pm",
+      "title": "TBA",
+      "venue": "Bands on the Bricks",
+      "location": "Boulder",
+      "date": "July 02, 2026",
+      "normalized_date": "2026-07-02T00:00:00",
+      "recurring": null,
+      "time": "5:30pm - 9:00pm",
+      "description": "",
+      "additional_info": "The summer concert series hasn't been announced yet. Stay tuned!",
+      "link": "https://boulderdowntown.com/events/bands-on-the-bricks",
+      "image": "images/bandsonthebricks.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Bands on the Bricks",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free"
+      ]
+    },
+    {
+      "id": "bands_on_the_bricks_tba_july_09_2026_5_30pm_9_00pm",
+      "title": "TBA",
+      "venue": "Bands on the Bricks",
+      "location": "Boulder",
+      "date": "July 09, 2026",
+      "normalized_date": "2026-07-09T00:00:00",
+      "recurring": null,
+      "time": "5:30pm - 9:00pm",
+      "description": "",
+      "additional_info": "The summer concert series hasn't been announced yet. Stay tuned!",
+      "link": "https://boulderdowntown.com/events/bands-on-the-bricks",
+      "image": "images/bandsonthebricks.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Bands on the Bricks",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free"
+      ]
+    },
+    {
+      "id": "bands_on_the_bricks_tba_july_16_2026_5_30pm_9_00pm",
+      "title": "TBA",
+      "venue": "Bands on the Bricks",
+      "location": "Boulder",
+      "date": "July 16, 2026",
+      "normalized_date": "2026-07-16T00:00:00",
+      "recurring": null,
+      "time": "5:30pm - 9:00pm",
+      "description": "",
+      "additional_info": "The summer concert series hasn't been announced yet. Stay tuned!",
+      "link": "https://boulderdowntown.com/events/bands-on-the-bricks",
+      "image": "images/bandsonthebricks.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Bands on the Bricks",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free"
+      ]
+    },
+    {
+      "id": "bands_on_the_bricks_tba_july_23_2026_5_30pm_9_00pm",
+      "title": "TBA",
+      "venue": "Bands on the Bricks",
+      "location": "Boulder",
+      "date": "July 23, 2026",
+      "normalized_date": "2026-07-23T00:00:00",
+      "recurring": null,
+      "time": "5:30pm - 9:00pm",
+      "description": "",
+      "additional_info": "The summer concert series hasn't been announced yet. Stay tuned!",
+      "link": "https://boulderdowntown.com/events/bands-on-the-bricks",
+      "image": "images/bandsonthebricks.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Bands on the Bricks",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free"
+      ]
+    },
+    {
+      "id": "bands_on_the_bricks_tba_july_30_2026_5_30pm_9_00pm",
+      "title": "TBA",
+      "venue": "Bands on the Bricks",
+      "location": "Boulder",
+      "date": "July 30, 2026",
+      "normalized_date": "2026-07-30T00:00:00",
+      "recurring": null,
+      "time": "5:30pm - 9:00pm",
+      "description": "",
+      "additional_info": "The summer concert series hasn't been announced yet. Stay tuned!",
+      "link": "https://boulderdowntown.com/events/bands-on-the-bricks",
+      "image": "images/bandsonthebricks.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Bands on the Bricks",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free"
+      ]
+    },
+    {
+      "id": "bands_on_the_bricks_tba_august_06_2026_5_30pm_9_00pm",
+      "title": "TBA",
+      "venue": "Bands on the Bricks",
+      "location": "Boulder",
+      "date": "August 06, 2026",
+      "normalized_date": "2026-08-06T00:00:00",
+      "recurring": null,
+      "time": "5:30pm - 9:00pm",
+      "description": "",
+      "additional_info": "The summer concert series hasn't been announced yet. Stay tuned!",
+      "link": "https://boulderdowntown.com/events/bands-on-the-bricks",
+      "image": "images/bandsonthebricks.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Bands on the Bricks",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free"
+      ]
+    },
+    {
+      "id": "louisville_street_faire_tba_june_12_2026_5_30pm_9_30pm",
+      "title": "TBA",
+      "venue": "Louisville Street Faire",
+      "location": "Louisville",
+      "date": "June 12, 2026",
+      "normalized_date": "2026-06-12T00:00:00",
+      "recurring": null,
+      "time": "5:30pm - 9:30pm",
+      "description": "",
+      "additional_info": "The summer concert series hasn't been announced yet. Stay tuned!",
+      "link": "https://www.downtownlouisvilleco.com/street-faire/2026-06-12/",
+      "image": "images/streetfaire.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Louisville Street Faire",
+      "location_tag": "Louisville",
+      "venue_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free"
+      ]
+    },
+    {
+      "id": "louisville_street_faire_tba_june_19_2026_5_30pm_9_30pm",
+      "title": "TBA",
+      "venue": "Louisville Street Faire",
+      "location": "Louisville",
+      "date": "June 19, 2026",
+      "normalized_date": "2026-06-19T00:00:00",
+      "recurring": null,
+      "time": "5:30pm - 9:30pm",
+      "description": "",
+      "additional_info": "The summer concert series hasn't been announced yet. Stay tuned!",
+      "link": "https://www.downtownlouisvilleco.com/street-faire/2026-06-19/",
+      "image": "images/streetfaire.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Louisville Street Faire",
+      "location_tag": "Louisville",
+      "venue_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free"
+      ]
+    },
+    {
+      "id": "louisville_street_faire_tba_june_26_2026_5_30pm_9_30pm",
+      "title": "TBA",
+      "venue": "Louisville Street Faire",
+      "location": "Louisville",
+      "date": "June 26, 2026",
+      "normalized_date": "2026-06-26T00:00:00",
+      "recurring": null,
+      "time": "5:30pm - 9:30pm",
+      "description": "",
+      "additional_info": "The summer concert series hasn't been announced yet. Stay tuned!",
+      "link": "https://www.downtownlouisvilleco.com/street-faire/2026-06-26",
+      "image": "images/streetfaire.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Louisville Street Faire",
+      "location_tag": "Louisville",
+      "venue_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free"
+      ]
+    },
+    {
+      "id": "louisville_street_faire_tba_july_03_2026_5_30pm_9_30pm",
+      "title": "TBA",
+      "venue": "Louisville Street Faire",
+      "location": "Louisville",
+      "date": "July 03, 2026",
+      "normalized_date": "2026-07-03T00:00:00",
+      "recurring": null,
+      "time": "5:30pm - 9:30pm",
+      "description": "",
+      "additional_info": "The summer concert series hasn't been announced yet. Stay tuned!",
+      "link": "https://www.downtownlouisvilleco.com/street-faire/2026-07-03",
+      "image": "images/streetfaire.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Louisville Street Faire",
+      "location_tag": "Louisville",
+      "venue_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free"
+      ]
+    },
+    {
+      "id": "louisville_street_faire_tba_july_10_2026_5_30pm_9_30pm",
+      "title": "TBA",
+      "venue": "Louisville Street Faire",
+      "location": "Louisville",
+      "date": "July 10, 2026",
+      "normalized_date": "2026-07-10T00:00:00",
+      "recurring": null,
+      "time": "5:30pm - 9:30pm",
+      "description": "",
+      "additional_info": "The summer concert series hasn't been announced yet. Stay tuned!",
+      "link": "https://www.downtownlouisvilleco.com/street-faire/2026-07-10",
+      "image": "images/streetfaire.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Louisville Street Faire",
+      "location_tag": "Louisville",
+      "venue_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free"
+      ]
+    },
+    {
+      "id": "louisville_street_faire_tba_july_17_2026_5_30pm_9_30pm",
+      "title": "TBA",
+      "venue": "Louisville Street Faire",
+      "location": "Louisville",
+      "date": "July 17, 2026",
+      "normalized_date": "2026-07-17T00:00:00",
+      "recurring": null,
+      "time": "5:30pm - 9:30pm",
+      "description": "",
+      "additional_info": "The summer concert series hasn't been announced yet. Stay tuned!",
+      "link": "https://www.downtownlouisvilleco.com/street-faire/2026-07-17",
+      "image": "images/streetfaire.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Louisville Street Faire",
+      "location_tag": "Louisville",
+      "venue_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free"
+      ]
+    },
+    {
+      "id": "louisville_street_faire_tba_july_24_2026_5_30pm_9_30pm",
+      "title": "TBA",
+      "venue": "Louisville Street Faire",
+      "location": "Louisville",
+      "date": "July 24, 2026",
+      "normalized_date": "2026-07-24T00:00:00",
+      "recurring": null,
+      "time": "5:30pm - 9:30pm",
+      "description": "",
+      "additional_info": "The summer concert series hasn't been announced yet. Stay tuned!",
+      "link": "https://www.downtownlouisvilleco.com/street-faire/2026-07-24",
+      "image": "images/streetfaire.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Louisville Street Faire",
+      "location_tag": "Louisville",
+      "venue_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free"
+      ]
+    },
+    {
+      "id": "louisville_street_faire_tba_july_31_2026_5_30pm_9_30pm",
+      "title": "TBA",
+      "venue": "Louisville Street Faire",
+      "location": "Louisville",
+      "date": "July 31, 2026",
+      "normalized_date": "2026-07-31T00:00:00",
+      "recurring": null,
+      "time": "5:30pm - 9:30pm",
+      "description": "",
+      "additional_info": "The summer concert series hasn't been announced yet. Stay tuned!",
+      "link": "https://www.downtownlouisvilleco.com/street-faire/2026-07-31",
+      "image": "images/streetfaire.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Louisville Street Faire",
+      "location_tag": "Louisville",
+      "venue_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free"
+      ]
+    },
+    {
+      "id": "louisville_street_faire_tba_august_07_2026_5_30pm_9_30pm",
+      "title": "TBA",
+      "venue": "Louisville Street Faire",
+      "location": "Louisville",
+      "date": "August 07, 2026",
+      "normalized_date": "2026-08-07T00:00:00",
+      "recurring": null,
+      "time": "5:30pm - 9:30pm",
+      "description": "",
+      "additional_info": "The summer concert series hasn't been announced yet. Stay tuned!",
+      "link": "https://www.downtownlouisvilleco.com/street-faire/2026-08-07",
+      "image": "images/streetfaire.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Louisville Street Faire",
+      "location_tag": "Louisville",
+      "venue_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free"
+      ]
+    },
+    {
+      "id": "rock_rails_tba_june_04_2026_5_00pm_9_00pm",
+      "title": "TBA",
+      "venue": "Rock & Rails",
+      "location": "Niwot",
+      "date": "June 04, 2026",
+      "normalized_date": "2026-06-04T00:00:00",
+      "recurring": null,
+      "time": "5:00pm - 9:00pm",
+      "description": "",
+      "additional_info": "The summer concert series hasn't been announced yet. Stay tuned!",
+      "link": "https://niwot.com/rock-rails/",
+      "image": "images/rocknrails.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Rock & Rails",
+      "location_tag": "Niwot",
+      "venue_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free"
+      ]
+    },
+    {
+      "id": "rock_rails_tba_june_11_2026_5_00pm_9_00pm",
+      "title": "TBA",
+      "venue": "Rock & Rails",
+      "location": "Niwot",
+      "date": "June 11, 2026",
+      "normalized_date": "2026-06-11T00:00:00",
+      "recurring": null,
+      "time": "5:00pm - 9:00pm",
+      "description": "",
+      "additional_info": "The summer concert series hasn't been announced yet. Stay tuned!",
+      "link": "https://niwot.com/rock-rails/",
+      "image": "images/rocknrails.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Rock & Rails",
+      "location_tag": "Niwot",
+      "venue_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free"
+      ]
+    },
+    {
+      "id": "rock_rails_tba_june_18_2026_5_00pm_9_00pm",
+      "title": "TBA",
+      "venue": "Rock & Rails",
+      "location": "Niwot",
+      "date": "June 18, 2026",
+      "normalized_date": "2026-06-18T00:00:00",
+      "recurring": null,
+      "time": "5:00pm - 9:00pm",
+      "description": "",
+      "additional_info": "The summer concert series hasn't been announced yet. Stay tuned!",
+      "link": "https://niwot.com/rock-rails/",
+      "image": "images/rocknrails.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Rock & Rails",
+      "location_tag": "Niwot",
+      "venue_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free"
+      ]
+    },
+    {
+      "id": "rock_rails_tba_june_25_2026_5_00pm_9_00pm",
+      "title": "TBA",
+      "venue": "Rock & Rails",
+      "location": "Niwot",
+      "date": "June 25, 2026",
+      "normalized_date": "2026-06-25T00:00:00",
+      "recurring": null,
+      "time": "5:00pm - 9:00pm",
+      "description": "",
+      "additional_info": "The summer concert series hasn't been announced yet. Stay tuned!",
+      "link": "https://niwot.com/rock-rails/",
+      "image": "images/rocknrails.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Rock & Rails",
+      "location_tag": "Niwot",
+      "venue_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free"
+      ]
+    },
+    {
+      "id": "rock_rails_tba_july_02_2026_5_00pm_9_00pm",
+      "title": "TBA",
+      "venue": "Rock & Rails",
+      "location": "Niwot",
+      "date": "July 02, 2026",
+      "normalized_date": "2026-07-02T00:00:00",
+      "recurring": null,
+      "time": "5:00pm - 9:00pm",
+      "description": "",
+      "additional_info": "The summer concert series hasn't been announced yet. Stay tuned!",
+      "link": "https://niwot.com/rock-rails/",
+      "image": "images/rocknrails.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Rock & Rails",
+      "location_tag": "Niwot",
+      "venue_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free"
+      ]
+    },
+    {
+      "id": "rock_rails_tba_july_09_2026_5_00pm_9_00pm",
+      "title": "TBA",
+      "venue": "Rock & Rails",
+      "location": "Niwot",
+      "date": "July 09, 2026",
+      "normalized_date": "2026-07-09T00:00:00",
+      "recurring": null,
+      "time": "5:00pm - 9:00pm",
+      "description": "",
+      "additional_info": "The summer concert series hasn't been announced yet. Stay tuned!",
+      "link": "https://niwot.com/rock-rails/",
+      "image": "images/rocknrails.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Rock & Rails",
+      "location_tag": "Niwot",
+      "venue_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free"
+      ]
+    },
+    {
+      "id": "rock_rails_tba_july_16_2026_5_00pm_9_00pm",
+      "title": "TBA",
+      "venue": "Rock & Rails",
+      "location": "Niwot",
+      "date": "July 16, 2026",
+      "normalized_date": "2026-07-16T00:00:00",
+      "recurring": null,
+      "time": "5:00pm - 9:00pm",
+      "description": "",
+      "additional_info": "The summer concert series hasn't been announced yet. Stay tuned!",
+      "link": "https://niwot.com/rock-rails/",
+      "image": "images/rocknrails.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Rock & Rails",
+      "location_tag": "Niwot",
+      "venue_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free"
+      ]
+    },
+    {
+      "id": "rock_rails_tba_july_23_2026_5_00pm_9_00pm",
+      "title": "TBA",
+      "venue": "Rock & Rails",
+      "location": "Niwot",
+      "date": "July 23, 2026",
+      "normalized_date": "2026-07-23T00:00:00",
+      "recurring": null,
+      "time": "5:00pm - 9:00pm",
+      "description": "",
+      "additional_info": "The summer concert series hasn't been announced yet. Stay tuned!",
+      "link": "https://niwot.com/rock-rails/",
+      "image": "images/rocknrails.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Rock & Rails",
+      "location_tag": "Niwot",
+      "venue_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free"
+      ]
+    },
+    {
+      "id": "rock_rails_tba_july_30_2026_5_00pm_9_00pm",
+      "title": "TBA",
+      "venue": "Rock & Rails",
+      "location": "Niwot",
+      "date": "July 30, 2026",
+      "normalized_date": "2026-07-30T00:00:00",
+      "recurring": null,
+      "time": "5:00pm - 9:00pm",
+      "description": "",
+      "additional_info": "The summer concert series hasn't been announced yet. Stay tuned!",
+      "link": "https://niwot.com/rock-rails/",
+      "image": "images/rocknrails.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Rock & Rails",
+      "location_tag": "Niwot",
+      "venue_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free"
+      ]
+    },
+    {
+      "id": "rock_rails_tba_august_06_2026_5_00pm_9_00pm",
+      "title": "TBA",
+      "venue": "Rock & Rails",
+      "location": "Niwot",
+      "date": "August 06, 2026",
+      "normalized_date": "2026-08-06T00:00:00",
+      "recurring": null,
+      "time": "5:00pm - 9:00pm",
+      "description": "",
+      "additional_info": "The summer concert series hasn't been announced yet. Stay tuned!",
+      "link": "https://niwot.com/rock-rails/",
+      "image": "images/rocknrails.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Rock & Rails",
+      "location_tag": "Niwot",
+      "venue_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free"
+      ]
+    },
+    {
+      "id": "rock_rails_tba_august_13_2026_5_00pm_9_00pm",
+      "title": "TBA",
+      "venue": "Rock & Rails",
+      "location": "Niwot",
+      "date": "August 13, 2026",
+      "normalized_date": "2026-08-13T00:00:00",
+      "recurring": null,
+      "time": "5:00pm - 9:00pm",
+      "description": "",
+      "additional_info": "The summer concert series hasn't been announced yet. Stay tuned!",
+      "link": "https://niwot.com/rock-rails/",
+      "image": "images/rocknrails.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Rock & Rails",
+      "location_tag": "Niwot",
+      "venue_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free"
+      ]
+    },
+    {
+      "id": "rock_rails_tba_august_20_2026_5_00pm_9_00pm",
+      "title": "TBA",
+      "venue": "Rock & Rails",
+      "location": "Niwot",
+      "date": "August 20, 2026",
+      "normalized_date": "2026-08-20T00:00:00",
+      "recurring": null,
+      "time": "5:00pm - 9:00pm",
+      "description": "",
+      "additional_info": "The summer concert series hasn't been announced yet. Stay tuned!",
+      "link": "https://niwot.com/rock-rails/",
+      "image": "images/rocknrails.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Rock & Rails",
+      "location_tag": "Niwot",
+      "venue_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free"
+      ]
+    },
+    {
+      "id": "village_at_the_peaks_summer_concert_series_tba_june_24_2026_6_30pm_8_30pm",
+      "title": "TBA",
+      "venue": "Village at The Peaks - Summer Concert Series",
+      "location": "Longmont",
+      "date": "June 24, 2026",
+      "normalized_date": "2026-06-24T00:00:00",
+      "recurring": null,
+      "time": "6:30pm - 8:30pm",
+      "description": "",
+      "additional_info": "The summer concert series hasn't been announced yet. Stay tuned!",
+      "link": "https://villageatthepeaks.com/events/",
+      "image": "images/village.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Village at The Peaks - Summer Concert Series",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "All Ages",
+        "Free"
       ]
     }
   ]
