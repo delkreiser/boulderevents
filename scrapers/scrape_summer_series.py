@@ -38,8 +38,23 @@ def download_sheet_as_csv():
     return csv_data
 
 def parse_date(date_str):
-    """Convert mm/dd/yyyy to 'Month DD, YYYY' format"""
+    """Convert mm/dd/yyyy or mm/dd/yy to 'Month DD, YYYY' format"""
     try:
+        # Handle both mm/dd/yyyy and mm/dd/yy formats
+        if '/' in date_str:
+            parts = date_str.strip().split('/')
+            if len(parts) == 3:
+                month, day, year = parts
+                # Convert 2-digit year to 4-digit (assume 20xx for years < 50, 19xx for >= 50)
+                if len(year) == 2:
+                    year_int = int(year)
+                    if year_int < 50:
+                        year = f"20{year}"
+                    else:
+                        year = f"19{year}"
+                # Reconstruct with 4-digit year
+                date_str = f"{month}/{day}/{year}"
+        
         date_obj = datetime.strptime(date_str.strip(), "%m/%d/%Y")
         return date_obj.strftime("%B %d, %Y")
     except Exception as e:
