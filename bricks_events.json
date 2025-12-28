@@ -1,31 +1,10 @@
 [
   {
-    "link": "https://www.bricksretail.com/event-details/deborah-stafford-the-night-stalkers",
-    "title": "Deborah Stafford & The Night Stalkers",
-    "date": "December 27, 2025",
-    "time": "6:00 PM - 9:00 PM",
-    "description": "Deborah Stafford & The Night Stalkers - Horn-driven Blues, Roots and Soul. This 8-piece band will get you shakin' it with their brand of original Soul & Blues, Come and dance with us.",
-    "image": "https://static.wixstatic.com/media/ea2d6f_1d7eb7f042cb41179724d12bed17875e~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_1d7eb7f042cb41179724d12bed17875e~mv2.jpg",
-    "venue": "Bricks on Main",
-    "location": "Longmont",
-    "category": "Music",
-    "source_url": "https://www.bricksretail.com/events-calendar",
-    "event_type_tags": [
-      "Live Music",
-      "Entertainment"
-    ],
-    "venue_type_tags": [
-      "Music Venue",
-      "Bar",
-      "Restaurant"
-    ]
-  },
-  {
     "link": "https://www.bricksretail.com/event-details/the-lionel-young-band",
     "title": "The Lionel Young Band",
     "date": "December 28, 2025",
     "time": "5:00 PM - 8:00 PM",
-    "description": "Blues and R& B. This band won the 2011 International Blues Challenge in Memphis.",
+    "description": "Blues and R& B. This band won the 2011 International Blues Challenge in Memphis. Free full band performance at Longmont's favorite stage! Food and bar menu www.bricksonmain.com .  Table reservations can be made for $10 per seat by contacting misskrissysbistro@gmail.com or calling 720-600-2350.",
     "image": "https://static.wixstatic.com/media/ea2d6f_6fc6bd6031e44be98ad43db8e0ef6cf8~mv2.jpeg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_6fc6bd6031e44be98ad43db8e0ef6cf8~mv2.jpeg",
     "venue": "Bricks on Main",
     "location": "Longmont",
@@ -337,6 +316,26 @@
     "link": "https://www.bricksretail.com/event-details/mountain-reverb-1",
     "title": "Mountain Reverb",
     "date": "January 30, 2026",
+    "time": "6:00 PM - 9:00 PM",
+    "venue": "Bricks on Main",
+    "location": "Longmont",
+    "category": "Music",
+    "source_url": "https://www.bricksretail.com/events-calendar",
+    "event_type_tags": [
+      "Live Music",
+      "Entertainment"
+    ],
+    "venue_type_tags": [
+      "Music Venue",
+      "Bar",
+      "Restaurant"
+    ],
+    "image": "bricks.jpg"
+  },
+  {
+    "link": "https://www.bricksretail.com/event-details/tenbucksixer-5",
+    "title": "Tenbucksixer",
+    "date": "January 31, 2026",
     "time": "6:00 PM - 9:00 PM",
     "venue": "Bricks on Main",
     "location": "Longmont",
