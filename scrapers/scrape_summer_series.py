@@ -54,11 +54,11 @@ def scrape_events():
     reader = csv.DictReader(csv_data.splitlines())
     
     for row in reader:
-        # Skip empty rows
-        if not row.get('Event') or not row.get('Venue'):
+        # Skip empty rows - use "Event Name" as the column header
+        if not row.get('Event Name') or not row.get('Venue'):
             continue
         
-        event_name = row['Event'].strip()
+        event_name = row['Event Name'].strip()
         venue = row['Venue'].strip()
         city = row['City'].strip()
         day = row.get('Day', '').strip()
@@ -97,7 +97,9 @@ def scrape_events():
 
 def save_events(events):
     """Save events to summer_series_events.json for aggregator to process"""
-    output_file = "summer_series_events.json"
+    # Get the directory where this script is located
+    script_dir = Path(__file__).parent
+    output_file = script_dir / "summer_series_events.json"
     
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(events, f, indent=2, ensure_ascii=False)
@@ -110,15 +112,25 @@ def main():
     print("=" * 60)
     print("Boulder Summer Concert Series Scraper")
     print("=" * 60)
+    print(f"Script location: {Path(__file__).parent}")
+    print(f"Sheet ID: {SHEET_ID}")
+    print(f"CSV URL: {CSV_EXPORT_URL}")
     
     try:
+        print("\n1. Downloading Google Sheet...")
         # Scrape events from Google Sheet
         events = scrape_events()
         
+        print(f"\n2. Found {len(events)} events")
+        
         if not events:
             print("\n⚠ No events found in sheet")
+            print("   - Check that sheet has data in rows 2+")
+            print("   - Verify headers match: Event | Venue | City | Day | Date | Time | Info | url")
+            print("   - Ensure sheet is publicly accessible")
             return
         
+        print("\n3. Saving events...")
         # Save to intermediate JSON file
         save_events(events)
         
@@ -126,6 +138,13 @@ def main():
         print("✓ Scraping completed successfully!")
         print("=" * 60)
         
+    except urllib.error.HTTPError as e:
+        print(f"\n✗ HTTP Error accessing Google Sheet: {e}")
+        print(f"   Status Code: {e.code}")
+        print("   - Check that sheet is set to 'Anyone with link can view'")
+    except urllib.error.URLError as e:
+        print(f"\n✗ URL Error: {e}")
+        print("   - Check your internet connection")
     except Exception as e:
         print(f"\n✗ Error: {e}")
         import traceback
