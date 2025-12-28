@@ -2205,7 +2205,7 @@
                 
                 // Search filter
                 if (activeFilters.search) {
-                    const searchText = `${event.title} ${event.venue} ${event.description}`.toLowerCase();
+                    const searchText = `${event.title} ${event.venue} ${event.location} ${event.description}`.toLowerCase();
                     if (!searchText.includes(activeFilters.search)) {
                         return false;
                     }
