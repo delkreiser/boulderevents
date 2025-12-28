@@ -1,10 +1,11 @@
 {
-  "generated_at": "2025-12-28T18:31:01.449307",
-  "total_events": 159,
+  "generated_at": "2025-12-28T23:00:43.832299",
+  "total_events": 160,
   "tags": {
     "venues": [
       "300 Suns Brewing",
       "Bricks on Main",
+      "Gold Hill Inn",
       "Jungle",
       "Junkyard Social Club",
       "License No 1",
@@ -21,6 +22,7 @@
     "locations": [
       "Boulder",
       "Denver",
+      "Gold Hill",
       "Longmont"
     ],
     "venue_types": [
@@ -37,6 +39,7 @@
       "Entertainment",
       "Family Friendly",
       "Food & Drink",
+      "Historic",
       "Hotel",
       "Literary",
       "Live Music",
@@ -44,6 +47,7 @@
       "Nightlife",
       "Performance",
       "Pub",
+      "Restaurant",
       "Retail",
       "Upscale"
     ],
@@ -373,9 +377,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Music",
         "Performance",
-        "Community",
-        "Music"
+        "Community"
       ]
     },
     {
@@ -402,10 +406,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Community",
         "Music",
-        "All Ages"
+        "Performance",
+        "All Ages",
+        "Community"
       ]
     },
     {
@@ -432,8 +436,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "All Ages"
+        "All Ages",
+        "Community"
       ]
     },
     {
@@ -460,10 +464,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
+        "All Ages",
         "Family Friendly",
-        "Community",
-        "All Ages"
+        "Games",
+        "Community"
       ]
     },
     {
@@ -519,10 +523,10 @@
       ],
       "event_type_tags": [
         "Performance",
-        "Music",
         "Community",
-        "Family Friendly",
-        "All Ages"
+        "Music",
+        "All Ages",
+        "Family Friendly"
       ]
     },
     {
@@ -630,9 +634,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Music",
         "Educational",
-        "Community",
-        "Music"
+        "Community"
       ]
     },
     {
@@ -659,9 +663,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Music",
         "Performance",
-        "Community",
-        "Music"
+        "Community"
       ]
     },
     {
@@ -688,9 +692,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Music",
         "Performance",
-        "Community",
-        "Music"
+        "Community"
       ]
     },
     {
@@ -717,9 +721,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Music",
         "Performance",
-        "Community",
-        "Music"
+        "Community"
       ]
     },
     {
@@ -3594,6 +3598,32 @@
         "Nightlife",
         "Dance",
         "DJ"
+      ]
+    },
+    {
+      "id": "gold_hill_inn_new_year_s_eve_dance_party_december_31_2025_7_00_pm",
+      "title": "New Year's Eve Dance Party",
+      "venue": "Gold Hill Inn",
+      "location": "Gold Hill",
+      "date": "December 31, 2025",
+      "normalized_date": "2025-12-31T00:00:00",
+      "recurring": null,
+      "time": "7:00 PM",
+      "description": "NYE 2024 - Gold Hill Inn PresentsA New Years Eve Dance Party!Sold Out!Featuring:The Clay Rose Bandw/ Taylor Sims, Jeb Bows, Scott Coulter and Adam PerrySpecial GuestsThe Poudre Valley PlayboysDoors 7 p.m.Music 8 p.m.We will serve a light dinner buffet 7- 9 p.m.Tickets include Music, Food, Champagne at Midnight...",
+      "additional_info": "",
+      "link": "https://www.goldhillinn.com/music/",
+      "image": "goldhillinn.jpg",
+      "source_url": "https://www.goldhillinn.com/music/",
+      "age_restriction": "21+",
+      "venue_tag": "Gold Hill Inn",
+      "location_tag": "Gold Hill",
+      "venue_type_tags": [
+        "Live Music",
+        "Restaurant",
+        "Historic"
+      ],
+      "event_type_tags": [
+        "Live Music"
       ]
     },
     {
