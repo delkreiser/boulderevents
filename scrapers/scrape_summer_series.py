@@ -45,13 +45,21 @@ def parse_date(date_str):
             parts = date_str.strip().split('/')
             if len(parts) == 3:
                 month, day, year = parts
-                # Convert 2-digit year to 4-digit (assume 20xx for years < 50, 19xx for >= 50)
+                # Convert 2-digit year to 4-digit
                 if len(year) == 2:
                     year_int = int(year)
-                    if year_int < 50:
-                        year = f"20{year}"
-                    else:
-                        year = f"19{year}"
+                    current_year = datetime.now().year
+                    current_century = (current_year // 100) * 100
+                    
+                    # Assume years 00-99 map to 2000-2099
+                    # But check if it makes sense for summer concert season
+                    full_year = current_century + year_int
+                    
+                    # If the year seems too far in the future (>2 years), assume it's actually sooner
+                    if full_year > current_year + 2:
+                        full_year = current_century - 100 + year_int
+                    
+                    year = str(full_year)
                 # Reconstruct with 4-digit year
                 date_str = f"{month}/{day}/{year}"
         
@@ -114,7 +122,8 @@ def save_events(events):
     """Save events to summer_series_events.json for aggregator to process"""
     # Get the directory where this script is located
     script_dir = Path(__file__).parent
-    output_file = script_dir / "summer_series_events.json"
+    # Save to parent directory (root) where aggregate_events.py expects it
+    output_file = script_dir.parent / "summer_series_events.json"
     
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(events, f, indent=2, ensure_ascii=False)
