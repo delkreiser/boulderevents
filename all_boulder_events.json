@@ -1,12 +1,11 @@
 {
-  "generated_at": "2025-12-29T08:32:18.515531",
+  "generated_at": "2025-12-29T18:32:35.084692",
   "total_events": 189,
   "tags": {
     "venues": [
       "300 Suns Brewing",
       "Bands on the Bricks",
       "Bricks on Main",
-      "Gold Hill Inn",
       "Jungle",
       "Junkyard Social Club",
       "License No 1",
@@ -26,7 +25,6 @@
     "locations": [
       "Boulder",
       "Denver",
-      "Gold Hill",
       "Longmont",
       "Louisville",
       "Niwot"
@@ -46,7 +44,6 @@
       "Family Friendly",
       "Food & Drink",
       "Free",
-      "Historic",
       "Hotel",
       "Literary",
       "Live Music",
@@ -54,7 +51,6 @@
       "Nightlife",
       "Performance",
       "Pub",
-      "Restaurant",
       "Retail",
       "Upscale"
     ],
@@ -329,8 +325,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -357,8 +353,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
-        "Community"
+        "Community",
+        "Games"
       ]
     },
     {
@@ -385,9 +381,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Community",
         "Performance",
-        "Music",
-        "Community"
+        "Music"
       ]
     },
     {
@@ -414,10 +410,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "All Ages",
-        "Music",
-        "Community"
+        "Community",
+        "Performance",
+        "Music"
       ]
     },
     {
@@ -444,8 +440,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Community"
+        "Community",
+        "All Ages"
       ]
     },
     {
@@ -472,10 +468,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
-        "Games",
         "All Ages",
-        "Community"
+        "Community",
+        "Games",
+        "Family Friendly"
       ]
     },
     {
@@ -502,8 +498,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
-        "Community"
+        "Community",
+        "Games"
       ]
     },
     {
@@ -530,11 +526,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
+        "Performance",
         "All Ages",
         "Music",
         "Family Friendly",
-        "Performance"
+        "Community"
       ]
     },
     {
@@ -643,8 +639,8 @@
       ],
       "event_type_tags": [
         "Educational",
-        "Music",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
@@ -671,9 +667,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Community",
         "Performance",
-        "Music",
-        "Community"
+        "Music"
       ]
     },
     {
@@ -700,9 +696,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Community",
         "Performance",
-        "Music",
-        "Community"
+        "Music"
       ]
     },
     {
@@ -729,9 +725,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Community",
         "Performance",
-        "Music",
-        "Community"
+        "Music"
       ]
     },
     {
@@ -758,9 +754,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Community",
         "Games",
-        "Educational",
-        "Community"
+        "Educational"
       ]
     },
     {
@@ -3609,32 +3605,6 @@
       ]
     },
     {
-      "id": "gold_hill_inn_new_year_s_eve_dance_party_december_31_2025_7_00_pm",
-      "title": "New Year's Eve Dance Party",
-      "venue": "Gold Hill Inn",
-      "location": "Gold Hill",
-      "date": "December 31, 2025",
-      "normalized_date": "2025-12-31T00:00:00",
-      "recurring": null,
-      "time": "7:00 PM",
-      "description": "NYE 2024 - Gold Hill Inn PresentsA New Years Eve Dance Party!Sold Out!Featuring:The Clay Rose Bandw/ Taylor Sims, Jeb Bows, Scott Coulter and Adam PerrySpecial GuestsThe Poudre Valley PlayboysDoors 7 p.m.Music 8 p.m.We will serve a light dinner buffet 7- 9 p.m.Tickets include Music, Food, Champagne at Midnight...",
-      "additional_info": "",
-      "link": "https://www.goldhillinn.com/music/",
-      "image": "goldhillinn.jpg",
-      "source_url": "https://www.goldhillinn.com/music/",
-      "age_restriction": "21+",
-      "venue_tag": "Gold Hill Inn",
-      "location_tag": "Gold Hill",
-      "venue_type_tags": [
-        "Live Music",
-        "Restaurant",
-        "Historic"
-      ],
-      "event_type_tags": [
-        "Live Music"
-      ]
-    },
-    {
       "id": "300_suns_brewing_thomas_dow_january_10_2026_6_00_8_00_pm",
       "title": "Thomas Dow",
       "venue": "300 Suns Brewing",
@@ -4083,6 +4053,33 @@
       "additional_info": "",
       "link": "https://www.bricksretail.com/event-details/john-mckay-band",
       "image": "https://static.wixstatic.com/media/f119ff_db079a2ca19e45738a39147b3bbe2a99~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/f119ff_db079a2ca19e45738a39147b3bbe2a99~mv2.jpg",
+      "source_url": "https://www.bricksretail.com/events-calendar",
+      "age_restriction": null,
+      "venue_tag": "Bricks on Main",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Community",
+        "Retail",
+        "Entertainment"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "bricks_on_main_the_delta_sonics_january_24_2026_6_00_pm_9_00_pm",
+      "title": "The Delta Sonics",
+      "venue": "Bricks on Main",
+      "location": "Longmont",
+      "date": "January 24, 2026",
+      "normalized_date": "2026-01-24T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM - 9:00 PM",
+      "description": "The Delta Sonics music takes a Chicago Blues base and seasons it with Swing, Delta, N\u2019awlins R&B and some early Rock n' Roll . This hard -working band averages over 200 shows a year. They have been featured at many of the major festivals in Colorado.",
+      "additional_info": "",
+      "link": "https://www.bricksretail.com/event-details/the-delta-sonics",
+      "image": "https://static.wixstatic.com/media/ea2d6f_070b3d8fb35746299734f022ec630b07~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_070b3d8fb35746299734f022ec630b07~mv2.jpg",
       "source_url": "https://www.bricksretail.com/events-calendar",
       "age_restriction": null,
       "venue_tag": "Bricks on Main",

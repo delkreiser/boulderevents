@@ -292,5 +292,26 @@
       "Bar",
       "Restaurant"
     ]
+  },
+  {
+    "link": "https://www.bricksretail.com/event-details/the-delta-sonics",
+    "title": "The Delta Sonics",
+    "date": "January 24, 2026",
+    "time": "6:00 PM - 9:00 PM",
+    "description": "The Delta Sonics music takes a Chicago Blues base and seasons it with Swing, Delta, N’awlins R&B and some early Rock n' Roll . This hard -working band averages over 200 shows a year. They have been featured at many of the major festivals in Colorado.",
+    "image": "https://static.wixstatic.com/media/ea2d6f_070b3d8fb35746299734f022ec630b07~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_070b3d8fb35746299734f022ec630b07~mv2.jpg",
+    "venue": "Bricks on Main",
+    "location": "Longmont",
+    "category": "Music",
+    "source_url": "https://www.bricksretail.com/events-calendar",
+    "event_type_tags": [
+      "Live Music",
+      "Entertainment"
+    ],
+    "venue_type_tags": [
+      "Music Venue",
+      "Bar",
+      "Restaurant"
+    ]
   }
 ]
