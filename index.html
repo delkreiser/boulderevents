@@ -1217,6 +1217,101 @@
             box-shadow: 0 10px 30px rgba(0,0,0,0.25);
         }
         
+        /* Happy Hour Ad Card */
+        .ad-card {
+            background: linear-gradient(135deg, #ff9a56 0%, #ff6a88 100%);
+            border-radius: 15px;
+            overflow: hidden;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.15);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            display: flex;
+            flex-direction: column;
+            cursor: pointer;
+            text-decoration: none;
+            color: white;
+            position: relative;
+        }
+        
+        .ad-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 30px rgba(255, 106, 136, 0.4);
+        }
+        
+        .ad-card-content {
+            padding: 40px 30px;
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 15px;
+        }
+        
+        .ad-card-icon {
+            font-size: 3em;
+            line-height: 1;
+        }
+        
+        .ad-card-title {
+            font-size: 1.8em;
+            font-weight: 700;
+            margin: 0;
+            text-shadow: 0 2px 4px rgba(0,0,0,0.2);
+        }
+        
+        .ad-card-subtitle {
+            font-size: 1.3em;
+            font-weight: 600;
+            margin: 0;
+            opacity: 0.95;
+        }
+        
+        .ad-card-description {
+            font-size: 1em;
+            opacity: 0.9;
+            line-height: 1.5;
+            max-width: 280px;
+        }
+        
+        .ad-card-features {
+            display: flex;
+            gap: 15px;
+            font-size: 0.9em;
+            opacity: 0.85;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        
+        .ad-card-cta {
+            background: white;
+            color: #ff6a88;
+            padding: 12px 30px;
+            border-radius: 25px;
+            font-weight: 600;
+            font-size: 1.1em;
+            margin-top: 10px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+            transition: transform 0.2s ease;
+        }
+        
+        .ad-card:hover .ad-card-cta {
+            transform: scale(1.05);
+        }
+        
+        .ad-card-badge {
+            position: absolute;
+            top: 15px;
+            right: 15px;
+            background: rgba(255, 255, 255, 0.25);
+            backdrop-filter: blur(10px);
+            padding: 5px 12px;
+            border-radius: 15px;
+            font-size: 0.75em;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        
+        
         .event-image {
             width: 100%;
             height: 200px;
@@ -2380,10 +2475,43 @@
                 return (a.venue || '').localeCompare(b.venue || '');
             });
             
-            grid.innerHTML = eventsToRender.map(event => createEventCard(event)).join('');
+            // Inject ad card every 6 events
+            const cardsHTML = [];
+            eventsToRender.forEach((event, index) => {
+                cardsHTML.push(createEventCard(event));
+                
+                // Insert ad card after every 6th event (positions 6, 12, 18, etc.)
+                if ((index + 1) % 6 === 0 && index < eventsToRender.length - 1) {
+                    cardsHTML.push(createHappyHourAdCard());
+                }
+            });
+            
+            grid.innerHTML = cardsHTML.join('');
             
             // Add event delegation for clickable venues and tags
             attachEventCardHandlers();
+        }
+        
+        function createHappyHourAdCard() {
+            return `
+                <a href="https://boulderhappyhour.vercel.app" target="_blank" rel="noopener noreferrer" class="ad-card">
+                    <div class="ad-card-badge">Sponsored</div>
+                    <div class="ad-card-content">
+                        <div class="ad-card-icon">🍻</div>
+                        <h3 class="ad-card-title">Looking for Happy Hours?</h3>
+                        <p class="ad-card-subtitle">Boulder Happy Hour</p>
+                        <p class="ad-card-description">
+                            Find the best drink deals and food specials in Boulder County
+                        </p>
+                        <div class="ad-card-features">
+                            <span>📅 Daily Deals</span>
+                            <span>🍺 Bar Specials</span>
+                            <span>🍔 Food Discounts</span>
+                        </div>
+                        <div class="ad-card-cta">Check It Out →</div>
+                    </div>
+                </a>
+            `;
         }
         
         function attachEventCardHandlers() {
