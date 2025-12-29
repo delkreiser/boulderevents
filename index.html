@@ -1217,8 +1217,8 @@
             box-shadow: 0 10px 30px rgba(0,0,0,0.25);
         }
         
-        /* Happy Hour Ad Card */
-        .ad-card {
+        /* Happy Hour Promo Card */
+        .promo-card {
             background: linear-gradient(135deg, #ff9a56 0%, #ff6a88 100%) !important;
             border-radius: 15px;
             overflow: hidden;
@@ -1233,12 +1233,12 @@
             min-height: 400px;
         }
         
-        .ad-card:hover {
+        .promo-card:hover {
             transform: translateY(-5px);
             box-shadow: 0 10px 30px rgba(255, 106, 136, 0.4);
         }
         
-        .ad-card-content {
+        .promo-card-content {
             padding: 40px 30px;
             text-align: center;
             display: flex !important;
@@ -1248,33 +1248,33 @@
             flex: 1;
         }
         
-        .ad-card-icon {
+        .promo-card-icon {
             font-size: 3em;
             line-height: 1;
         }
         
-        .ad-card-title {
+        .promo-card-title {
             font-size: 1.8em;
             font-weight: 700;
             margin: 0;
             text-shadow: 0 2px 4px rgba(0,0,0,0.2);
         }
         
-        .ad-card-subtitle {
+        .promo-card-subtitle {
             font-size: 1.3em;
             font-weight: 600;
             margin: 0;
             opacity: 0.95;
         }
         
-        .ad-card-description {
+        .promo-card-description {
             font-size: 1em;
             opacity: 0.9;
             line-height: 1.5;
             max-width: 280px;
         }
         
-        .ad-card-features {
+        .promo-card-features {
             display: flex;
             gap: 15px;
             font-size: 0.9em;
@@ -1283,7 +1283,7 @@
             justify-content: center;
         }
         
-        .ad-card-cta {
+        .promo-card-cta {
             background: white;
             color: #ff6a88;
             padding: 12px 30px;
@@ -1295,11 +1295,11 @@
             transition: transform 0.2s ease;
         }
         
-        .ad-card:hover .ad-card-cta {
+        .promo-card:hover .promo-card-cta {
             transform: scale(1.05);
         }
         
-        .ad-card-badge {
+        .promo-card-badge {
             position: absolute;
             top: 15px;
             right: 15px;
@@ -2485,7 +2485,7 @@
                 // Insert ad card after every 6th event (positions 6, 12, 18, etc.)
                 if ((index + 1) % 6 === 0) {
                     console.log(`Injecting ad card after event ${index + 1}`);
-                    cardsHTML.push(createHappyHourAdCard());
+                    cardsHTML.push(createHappyHourPromoCard());
                 }
             });
             
@@ -2497,9 +2497,9 @@
             attachEventCardHandlers();
         }
         
-        function createHappyHourAdCard() {
+        function createHappyHourPromoCard() {
             return `
-                <div class="ad-card" style="display: flex !important; background: linear-gradient(135deg, #ff9a56 0%, #ff6a88 100%); min-height: 400px; border-radius: 15px; overflow: hidden; box-shadow: 0 5px 20px rgba(0,0,0,0.15); flex-direction: column;">
+                <div class="promo-card" style="display: flex !important; background: linear-gradient(135deg, #ff9a56 0%, #ff6a88 100%); min-height: 400px; border-radius: 15px; overflow: hidden; box-shadow: 0 5px 20px rgba(0,0,0,0.15); flex-direction: column;">
                     <div style="padding: 40px 30px; text-align: center; color: white; flex: 1; display: flex; flex-direction: column; justify-content: center;">
                         <div style="font-size: 3em;">🍻</div>
                         <h3 style="font-size: 1.8em; font-weight: 700; margin: 20px 0; color: white;">Looking for Happy Hours?</h3>
