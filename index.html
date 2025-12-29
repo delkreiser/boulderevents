@@ -2481,10 +2481,13 @@
                 cardsHTML.push(createEventCard(event));
                 
                 // Insert ad card after every 6th event (positions 6, 12, 18, etc.)
-                if ((index + 1) % 6 === 0 && index < eventsToRender.length - 1) {
+                if ((index + 1) % 6 === 0) {
+                    console.log(`Injecting ad card after event ${index + 1}`);
                     cardsHTML.push(createHappyHourAdCard());
                 }
             });
+            
+            console.log(`Total cards (events + ads): ${cardsHTML.length}, Events: ${eventsToRender.length}`);
             
             grid.innerHTML = cardsHTML.join('');
             
