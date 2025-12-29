@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T23:41:27.559108",
-  "total_events": 191,
+  "generated_at": "2025-12-29T08:32:18.515531",
+  "total_events": 189,
   "tags": {
     "venues": [
       "300 Suns Brewing",
@@ -357,8 +357,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Games"
+        "Games",
+        "Community"
       ]
     },
     {
@@ -386,8 +386,8 @@
       ],
       "event_type_tags": [
         "Performance",
-        "Community",
-        "Music"
+        "Music",
+        "Community"
       ]
     },
     {
@@ -415,9 +415,9 @@
       ],
       "event_type_tags": [
         "Performance",
-        "Community",
+        "All Ages",
         "Music",
-        "All Ages"
+        "Community"
       ]
     },
     {
@@ -472,10 +472,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Community",
         "Family Friendly",
-        "Games"
+        "Games",
+        "All Ages",
+        "Community"
       ]
     },
     {
@@ -502,8 +502,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Games"
+        "Games",
+        "Community"
       ]
     },
     {
@@ -530,11 +530,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Music",
         "Community",
+        "All Ages",
+        "Music",
         "Family Friendly",
-        "All Ages"
+        "Performance"
       ]
     },
     {
@@ -642,9 +642,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
+        "Educational",
         "Music",
-        "Educational"
+        "Community"
       ]
     },
     {
@@ -672,8 +672,8 @@
       ],
       "event_type_tags": [
         "Performance",
-        "Community",
-        "Music"
+        "Music",
+        "Community"
       ]
     },
     {
@@ -701,8 +701,8 @@
       ],
       "event_type_tags": [
         "Performance",
-        "Community",
-        "Music"
+        "Music",
+        "Community"
       ]
     },
     {
@@ -730,8 +730,8 @@
       ],
       "event_type_tags": [
         "Performance",
-        "Community",
-        "Music"
+        "Music",
+        "Community"
       ]
     },
     {
@@ -758,9 +758,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
+        "Games",
         "Educational",
-        "Games"
+        "Community"
       ]
     },
     {
@@ -3719,33 +3719,6 @@
       ]
     },
     {
-      "id": "bricks_on_main_the_lionel_young_band_december_28_2025_5_00_pm_8_00_pm",
-      "title": "The Lionel Young Band",
-      "venue": "Bricks on Main",
-      "location": "Longmont",
-      "date": "December 28, 2025",
-      "normalized_date": "2025-12-28T00:00:00",
-      "recurring": null,
-      "time": "5:00 PM - 8:00 PM",
-      "description": "Blues and R& B. This band won the 2011 International Blues Challenge in Memphis. Free full band performance at Longmont's favorite stage! Food and bar menu www.bricksonmain.com .  Table reservations can be made for $10 per seat by contacting misskrissysbistro@gmail.com or calling 720-600-2350.",
-      "additional_info": "",
-      "link": "https://www.bricksretail.com/event-details/the-lionel-young-band",
-      "image": "https://static.wixstatic.com/media/ea2d6f_6fc6bd6031e44be98ad43db8e0ef6cf8~mv2.jpeg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_6fc6bd6031e44be98ad43db8e0ef6cf8~mv2.jpeg",
-      "source_url": "https://www.bricksretail.com/events-calendar",
-      "age_restriction": null,
-      "venue_tag": "Bricks on Main",
-      "location_tag": "Longmont",
-      "venue_type_tags": [
-        "Community",
-        "Retail",
-        "Entertainment"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Entertainment"
-      ]
-    },
-    {
       "id": "bricks_on_main_open_mic_night_december_30_2025_6_00_pm_8_00_pm",
       "title": "Open Mic Night",
       "venue": "Bricks on Main",
@@ -4125,31 +4098,6 @@
       ]
     },
     {
-      "id": "roots_music_project_billy_hoke_s_xtrav_xx_super_pro_jam_december_28_2025_6_00_pm_10_00_pm",
-      "title": "Billy Hoke's XTRAV XX Super Pro Jam",
-      "venue": "Roots Music Project",
-      "location": "Boulder",
-      "date": "December 28, 2025",
-      "normalized_date": "2025-12-28T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM - 10:00 PM",
-      "description": "The Biggest and Baddest Pro Jam this side of the Mississippi!",
-      "additional_info": "",
-      "link": "https://www.eventbrite.com/e/billy-hokes-xtrav-xx-super-pro-jam-tickets-1976523826973",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172110157%2F1125606624043%2F1%2Foriginal.20251202-004024?crop=focalpoint&fit=crop&w=355&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=0d3eb8bd9decedb7ef4286174f7928ec",
-      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
-      "age_restriction": "21+",
-      "venue_tag": "Roots Music Project",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Community"
-      ],
-      "event_type_tags": [
-        "Live Music"
-      ]
-    },
-    {
       "id": "roots_music_project_new_years_eve_party_with_riley_j_band_cabaret_vinyl_djs_december_31_2025_9_00_pm_1_00_am",
       "title": "New Years Eve Party with Riley J Band, Cabaret & Vinyl DJs",
       "venue": "Roots Music Project",
@@ -4211,7 +4159,7 @@
       "description": "Celebrate Ian Arras' birthday with Big Ol' Pig & Young and Dead! Colorado jam bands deliver funk, fusion & Grateful Dead grooves.",
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/big-ol-pig-birthday-bash-ft-young-and-dead-jam-band-jubilee-tickets-1976526885120",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172732577%2F1125606624043%2F1%2Foriginal.20251210-235945?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a5c5e8f3d9a36d2f51d356adc700ed90",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172732577%2F1125606624043%2F1%2Foriginal.20251210-235945?crop=focalpoint&fit=crop&w=355&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=6228491ddc8d2b701522fdc6d7f1413b",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
