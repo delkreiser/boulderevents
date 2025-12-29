@@ -2499,23 +2499,20 @@
         
         function createHappyHourAdCard() {
             return `
-                <a href="https://boulderhappyhour.vercel.app" target="_blank" rel="noopener noreferrer" class="ad-card">
-                    <div class="ad-card-badge">Sponsored</div>
-                    <div class="ad-card-content">
-                        <div class="ad-card-icon">🍻</div>
-                        <h3 class="ad-card-title">Looking for Happy Hours?</h3>
-                        <p class="ad-card-subtitle">Boulder Happy Hour</p>
-                        <p class="ad-card-description">
+                <div class="event-card ad-card" style="background: linear-gradient(135deg, #ff9a56 0%, #ff6a88 100%); min-height: 400px;">
+                    <div style="padding: 40px 30px; text-align: center; color: white;">
+                        <div style="font-size: 3em;">🍻</div>
+                        <h3 style="font-size: 1.8em; font-weight: 700; margin: 20px 0; color: white;">Looking for Happy Hours?</h3>
+                        <p style="font-size: 1.3em; font-weight: 600; color: white;">Boulder Happy Hour</p>
+                        <p style="font-size: 1em; opacity: 0.9; color: white;">
                             Find the best drink deals and food specials in Boulder County
                         </p>
-                        <div class="ad-card-features">
-                            <span>📅 Daily Deals</span>
-                            <span>🍺 Bar Specials</span>
-                            <span>🍔 Food Discounts</span>
-                        </div>
-                        <div class="ad-card-cta">Check It Out →</div>
+                        <a href="https://boulderhappyhour.vercel.app" target="_blank" rel="noopener noreferrer" 
+                           style="display: inline-block; background: white; color: #ff6a88; padding: 12px 30px; border-radius: 25px; font-weight: 600; margin-top: 20px; text-decoration: none;">
+                            Check It Out →
+                        </a>
                     </div>
-                </a>
+                </div>
             `;
         }
         
