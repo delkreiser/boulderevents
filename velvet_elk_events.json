@@ -1,24 +1,5 @@
 [
   {
-    "title": "Rapidgrass with Josy Rosales",
-    "date": "December 27, 2026",
-    "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/5336IMG_2352.JPG?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
-    "venue": "Velvet Elk Lounge",
-    "location": "Boulder",
-    "category": "Music",
-    "source_url": "https://www.velvetelklounge.com/events/",
-    "event_type_tags": [
-      "Live Music",
-      "Nightlife"
-    ],
-    "venue_type_tags": [
-      "Bar",
-      "Music Venue",
-      "Nightlife"
-    ],
-    "link": "https://www.velvetelklounge.com/event/december-27th-rapidgrass/"
-  },
-  {
     "title": "Kings of Prussia",
     "date": "January 2, 2026",
     "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/91165VelvetElk26.png?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
@@ -150,5 +131,24 @@
       "Nightlife"
     ],
     "link": "https://www.velvetelklounge.com/event/february-21st-pimps-of-joytime-with-gio-chamba/"
+  },
+  {
+    "title": "Tinsley Ellis: Labor of Love Tour",
+    "date": "March 6, 2026",
+    "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/40988Tinsley_Ellis.png?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+    "venue": "Velvet Elk Lounge",
+    "location": "Boulder",
+    "category": "Music",
+    "source_url": "https://www.velvetelklounge.com/events/",
+    "event_type_tags": [
+      "Live Music",
+      "Nightlife"
+    ],
+    "venue_type_tags": [
+      "Bar",
+      "Music Venue",
+      "Nightlife"
+    ],
+    "link": "https://www.velvetelklounge.com/event/march-6th-tinsley-ellis-labor-of-love-tour/"
   }
 ]
