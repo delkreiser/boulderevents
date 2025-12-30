@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T18:32:35.084692",
-  "total_events": 189,
+  "generated_at": "2025-12-30T08:32:32.345425",
+  "total_events": 188,
   "tags": {
     "venues": [
       "300 Suns Brewing",
@@ -77,34 +77,6 @@
     ]
   },
   "events": [
-    {
-      "id": "velvet_elk_lounge_rapidgrass_with_josy_rosales_december_27_2026",
-      "title": "Rapidgrass with Josy Rosales",
-      "venue": "Velvet Elk Lounge",
-      "location": "Boulder",
-      "date": "December 27, 2026",
-      "normalized_date": "2026-12-27T00:00:00",
-      "recurring": null,
-      "time": null,
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.velvetelklounge.com/event/december-27th-rapidgrass/",
-      "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/5336IMG_2352.JPG?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
-      "source_url": "https://www.velvetelklounge.com/events/",
-      "age_restriction": null,
-      "venue_tag": "Velvet Elk Lounge",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Music",
-        "Live Music",
-        "Bar",
-        "Nightlife"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Nightlife"
-      ]
-    },
     {
       "id": "velvet_elk_lounge_kings_of_prussia_january_2_2026",
       "title": "Kings of Prussia",
@@ -302,31 +274,31 @@
       ]
     },
     {
-      "id": "junkyard_social_club_queer_art_organics_open_mic_monday_december_29_2025",
-      "title": "Queer Art Organics Open Mic",
-      "venue": "Junkyard Social Club",
+      "id": "velvet_elk_lounge_tinsley_ellis_labor_of_love_tour_march_6_2026",
+      "title": "Tinsley Ellis: Labor of Love Tour",
+      "venue": "Velvet Elk Lounge",
       "location": "Boulder",
-      "date": "Monday, December 29, 2025",
-      "normalized_date": "2025-12-29T00:00:00",
+      "date": "March 6, 2026",
+      "normalized_date": "2026-03-06T00:00:00",
       "recurring": null,
       "time": null,
       "description": "",
-      "additional_info": "CANCELED for December - See you in January!",
-      "link": "https://junkyardsocialclub.org/drop-in-event/queer-art-organics-open-mic/",
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/07/Queer-Art-Organics-Open-Mic.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
+      "additional_info": "",
+      "link": "https://www.velvetelklounge.com/event/march-6th-tinsley-ellis-labor-of-love-tour/",
+      "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/40988Tinsley_Ellis.png?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+      "source_url": "https://www.velvetelklounge.com/events/",
       "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
+      "venue_tag": "Velvet Elk Lounge",
       "location_tag": "Boulder",
       "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
+        "Music",
+        "Live Music",
+        "Bar",
+        "Nightlife"
       ],
       "event_type_tags": [
-        "Community",
-        "Performance"
+        "Live Music",
+        "Nightlife"
       ]
     },
     {
@@ -381,9 +353,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Performance",
-        "Music"
+        "Music",
+        "Community"
       ]
     },
     {
@@ -410,10 +382,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Community",
         "Performance",
-        "Music"
+        "Music",
+        "Community",
+        "All Ages"
       ]
     },
     {
@@ -468,9 +440,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Community",
         "Games",
+        "Community",
+        "All Ages",
         "Family Friendly"
       ]
     },
@@ -526,11 +498,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
+        "Community",
         "All Ages",
-        "Music",
+        "Performance",
         "Family Friendly",
-        "Community"
+        "Music"
       ]
     },
     {
@@ -639,8 +611,8 @@
       ],
       "event_type_tags": [
         "Educational",
-        "Community",
-        "Music"
+        "Music",
+        "Community"
       ]
     },
     {
@@ -667,9 +639,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Performance",
-        "Music"
+        "Music",
+        "Community"
       ]
     },
     {
@@ -696,9 +668,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Performance",
-        "Music"
+        "Music",
+        "Community"
       ]
     },
     {
@@ -725,9 +697,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Performance",
-        "Music"
+        "Music",
+        "Community"
       ]
     },
     {
@@ -754,9 +726,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Educational",
         "Community",
-        "Games",
-        "Educational"
+        "Games"
       ]
     },
     {
@@ -941,12 +913,12 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_language_exchange_night_december_29_2025_7_00_pm",
+      "id": "trident_booksellers_cafe_language_exchange_night_december_29_2026_7_00_pm",
       "title": "Language Exchange Night",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
-      "date": "December 29, 2025",
-      "normalized_date": "2025-12-29T00:00:00",
+      "date": "December 29, 2026",
+      "normalized_date": "2026-12-29T00:00:00",
       "recurring": null,
       "time": "7:00 PM",
       "description": "Free!Every Monday evening, 7-9p.m.All languages welcome. Facilitated by Kelvin Tavarez.",
@@ -3906,33 +3878,6 @@
       ]
     },
     {
-      "id": "bricks_on_main_spanish_classical_magic_january_11_2026_5_00_pm_8_00_pm",
-      "title": "Spanish Classical Magic",
-      "venue": "Bricks on Main",
-      "location": "Longmont",
-      "date": "January 11, 2026",
-      "normalized_date": "2026-01-11T00:00:00",
-      "recurring": null,
-      "time": "5:00 PM - 8:00 PM",
-      "description": "Tony Crank and guest(s) will delight and amaze with classical guitar originals and covers. Come eat and enjoy another fun night at the Stage at Bricks.   Menu : www.bricksonmain.com",
-      "additional_info": "",
-      "link": "https://www.bricksretail.com/event-details/spanish-classical-magic",
-      "image": "https://static.wixstatic.com/media/f119ff_37f1e1bb5ab74c9db4dfce2051d2209b~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/f119ff_37f1e1bb5ab74c9db4dfce2051d2209b~mv2.jpg",
-      "source_url": "https://www.bricksretail.com/events-calendar",
-      "age_restriction": null,
-      "venue_tag": "Bricks on Main",
-      "location_tag": "Longmont",
-      "venue_type_tags": [
-        "Community",
-        "Retail",
-        "Entertainment"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Entertainment"
-      ]
-    },
-    {
       "id": "bricks_on_main_jay_stott_band_january_15_2026_6_00_pm_8_00_pm",
       "title": "Jay Stott Band",
       "venue": "Bricks on Main",
@@ -4014,18 +3959,18 @@
       ]
     },
     {
-      "id": "bricks_on_main_mojazz_trio_january_18_2026_5_00_pm_8_00_pm",
-      "title": "MoJazz Trio",
+      "id": "bricks_on_main_minstrel_in_the_galaxy_january_22_2026_6_00_pm_8_00_pm",
+      "title": "Minstrel in the Galaxy",
       "venue": "Bricks on Main",
       "location": "Longmont",
-      "date": "January 18, 2026",
-      "normalized_date": "2026-01-18T00:00:00",
+      "date": "January 22, 2026",
+      "normalized_date": "2026-01-22T00:00:00",
       "recurring": null,
-      "time": "5:00 PM - 8:00 PM",
-      "description": "We play some jazz and some funky R&B it's all instrumental and it's made of of Mojomama members and teachers from our music school. Mojo's Music Academy... You gotta come check it out... Food and bar menu www.misskrissys.com  No cover.",
+      "time": "6:00 PM - 8:00 PM",
+      "description": "Trio made up of Kenny Peralez, Thomas Gronberg and Dan Crecco always bring an amazing show.  Come hang out for a bit, you never know until you know!",
       "additional_info": "",
-      "link": "https://www.bricksretail.com/event-details/mojazz-trio",
-      "image": "https://static.wixstatic.com/media/f119ff_ad9123eec648473398824f38746a0b1e~mv2.png/v1/fill/w_400,h_400,al_c,q_85,enc_auto/f119ff_ad9123eec648473398824f38746a0b1e~mv2.png",
+      "link": "https://www.bricksretail.com/event-details/minstrel-in-the-galaxy-2",
+      "image": "https://static.wixstatic.com/media/ea2d6f_13ae29f5b571444db6fc21f87481fedc~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_13ae29f5b571444db6fc21f87481fedc~mv2.jpg",
       "source_url": "https://www.bricksretail.com/events-calendar",
       "age_restriction": null,
       "venue_tag": "Bricks on Main",
@@ -4036,8 +3981,8 @@
         "Entertainment"
       ],
       "event_type_tags": [
-        "Jazz",
-        "Live Music"
+        "Live Music",
+        "Entertainment"
       ]
     },
     {
@@ -4080,6 +4025,33 @@
       "additional_info": "",
       "link": "https://www.bricksretail.com/event-details/the-delta-sonics",
       "image": "https://static.wixstatic.com/media/ea2d6f_070b3d8fb35746299734f022ec630b07~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_070b3d8fb35746299734f022ec630b07~mv2.jpg",
+      "source_url": "https://www.bricksretail.com/events-calendar",
+      "age_restriction": null,
+      "venue_tag": "Bricks on Main",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Community",
+        "Retail",
+        "Entertainment"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "bricks_on_main_boogie_river_january_25_2026_5_00_pm_8_00_pm",
+      "title": "Boogie River",
+      "venue": "Bricks on Main",
+      "location": "Longmont",
+      "date": "January 25, 2026",
+      "normalized_date": "2026-01-25T00:00:00",
+      "recurring": null,
+      "time": "5:00 PM - 8:00 PM",
+      "description": "Blending tight grooves, infectious energy, and a mix of rock, funk, and soul, Boogie River delivers a sound that\u2019s both nostalgic and fresh. With each member bringing years of experience from their previous bands, the result is a powerhouse of musicianship, creativity, and pure fun.",
+      "additional_info": "",
+      "link": "https://www.bricksretail.com/event-details/boogie-river",
+      "image": "https://static.wixstatic.com/media/ea2d6f_135ec425e39443578a983ac034389603~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_135ec425e39443578a983ac034389603~mv2.jpg",
       "source_url": "https://www.bricksretail.com/events-calendar",
       "age_restriction": null,
       "venue_tag": "Bricks on Main",
