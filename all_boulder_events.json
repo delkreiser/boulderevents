@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T08:30:41.761244",
-  "total_events": 196,
+  "generated_at": "2025-12-31T18:29:35.273245",
+  "total_events": 195,
   "tags": {
     "venues": [
       "300 Suns Brewing",
@@ -76,7 +76,6 @@
       "Live Music",
       "Music",
       "Nightlife",
-      "Open Mic",
       "Performance"
     ]
   },
@@ -330,8 +329,8 @@
       ],
       "event_type_tags": [
         "Music",
-        "Community",
-        "Performance"
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -359,9 +358,9 @@
       ],
       "event_type_tags": [
         "Music",
-        "Community",
+        "All Ages",
         "Performance",
-        "All Ages"
+        "Community"
       ]
     },
     {
@@ -388,8 +387,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "All Ages"
+        "All Ages",
+        "Community"
       ]
     },
     {
@@ -416,10 +415,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
+        "All Ages",
         "Family Friendly",
         "Community",
-        "All Ages"
+        "Games"
       ]
     },
     {
@@ -446,8 +445,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
-        "Community"
+        "Community",
+        "Games"
       ]
     },
     {
@@ -474,11 +473,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Performance",
-        "All Ages",
         "Music",
-        "Family Friendly"
+        "All Ages",
+        "Family Friendly",
+        "Community"
       ]
     },
     {
@@ -587,8 +586,8 @@
       ],
       "event_type_tags": [
         "Music",
-        "Community",
-        "Educational"
+        "Educational",
+        "Community"
       ]
     },
     {
@@ -616,8 +615,8 @@
       ],
       "event_type_tags": [
         "Music",
-        "Community",
-        "Performance"
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -645,8 +644,8 @@
       ],
       "event_type_tags": [
         "Music",
-        "Community",
-        "Performance"
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -674,8 +673,8 @@
       ],
       "event_type_tags": [
         "Music",
-        "Community",
-        "Performance"
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -702,9 +701,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
+        "Educational",
         "Community",
-        "Educational"
+        "Games"
       ]
     },
     {
@@ -4000,34 +3999,6 @@
       "event_type_tags": [
         "Jazz",
         "Live Music"
-      ]
-    },
-    {
-      "id": "bricks_on_main_open_mic_night_january_06_2026_5_30_pm_8_30_pm",
-      "title": "Open Mic Night",
-      "venue": "Bricks on Main",
-      "location": "Longmont",
-      "date": "January 06, 2026",
-      "normalized_date": "2026-01-06T00:00:00",
-      "recurring": null,
-      "time": "5:30 PM - 8:30 PM",
-      "description": "Music open mic, sign up at 5:30, about 15 minute time slots, often runs till 8:30 or a little later but general timeline is 6-8. Come down and eat dinner and have drinks and enjoy the music community here!",
-      "additional_info": "",
-      "link": "https://www.bricksretail.com/event-details/open-mic-night-2026-01-06-17-30",
-      "image": "https://static.wixstatic.com/media/f119ff_930ac49a2c5d4e0aa220b93515ba6ee3~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/f119ff_930ac49a2c5d4e0aa220b93515ba6ee3~mv2.jpg",
-      "source_url": "https://www.bricksretail.com/events-calendar",
-      "age_restriction": null,
-      "venue_tag": "Bricks on Main",
-      "location_tag": "Longmont",
-      "venue_type_tags": [
-        "Community",
-        "Retail",
-        "Entertainment"
-      ],
-      "event_type_tags": [
-        "Open Mic",
-        "Music",
-        "Community"
       ]
     },
     {
