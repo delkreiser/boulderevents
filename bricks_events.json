@@ -1,27 +1,5 @@
 [
   {
-    "link": "https://www.bricksretail.com/event-details/open-mic-night-2025-12-30-18-00",
-    "title": "Open Mic Night",
-    "date": "December 30, 2025",
-    "time": "6:00 PM - 8:00 PM",
-    "description": "Music open mic, sign up at 5:30, about 15 minute time slots, often runs till 8:30 or a little later but general timeline is 6-8. Come down and eat dinner and have drinks and enjoy the music community here!",
-    "image": "https://static.wixstatic.com/media/ea2d6f_62265f664f584370bdb46453a5b11e1e~mv2.png/v1/fill/w_400,h_400,al_c,q_85,enc_auto/ea2d6f_62265f664f584370bdb46453a5b11e1e~mv2.png",
-    "venue": "Bricks on Main",
-    "location": "Longmont",
-    "category": "Music",
-    "source_url": "https://www.bricksretail.com/events-calendar",
-    "event_type_tags": [
-      "Open Mic",
-      "Music",
-      "Community"
-    ],
-    "venue_type_tags": [
-      "Music Venue",
-      "Bar",
-      "Restaurant"
-    ]
-  },
-  {
     "link": "https://www.bricksretail.com/event-details/3rd-annual-audiomedz-before-the-ball-drops",
     "title": "3rd Annual AudioMedz Before the Ball Drops",
     "date": "December 31, 2025",
@@ -97,6 +75,28 @@
     "event_type_tags": [
       "Jazz",
       "Live Music"
+    ],
+    "venue_type_tags": [
+      "Music Venue",
+      "Bar",
+      "Restaurant"
+    ]
+  },
+  {
+    "link": "https://www.bricksretail.com/event-details/open-mic-night-2026-01-06-17-30",
+    "title": "Open Mic Night",
+    "date": "January 06, 2026",
+    "time": "5:30 PM - 8:30 PM",
+    "description": "Music open mic, sign up at 5:30, about 15 minute time slots, often runs till 8:30 or a little later but general timeline is 6-8. Come down and eat dinner and have drinks and enjoy the music community here!",
+    "image": "https://static.wixstatic.com/media/f119ff_930ac49a2c5d4e0aa220b93515ba6ee3~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/f119ff_930ac49a2c5d4e0aa220b93515ba6ee3~mv2.jpg",
+    "venue": "Bricks on Main",
+    "location": "Longmont",
+    "category": "Music",
+    "source_url": "https://www.bricksretail.com/events-calendar",
+    "event_type_tags": [
+      "Open Mic",
+      "Music",
+      "Community"
     ],
     "venue_type_tags": [
       "Music Venue",
