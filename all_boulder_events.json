@@ -1,15 +1,13 @@
 {
-  "generated_at": "2025-12-31T18:29:35.273245",
-  "total_events": 195,
+  "generated_at": "2026-01-01T08:32:19.274418",
+  "total_events": 200,
   "tags": {
     "venues": [
       "300 Suns Brewing",
       "Bands on the Bricks",
       "Bricks on Main",
-      "Gold Hill Inn",
       "Jungle",
       "Junkyard Social Club",
-      "License No 1",
       "Longs Peak Pub",
       "Louisville Street Faire",
       "Mountain Sun Pub",
@@ -26,7 +24,6 @@
     "locations": [
       "Boulder",
       "Denver",
-      "Gold Hill",
       "Longmont",
       "Louisville",
       "Niwot"
@@ -46,7 +43,6 @@
       "Family Friendly",
       "Food & Drink",
       "Free",
-      "Historic",
       "Hotel",
       "Literary",
       "Live Music",
@@ -54,7 +50,6 @@
       "Nightlife",
       "Performance",
       "Pub",
-      "Restaurant",
       "Retail",
       "Upscale"
     ],
@@ -76,6 +71,7 @@
       "Live Music",
       "Music",
       "Nightlife",
+      "Open Mic",
       "Performance"
     ]
   },
@@ -305,35 +301,6 @@
       ]
     },
     {
-      "id": "junkyard_social_club_revolution_nye_2025_wednesday_december_31_2025_8_00_pm_doors_2_00_am_end",
-      "title": "rEVOLUTION: NYE 2025",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Wednesday, December 31, 2025",
-      "normalized_date": "2025-12-31T00:00:00",
-      "recurring": null,
-      "time": "8:00 PM Doors | 2:00 AM End",
-      "description": "",
-      "additional_info": "Must be age 21+",
-      "link": "https://junkyardsocialclub.org/product/revolution-nye-2025/",
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/11/2025-NYE-rEVOLUTION-768x768.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Music",
-        "Performance",
-        "Community"
-      ]
-    },
-    {
       "id": "junkyard_social_club_stage_party_friday_january_2_2026_7_00_pm_doors_8_00_pm_show",
       "title": "Stage Party",
       "venue": "Junkyard Social Club",
@@ -357,10 +324,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "All Ages",
+        "Community",
         "Performance",
-        "Community"
+        "Music"
       ]
     },
     {
@@ -416,9 +383,9 @@
       ],
       "event_type_tags": [
         "All Ages",
-        "Family Friendly",
         "Community",
-        "Games"
+        "Games",
+        "Family Friendly"
       ]
     },
     {
@@ -474,10 +441,10 @@
       ],
       "event_type_tags": [
         "Performance",
+        "Community",
         "Music",
         "All Ages",
-        "Family Friendly",
-        "Community"
+        "Family Friendly"
       ]
     },
     {
@@ -585,9 +552,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Educational",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
@@ -614,9 +581,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
+        "Community",
         "Performance",
-        "Community"
+        "Music"
       ]
     },
     {
@@ -643,9 +610,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
+        "Community",
         "Performance",
-        "Community"
+        "Music"
       ]
     },
     {
@@ -672,9 +639,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
+        "Community",
         "Performance",
-        "Community"
+        "Music"
       ]
     },
     {
@@ -834,17 +801,17 @@
       "event_type_tags": []
     },
     {
-      "id": "st_julien_hotel_spa_roaring_20_s_new_year_s_eve_party_tickets_required_december_31_2025_9_00_pm_1_00_am",
-      "title": "Roaring 20's New Year's Eve Party- Tickets Required",
+      "id": "st_julien_hotel_spa_elivin_pianist_january_03_2026_6_00_pm_9_00_pm",
+      "title": "Elivin Pianist",
       "venue": "St Julien Hotel & Spa",
       "location": "Boulder",
-      "date": "December 31, 2025",
-      "normalized_date": "2025-12-31T00:00:00",
+      "date": "January 03, 2026",
+      "normalized_date": "2026-01-03T00:00:00",
       "recurring": null,
-      "time": "9:00 PM - 1:00 AM",
-      "description": "&lt;p&gt;Celebrate New Year\u2019s Eve in Roaring 20s elegance at St Julien with live entertainment, a premium bar, tray-passed bites and champagne toast! New Year\u2019s Eve: A Roaring 20s Celebration Step into the Roaring 20s for a glamorous New Year\u2019s Eve at St Julien Hotel &amp; Spa. Celebrate the night in style with live entertainment by [&hellip;]&lt;/p&gt;\\n",
+      "time": "6:00 PM - 9:00 PM",
+      "description": "",
       "additional_info": "",
-      "link": "https://stjulien.com/event/roaring-20s-new-years-eve-party-tickets-required/",
+      "link": "https://stjulien.com/event/elivin-pianist/",
       "image": "stjulien.jpg",
       "source_url": "https://stjulien.com/boulder-colorado-events/month/?tribe_eventcategory%5B0%5D=83",
       "age_restriction": null,
@@ -861,17 +828,179 @@
       ]
     },
     {
-      "id": "st_julien_hotel_spa_elivin_pianist_january_03_2026_6_00_pm_9_00_pm",
-      "title": "Elivin Pianist",
+      "id": "st_julien_hotel_spa_bill_mckay_piano_january_08_2026_6_00_pm_9_00_pm",
+      "title": "Bill McKay Piano",
       "venue": "St Julien Hotel & Spa",
       "location": "Boulder",
-      "date": "January 03, 2026",
-      "normalized_date": "2026-01-03T00:00:00",
+      "date": "January 08, 2026",
+      "normalized_date": "2026-01-08T00:00:00",
       "recurring": null,
       "time": "6:00 PM - 9:00 PM",
       "description": "",
       "additional_info": "",
-      "link": "https://stjulien.com/event/elivin-pianist/",
+      "link": "https://stjulien.com/event/bill-mckay-piano-3/",
+      "image": "stjulien.jpg",
+      "source_url": "https://stjulien.com/boulder-colorado-events/month/?tribe_eventcategory%5B0%5D=83",
+      "age_restriction": null,
+      "venue_tag": "St Julien Hotel & Spa",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Entertainment",
+        "Hotel",
+        "Upscale"
+      ],
+      "event_type_tags": [
+        "Entertainment",
+        "Hotel Events"
+      ]
+    },
+    {
+      "id": "st_julien_hotel_spa_the_good_kind_january_09_2026_6_00_pm_9_00_pm",
+      "title": "The Good Kind",
+      "venue": "St Julien Hotel & Spa",
+      "location": "Boulder",
+      "date": "January 09, 2026",
+      "normalized_date": "2026-01-09T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM - 9:00 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://stjulien.com/event/the-good-kind-8/",
+      "image": "stjulien.jpg",
+      "source_url": "https://stjulien.com/boulder-colorado-events/month/?tribe_eventcategory%5B0%5D=83",
+      "age_restriction": null,
+      "venue_tag": "St Julien Hotel & Spa",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Entertainment",
+        "Hotel",
+        "Upscale"
+      ],
+      "event_type_tags": [
+        "Entertainment",
+        "Hotel Events"
+      ]
+    },
+    {
+      "id": "st_julien_hotel_spa_mezzo_mestizo_january_15_2026_6_00_pm_9_00_pm",
+      "title": "Mezzo Mestizo",
+      "venue": "St Julien Hotel & Spa",
+      "location": "Boulder",
+      "date": "January 15, 2026",
+      "normalized_date": "2026-01-15T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM - 9:00 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://stjulien.com/event/mezzo-mestizo-23/",
+      "image": "stjulien.jpg",
+      "source_url": "https://stjulien.com/boulder-colorado-events/month/?tribe_eventcategory%5B0%5D=83",
+      "age_restriction": null,
+      "venue_tag": "St Julien Hotel & Spa",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Entertainment",
+        "Hotel",
+        "Upscale"
+      ],
+      "event_type_tags": [
+        "Entertainment",
+        "Hotel Events"
+      ]
+    },
+    {
+      "id": "st_julien_hotel_spa_amy_biondo_038_bill_kopper_january_22_2026_6_00_pm_9_00_pm",
+      "title": "Amy Biondo &#038; Bill Kopper",
+      "venue": "St Julien Hotel & Spa",
+      "location": "Boulder",
+      "date": "January 22, 2026",
+      "normalized_date": "2026-01-22T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM - 9:00 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://stjulien.com/event/amy-biondo-bill-kopper-19/",
+      "image": "stjulien.jpg",
+      "source_url": "https://stjulien.com/boulder-colorado-events/month/?tribe_eventcategory%5B0%5D=83",
+      "age_restriction": null,
+      "venue_tag": "St Julien Hotel & Spa",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Entertainment",
+        "Hotel",
+        "Upscale"
+      ],
+      "event_type_tags": [
+        "Entertainment",
+        "Hotel Events"
+      ]
+    },
+    {
+      "id": "st_julien_hotel_spa_honeycomb_january_23_2026_6_00_pm_9_00_pm",
+      "title": "Honeycomb",
+      "venue": "St Julien Hotel & Spa",
+      "location": "Boulder",
+      "date": "January 23, 2026",
+      "normalized_date": "2026-01-23T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM - 9:00 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://stjulien.com/event/honeycomb/",
+      "image": "stjulien.jpg",
+      "source_url": "https://stjulien.com/boulder-colorado-events/month/?tribe_eventcategory%5B0%5D=83",
+      "age_restriction": null,
+      "venue_tag": "St Julien Hotel & Spa",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Entertainment",
+        "Hotel",
+        "Upscale"
+      ],
+      "event_type_tags": [
+        "Entertainment",
+        "Hotel Events"
+      ]
+    },
+    {
+      "id": "st_julien_hotel_spa_elivin_pianist_january_29_2026_6_00_pm_9_00_pm",
+      "title": "Elivin Pianist",
+      "venue": "St Julien Hotel & Spa",
+      "location": "Boulder",
+      "date": "January 29, 2026",
+      "normalized_date": "2026-01-29T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM - 9:00 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://stjulien.com/event/elivin-pianist-2/",
+      "image": "stjulien.jpg",
+      "source_url": "https://stjulien.com/boulder-colorado-events/month/?tribe_eventcategory%5B0%5D=83",
+      "age_restriction": null,
+      "venue_tag": "St Julien Hotel & Spa",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Entertainment",
+        "Hotel",
+        "Upscale"
+      ],
+      "event_type_tags": [
+        "Entertainment",
+        "Hotel Events"
+      ]
+    },
+    {
+      "id": "st_julien_hotel_spa_housecats_funk_soul_january_30_2026_6_00_pm_9_00_pm",
+      "title": "HouseCats Funk/Soul",
+      "venue": "St Julien Hotel & Spa",
+      "location": "Boulder",
+      "date": "January 30, 2026",
+      "normalized_date": "2026-01-30T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM - 9:00 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://stjulien.com/event/housecats-funk-soul-8/",
       "image": "stjulien.jpg",
       "source_url": "https://stjulien.com/boulder-colorado-events/month/?tribe_eventcategory%5B0%5D=83",
       "age_restriction": null,
@@ -3295,33 +3424,6 @@
       ]
     },
     {
-      "id": "license_no_1_cocktails_countdown_wed_dec_31_2025_8_00_pm_wed_dec_31_2025_2_00_am_thu_jan_1_2026",
-      "title": "Cocktails & Countdown",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": "Wed, Dec 31, 2025",
-      "normalized_date": null,
-      "recurring": null,
-      "time": "8:00\u202fPM (Wed, Dec 31, 2025) - 2:00\u202fAM (Thu, Jan 1, 2026)",
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.license1boulderado.com/calendar/cocktail-countdown",
-      "image": "licenseno1.jpg",
-      "source_url": "https://www.license1boulderado.com/calendar",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Nightlife"
-      ]
-    },
-    {
       "id": "jungle_live_jazz_every_wednesday_7_00_pm_9_00_pm",
       "title": "Live Jazz",
       "venue": "Jungle",
@@ -3350,12 +3452,12 @@
       ]
     },
     {
-      "id": "rosetta_hall_on_the_dot_december_31_2025_9_00_pm",
+      "id": "rosetta_hall_on_the_dot_december_31_2026_9_00_pm",
       "title": "ON THE DOT",
       "venue": "Rosetta Hall",
       "location": "Boulder",
-      "date": "December 31, 2025",
-      "normalized_date": "2025-12-31T00:00:00",
+      "date": "December 31, 2026",
+      "normalized_date": "2026-12-31T00:00:00",
       "recurring": null,
       "time": "9:00 PM",
       "description": "INDIE ROCK",
@@ -3390,6 +3492,37 @@
       "recurring": null,
       "time": "6:00 PM",
       "description": "JAZZ KEYBOARD",
+      "additional_info": "",
+      "link": "https://rosettahall.com/live-music/",
+      "image": "rosettahall.jpg",
+      "source_url": "https://rosettahall.com/live-music/",
+      "age_restriction": "21+",
+      "venue_tag": "Rosetta Hall",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Nightlife",
+        "Dance",
+        "DJ",
+        "21+"
+      ],
+      "event_type_tags": [
+        "Music",
+        "Nightlife",
+        "Dance",
+        "DJ"
+      ]
+    },
+    {
+      "id": "rosetta_hall_four_lives_january_10_2026_10_00_pm",
+      "title": "FOUR LIVES",
+      "venue": "Rosetta Hall",
+      "location": "Boulder",
+      "date": "January 10, 2026",
+      "normalized_date": "2026-01-10T00:00:00",
+      "recurring": null,
+      "time": "10:00 PM",
+      "description": "TECH HOUSE",
       "additional_info": "",
       "link": "https://rosettahall.com/live-music/",
       "image": "rosettahall.jpg",
@@ -3784,32 +3917,6 @@
       ]
     },
     {
-      "id": "gold_hill_inn_new_year_s_eve_dance_party_december_31_2025_7_00_pm",
-      "title": "New Year's Eve Dance Party",
-      "venue": "Gold Hill Inn",
-      "location": "Gold Hill",
-      "date": "December 31, 2025",
-      "normalized_date": "2025-12-31T00:00:00",
-      "recurring": null,
-      "time": "7:00 PM",
-      "description": "NYE 2024 - Gold Hill Inn PresentsA New Years Eve Dance Party!Sold Out!Featuring:The Clay Rose Bandw/ Taylor Sims, Jeb Bows, Scott Coulter and Adam PerrySpecial GuestsThe Poudre Valley PlayboysDoors 7 p.m.Music 8 p.m.We will serve a light dinner buffet 7- 9 p.m.Tickets include Music, Food, Champagne at Midnight...",
-      "additional_info": "",
-      "link": "https://www.goldhillinn.com/music/",
-      "image": "goldhillinn.jpg",
-      "source_url": "https://www.goldhillinn.com/music/",
-      "age_restriction": "21+",
-      "venue_tag": "Gold Hill Inn",
-      "location_tag": "Gold Hill",
-      "venue_type_tags": [
-        "Live Music",
-        "Restaurant",
-        "Historic"
-      ],
-      "event_type_tags": [
-        "Live Music"
-      ]
-    },
-    {
       "id": "300_suns_brewing_thomas_dow_january_10_2026_6_00_8_00_pm",
       "title": "Thomas Dow",
       "venue": "300 Suns Brewing",
@@ -3894,33 +4001,6 @@
       ]
     },
     {
-      "id": "bricks_on_main_3rd_annual_audiomedz_before_the_ball_drops_december_31_2025_6_30_pm_9_30_pm",
-      "title": "3rd Annual AudioMedz Before the Ball Drops",
-      "venue": "Bricks on Main",
-      "location": "Longmont",
-      "date": "December 31, 2025",
-      "normalized_date": "2025-12-31T00:00:00",
-      "recurring": null,
-      "time": "6:30 PM - 9:30 PM",
-      "description": "Celebrate early with us on New Year's Eve with AudioMedz! Dance the night away and enjoy some great food and drinks!",
-      "additional_info": "",
-      "link": "https://www.bricksretail.com/event-details/3rd-annual-audiomedz-before-the-ball-drops",
-      "image": "https://static.wixstatic.com/media/ea2d6f_60efbc47f1d540beaf809772cf9261a9~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_60efbc47f1d540beaf809772cf9261a9~mv2.jpg",
-      "source_url": "https://www.bricksretail.com/events-calendar",
-      "age_restriction": null,
-      "venue_tag": "Bricks on Main",
-      "location_tag": "Longmont",
-      "venue_type_tags": [
-        "Community",
-        "Retail",
-        "Entertainment"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Entertainment"
-      ]
-    },
-    {
       "id": "bricks_on_main_sugar_britches_january_02_2026_6_00_pm_9_00_pm",
       "title": "Sugar Britches",
       "venue": "Bricks on Main",
@@ -3999,6 +4079,34 @@
       "event_type_tags": [
         "Jazz",
         "Live Music"
+      ]
+    },
+    {
+      "id": "bricks_on_main_open_mic_night_january_06_2026_5_30_pm_8_30_pm",
+      "title": "Open Mic Night",
+      "venue": "Bricks on Main",
+      "location": "Longmont",
+      "date": "January 06, 2026",
+      "normalized_date": "2026-01-06T00:00:00",
+      "recurring": null,
+      "time": "5:30 PM - 8:30 PM",
+      "description": "Music open mic, sign up at 5:30, about 15 minute time slots, often runs till 8:30 or a little later but general timeline is 6-8. Come down and eat dinner and have drinks and enjoy the music community here!",
+      "additional_info": "",
+      "link": "https://www.bricksretail.com/event-details/open-mic-night-2026-01-06-17-30",
+      "image": "https://static.wixstatic.com/media/f119ff_930ac49a2c5d4e0aa220b93515ba6ee3~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/f119ff_930ac49a2c5d4e0aa220b93515ba6ee3~mv2.jpg",
+      "source_url": "https://www.bricksretail.com/events-calendar",
+      "age_restriction": null,
+      "venue_tag": "Bricks on Main",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Community",
+        "Retail",
+        "Entertainment"
+      ],
+      "event_type_tags": [
+        "Open Mic",
+        "Music",
+        "Community"
       ]
     },
     {
@@ -4199,7 +4307,7 @@
       "normalized_date": "2026-01-23T00:00:00",
       "recurring": null,
       "time": "6:00 PM - 9:00 PM",
-      "description": "Longmont local.. come on out for an enjoyable night of music with no cover. Food and bar menu www.misskrissys.com",
+      "description": "Rockin Funky Americana with originals and classic favorites.",
       "additional_info": "",
       "link": "https://www.bricksretail.com/event-details/john-mckay-band",
       "image": "https://static.wixstatic.com/media/f119ff_db079a2ca19e45738a39147b3bbe2a99~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/f119ff_db079a2ca19e45738a39147b3bbe2a99~mv2.jpg",
@@ -4272,28 +4380,30 @@
       ]
     },
     {
-      "id": "roots_music_project_new_years_eve_party_with_riley_j_band_cabaret_vinyl_djs_december_31_2025_9_00_pm_1_00_am",
-      "title": "New Years Eve Party with Riley J Band, Cabaret & Vinyl DJs",
-      "venue": "Roots Music Project",
-      "location": "Boulder",
-      "date": "December 31, 2025",
-      "normalized_date": "2025-12-31T00:00:00",
+      "id": "bricks_on_main_mountain_reverb_january_30_2026_6_00_pm_9_00_pm",
+      "title": "Mountain Reverb",
+      "venue": "Bricks on Main",
+      "location": "Longmont",
+      "date": "January 30, 2026",
+      "normalized_date": "2026-01-30T00:00:00",
       "recurring": null,
-      "time": "9:00 PM - 1:00 AM",
-      "description": "Soulful live music, electrifying burlesque, vinyl DJs & midnight magic! The ultimate New Year's Eve celebration. Tickets selling fast!",
+      "time": "6:00 PM - 9:00 PM",
+      "description": "",
       "additional_info": "",
-      "link": "https://www.eventbrite.com/e/new-years-eve-party-with-riley-j-band-cabaret-vinyl-djs-tickets-1976500611535",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172088009%2F1125606624043%2F1%2Foriginal.20251201-201350?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=835ffac8acf09d8695c04be458dafaec",
-      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
-      "age_restriction": "21+",
-      "venue_tag": "Roots Music Project",
-      "location_tag": "Boulder",
+      "link": "https://www.bricksretail.com/event-details/mountain-reverb-1",
+      "image": "bricks.jpg",
+      "source_url": "https://www.bricksretail.com/events-calendar",
+      "age_restriction": null,
+      "venue_tag": "Bricks on Main",
+      "location_tag": "Longmont",
       "venue_type_tags": [
-        "Live Music",
-        "Community"
+        "Community",
+        "Retail",
+        "Entertainment"
       ],
       "event_type_tags": [
-        "Live Music"
+        "Live Music",
+        "Entertainment"
       ]
     },
     {
@@ -4533,7 +4643,32 @@
       "description": "Dance to 2000s hits while supporting young musicians through TEMPO. Every ticket helps the next generation of artists shine.",
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/back-to-the-2000s-nostalgic-dance-party-fundraiser-tickets-1963304920869",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1170207805%2F1125606624043%2F1%2Foriginal.20251105-142633?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=7ea9d1b4a8826e8de96a9b0f6dce8eea",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1170207805%2F1125606624043%2F1%2Foriginal.20251105-142633?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=b319148df868e3a8d70afdbd82f4c3ae",
+      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_the_gentlethem_s_club_a_mystic_moonlit_cabaret_january_30_2026_8_00_pm_11_00_pm",
+      "title": "The Gentlethem\u2019s Club: A Mystic Moonlit Cabaret",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": "January 30, 2026",
+      "normalized_date": "2026-01-30T00:00:00",
+      "recurring": null,
+      "time": "8:00 PM - 11:00 PM",
+      "description": "Welcome to The Gentlethem\u2019s Club, a sensual evening  with the vintage charm of cabaret.",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/the-gentlethems-club-a-mystic-moonlit-cabaret-tickets-1979414771867",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173775271%2F1125606624043%2F1%2Foriginal.20251231-201009?w=382&auto=format%2Ccompress&q=75&sharp=10&s=7637a49c8a553202e82f9aa8e3a03294",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",

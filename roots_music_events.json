@@ -1,25 +1,5 @@
 [
   {
-    "title": "New Years Eve Party with Riley J Band, Cabaret & Vinyl DJs",
-    "description": "Soulful live music, electrifying burlesque, vinyl DJs & midnight magic! The ultimate New Year's Eve celebration. Tickets selling fast!",
-    "link": "https://www.eventbrite.com/e/new-years-eve-party-with-riley-j-band-cabaret-vinyl-djs-tickets-1976500611535",
-    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172088009%2F1125606624043%2F1%2Foriginal.20251201-201350?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=835ffac8acf09d8695c04be458dafaec",
-    "date": "December 31, 2025",
-    "time": "9:00 PM - 1:00 AM",
-    "venue": "Roots Music Project",
-    "location": "Boulder",
-    "category": "Music",
-    "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
-    "event_type_tags": [
-      "Live Music"
-    ],
-    "venue_type_tags": [
-      "Live Music",
-      "Community"
-    ],
-    "age_restriction": "21+"
-  },
-  {
     "title": "RMP's Monthly Jazz, Soul, and Groove Jam Sessions",
     "description": "RMP Monthly Jam: Musicians unite for collaborative jazz, soul & groove performance. Pro artists create dynamic musical fusion. Free Event!",
     "link": "https://www.eventbrite.com/e/rmps-monthly-jazz-soul-and-groove-jam-sessions-tickets-1979094989389",
@@ -203,8 +183,28 @@
     "title": "Back to the 2000s: Nostalgic Dance Party Fundraiser",
     "description": "Dance to 2000s hits while supporting young musicians through TEMPO. Every ticket helps the next generation of artists shine.",
     "link": "https://www.eventbrite.com/e/back-to-the-2000s-nostalgic-dance-party-fundraiser-tickets-1963304920869",
-    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1170207805%2F1125606624043%2F1%2Foriginal.20251105-142633?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=7ea9d1b4a8826e8de96a9b0f6dce8eea",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1170207805%2F1125606624043%2F1%2Foriginal.20251105-142633?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=b319148df868e3a8d70afdbd82f4c3ae",
     "date": "January 29, 2026",
+    "time": "8:00 PM - 11:00 PM",
+    "venue": "Roots Music Project",
+    "location": "Boulder",
+    "category": "Music",
+    "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
+    "event_type_tags": [
+      "Live Music"
+    ],
+    "venue_type_tags": [
+      "Live Music",
+      "Community"
+    ],
+    "age_restriction": "21+"
+  },
+  {
+    "title": "The Gentlethem’s Club: A Mystic Moonlit Cabaret",
+    "description": "Welcome to The Gentlethem’s Club, a sensual evening  with the vintage charm of cabaret.",
+    "link": "https://www.eventbrite.com/e/the-gentlethems-club-a-mystic-moonlit-cabaret-tickets-1979414771867",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173775271%2F1125606624043%2F1%2Foriginal.20251231-201009?w=382&auto=format%2Ccompress&q=75&sharp=10&s=7637a49c8a553202e82f9aa8e3a03294",
+    "date": "January 30, 2026",
     "time": "8:00 PM - 11:00 PM",
     "venue": "Roots Music Project",
     "location": "Boulder",
