@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-01T18:32:05.334607",
+  "generated_at": "2026-01-02T08:30:20.183573",
   "total_events": 200,
   "tags": {
     "venues": [
@@ -324,10 +324,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Music",
         "Community",
-        "All Ages"
+        "All Ages",
+        "Performance",
+        "Music"
       ]
     },
     {
@@ -382,10 +382,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
         "Family Friendly",
         "Community",
-        "All Ages"
+        "All Ages",
+        "Games"
       ]
     },
     {
@@ -412,8 +412,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
-        "Community"
+        "Community",
+        "Games"
       ]
     },
     {
@@ -440,11 +440,11 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Family Friendly",
+        "Community",
         "Performance",
         "Music",
-        "All Ages",
-        "Family Friendly",
-        "Community"
+        "All Ages"
       ]
     },
     {
@@ -552,9 +552,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Community",
         "Educational",
-        "Music",
-        "Community"
+        "Music"
       ]
     },
     {
@@ -581,9 +581,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Community",
         "Performance",
-        "Music",
-        "Community"
+        "Music"
       ]
     },
     {
@@ -610,9 +610,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Community",
         "Performance",
-        "Music",
-        "Community"
+        "Music"
       ]
     },
     {
@@ -639,9 +639,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Community",
         "Performance",
-        "Music",
-        "Community"
+        "Music"
       ]
     },
     {
@@ -668,9 +668,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
+        "Community",
         "Educational",
-        "Community"
+        "Games"
       ]
     },
     {
