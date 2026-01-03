@@ -1,26 +1,5 @@
 [
   {
-    "link": "https://www.bricksretail.com/event-details/sugar-britches-2",
-    "title": "Sugar Britches",
-    "date": "January 02, 2026",
-    "time": "6:00 PM - 9:00 PM",
-    "description": "Sugar Britches are a blend of mischievous and witty lyricists with eclectic and talented musicians from genres such as bluegrass, folk, rock and honky tonk.",
-    "image": "https://static.wixstatic.com/media/f119ff_1a2dbc51913341b481bea8412883b96e~mv2.jpeg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/f119ff_1a2dbc51913341b481bea8412883b96e~mv2.jpeg",
-    "venue": "Bricks on Main",
-    "location": "Longmont",
-    "category": "Music",
-    "source_url": "https://www.bricksretail.com/events-calendar",
-    "event_type_tags": [
-      "Live Music",
-      "Entertainment"
-    ],
-    "venue_type_tags": [
-      "Music Venue",
-      "Bar",
-      "Restaurant"
-    ]
-  },
-  {
     "link": "https://www.bricksretail.com/event-details/cat-jerky-5",
     "title": "Cat Jerky",
     "date": "January 03, 2026",
@@ -297,6 +276,26 @@
     "link": "https://www.bricksretail.com/event-details/mountain-reverb-1",
     "title": "Mountain Reverb",
     "date": "January 30, 2026",
+    "time": "6:00 PM - 9:00 PM",
+    "venue": "Bricks on Main",
+    "location": "Longmont",
+    "category": "Music",
+    "source_url": "https://www.bricksretail.com/events-calendar",
+    "event_type_tags": [
+      "Live Music",
+      "Entertainment"
+    ],
+    "venue_type_tags": [
+      "Music Venue",
+      "Bar",
+      "Restaurant"
+    ],
+    "image": "bricks.jpg"
+  },
+  {
+    "link": "https://www.bricksretail.com/event-details/tenbucksixer-5",
+    "title": "Tenbucksixer",
+    "date": "January 31, 2026",
     "time": "6:00 PM - 9:00 PM",
     "venue": "Bricks on Main",
     "location": "Longmont",

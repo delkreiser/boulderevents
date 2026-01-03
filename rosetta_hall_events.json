@@ -1,31 +1,5 @@
 [
   {
-    "title": "ON THE DOT",
-    "description": "INDIE ROCK",
-    "time": "9:00 PM",
-    "date": "December 31, 2026",
-    "venue": "Rosetta Hall",
-    "location": "Boulder",
-    "category": "Music",
-    "source_url": "https://rosettahall.com/live-music/",
-    "link": "https://rosettahall.com/live-music/",
-    "image": "rosettahall.jpg",
-    "age_restriction": "21+",
-    "event_type_tags": [
-      "Music",
-      "Nightlife",
-      "Dance",
-      "DJ"
-    ],
-    "venue_type_tags": [
-      "Music",
-      "Nightlife",
-      "Dance",
-      "DJ",
-      "21+"
-    ]
-  },
-  {
     "title": "RYAN BENTHALL",
     "description": "JAZZ KEYBOARD",
     "time": "6:00 PM",
@@ -130,8 +104,8 @@
     ]
   },
   {
-    "title": "TBA",
-    "description": "TBA",
+    "title": "HAMI",
+    "description": "HOUSE / DUBSTEP",
     "time": "10:00 PM",
     "date": "January 16, 2026",
     "venue": "Rosetta Hall",
@@ -338,8 +312,8 @@
     ]
   },
   {
-    "title": "TBA",
-    "description": "TBA",
+    "title": "HOLDA",
+    "description": "HOUSE",
     "time": "10:00 PM",
     "date": "January 30, 2026",
     "venue": "Rosetta Hall",
