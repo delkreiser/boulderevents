@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T08:28:14.831375",
-  "total_events": 198,
+  "generated_at": "2026-01-03T18:28:12.570655",
+  "total_events": 197,
   "tags": {
     "venues": [
       "300 Suns Brewing",
@@ -324,8 +324,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Community"
+        "Community",
+        "All Ages"
       ]
     },
     {
@@ -352,10 +352,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
+        "Community",
         "Family Friendly",
-        "All Ages",
-        "Community"
+        "Games",
+        "All Ages"
       ]
     },
     {
@@ -382,8 +382,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
-        "Community"
+        "Community",
+        "Games"
       ]
     },
     {
@@ -410,11 +410,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "All Ages",
-        "Performance",
         "Music",
-        "Family Friendly"
+        "Community",
+        "Family Friendly",
+        "All Ages",
+        "Performance"
       ]
     },
     {
@@ -522,9 +522,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Educational",
+        "Community",
         "Music",
-        "Community"
+        "Educational"
       ]
     },
     {
@@ -551,9 +551,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Community",
         "Performance",
-        "Music",
-        "Community"
+        "Music"
       ]
     },
     {
@@ -580,9 +580,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Community",
         "Performance",
-        "Music",
-        "Community"
+        "Music"
       ]
     },
     {
@@ -609,9 +609,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Community",
         "Performance",
-        "Music",
-        "Community"
+        "Music"
       ]
     },
     {
@@ -638,9 +638,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Community",
         "Games",
-        "Educational",
-        "Community"
+        "Educational"
       ]
     },
     {
@@ -4303,33 +4303,6 @@
       "description": "",
       "additional_info": "",
       "link": "https://www.bricksretail.com/event-details/mountain-reverb-1",
-      "image": "bricks.jpg",
-      "source_url": "https://www.bricksretail.com/events-calendar",
-      "age_restriction": null,
-      "venue_tag": "Bricks on Main",
-      "location_tag": "Longmont",
-      "venue_type_tags": [
-        "Community",
-        "Retail",
-        "Entertainment"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Entertainment"
-      ]
-    },
-    {
-      "id": "bricks_on_main_tenbucksixer_january_31_2026_6_00_pm_9_00_pm",
-      "title": "Tenbucksixer",
-      "venue": "Bricks on Main",
-      "location": "Longmont",
-      "date": "January 31, 2026",
-      "normalized_date": "2026-01-31T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM - 9:00 PM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.bricksretail.com/event-details/tenbucksixer-5",
       "image": "bricks.jpg",
       "source_url": "https://www.bricksretail.com/events-calendar",
       "age_restriction": null,
