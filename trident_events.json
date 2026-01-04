@@ -88,11 +88,11 @@
     ]
   },
   {
-    "title": "Climatique",
+    "title": "Boundless in Creation: A Climatique Music & Arts Gathering",
     "link": "https://www.tridentcafe.com/events/2026/1/16/climatique",
     "date": "January 16, 2026",
     "time": "6:00 PM",
-    "description": "Boundless in Creation: A Climatique Music & Arts Gathering space for BIPOC, AFAB (assigned female at birth), and LGBTQIA+ artists to share, discuss, and uplift each other. We will showcase local talent, engage in a round-table discussion about our experiences with marginalization, explore strategies...",
+    "description": "A space for BIPOC, women, and LGBTQIA+ artists to share, discuss, and uplift each other. We will showcase local artists, engage in a round-table discussion about our experiences navigating marginalization, explore collective strategies for change, and close with an open mic. Join us as we amplify th...",
     "venue": "Trident Booksellers & Cafe",
     "location": "Boulder",
     "category": "Books & Literary",
@@ -354,6 +354,7 @@
     "link": "https://www.tridentcafe.com/events/2026/2/12/morgan-mchugh",
     "date": "February 12, 2026",
     "time": "6:00 PM",
+    "description": "Morgan McHugh is an indie folk singer-songwriter from Bellingham WA. Growing up, immersed in a family and community of musicians, he has been playing the piano, the guitar, and writing songs from a young age.\u00a0His music has been inspired by artists like\u00a0Neil Young, John Prine, and Gregory Alan Isakov...",
     "venue": "Trident Booksellers & Cafe",
     "location": "Boulder",
     "category": "Books & Literary",
@@ -658,6 +659,28 @@
     "date": "March 23, 2026",
     "time": "7:00 PM",
     "description": "Lively conversation for language learners, native speakers, and everyone in between. We regularly have 10+ languages spoken and always have spirited discussions!",
+    "venue": "Trident Booksellers & Cafe",
+    "location": "Boulder",
+    "category": "Books & Literary",
+    "source_url": "https://www.tridentcafe.com/events",
+    "image": "trident.jpg",
+    "event_type_tags": [
+      "Live Music",
+      "Books",
+      "Community"
+    ],
+    "venue_type_tags": [
+      "Cafe",
+      "Bookstore",
+      "Music Venue"
+    ]
+  },
+  {
+    "title": "Ok I Love You/ West Egg Social/ Gush",
+    "link": "https://www.tridentcafe.com/events/2026/3/28/ok-i-love-you-west-egg-social-gush",
+    "date": "March 28, 2026",
+    "time": "6:00 PM",
+    "description": "A night of alternative music headlined by Boulder\u2019s Ok I Love You are known for their music expert combination of shoegaze, emo, and alternative rock that they\u2019ve brought to audiences across Colorado. Joined by West Egg Social a genre bending indie/alternative rock band from Fort Collins and hometow...",
     "venue": "Trident Booksellers & Cafe",
     "location": "Boulder",
     "category": "Books & Literary",

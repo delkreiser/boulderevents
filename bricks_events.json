@@ -1,25 +1,5 @@
 [
   {
-    "link": "https://www.bricksretail.com/event-details/cat-jerky-5",
-    "title": "Cat Jerky",
-    "date": "January 03, 2026",
-    "time": "6:00 PM - 9:00 PM",
-    "image": "https://static.wixstatic.com/media/ea2d6f_fb55b72ba80b40a8aaed29790c9be694~mv2.jpeg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_fb55b72ba80b40a8aaed29790c9be694~mv2.jpeg",
-    "venue": "Bricks on Main",
-    "location": "Longmont",
-    "category": "Music",
-    "source_url": "https://www.bricksretail.com/events-calendar",
-    "event_type_tags": [
-      "Live Music",
-      "Entertainment"
-    ],
-    "venue_type_tags": [
-      "Music Venue",
-      "Bar",
-      "Restaurant"
-    ]
-  },
-  {
     "link": "https://www.bricksretail.com/event-details/asteria-jazz-collective-9",
     "title": "Asteria Jazz Collective",
     "date": "January 04, 2026",
@@ -273,9 +253,51 @@
     ]
   },
   {
-    "link": "https://www.bricksretail.com/event-details/mountain-reverb-1",
-    "title": "Mountain Reverb",
+    "link": "https://www.bricksretail.com/event-details/john-bunzli-cafe-con-leche-songs",
+    "title": "John Bunzli: Cafe Con Leche Songs",
+    "date": "January 29, 2026",
+    "time": "6:00 PM - 9:00 PM",
+    "description": "John Bunzli is a Loveland based songwriter who has been writing a new song a week for 5 years.  To Celebrate year 5 of writing John has gathered some of the best singer/songwriters in the area and they will each perform one of his songs. It will be an evening of great playing and great singing!!",
+    "image": "https://static.wixstatic.com/media/ea2d6f_7aa2227020a84e5d9253e98538e53835~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_7aa2227020a84e5d9253e98538e53835~mv2.jpg",
+    "venue": "Bricks on Main",
+    "location": "Longmont",
+    "category": "Music",
+    "source_url": "https://www.bricksretail.com/events-calendar",
+    "event_type_tags": [
+      "Live Music",
+      "Entertainment"
+    ],
+    "venue_type_tags": [
+      "Music Venue",
+      "Bar",
+      "Restaurant"
+    ]
+  },
+  {
+    "link": "https://www.bricksretail.com/event-details/mountain-reverb-2",
+    "title": "Mountain ReVerb",
     "date": "January 30, 2026",
+    "time": "6:00 PM - 9:00 PM",
+    "description": "Tony will be SHREDDING some Tedeschi Trucks, Jimmy Hendrix, Pink Floyd, Prince and Big Head Todd solos among others. For those of you who know Tony - you know!!",
+    "image": "https://static.wixstatic.com/media/ea2d6f_f7a3e60a73414ccebf942add639a6b98~mv2.png/v1/fill/w_400,h_400,al_c,q_85,enc_auto/ea2d6f_f7a3e60a73414ccebf942add639a6b98~mv2.png",
+    "venue": "Bricks on Main",
+    "location": "Longmont",
+    "category": "Music",
+    "source_url": "https://www.bricksretail.com/events-calendar",
+    "event_type_tags": [
+      "Live Music",
+      "Entertainment"
+    ],
+    "venue_type_tags": [
+      "Music Venue",
+      "Bar",
+      "Restaurant"
+    ]
+  },
+  {
+    "link": "https://www.bricksretail.com/event-details/tenbucksixer-5",
+    "title": "Tenbucksixer",
+    "date": "January 31, 2026",
     "time": "6:00 PM - 9:00 PM",
     "venue": "Bricks on Main",
     "location": "Longmont",
