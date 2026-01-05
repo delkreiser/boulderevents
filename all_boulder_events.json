@@ -1,12 +1,13 @@
 {
-  "generated_at": "2026-01-04T18:28:42.625450",
-  "total_events": 188,
+  "generated_at": "2026-01-05T08:34:00.215327",
+  "total_events": 199,
   "tags": {
     "venues": [
       "300 Suns Brewing",
       "Bands on the Bricks",
       "Bricks on Main",
       "Jungle",
+      "Junkyard Social Club",
       "Longs Peak Pub",
       "Louisville Street Faire",
       "Mountain Sun Pub",
@@ -47,6 +48,7 @@
       "Live Music",
       "Music",
       "Nightlife",
+      "Performance",
       "Pub",
       "Retail",
       "Upscale"
@@ -59,6 +61,7 @@
       "Community",
       "DJ",
       "Dance",
+      "Educational",
       "Entertainment",
       "Family Friendly",
       "Free",
@@ -68,7 +71,8 @@
       "Live Music",
       "Music",
       "Nightlife",
-      "Open Mic"
+      "Open Mic",
+      "Performance"
     ]
   },
   "events": [
@@ -266,6 +270,349 @@
       "event_type_tags": [
         "Live Music",
         "Nightlife"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_community_craft_night_wednesday_january_7_2026_6_00_8_30_pm",
+      "title": "Community Craft Night",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Wednesday, January 7, 2026",
+      "normalized_date": "2026-01-07T00:00:00",
+      "recurring": null,
+      "time": "6:00 - 8:30 PM",
+      "description": "",
+      "additional_info": "All Ages are Welcome",
+      "link": "https://junkyardsocialclub.org/drop-in-event/community-craft-night/",
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/10/Community-Craft-Night.jpeg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": "All Ages",
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "All Ages",
+        "Community"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_junkyard_game_night_thursday_january_8_2026_6_00_9_00_pm",
+      "title": "Junkyard Game Night",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Thursday, January 8, 2026",
+      "normalized_date": "2026-01-08T00:00:00",
+      "recurring": null,
+      "time": "6:00 - 9:00 PM",
+      "description": "",
+      "additional_info": "All Ages are Welcome",
+      "link": "https://junkyardsocialclub.org/drop-in-event/junkyard-game-night/",
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/06/Game-Night-768x768.jpg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": "All Ages",
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Games",
+        "All Ages",
+        "Family Friendly",
+        "Community"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_drop_in_mahjongg_thursdays_thursday_january_8_2026_3_30_5_30_pm",
+      "title": "Drop-In Mahjongg \u2013 Thursdays",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Thursday, January 8, 2026",
+      "normalized_date": "2026-01-08T00:00:00",
+      "recurring": null,
+      "time": "3:30 - 5:30 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://junkyardsocialclub.org/drop-in-event/drop-in-mahjongg-thursdays/",
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/08/Drop-In-Mah-Jongg-Thursday.jpg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": null,
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Games",
+        "Community"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_salsaton_events_friday_january_9_2026_7_30_11_00_pm",
+      "title": "Salsaton Events",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Friday, January 9, 2026",
+      "normalized_date": "2026-01-09T00:00:00",
+      "recurring": null,
+      "time": "7:30 - 11:00 PM",
+      "description": "",
+      "additional_info": "Family Friendly",
+      "link": "https://junkyardsocialclub.org/product/salsaton-events/",
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/12/Salsaton-Dance-Party-768x644.jpg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": "All Ages",
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Performance",
+        "Community",
+        "All Ages",
+        "Music",
+        "Family Friendly"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_b_e_a_t_meet_up_wednesday_january_14_2026_6_00_7_00_pm",
+      "title": "B.E.A.T. Meet-Up",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Wednesday, January 14, 2026",
+      "normalized_date": "2026-01-14T00:00:00",
+      "recurring": null,
+      "time": "6:00 - 7:00 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://junkyardsocialclub.org/drop-in-event/b-e-a-t-meet-up/",
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/06/BEAT-768x768.jpg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": null,
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Community"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_boulder_burner_meet_up_wednesday_january_14_2026_6_30_8_30_pm",
+      "title": "Boulder Burner Meet-up",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Wednesday, January 14, 2026",
+      "normalized_date": "2026-01-14T00:00:00",
+      "recurring": null,
+      "time": "6:30 - 8:30 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://junkyardsocialclub.org/drop-in-event/burner/",
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/07/Burner-768x434.jpg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": null,
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Community"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_creativemornings_friday_january_16_2026_8_00_am_doors_9_00_am_talk",
+      "title": "CreativeMornings",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Friday, January 16, 2026",
+      "normalized_date": "2026-01-16T00:00:00",
+      "recurring": null,
+      "time": "8:00 AM doors | 9:00 AM talk",
+      "description": "",
+      "additional_info": "Family Friendly",
+      "link": "https://junkyardsocialclub.org/event/creative-mornings/",
+      "image": "junkyard.jpg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": null,
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Community"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_flow_jam_tuesday_january_27_2026_6_00_9_00_pm",
+      "title": "Flow Jam",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Tuesday, January 27, 2026",
+      "normalized_date": "2026-01-27T00:00:00",
+      "recurring": null,
+      "time": "6:00 -9:00 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://junkyardsocialclub.org/drop-in-event/flow-jam/",
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/09/FlowJam-2025-768x768.jpg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": null,
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Educational",
+        "Music",
+        "Community"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_poletry_friday_january_30_2026_7_00_pm_doors_and_market_8_00_pm_show",
+      "title": "Poletry",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Friday, January 30, 2026",
+      "normalized_date": "2026-01-30T00:00:00",
+      "recurring": null,
+      "time": "7:00 PM Doors and Market | 8:00 PM Show",
+      "description": "",
+      "additional_info": "Must be age 18+",
+      "link": "https://junkyardsocialclub.org/event/poletry/",
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/12/poletry-768x768.jpeg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": null,
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Music",
+        "Performance",
+        "Community"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_cathartic_compost_saturday_night_saturday_january_31_2026_6_00_pm_doors_7_00_pm_show",
+      "title": "cathARTic compost \u2013 Saturday Night",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Saturday, January 31, 2026",
+      "normalized_date": "2026-01-31T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM Doors | 7:00 PM Show",
+      "description": "",
+      "additional_info": "Ages 13+",
+      "link": "https://junkyardsocialclub.org/product/cathartic-compost-saturday/",
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/10/cathARTic-compost.jpg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": null,
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Music",
+        "Performance",
+        "Community"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_cathartic_compost_sunday_night_sunday_february_1_2026_6_00_pm_doors_7_00_pm_show",
+      "title": "cathARTic compost \u2013 Sunday Night",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Sunday, February 1, 2026",
+      "normalized_date": "2026-02-01T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM Doors | 7:00 PM Show",
+      "description": "",
+      "additional_info": "Ages 13+",
+      "link": "https://junkyardsocialclub.org/product/cathartic-compost-sunday/",
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/10/cathARTic-compost.jpg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": null,
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Music",
+        "Performance",
+        "Community"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_osmp_after_dark_a_valentine_s_day_trivia_event_tuesday_february_10_2026_6_00_8_00_pm",
+      "title": "OSMP After Dark: A Valentine\u2019s Day Trivia Event",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Tuesday, February 10, 2026",
+      "normalized_date": "2026-02-10T00:00:00",
+      "recurring": null,
+      "time": "6:00 - 8:00 PM",
+      "description": "",
+      "additional_info": "Must be age 18+",
+      "link": "https://junkyardsocialclub.org/drop-in-event/osmp-after-dark/",
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/12/OSMP-After-Dark-Flyer-768x993.jpg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": null,
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Games",
+        "Educational",
+        "Community"
       ]
     },
     {
@@ -2992,35 +3339,6 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_frog_and_the_faultline_november_16_2026_5_00_pm",
-      "title": "Frog and the Faultline",
-      "venue": "Trident Booksellers & Cafe",
-      "location": "Boulder",
-      "date": "November 16, 2026",
-      "normalized_date": "2026-11-16T00:00:00",
-      "recurring": null,
-      "time": "5:00 PM",
-      "description": "Frog and the Faultline, a soft-spoken musical partnership between two friends, was born on a cool San Francisco morning after a long night in the city. They cured their morning bleariness with delicate harmonies and acoustic guitars, and were surprised by how easily the music seemed to flow. They co...",
-      "additional_info": "",
-      "link": "https://www.tridentcafe.com/events/2025/11/16/frog-and-the-faultline",
-      "image": "trident.jpg",
-      "source_url": "https://www.tridentcafe.com/events",
-      "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Books",
-        "Community"
-      ]
-    },
-    {
       "id": "jungle_live_jazz_every_wednesday_7_00_pm_9_00_pm",
       "title": "Live Jazz",
       "venue": "Jungle",
@@ -3691,33 +4009,6 @@
       ]
     },
     {
-      "id": "bricks_on_main_asteria_jazz_collective_january_04_2026_5_00_pm_8_00_pm",
-      "title": "Asteria Jazz Collective",
-      "venue": "Bricks on Main",
-      "location": "Longmont",
-      "date": "January 04, 2026",
-      "normalized_date": "2026-01-04T00:00:00",
-      "recurring": null,
-      "time": "5:00 PM - 8:00 PM",
-      "description": "Asteria Jazz Collective is a dynamic ensemble led by the captivating vocalist Stephany Prodromos and masterful bassist and musical director John Sleet Johnson.",
-      "additional_info": "",
-      "link": "https://www.bricksretail.com/event-details/asteria-jazz-collective-9",
-      "image": "https://static.wixstatic.com/media/083345_a8b23c9c17a64db6a2a4eef2668adf9f~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/083345_a8b23c9c17a64db6a2a4eef2668adf9f~mv2.jpg",
-      "source_url": "https://www.bricksretail.com/events-calendar",
-      "age_restriction": null,
-      "venue_tag": "Bricks on Main",
-      "location_tag": "Longmont",
-      "venue_type_tags": [
-        "Community",
-        "Retail",
-        "Entertainment"
-      ],
-      "event_type_tags": [
-        "Jazz",
-        "Live Music"
-      ]
-    },
-    {
       "id": "bricks_on_main_open_mic_night_january_06_2026_5_30_pm_8_30_pm",
       "title": "Open Mic Night",
       "venue": "Bricks on Main",
@@ -4016,18 +4307,45 @@
       ]
     },
     {
+      "id": "bricks_on_main_john_bunzli_cafe_con_leche_songs_january_29_2026_6_00_pm_9_00_pm",
+      "title": "John Bunzli: Cafe Con Leche Songs",
+      "venue": "Bricks on Main",
+      "location": "Longmont",
+      "date": "January 29, 2026",
+      "normalized_date": "2026-01-29T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM - 9:00 PM",
+      "description": "John Bunzli is a Loveland based songwriter who has been writing a new song a week for 5 years.  To Celebrate year 5 of writing John has gathered some of the best singer/songwriters in the area and they will each perform one of his songs. It will be an evening of great playing and great singing!!",
+      "additional_info": "",
+      "link": "https://www.bricksretail.com/event-details/john-bunzli-cafe-con-leche-songs",
+      "image": "https://static.wixstatic.com/media/ea2d6f_7aa2227020a84e5d9253e98538e53835~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_7aa2227020a84e5d9253e98538e53835~mv2.jpg",
+      "source_url": "https://www.bricksretail.com/events-calendar",
+      "age_restriction": null,
+      "venue_tag": "Bricks on Main",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Community",
+        "Retail",
+        "Entertainment"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Entertainment"
+      ]
+    },
+    {
       "id": "bricks_on_main_mountain_reverb_january_30_2026_6_00_pm_9_00_pm",
-      "title": "Mountain Reverb",
+      "title": "Mountain ReVerb",
       "venue": "Bricks on Main",
       "location": "Longmont",
       "date": "January 30, 2026",
       "normalized_date": "2026-01-30T00:00:00",
       "recurring": null,
       "time": "6:00 PM - 9:00 PM",
-      "description": "",
+      "description": "Tony will be SHREDDING some Tedeschi Trucks, Jimmy Hendrix, Pink Floyd, Prince and Big Head Todd solos among others. For those of you who know Tony - you know!!",
       "additional_info": "",
-      "link": "https://www.bricksretail.com/event-details/mountain-reverb-1",
-      "image": "bricks.jpg",
+      "link": "https://www.bricksretail.com/event-details/mountain-reverb-2",
+      "image": "https://static.wixstatic.com/media/ea2d6f_f7a3e60a73414ccebf942add639a6b98~mv2.png/v1/fill/w_400,h_400,al_c,q_85,enc_auto/ea2d6f_f7a3e60a73414ccebf942add639a6b98~mv2.png",
       "source_url": "https://www.bricksretail.com/events-calendar",
       "age_restriction": null,
       "venue_tag": "Bricks on Main",

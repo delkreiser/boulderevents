@@ -1802,27 +1802,5 @@
       "Bookstore",
       "Music Venue"
     ]
-  },
-  {
-    "title": "Frog and the Faultline",
-    "link": "https://www.tridentcafe.com/events/2025/11/16/frog-and-the-faultline",
-    "date": "November 16, 2026",
-    "time": "5:00 PM",
-    "description": "Frog and the Faultline, a soft-spoken musical partnership between two friends, was born on a cool San Francisco morning after a long night in the city. They cured their morning bleariness with delicate harmonies and acoustic guitars, and were surprised by how easily the music seemed to flow. They co...",
-    "venue": "Trident Booksellers & Cafe",
-    "location": "Boulder",
-    "category": "Books & Literary",
-    "source_url": "https://www.tridentcafe.com/events",
-    "image": "trident.jpg",
-    "event_type_tags": [
-      "Live Music",
-      "Books",
-      "Community"
-    ],
-    "venue_type_tags": [
-      "Cafe",
-      "Bookstore",
-      "Music Venue"
-    ]
   }
 ]
