@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-05T08:34:00.215327",
-  "total_events": 199,
+  "generated_at": "2026-01-05T18:33:59.992977",
+  "total_events": 201,
   "tags": {
     "venues": [
       "300 Suns Brewing",
@@ -296,8 +296,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Community"
+        "Community",
+        "All Ages"
       ]
     },
     {
@@ -324,10 +324,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
-        "All Ages",
         "Family Friendly",
-        "Community"
+        "Community",
+        "Games",
+        "All Ages"
       ]
     },
     {
@@ -354,8 +354,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
-        "Community"
+        "Community",
+        "Games"
       ]
     },
     {
@@ -382,11 +382,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
+        "Family Friendly",
         "Community",
         "All Ages",
         "Music",
-        "Family Friendly"
+        "Performance"
       ]
     },
     {
@@ -494,9 +494,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Educational",
+        "Community",
         "Music",
-        "Community"
+        "Educational"
       ]
     },
     {
@@ -523,9 +523,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Community",
         "Music",
-        "Performance",
-        "Community"
+        "Performance"
       ]
     },
     {
@@ -552,9 +552,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Community",
         "Music",
-        "Performance",
-        "Community"
+        "Performance"
       ]
     },
     {
@@ -581,9 +581,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Community",
         "Music",
-        "Performance",
-        "Community"
+        "Performance"
       ]
     },
     {
@@ -610,9 +610,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Community",
         "Games",
-        "Educational",
-        "Community"
+        "Educational"
       ]
     },
     {
@@ -1581,6 +1581,35 @@
       "description": "Lively conversation for language learners, native speakers, and everyone in between. We regularly have 10+ languages spoken and always have spirited discussions!",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-s7a5x-brgdj-p3rzz-3b9ns",
+      "image": "trident.jpg",
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Books",
+        "Community"
+      ]
+    },
+    {
+      "id": "trident_booksellers_cafe_trident_poetry_series_dan_beachy_quick_elements_offerings_february_24_2026_6_30_pm",
+      "title": "Trident Poetry Series: Dan Beachy-Quick - Elements & Offerings",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "February 24, 2026",
+      "normalized_date": "2026-02-24T00:00:00",
+      "recurring": null,
+      "time": "6:30 PM",
+      "description": "Dan Beachy-Quick is a poet, essayist, and translator whose most recent book,Elements & Offerings, is now out from LSU Press. His work has been supported by the Monfort, Lannan, and Guggenheim Foundations. He teaches at Colorado State University, where he is a University Distinguished Teaching Schola...",
+      "additional_info": "",
+      "link": "https://www.tridentcafe.com/events/2026/2/24/trident-poetry-series-dan-beachy-quick-elements-amp-offerings",
       "image": "trident.jpg",
       "source_url": "https://www.tridentcafe.com/events",
       "age_restriction": null,
@@ -4373,6 +4402,33 @@
       "additional_info": "",
       "link": "https://www.bricksretail.com/event-details/tenbucksixer-5",
       "image": "bricks.jpg",
+      "source_url": "https://www.bricksretail.com/events-calendar",
+      "age_restriction": null,
+      "venue_tag": "Bricks on Main",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Community",
+        "Retail",
+        "Entertainment"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "bricks_on_main_mmb3_organ_trio_february_01_2026_5_00_pm_8_00_pm",
+      "title": "MMB3 Organ Trio",
+      "venue": "Bricks on Main",
+      "location": "Longmont",
+      "date": "February 01, 2026",
+      "normalized_date": "2026-02-01T00:00:00",
+      "recurring": null,
+      "time": "5:00 PM - 8:00 PM",
+      "description": "MMB3 Organ Trio feature Ryan McCurry on Hammond Organ and vocals, John Massone on guitar and vocals, and Steve Balgooyen on drums and vocals. MMB3 plays a mix of classic funk, soul and blues\u2014originals and creative takes on classic covers\u2014with a New Orleans sensibility.",
+      "additional_info": "",
+      "link": "https://www.bricksretail.com/event-details/mmb3-organ-trio",
+      "image": "https://static.wixstatic.com/media/ea2d6f_e8e865cc985742ea9cf3100ceec76cac~mv2.jpeg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_e8e865cc985742ea9cf3100ceec76cac~mv2.jpeg",
       "source_url": "https://www.bricksretail.com/events-calendar",
       "age_restriction": null,
       "venue_tag": "Bricks on Main",

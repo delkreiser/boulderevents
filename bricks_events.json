@@ -292,5 +292,26 @@
       "Restaurant"
     ],
     "image": "bricks.jpg"
+  },
+  {
+    "link": "https://www.bricksretail.com/event-details/mmb3-organ-trio",
+    "title": "MMB3 Organ Trio",
+    "date": "February 01, 2026",
+    "time": "5:00 PM - 8:00 PM",
+    "description": "MMB3 Organ Trio feature Ryan McCurry on Hammond Organ and vocals, John Massone on guitar and vocals, and Steve Balgooyen on drums and vocals. MMB3 plays a mix of classic funk, soul and blues—originals and creative takes on classic covers—with a New Orleans sensibility.",
+    "image": "https://static.wixstatic.com/media/ea2d6f_e8e865cc985742ea9cf3100ceec76cac~mv2.jpeg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_e8e865cc985742ea9cf3100ceec76cac~mv2.jpeg",
+    "venue": "Bricks on Main",
+    "location": "Longmont",
+    "category": "Music",
+    "source_url": "https://www.bricksretail.com/events-calendar",
+    "event_type_tags": [
+      "Live Music",
+      "Entertainment"
+    ],
+    "venue_type_tags": [
+      "Music Venue",
+      "Bar",
+      "Restaurant"
+    ]
   }
 ]
