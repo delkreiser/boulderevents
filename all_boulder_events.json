@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-06T08:31:42.638410",
+  "generated_at": "2026-01-06T18:33:08.015278",
   "total_events": 200,
   "tags": {
     "venues": [
@@ -296,8 +296,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "All Ages"
+        "All Ages",
+        "Community"
       ]
     },
     {
@@ -325,9 +325,9 @@
       ],
       "event_type_tags": [
         "Games",
-        "Community",
+        "All Ages",
         "Family Friendly",
-        "All Ages"
+        "Community"
       ]
     },
     {
@@ -354,8 +354,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Games"
+        "Games",
+        "Community"
       ]
     },
     {
@@ -382,11 +382,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "Music",
+        "All Ages",
+        "Performance",
         "Community",
-        "Family Friendly",
-        "All Ages"
+        "Family Friendly"
       ]
     },
     {
@@ -495,8 +495,8 @@
       ],
       "event_type_tags": [
         "Music",
-        "Community",
-        "Educational"
+        "Educational",
+        "Community"
       ]
     },
     {
@@ -611,8 +611,8 @@
       ],
       "event_type_tags": [
         "Games",
-        "Community",
-        "Educational"
+        "Educational",
+        "Community"
       ]
     },
     {
@@ -3339,35 +3339,6 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_language_exchange_night_november_17_2026_7_00_pm",
-      "title": "Language Exchange Night",
-      "venue": "Trident Booksellers & Cafe",
-      "location": "Boulder",
-      "date": "November 17, 2026",
-      "normalized_date": "2026-11-17T00:00:00",
-      "recurring": null,
-      "time": "7:00 PM",
-      "description": "Free!Every Monday evening, 7-9p.m.All languages welcome. Facilitated by Kelvin Tavarez.",
-      "additional_info": "",
-      "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-p95zc-n2als-t7axs",
-      "image": "trident.jpg",
-      "source_url": "https://www.tridentcafe.com/events",
-      "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Books",
-        "Community"
-      ]
-    },
-    {
       "id": "jungle_live_jazz_every_wednesday_7_00_pm_9_00_pm",
       "title": "Live Jazz",
       "venue": "Jungle",
@@ -4625,6 +4596,31 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/jeremy-mohney-his-orchestra-new-big-band-classics-lindy-hop-lessons-tickets-1977785302079",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172921298%2F1125606624043%2F1%2Foriginal.20251214-013939?crop=focalpoint&fit=crop&w=355&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=041d7c162ef1a7ec8008ce0c5e203d2f",
+      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_dana_kyle_stokes_dave_boylan_steve_koppe_songwriters_in_the_round_january_28_2026_7_00_pm_10_00_pm",
+      "title": "Dana Kyle Stokes, Dave Boylan & Steve Koppe: Songwriters In the Round",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": "January 28, 2026",
+      "normalized_date": "2026-01-28T00:00:00",
+      "recurring": null,
+      "time": "7:00 PM - 10:00 PM",
+      "description": "Three legendary Colorado songwriters share stories and songs in an intimate acoustic evening celebrating 50 years of craft and community.",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/dana-kyle-stokes-dave-boylan-steve-koppe-songwriters-in-the-round-tickets-1979886555986",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174119807%2F1125606624043%2F1%2Foriginal.20260106-172927?crop=focalpoint&fit=crop&w=355&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=0e58905764dc5ff80773bd2028864ace",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
