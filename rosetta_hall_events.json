@@ -52,32 +52,6 @@
     ]
   },
   {
-    "title": "IZZEBELLA",
-    "description": "ROCK",
-    "time": "6:00 PM",
-    "date": "January 13, 2026",
-    "venue": "Rosetta Hall",
-    "location": "Boulder",
-    "category": "Music",
-    "source_url": "https://rosettahall.com/live-music/",
-    "link": "https://rosettahall.com/live-music/",
-    "image": "rosettahall.jpg",
-    "age_restriction": "21+",
-    "event_type_tags": [
-      "Music",
-      "Nightlife",
-      "Dance",
-      "DJ"
-    ],
-    "venue_type_tags": [
-      "Music",
-      "Nightlife",
-      "Dance",
-      "DJ",
-      "21+"
-    ]
-  },
-  {
     "title": "SHARES",
     "description": "TECH HOUSE / TECHNO",
     "time": "10:00 PM",
