@@ -1,31 +1,5 @@
 [
   {
-    "title": "ON THE DOT",
-    "description": "INDIE ROCK",
-    "time": "9:00 PM",
-    "date": "December 31, 2025",
-    "venue": "Rosetta Hall",
-    "location": "Boulder",
-    "category": "Music",
-    "source_url": "https://rosettahall.com/live-music/",
-    "link": "https://rosettahall.com/live-music/",
-    "image": "rosettahall.jpg",
-    "age_restriction": "21+",
-    "event_type_tags": [
-      "Music",
-      "Nightlife",
-      "Dance",
-      "DJ"
-    ],
-    "venue_type_tags": [
-      "Music",
-      "Nightlife",
-      "Dance",
-      "DJ",
-      "21+"
-    ]
-  },
-  {
     "title": "RYAN BENTHALL",
     "description": "JAZZ KEYBOARD",
     "time": "6:00 PM",
@@ -52,10 +26,10 @@
     ]
   },
   {
-    "title": "IZZEBELLA",
-    "description": "ROCK",
-    "time": "6:00 PM",
-    "date": "January 13, 2026",
+    "title": "FOUR LIVES",
+    "description": "TECH HOUSE",
+    "time": "10:00 PM",
+    "date": "January 10, 2026",
     "venue": "Rosetta Hall",
     "location": "Boulder",
     "category": "Music",
@@ -104,8 +78,8 @@
     ]
   },
   {
-    "title": "TBA",
-    "description": "TBA",
+    "title": "HAMI",
+    "description": "HOUSE / DUBSTEP",
     "time": "10:00 PM",
     "date": "January 16, 2026",
     "venue": "Rosetta Hall",
@@ -312,8 +286,8 @@
     ]
   },
   {
-    "title": "TBA",
-    "description": "TBA",
+    "title": "HOLDA",
+    "description": "HOUSE",
     "time": "10:00 PM",
     "date": "January 30, 2026",
     "venue": "Rosetta Hall",
@@ -342,6 +316,110 @@
     "description": "HOUSE",
     "time": "10:00 PM",
     "date": "January 31, 2026",
+    "venue": "Rosetta Hall",
+    "location": "Boulder",
+    "category": "Music",
+    "source_url": "https://rosettahall.com/live-music/",
+    "link": "https://rosettahall.com/live-music/",
+    "image": "rosettahall.jpg",
+    "age_restriction": "21+",
+    "event_type_tags": [
+      "Music",
+      "Nightlife",
+      "Dance",
+      "DJ"
+    ],
+    "venue_type_tags": [
+      "Music",
+      "Nightlife",
+      "Dance",
+      "DJ",
+      "21+"
+    ]
+  },
+  {
+    "title": "RYAN BENTHALL",
+    "description": "JAZZ KEYBOARD",
+    "time": "6:00 PM",
+    "date": "February 3, 2026",
+    "venue": "Rosetta Hall",
+    "location": "Boulder",
+    "category": "Music",
+    "source_url": "https://rosettahall.com/live-music/",
+    "link": "https://rosettahall.com/live-music/",
+    "image": "rosettahall.jpg",
+    "age_restriction": "21+",
+    "event_type_tags": [
+      "Music",
+      "Nightlife",
+      "Dance",
+      "DJ"
+    ],
+    "venue_type_tags": [
+      "Music",
+      "Nightlife",
+      "Dance",
+      "DJ",
+      "21+"
+    ]
+  },
+  {
+    "title": "STROM",
+    "description": "TECH HOUSE",
+    "time": "10:00 PM",
+    "date": "February 5, 2026",
+    "venue": "Rosetta Hall",
+    "location": "Boulder",
+    "category": "Music",
+    "source_url": "https://rosettahall.com/live-music/",
+    "link": "https://rosettahall.com/live-music/",
+    "image": "rosettahall.jpg",
+    "age_restriction": "21+",
+    "event_type_tags": [
+      "Music",
+      "Nightlife",
+      "Dance",
+      "DJ"
+    ],
+    "venue_type_tags": [
+      "Music",
+      "Nightlife",
+      "Dance",
+      "DJ",
+      "21+"
+    ]
+  },
+  {
+    "title": "TBA",
+    "description": "TBA",
+    "time": "10:00 PM",
+    "date": "February 6, 2026",
+    "venue": "Rosetta Hall",
+    "location": "Boulder",
+    "category": "Music",
+    "source_url": "https://rosettahall.com/live-music/",
+    "link": "https://rosettahall.com/live-music/",
+    "image": "rosettahall.jpg",
+    "age_restriction": "21+",
+    "event_type_tags": [
+      "Music",
+      "Nightlife",
+      "Dance",
+      "DJ"
+    ],
+    "venue_type_tags": [
+      "Music",
+      "Nightlife",
+      "Dance",
+      "DJ",
+      "21+"
+    ]
+  },
+  {
+    "title": "SHARES",
+    "description": "TECH HOUSE / TECHNO",
+    "time": "10:00 PM",
+    "date": "February 7, 2026",
     "venue": "Rosetta Hall",
     "location": "Boulder",
     "category": "Music",
