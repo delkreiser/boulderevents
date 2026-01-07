@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T08:33:34.419017",
-  "total_events": 207,
+  "generated_at": "2026-01-07T18:34:16.405317",
+  "total_events": 206,
   "tags": {
     "venues": [
       "300 Suns Brewing",
@@ -295,8 +295,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "All Ages"
+        "All Ages",
+        "Community"
       ]
     },
     {
@@ -323,10 +323,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
-        "Community",
         "Games",
-        "All Ages"
+        "All Ages",
+        "Family Friendly",
+        "Community"
       ]
     },
     {
@@ -409,11 +409,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "All Ages",
         "Music",
-        "Family Friendly",
-        "Performance"
+        "Community",
+        "Performance",
+        "All Ages",
+        "Family Friendly"
       ]
     },
     {
@@ -495,9 +495,9 @@
       ],
       "event_type_tags": [
         "Family Friendly",
+        "All Ages",
         "Music",
-        "Community",
-        "All Ages"
+        "Community"
       ]
     },
     {
@@ -525,9 +525,9 @@
       ],
       "event_type_tags": [
         "Family Friendly",
+        "All Ages",
         "Music",
-        "Community",
-        "All Ages"
+        "Community"
       ]
     },
     {
@@ -554,8 +554,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Performance"
+        "Performance",
+        "All Ages"
       ]
     },
     {
@@ -582,8 +582,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Performance"
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -639,9 +639,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Performance",
         "Music",
-        "Community",
-        "Performance"
+        "Community"
       ]
     },
     {
@@ -668,9 +668,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Performance",
         "Music",
-        "Community",
-        "Performance"
+        "Community"
       ]
     },
     {
@@ -697,9 +697,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Performance",
         "Music",
-        "Community",
-        "Performance"
+        "Community"
       ]
     },
     {
@@ -726,10 +726,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "Community",
+        "Performance",
         "All Ages",
-        "Performance"
+        "Music",
+        "Community"
       ]
     },
     {
@@ -3513,35 +3513,6 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_language_exchange_night_november_17_2026_7_00_pm",
-      "title": "Language Exchange Night",
-      "venue": "Trident Booksellers & Cafe",
-      "location": "Boulder",
-      "date": "November 17, 2026",
-      "normalized_date": "2026-11-17T00:00:00",
-      "recurring": null,
-      "time": "7:00 PM",
-      "description": "Free!Every Monday evening, 7-9p.m.All languages welcome. Facilitated by Kelvin Tavarez.",
-      "additional_info": "",
-      "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-p95zc-n2als-t7axs",
-      "image": "trident.jpg",
-      "source_url": "https://www.tridentcafe.com/events",
-      "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Books",
-        "Community"
-      ]
-    },
-    {
       "id": "jungle_live_jazz_every_wednesday_7_00_pm_9_00_pm",
       "title": "Live Jazz",
       "venue": "Jungle",
@@ -4609,14 +4580,14 @@
       ]
     },
     {
-      "id": "roots_music_project_blessing_bled_chimanga_light_hope_live_album_recording_january_10_2026_6_00_pm_10_30_pm",
+      "id": "roots_music_project_blessing_bled_chimanga_light_hope_live_album_recording_january_10_2026_7_00_pm_10_30_pm",
       "title": "Blessing Bled Chimanga - Light & Hope: live album recording",
       "venue": "Roots Music Project",
       "location": "Boulder",
       "date": "January 10, 2026",
       "normalized_date": "2026-01-10T00:00:00",
       "recurring": null,
-      "time": "6:00 PM - 10:30 PM",
+      "time": "7:00 PM - 10:30 PM",
       "description": "Come and be part of this historic live recording!  Your screams, your voices, dancing, and  joy will shape the sound of this album.",
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/blessing-bled-chimanga-light-hope-live-album-recording-tickets-1975148176365",
