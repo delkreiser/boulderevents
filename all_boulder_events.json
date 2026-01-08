@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T18:34:16.405317",
-  "total_events": 206,
+  "generated_at": "2026-01-08T08:31:36.414384",
+  "total_events": 212,
   "tags": {
     "venues": [
       "300 Suns Brewing",
@@ -71,6 +71,7 @@
       "Live Music",
       "Music",
       "Nightlife",
+      "Open Mic",
       "Performance"
     ]
   },
@@ -272,34 +273,6 @@
       ]
     },
     {
-      "id": "junkyard_social_club_community_craft_night_wednesday_january_7_2026_6_00_8_30_pm",
-      "title": "Community Craft Night",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Wednesday, January 7, 2026",
-      "normalized_date": "2026-01-07T00:00:00",
-      "recurring": null,
-      "time": "6:00 - 8:30 PM",
-      "description": "",
-      "additional_info": "All Ages are Welcome",
-      "link": "https://junkyardsocialclub.org/drop-in-event/community-craft-night/",
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/10/Community-Craft-Night.jpeg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": "All Ages",
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "All Ages",
-        "Community"
-      ]
-    },
-    {
       "id": "junkyard_social_club_junkyard_game_night_thursday_january_8_2026_6_00_9_00_pm",
       "title": "Junkyard Game Night",
       "venue": "Junkyard Social Club",
@@ -324,8 +297,8 @@
       ],
       "event_type_tags": [
         "Games",
-        "All Ages",
         "Family Friendly",
+        "All Ages",
         "Community"
       ]
     },
@@ -353,8 +326,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
@@ -410,10 +383,10 @@
       ],
       "event_type_tags": [
         "Music",
-        "Community",
+        "Family Friendly",
         "Performance",
-        "All Ages",
-        "Family Friendly"
+        "Community",
+        "All Ages"
       ]
     },
     {
@@ -496,8 +469,8 @@
       "event_type_tags": [
         "Family Friendly",
         "All Ages",
-        "Music",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
@@ -526,8 +499,8 @@
       "event_type_tags": [
         "Family Friendly",
         "All Ages",
-        "Music",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
@@ -610,9 +583,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
+        "Educational",
         "Community",
-        "Educational"
+        "Music"
       ]
     },
     {
@@ -640,8 +613,8 @@
       ],
       "event_type_tags": [
         "Performance",
-        "Music",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
@@ -669,8 +642,8 @@
       ],
       "event_type_tags": [
         "Performance",
-        "Music",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
@@ -698,8 +671,8 @@
       ],
       "event_type_tags": [
         "Performance",
-        "Music",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
@@ -727,9 +700,9 @@
       ],
       "event_type_tags": [
         "Performance",
-        "All Ages",
+        "Community",
         "Music",
-        "Community"
+        "All Ages"
       ]
     },
     {
@@ -756,8 +729,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
@@ -1175,6 +1148,35 @@
       "description": "MY\u00a0OCEANSAn urgent\u00a0exploration of\u00a0caring & mothering on a planet in crisisIn a swell of sea-linked essays, Christina Rivera explores the kinship between marine animals, humans, and Earth\u2019s blue womb. Rivera\u2019s investigative questions begin with the toxic burden of her body and spiral out\u2014to a grievin...",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2026/1/13/trident-author-series-christina-rivera-my-oceans",
+      "image": "trident.jpg",
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Books",
+        "Community"
+      ]
+    },
+    {
+      "id": "trident_booksellers_cafe_paula_gayatri_mira_devi_january_14_2026_6_00_pm",
+      "title": "Paula Gayatri & Mira Devi",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "January 14, 2026",
+      "normalized_date": "2026-01-14T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM",
+      "description": "Singer-songwriter Paula Gayatri delivers poetic, intimate performances dripping with soul. Early influences like Joni Mitchell, Indigo Girls, and Bach weave with her years of chanting and meditation at a yoga ashram. Her songs of personal healing and collective resilience welcome us home to the hear...",
+      "additional_info": "",
+      "link": "https://www.tridentcafe.com/events/2026/1/14/paula-gayatri-amp-mira-devi",
       "image": "trident.jpg",
       "source_url": "https://www.tridentcafe.com/events",
       "age_restriction": null,
@@ -1715,6 +1717,35 @@
       ]
     },
     {
+      "id": "trident_booksellers_cafe_the_elaborate_owl_malcom_teel_february_18_2026_6_00_pm",
+      "title": "The Elaborate Owl & Malcom Teel",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "February 18, 2026",
+      "normalized_date": "2026-02-18T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.tridentcafe.com/events/2026/2/11/the-elaborate-owl-amp-malcom-teel",
+      "image": "trident.jpg",
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Books",
+        "Community"
+      ]
+    },
+    {
       "id": "trident_booksellers_cafe_magic_mountain_author_series_february_19_2026_6_00_pm",
       "title": "Magic Mountain Author Series",
       "venue": "Trident Booksellers & Cafe",
@@ -1726,6 +1757,64 @@
       "description": "",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2026/1/22/magic-mountain-author-series-8mflg",
+      "image": "trident.jpg",
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Books",
+        "Community"
+      ]
+    },
+    {
+      "id": "trident_booksellers_cafe_john_shepherd_february_21_2026_6_00_pm",
+      "title": "John Shepherd",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "February 21, 2026",
+      "normalized_date": "2026-02-21T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM",
+      "description": "Now that his three kids are grown, John Shepherd is pursuing his dream of performing folk and Americana music around his hometown of Boulder, Colorado. Occasionally playing with some of the area\u2019s premier acoustic artists, Shepherd combines a rich fingerstyle guitar technique with intimate vocal del...",
+      "additional_info": "",
+      "link": "https://www.tridentcafe.com/events/2026/2/21/john-shepherd",
+      "image": "trident.jpg",
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Books",
+        "Community"
+      ]
+    },
+    {
+      "id": "trident_booksellers_cafe_the_tongueless_theater_february_22_2026_6_00_pm",
+      "title": "The Tongueless Theater",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "February 22, 2026",
+      "normalized_date": "2026-02-22T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.tridentcafe.com/events/2026/2/22/the-tongueless-theater",
       "image": "trident.jpg",
       "source_url": "https://www.tridentcafe.com/events",
       "age_restriction": null,
@@ -2672,6 +2761,35 @@
       ]
     },
     {
+      "id": "trident_booksellers_cafe_corners_of_the_sky_lfk_june_19_2026_6_00_pm",
+      "title": "Corners Of The Sky (LFK)",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "June 19, 2026",
+      "normalized_date": "2026-06-19T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.tridentcafe.com/events/2026/6/19/corners-of-the-sky-lfk",
+      "image": "trident.jpg",
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Books",
+        "Community"
+      ]
+    },
+    {
       "id": "trident_booksellers_cafe_boulder_old_time_jam_july_26_2026_6_00_pm",
       "title": "Boulder Old-Time Jam",
       "venue": "Trident Booksellers & Cafe",
@@ -3572,8 +3690,8 @@
       ]
     },
     {
-      "id": "rosetta_hall_four_lives_january_10_2026_10_00_pm",
-      "title": "FOUR LIVES",
+      "id": "rosetta_hall_strom_january_10_2026_10_00_pm",
+      "title": "STROM",
       "venue": "Rosetta Hall",
       "location": "Boulder",
       "date": "January 10, 2026",
@@ -3975,8 +4093,8 @@
       ]
     },
     {
-      "id": "rosetta_hall_strom_february_5_2026_10_00_pm",
-      "title": "STROM",
+      "id": "rosetta_hall_four_lives_february_5_2026_10_00_pm",
+      "title": "FOUR LIVES",
       "venue": "Rosetta Hall",
       "location": "Boulder",
       "date": "February 5, 2026",
@@ -4233,6 +4351,34 @@
       ]
     },
     {
+      "id": "bricks_on_main_open_mic_night_january_13_2026_5_30_pm_8_30_pm",
+      "title": "Open Mic Night",
+      "venue": "Bricks on Main",
+      "location": "Longmont",
+      "date": "January 13, 2026",
+      "normalized_date": "2026-01-13T00:00:00",
+      "recurring": null,
+      "time": "5:30 PM - 8:30 PM",
+      "description": "Music open mic, sign up at 5:30, about 15 minute time slots, often runs till 8:30 or a little later but general timeline is 6-8. Come down and eat dinner and have drinks and enjoy the music community here!",
+      "additional_info": "",
+      "link": "https://www.bricksretail.com/event-details/open-mic-night-2026-01-13-17-30",
+      "image": "https://static.wixstatic.com/media/f119ff_930ac49a2c5d4e0aa220b93515ba6ee3~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/f119ff_930ac49a2c5d4e0aa220b93515ba6ee3~mv2.jpg",
+      "source_url": "https://www.bricksretail.com/events-calendar",
+      "age_restriction": null,
+      "venue_tag": "Bricks on Main",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Community",
+        "Retail",
+        "Entertainment"
+      ],
+      "event_type_tags": [
+        "Open Mic",
+        "Music",
+        "Community"
+      ]
+    },
+    {
       "id": "bricks_on_main_jay_stott_band_january_15_2026_6_00_pm_8_00_pm",
       "title": "Jay Stott Band",
       "venue": "Bricks on Main",
@@ -4484,10 +4630,10 @@
       "normalized_date": "2026-01-31T00:00:00",
       "recurring": null,
       "time": "6:00 PM - 9:00 PM",
-      "description": "",
+      "description": "Tenbucksixer is an original band with folk-rock songs that can take you by surprise, with lyrics and tunes that are sometimes whimsical, sometimes serious, but always witty, poetic, and insightful.  they will tickle you with fun, prod you with clever, and touch you with soulful tunes.",
       "additional_info": "",
       "link": "https://www.bricksretail.com/event-details/tenbucksixer-5",
-      "image": "bricks.jpg",
+      "image": "https://static.wixstatic.com/media/ea2d6f_6aa4ae6188bf4bc784ac645464a6decb~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_6aa4ae6188bf4bc784ac645464a6decb~mv2.jpg",
       "source_url": "https://www.bricksretail.com/events-calendar",
       "age_restriction": null,
       "venue_tag": "Bricks on Main",
@@ -4992,6 +5138,31 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/resonance-ritual-featuring-tim-snider-kayla-diana-tickets-1979120897882",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173575342%2F1125606624043%2F1%2Foriginal.20251227-192139?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=f4d37a9f80462cddc986c4f4a747f16b",
+      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_asteroid_please_bear_hat_on_the_rise_album_release_ms_benefit_february_28_2026_7_00_pm_10_00_pm",
+      "title": "Asteroid Please! & Bear Hat: On The Rise Album Release & MS Benefit",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": "February 28, 2026",
+      "normalized_date": "2026-02-28T00:00:00",
+      "recurring": null,
+      "time": "7:00 PM - 10:00 PM",
+      "description": "Colorado's hottest rising stars unite for a cause! High-energy indie rock meets soulful acoustic vibes benefiting the National MS Society.",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/asteroid-please-bear-hat-on-the-rise-album-release-ms-benefit-tickets-1980026672077",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174246812%2F1125606624043%2F1%2Foriginal.20260107-204920?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=13b87eb1fc8adb9373b8a62c19e49789",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
