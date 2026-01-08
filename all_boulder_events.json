@@ -1,11 +1,10 @@
 {
-  "generated_at": "2026-01-08T08:31:36.414384",
-  "total_events": 212,
+  "generated_at": "2026-01-08T18:28:11.208355",
+  "total_events": 198,
   "tags": {
     "venues": [
       "300 Suns Brewing",
       "Bands on the Bricks",
-      "Bricks on Main",
       "Jungle",
       "Junkyard Social Club",
       "Longs Peak Pub",
@@ -50,14 +49,12 @@
       "Nightlife",
       "Performance",
       "Pub",
-      "Retail",
       "Upscale"
     ],
     "event_types": [
       "All Ages",
       "Books",
       "Brewery",
-      "Comedy",
       "Community",
       "DJ",
       "Dance",
@@ -71,7 +68,6 @@
       "Live Music",
       "Music",
       "Nightlife",
-      "Open Mic",
       "Performance"
     ]
   },
@@ -296,8 +292,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
         "Family Friendly",
+        "Games",
         "All Ages",
         "Community"
       ]
@@ -382,11 +378,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Family Friendly",
         "Performance",
         "Community",
-        "All Ages"
+        "All Ages",
+        "Music"
       ]
     },
     {
@@ -583,9 +579,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Educational",
         "Community",
-        "Music"
+        "Music",
+        "Educational"
       ]
     },
     {
@@ -4270,412 +4266,6 @@
       ]
     },
     {
-      "id": "bricks_on_main_main_st_laughs_free_comedy_at_bricks_on_main_january_08_2026_6_00_pm_8_00_pm",
-      "title": "Main St Laughs- free Comedy at Bricks on Main",
-      "venue": "Bricks on Main",
-      "location": "Longmont",
-      "date": "January 08, 2026",
-      "normalized_date": "2026-01-08T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM - 8:00 PM",
-      "description": "2nd free comedy show organized by up and comer Kristian Velando! First show was a full crowd and lots of laughs so come check out this new monthly series and support local comedians! (Mostly clean comedy, could be some language but we try for mostly PG and relatable content)",
-      "additional_info": "",
-      "link": "https://www.bricksretail.com/event-details/main-st-laughs-free-comedy-at-bricks-on-main",
-      "image": "https://static.wixstatic.com/media/f119ff_476de9e586e84b5081b3eba58941244f~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/f119ff_476de9e586e84b5081b3eba58941244f~mv2.jpg",
-      "source_url": "https://www.bricksretail.com/events-calendar",
-      "age_restriction": null,
-      "venue_tag": "Bricks on Main",
-      "location_tag": "Longmont",
-      "venue_type_tags": [
-        "Community",
-        "Retail",
-        "Entertainment"
-      ],
-      "event_type_tags": [
-        "Comedy",
-        "Entertainment"
-      ]
-    },
-    {
-      "id": "bricks_on_main_aoxomoxoa_the_stage_at_bricks_january_09_2026_6_00_pm_9_00_pm",
-      "title": "AoxomoxoA @ the stage at Bricks",
-      "venue": "Bricks on Main",
-      "location": "Longmont",
-      "date": "January 09, 2026",
-      "normalized_date": "2026-01-09T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM - 9:00 PM",
-      "description": "AoxomoxoA is a Boulder County based band that plays music from the Grateful Dead universe. With strong vocals, creative interpretations, and the love of all things Grateful Dead, AoxomoxoA plays all over the Front Range region and puts on a professional and fan friendly show!",
-      "additional_info": "",
-      "link": "https://www.bricksretail.com/event-details/aoxomoxoa-the-stage-at-bricks",
-      "image": "https://static.wixstatic.com/media/f119ff_49e8ae4b37c641f682726f4aba079722~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/f119ff_49e8ae4b37c641f682726f4aba079722~mv2.jpg",
-      "source_url": "https://www.bricksretail.com/events-calendar",
-      "age_restriction": null,
-      "venue_tag": "Bricks on Main",
-      "location_tag": "Longmont",
-      "venue_type_tags": [
-        "Community",
-        "Retail",
-        "Entertainment"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Entertainment"
-      ]
-    },
-    {
-      "id": "bricks_on_main_joe_cool_band_january_10_2026_6_00_pm_9_00_pm",
-      "title": "Joe Cool Band",
-      "venue": "Bricks on Main",
-      "location": "Longmont",
-      "date": "January 10, 2026",
-      "normalized_date": "2026-01-10T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM - 9:00 PM",
-      "description": "The \u201cJoe Cool Band\u201d is a 6 piece high energy variety dance band that will \u201cROCK\u201d your event.  Our goal is simple, to give you a night to remember, a celebration filled with fun, laughter, family and friends, GREAT MUSIC and a PACKED DANCE FLOOR.",
-      "additional_info": "",
-      "link": "https://www.bricksretail.com/event-details/joe-cool-band-7",
-      "image": "https://static.wixstatic.com/media/ea2d6f_8c0ec41248e84cb1b9bc4b65bbfa6384~mv2.png/v1/fill/w_400,h_400,al_c,q_85,enc_auto/ea2d6f_8c0ec41248e84cb1b9bc4b65bbfa6384~mv2.png",
-      "source_url": "https://www.bricksretail.com/events-calendar",
-      "age_restriction": null,
-      "venue_tag": "Bricks on Main",
-      "location_tag": "Longmont",
-      "venue_type_tags": [
-        "Community",
-        "Retail",
-        "Entertainment"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Entertainment"
-      ]
-    },
-    {
-      "id": "bricks_on_main_open_mic_night_january_13_2026_5_30_pm_8_30_pm",
-      "title": "Open Mic Night",
-      "venue": "Bricks on Main",
-      "location": "Longmont",
-      "date": "January 13, 2026",
-      "normalized_date": "2026-01-13T00:00:00",
-      "recurring": null,
-      "time": "5:30 PM - 8:30 PM",
-      "description": "Music open mic, sign up at 5:30, about 15 minute time slots, often runs till 8:30 or a little later but general timeline is 6-8. Come down and eat dinner and have drinks and enjoy the music community here!",
-      "additional_info": "",
-      "link": "https://www.bricksretail.com/event-details/open-mic-night-2026-01-13-17-30",
-      "image": "https://static.wixstatic.com/media/f119ff_930ac49a2c5d4e0aa220b93515ba6ee3~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/f119ff_930ac49a2c5d4e0aa220b93515ba6ee3~mv2.jpg",
-      "source_url": "https://www.bricksretail.com/events-calendar",
-      "age_restriction": null,
-      "venue_tag": "Bricks on Main",
-      "location_tag": "Longmont",
-      "venue_type_tags": [
-        "Community",
-        "Retail",
-        "Entertainment"
-      ],
-      "event_type_tags": [
-        "Open Mic",
-        "Music",
-        "Community"
-      ]
-    },
-    {
-      "id": "bricks_on_main_jay_stott_band_january_15_2026_6_00_pm_8_00_pm",
-      "title": "Jay Stott Band",
-      "venue": "Bricks on Main",
-      "location": "Longmont",
-      "date": "January 15, 2026",
-      "normalized_date": "2026-01-15T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM - 8:00 PM",
-      "description": "While playing the I25 corridor from Colorado to Montana for over 10 years, Lyons based Americana artist Jay Stott has been a finalist in songwriting competitions in Texas, Colorado and Montana, and performed at Rail on the River and Boulder\u2019s Big Hootenanny this year.",
-      "additional_info": "",
-      "link": "https://www.bricksretail.com/event-details/jay-stott-band",
-      "image": "https://static.wixstatic.com/media/ea2d6f_23b10e5f3f6749239691f3384fef3fbc~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_23b10e5f3f6749239691f3384fef3fbc~mv2.jpg",
-      "source_url": "https://www.bricksretail.com/events-calendar",
-      "age_restriction": null,
-      "venue_tag": "Bricks on Main",
-      "location_tag": "Longmont",
-      "venue_type_tags": [
-        "Community",
-        "Retail",
-        "Entertainment"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Entertainment"
-      ]
-    },
-    {
-      "id": "bricks_on_main_the_m_o_b_mike_ortiz_band_january_16_2026_6_00_pm_9_00_pm",
-      "title": "The M.O.B. (Mike Ortiz Band)",
-      "venue": "Bricks on Main",
-      "location": "Longmont",
-      "date": "January 16, 2026",
-      "normalized_date": "2026-01-16T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM - 9:00 PM",
-      "description": "The M.O.B. plays what you want to hear! From Allmans to ZZ Top with some Motown, Funk, Country and Blues tossed in.",
-      "additional_info": "",
-      "link": "https://www.bricksretail.com/event-details/the-m-o-b-mike-ortiz-band",
-      "image": "https://static.wixstatic.com/media/ea2d6f_bbbfd74cc8a84d3a8b09d9cbdc1991d9~mv2.png/v1/fill/w_400,h_400,al_c,q_85,enc_auto/ea2d6f_bbbfd74cc8a84d3a8b09d9cbdc1991d9~mv2.png",
-      "source_url": "https://www.bricksretail.com/events-calendar",
-      "age_restriction": null,
-      "venue_tag": "Bricks on Main",
-      "location_tag": "Longmont",
-      "venue_type_tags": [
-        "Community",
-        "Retail",
-        "Entertainment"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Entertainment"
-      ]
-    },
-    {
-      "id": "bricks_on_main_crick_wooder_january_17_2026_6_00_pm_9_00_pm",
-      "title": "Crick Wooder",
-      "venue": "Bricks on Main",
-      "location": "Longmont",
-      "date": "January 17, 2026",
-      "normalized_date": "2026-01-17T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM - 9:00 PM",
-      "description": "An Owsley-Grade Grateful Dead Experience.",
-      "additional_info": "",
-      "link": "https://www.bricksretail.com/event-details/crick-wooder-1",
-      "image": "https://static.wixstatic.com/media/ea2d6f_87c80b623fc94403a9ca8d74d950f3d9~mv2.png/v1/fill/w_400,h_400,al_c,q_85,enc_auto/ea2d6f_87c80b623fc94403a9ca8d74d950f3d9~mv2.png",
-      "source_url": "https://www.bricksretail.com/events-calendar",
-      "age_restriction": null,
-      "venue_tag": "Bricks on Main",
-      "location_tag": "Longmont",
-      "venue_type_tags": [
-        "Community",
-        "Retail",
-        "Entertainment"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Entertainment"
-      ]
-    },
-    {
-      "id": "bricks_on_main_minstrel_in_the_galaxy_january_22_2026_6_00_pm_8_00_pm",
-      "title": "Minstrel in the Galaxy",
-      "venue": "Bricks on Main",
-      "location": "Longmont",
-      "date": "January 22, 2026",
-      "normalized_date": "2026-01-22T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM - 8:00 PM",
-      "description": "Trio made up of Kenny Peralez, Thomas Gronberg and Dan Crecco always bring an amazing show.  Come hang out for a bit, you never know until you know!",
-      "additional_info": "",
-      "link": "https://www.bricksretail.com/event-details/minstrel-in-the-galaxy-2",
-      "image": "https://static.wixstatic.com/media/ea2d6f_13ae29f5b571444db6fc21f87481fedc~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_13ae29f5b571444db6fc21f87481fedc~mv2.jpg",
-      "source_url": "https://www.bricksretail.com/events-calendar",
-      "age_restriction": null,
-      "venue_tag": "Bricks on Main",
-      "location_tag": "Longmont",
-      "venue_type_tags": [
-        "Community",
-        "Retail",
-        "Entertainment"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Entertainment"
-      ]
-    },
-    {
-      "id": "bricks_on_main_john_mckay_band_january_23_2026_6_00_pm_9_00_pm",
-      "title": "John McKay Band",
-      "venue": "Bricks on Main",
-      "location": "Longmont",
-      "date": "January 23, 2026",
-      "normalized_date": "2026-01-23T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM - 9:00 PM",
-      "description": "Rockin Funky Americana with originals and classic favorites.",
-      "additional_info": "",
-      "link": "https://www.bricksretail.com/event-details/john-mckay-band",
-      "image": "https://static.wixstatic.com/media/f119ff_db079a2ca19e45738a39147b3bbe2a99~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/f119ff_db079a2ca19e45738a39147b3bbe2a99~mv2.jpg",
-      "source_url": "https://www.bricksretail.com/events-calendar",
-      "age_restriction": null,
-      "venue_tag": "Bricks on Main",
-      "location_tag": "Longmont",
-      "venue_type_tags": [
-        "Community",
-        "Retail",
-        "Entertainment"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Entertainment"
-      ]
-    },
-    {
-      "id": "bricks_on_main_the_delta_sonics_january_24_2026_6_00_pm_9_00_pm",
-      "title": "The Delta Sonics",
-      "venue": "Bricks on Main",
-      "location": "Longmont",
-      "date": "January 24, 2026",
-      "normalized_date": "2026-01-24T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM - 9:00 PM",
-      "description": "The Delta Sonics music takes a Chicago Blues base and seasons it with Swing, Delta, N\u2019awlins R&B and some early Rock n' Roll . This hard -working band averages over 200 shows a year. They have been featured at many of the major festivals in Colorado.",
-      "additional_info": "",
-      "link": "https://www.bricksretail.com/event-details/the-delta-sonics",
-      "image": "https://static.wixstatic.com/media/ea2d6f_070b3d8fb35746299734f022ec630b07~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_070b3d8fb35746299734f022ec630b07~mv2.jpg",
-      "source_url": "https://www.bricksretail.com/events-calendar",
-      "age_restriction": null,
-      "venue_tag": "Bricks on Main",
-      "location_tag": "Longmont",
-      "venue_type_tags": [
-        "Community",
-        "Retail",
-        "Entertainment"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Entertainment"
-      ]
-    },
-    {
-      "id": "bricks_on_main_boogie_river_january_25_2026_5_00_pm_8_00_pm",
-      "title": "Boogie River",
-      "venue": "Bricks on Main",
-      "location": "Longmont",
-      "date": "January 25, 2026",
-      "normalized_date": "2026-01-25T00:00:00",
-      "recurring": null,
-      "time": "5:00 PM - 8:00 PM",
-      "description": "Blending tight grooves, infectious energy, and a mix of rock, funk, and soul, Boogie River delivers a sound that\u2019s both nostalgic and fresh. With each member bringing years of experience from their previous bands, the result is a powerhouse of musicianship, creativity, and pure fun.",
-      "additional_info": "",
-      "link": "https://www.bricksretail.com/event-details/boogie-river",
-      "image": "https://static.wixstatic.com/media/ea2d6f_135ec425e39443578a983ac034389603~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_135ec425e39443578a983ac034389603~mv2.jpg",
-      "source_url": "https://www.bricksretail.com/events-calendar",
-      "age_restriction": null,
-      "venue_tag": "Bricks on Main",
-      "location_tag": "Longmont",
-      "venue_type_tags": [
-        "Community",
-        "Retail",
-        "Entertainment"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Entertainment"
-      ]
-    },
-    {
-      "id": "bricks_on_main_john_bunzli_cafe_con_leche_songs_january_29_2026_6_00_pm_9_00_pm",
-      "title": "John Bunzli: Cafe Con Leche Songs",
-      "venue": "Bricks on Main",
-      "location": "Longmont",
-      "date": "January 29, 2026",
-      "normalized_date": "2026-01-29T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM - 9:00 PM",
-      "description": "John Bunzli is a Loveland based songwriter who has been writing a new song a week for 5 years.  To Celebrate year 5 of writing John has gathered some of the best singer/songwriters in the area and they will each perform one of his songs. It will be an evening of great playing and great singing!!",
-      "additional_info": "",
-      "link": "https://www.bricksretail.com/event-details/john-bunzli-cafe-con-leche-songs",
-      "image": "https://static.wixstatic.com/media/ea2d6f_7aa2227020a84e5d9253e98538e53835~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_7aa2227020a84e5d9253e98538e53835~mv2.jpg",
-      "source_url": "https://www.bricksretail.com/events-calendar",
-      "age_restriction": null,
-      "venue_tag": "Bricks on Main",
-      "location_tag": "Longmont",
-      "venue_type_tags": [
-        "Community",
-        "Retail",
-        "Entertainment"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Entertainment"
-      ]
-    },
-    {
-      "id": "bricks_on_main_mountain_reverb_january_30_2026_6_00_pm_9_00_pm",
-      "title": "Mountain ReVerb",
-      "venue": "Bricks on Main",
-      "location": "Longmont",
-      "date": "January 30, 2026",
-      "normalized_date": "2026-01-30T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM - 9:00 PM",
-      "description": "Tony will be SHREDDING some Tedeschi Trucks, Jimmy Hendrix, Pink Floyd, Prince and Big Head Todd solos among others. For those of you who know Tony - you know!!",
-      "additional_info": "",
-      "link": "https://www.bricksretail.com/event-details/mountain-reverb-2",
-      "image": "https://static.wixstatic.com/media/ea2d6f_f7a3e60a73414ccebf942add639a6b98~mv2.png/v1/fill/w_400,h_400,al_c,q_85,enc_auto/ea2d6f_f7a3e60a73414ccebf942add639a6b98~mv2.png",
-      "source_url": "https://www.bricksretail.com/events-calendar",
-      "age_restriction": null,
-      "venue_tag": "Bricks on Main",
-      "location_tag": "Longmont",
-      "venue_type_tags": [
-        "Community",
-        "Retail",
-        "Entertainment"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Entertainment"
-      ]
-    },
-    {
-      "id": "bricks_on_main_tenbucksixer_january_31_2026_6_00_pm_9_00_pm",
-      "title": "Tenbucksixer",
-      "venue": "Bricks on Main",
-      "location": "Longmont",
-      "date": "January 31, 2026",
-      "normalized_date": "2026-01-31T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM - 9:00 PM",
-      "description": "Tenbucksixer is an original band with folk-rock songs that can take you by surprise, with lyrics and tunes that are sometimes whimsical, sometimes serious, but always witty, poetic, and insightful.  they will tickle you with fun, prod you with clever, and touch you with soulful tunes.",
-      "additional_info": "",
-      "link": "https://www.bricksretail.com/event-details/tenbucksixer-5",
-      "image": "https://static.wixstatic.com/media/ea2d6f_6aa4ae6188bf4bc784ac645464a6decb~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_6aa4ae6188bf4bc784ac645464a6decb~mv2.jpg",
-      "source_url": "https://www.bricksretail.com/events-calendar",
-      "age_restriction": null,
-      "venue_tag": "Bricks on Main",
-      "location_tag": "Longmont",
-      "venue_type_tags": [
-        "Community",
-        "Retail",
-        "Entertainment"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Entertainment"
-      ]
-    },
-    {
-      "id": "bricks_on_main_mmb3_organ_trio_february_01_2026_5_00_pm_8_00_pm",
-      "title": "MMB3 Organ Trio",
-      "venue": "Bricks on Main",
-      "location": "Longmont",
-      "date": "February 01, 2026",
-      "normalized_date": "2026-02-01T00:00:00",
-      "recurring": null,
-      "time": "5:00 PM - 8:00 PM",
-      "description": "MMB3 Organ Trio feature Ryan McCurry on Hammond Organ and vocals, John Massone on guitar and vocals, and Steve Balgooyen on drums and vocals. MMB3 plays a mix of classic funk, soul and blues\u2014originals and creative takes on classic covers\u2014with a New Orleans sensibility.",
-      "additional_info": "",
-      "link": "https://www.bricksretail.com/event-details/mmb3-organ-trio",
-      "image": "https://static.wixstatic.com/media/ea2d6f_e8e865cc985742ea9cf3100ceec76cac~mv2.jpeg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_e8e865cc985742ea9cf3100ceec76cac~mv2.jpeg",
-      "source_url": "https://www.bricksretail.com/events-calendar",
-      "age_restriction": null,
-      "venue_tag": "Bricks on Main",
-      "location_tag": "Longmont",
-      "venue_type_tags": [
-        "Community",
-        "Retail",
-        "Entertainment"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Entertainment"
-      ]
-    },
-    {
       "id": "roots_music_project_rmp_s_monthly_jazz_soul_and_groove_jam_sessions_january_08_2026_7_30_pm_10_00_pm",
       "title": "RMP's Monthly Jazz, Soul, and Groove Jam Sessions",
       "venue": "Roots Music Project",
@@ -4913,6 +4503,31 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/jeremy-mohney-his-orchestra-new-big-band-classics-lindy-hop-lessons-tickets-1977785302079",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172921298%2F1125606624043%2F1%2Foriginal.20251214-013939?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=06fd19536c17320e59e50de8c9186232",
+      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_workshop_series_roots_on_the_road_pro_audio_and_live_sound_january_27_2026_6_30_pm_9_00_pm",
+      "title": "Workshop Series: Roots on the Road - Pro Audio and Live Sound",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": "January 27, 2026",
+      "normalized_date": "2026-01-27T00:00:00",
+      "recurring": null,
+      "time": "6:30 PM - 9:00 PM",
+      "description": "Roots on the Road brings professional live music production to community events, supporting local artists & training audio volunteers",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/workshop-series-roots-on-the-road-pro-audio-and-live-sound-tickets-1979890068492",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174124424%2F1125606624043%2F1%2Foriginal.20260106-181142?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=00c865fe0752c5f26d6e5d8357aec030",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
