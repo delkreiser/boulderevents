@@ -1,25 +1,5 @@
 [
   {
-    "title": "RMP's Monthly Jazz, Soul, and Groove Jam Sessions",
-    "description": "RMP Monthly Jam: Musicians unite for collaborative jazz, soul & groove performance. Pro artists create dynamic musical fusion. Free Event!",
-    "link": "https://www.eventbrite.com/e/rmps-monthly-jazz-soul-and-groove-jam-sessions-tickets-1979094989389",
-    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F954537953%2F1125606624043%2F1%2Foriginal.20250206-174854?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=e6697e534a6f2fddc6b7e9d404724717",
-    "date": "January 08, 2026",
-    "time": "7:30 PM - 10:00 PM",
-    "venue": "Roots Music Project",
-    "location": "Boulder",
-    "category": "Music",
-    "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
-    "event_type_tags": [
-      "Live Music"
-    ],
-    "venue_type_tags": [
-      "Live Music",
-      "Community"
-    ],
-    "age_restriction": "21+"
-  },
-  {
     "title": "Big Ol' Pig Birthday Bash ft. Young and Dead - Jam Band Jubilee",
     "description": "Celebrate Ian Arras' birthday with Big Ol' Pig & Young and Dead! Colorado jam bands deliver funk, fusion & Grateful Dead grooves.",
     "link": "https://www.eventbrite.com/e/big-ol-pig-birthday-bash-ft-young-and-dead-jam-band-jubilee-tickets-1976526885120",
@@ -266,6 +246,26 @@
     "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173775271%2F1125606624043%2F1%2Foriginal.20251231-201009?w=382&auto=format%2Ccompress&q=75&sharp=10&s=7637a49c8a553202e82f9aa8e3a03294",
     "date": "January 30, 2026",
     "time": "8:00 PM - 11:00 PM",
+    "venue": "Roots Music Project",
+    "location": "Boulder",
+    "category": "Music",
+    "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
+    "event_type_tags": [
+      "Live Music"
+    ],
+    "venue_type_tags": [
+      "Live Music",
+      "Community"
+    ],
+    "age_restriction": "21+"
+  },
+  {
+    "title": "Sober Night Live! 105.5 The Colorado Sound Presents",
+    "description": "Monthly open mic for sober creatives. Share your art, find your community, perform in a supportive space. Free admission, donations welcome.",
+    "link": "https://www.eventbrite.com/e/sober-night-live-1055-the-colorado-sound-presents-tickets-1980129179680",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171681178%2F1125606624043%2F1%2Foriginal.20251124-221112?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=98887b4a971be63a95e24d16b4cd962e",
+    "date": "February 03, 2026",
+    "time": "6:30 PM - 8:30 PM",
     "venue": "Roots Music Project",
     "location": "Boulder",
     "category": "Music",
