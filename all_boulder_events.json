@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-09T08:33:35.703698",
-  "total_events": 210,
+  "generated_at": "2026-01-09T18:31:47.995630",
+  "total_events": 212,
   "tags": {
     "venues": [
       "300 Suns Brewing",
@@ -324,11 +324,11 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Performance",
         "Family Friendly",
-        "All Ages",
-        "Music",
         "Community",
-        "Performance"
+        "All Ages",
+        "Music"
       ]
     },
     {
@@ -410,9 +410,9 @@
       ],
       "event_type_tags": [
         "Community",
-        "Family Friendly",
         "All Ages",
-        "Music"
+        "Music",
+        "Family Friendly"
       ]
     },
     {
@@ -440,9 +440,9 @@
       ],
       "event_type_tags": [
         "Community",
-        "Family Friendly",
         "All Ages",
-        "Music"
+        "Music",
+        "Family Friendly"
       ]
     },
     {
@@ -555,8 +555,8 @@
       ],
       "event_type_tags": [
         "Community",
-        "Performance",
-        "Music"
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -584,8 +584,8 @@
       ],
       "event_type_tags": [
         "Community",
-        "Performance",
-        "Music"
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -613,8 +613,8 @@
       ],
       "event_type_tags": [
         "Community",
-        "Performance",
-        "Music"
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -642,9 +642,9 @@
       ],
       "event_type_tags": [
         "Community",
-        "Performance",
         "All Ages",
-        "Music"
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -699,9 +699,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
         "Community",
-        "Educational"
+        "Educational",
+        "Games"
       ]
     },
     {
@@ -1110,8 +1110,8 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_foxes_float_trip_january_15_2026_6_00_pm",
-      "title": "Foxes Float Trip",
+      "id": "trident_booksellers_cafe_foxes_float_trip_magpie_january_15_2026_6_00_pm",
+      "title": "Foxes Float Trip & Magpie",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "January 15, 2026",
@@ -1295,6 +1295,35 @@
       "description": "Magic Mountain Talks presents:Rachel Kushneris the author of the novelsCREATION LAKE,THE MARS ROOM,THE FLAMETHROWERS, andTELEX FROM CUBA, a book of short stories,THE STRANGE CASE OF RACHEL K, andTHE\u00a0HARD CROWD: ESSAYS 2000-2020.\u00a0She has won the Prix M\u00e9dicis and been a finalist for the Booker Prize, ...",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2026/1/22/trident-book-event-rachel-kushner-on-aesthetics-and-politics-in-conversation-with-benjamin-kunkel",
+      "image": "trident.jpg",
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Books",
+        "Community"
+      ]
+    },
+    {
+      "id": "trident_booksellers_cafe_chicken_coop_willaye_january_23_2026_6_00_pm",
+      "title": "Chicken Coop Willaye",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "January 23, 2026",
+      "normalized_date": "2026-01-23T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.tridentcafe.com/events/2026/1/23/chicken-coop-willaye",
       "image": "trident.jpg",
       "source_url": "https://www.tridentcafe.com/events",
       "age_restriction": null,
@@ -4603,7 +4632,7 @@
       "description": "Celebrate Ian Arras' birthday with Big Ol' Pig & Young and Dead! Colorado jam bands deliver funk, fusion & Grateful Dead grooves.",
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/big-ol-pig-birthday-bash-ft-young-and-dead-jam-band-jubilee-tickets-1976526885120",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172732577%2F1125606624043%2F1%2Foriginal.20251210-235945?crop=focalpoint&fit=crop&w=355&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=6228491ddc8d2b701522fdc6d7f1413b",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172732577%2F1125606624043%2F1%2Foriginal.20251210-235945?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=0641a36d77382ceaa3ace3869caa7e50",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -4628,7 +4657,7 @@
       "description": "Come and be part of this historic live recording!  Your screams, your voices, dancing, and  joy will shape the sound of this album.",
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/blessing-bled-chimanga-light-hope-live-album-recording-tickets-1975148176365",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171528402%2F1408677475953%2F1%2Foriginal.20251121-214623?h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&s=cb9d66b0aa29b0b9cc292d9655c6e502",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174420935%2F1125606624043%2F1%2Foriginal.20260109-161414?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=cdf3a0b72d82ee06350d49dc338e56d3",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -4653,7 +4682,7 @@
       "description": "Join Fox Linnea Drickey for community singing! Learn folk & roots songs by ear, layer harmonies, and sing together in joy. All welcome!",
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/honeycomb-open-sing-with-fox-linnea-drickey-joyful-community-harmony-tickets-1975123903765",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172733632%2F1125606624043%2F1%2Foriginal.20251211-001504?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=45312aaca33f4e3450f61c481fe42663",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172733632%2F1125606624043%2F1%2Foriginal.20251211-001504?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=19884724eee62772f97989a9aa2f3f3a",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -4678,7 +4707,7 @@
       "description": "An intimate evening of improvised jazz grooves and soulful vocals featuring JJ Murphy Trio and Denver's Halle Tomlinson.",
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/jj-murphy-wyatt-wear-and-gabriel-mangione-and-halle-tomlinson-tickets-1977675210793",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172912388%2F1125606624043%2F1%2Foriginal.20251213-194413?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=8d458930d5033a3498c9a59b3815846b",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172912388%2F1125606624043%2F1%2Foriginal.20251213-194413?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=9cc6bea0849a876067569b517bc0d2a6",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -4703,7 +4732,7 @@
       "description": "A night of Funk Punk Jazz Fusion with The Mike Dillon Band and Photon",
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/the-mike-dillon-band-feat-brian-haas-w-photon-tickets-1977676602957",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172809210%2F1125606624043%2F1%2Foriginal.20251212-003248?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=1692cda717de4992fdb2672ca15a8515",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172809210%2F1125606624043%2F1%2Foriginal.20251212-003248?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=5c15a27e5eca0af3255c990e2e536847",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -4753,7 +4782,7 @@
       "description": "Raw, soulful powerhouse duo ignites blues, roots rock & Americana. Think Mumford meets AC/DC. Don't miss this two-man sonic explosion!",
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/cousin-curtiss-high-voltage-blues-roots-rock-explosion-tickets-1859181344449",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1159902733%2F1125606624043%2F1%2Foriginal.20251022-175018?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=2e55d16b7cbb97b499abd0f9787f96fa",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1159902733%2F1125606624043%2F1%2Foriginal.20251022-175018?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=06190d1f465c663c8b6459b44f4ffa8e",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -4803,7 +4832,7 @@
       "description": "Celebrate one year of Colorado's hottest swing orchestra with an unforgettable night of jazz classics and original compositions!",
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/jeremy-mohney-his-orchestra-new-big-band-classics-lindy-hop-lessons-tickets-1977785302079",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172921298%2F1125606624043%2F1%2Foriginal.20251214-013939?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=06fd19536c17320e59e50de8c9186232",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172921298%2F1125606624043%2F1%2Foriginal.20251214-013939?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=93e1cf1bfd22745e4df66fe9ac9ed4ff",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -4828,7 +4857,7 @@
       "description": "Roots on the Road brings professional live music production to community events, supporting local artists & training audio volunteers",
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/workshop-series-roots-on-the-road-pro-audio-and-live-sound-tickets-1979890068492",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174124424%2F1125606624043%2F1%2Foriginal.20260106-181142?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=00c865fe0752c5f26d6e5d8357aec030",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174124424%2F1125606624043%2F1%2Foriginal.20260106-181142?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=8cd4c99b7a0572974ba46cec1cd42580",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -4853,7 +4882,7 @@
       "description": "Three legendary Colorado songwriters share stories and songs in an intimate acoustic evening celebrating 50 years of craft and community.",
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/dana-kyle-stokes-dave-boylan-steve-koppe-songwriters-in-the-round-tickets-1979886555986",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174119807%2F1125606624043%2F1%2Foriginal.20260106-172927?crop=focalpoint&fit=crop&w=355&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=0e58905764dc5ff80773bd2028864ace",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174119807%2F1125606624043%2F1%2Foriginal.20260106-172927?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=1e8bfe271a6c83f329a324387c96ee0b",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -4917,6 +4946,31 @@
       ]
     },
     {
+      "id": "roots_music_project_house_of_fire_cosmic_glow_january_31_2026_8_00_pm_2_00_am",
+      "title": "HOUSE of FIRE: COSMIC GLOW",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": "January 31, 2026",
+      "normalized_date": "2026-01-31T00:00:00",
+      "recurring": null,
+      "time": "8:00 PM - 2:00 AM",
+      "description": "GET READY TO BLAST OFF INTO ANOTHER GALAXY!",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/house-of-fire-cosmic-glow-tickets-1980045564585",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174433144%2F1125606624043%2F1%2Foriginal.20260109-181449?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=2c0edaf146405b76d3904322c310dc60",
+      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
       "id": "roots_music_project_sober_night_live_105_5_the_colorado_sound_presents_february_03_2026_6_30_pm_8_30_pm",
       "title": "Sober Night Live! 105.5 The Colorado Sound Presents",
       "venue": "Roots Music Project",
@@ -4928,7 +4982,7 @@
       "description": "Monthly open mic for sober creatives. Share your art, find your community, perform in a supportive space. Free admission, donations welcome.",
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/sober-night-live-1055-the-colorado-sound-presents-tickets-1980129179680",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171681178%2F1125606624043%2F1%2Foriginal.20251124-221112?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=98887b4a971be63a95e24d16b4cd962e",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171681178%2F1125606624043%2F1%2Foriginal.20251124-221112?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d5ebb1565147fced78ce25fdf2f1d537",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -4978,7 +5032,7 @@
       "description": "Colorado music legends, Hazel Miller and Jack Hadley join forces for a special evening of soul, heart, laughter and song.",
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/roots-soul-an-evening-with-hazel-miller-jack-hadley-tickets-1976353960899",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172329391%2F1125606624043%2F1%2Foriginal.20251204-175611?crop=focalpoint&fit=crop&w=355&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=22d121de927d2e1b01fe182da689bfc1",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172329391%2F1125606624043%2F1%2Foriginal.20251204-175611?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=37b712d42eedc93333c4f3df8e1da02b",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -5003,7 +5057,7 @@
       "description": "Celebrate love in all forms with Face Vocal Band's stunning harmonies, heartfelt ballads & infectious energy. Valentine's magic awaits!",
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/face-vocal-band-a-valentines-night-of-harmony-heart-tickets-1975614440975",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171737840%2F1125606624043%2F1%2Foriginal.20251125-170141?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=9aa66c945dcdc7431a2ea5d03a14881c",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171737840%2F1125606624043%2F1%2Foriginal.20251125-170141?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=65f92e2108cb53de97501e0ea14f5891",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -5028,7 +5082,7 @@
       "description": "\"Two incredible songwriters bring nostalgia & heart to the stage. An unforgettable evening of soulful music & storytelling awaits!\"",
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/stephen-kellogg-and-the-homecoming-wspecial-guest-gutter-sinatra-night-1-tickets-1730968386039",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1131586293%2F1125606624043%2F1%2Foriginal.20250922-165943?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d7fde1e0fb93fe346e3a8fcc15dfecfe",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1131586293%2F1125606624043%2F1%2Foriginal.20250922-165943?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=6d0a7dbfe4d4c1a4543850c9d3a9ff68",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -5053,7 +5107,7 @@
       "description": "\"Two incredible songwriters bring nostalgia & heart to the stage. An unforgettable evening of soulful music & storytelling awaits!\"",
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/stephen-kellogg-and-the-homecoming-wspecial-guest-gutter-sinatra-night-2-tickets-1730981384919",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1131586293%2F1125606624043%2F1%2Foriginal.20250922-165943?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d7fde1e0fb93fe346e3a8fcc15dfecfe",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1131586293%2F1125606624043%2F1%2Foriginal.20250922-165943?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=6d0a7dbfe4d4c1a4543850c9d3a9ff68",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -5078,7 +5132,7 @@
       "description": "Step into an evening where sound becomes medicine and rhythm becomes ritual.",
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/resonance-ritual-featuring-tim-snider-kayla-diana-tickets-1979120897882",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173575342%2F1125606624043%2F1%2Foriginal.20251227-192139?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=f4d37a9f80462cddc986c4f4a747f16b",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173575342%2F1125606624043%2F1%2Foriginal.20251227-192139?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=3486d6f05b1c0706efece0eb259f1d64",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -5103,7 +5157,7 @@
       "description": "Colorado's hottest rising stars unite for a cause! High-energy indie rock meets soulful acoustic vibes benefiting the National MS Society.",
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/asteroid-please-bear-hat-on-the-rise-album-release-ms-benefit-tickets-1980026672077",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174246812%2F1125606624043%2F1%2Foriginal.20260107-204920?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=13b87eb1fc8adb9373b8a62c19e49789",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174246812%2F1125606624043%2F1%2Foriginal.20260107-204920?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=0b6d4cf4543dbfad344af605632aa73c",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
