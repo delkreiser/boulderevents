@@ -1463,14 +1463,14 @@
             bottom: 24px;
             right: 24px;
             z-index: 40;
-            background: rgba(255, 255, 255, 0.8);
-            backdrop-filter: blur(12px);
-            -webkit-backdrop-filter: blur(12px);
-            border: 1px solid rgba(255, 255, 255, 0.4);
-            color: #4c1d95;
-            padding: 12px 20px;
-            border-radius: 9999px;
-            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+            background: rgba(255, 255, 255, 0.2);  /* Match status banner */
+            backdrop-filter: blur(10px);  /* Match status banner */
+            -webkit-backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.3);  /* Match status banner */
+            color: white;  /* Changed to white to match status banner */
+            padding: 14px 20px;  /* Increased vertical padding for more circular shape */
+            border-radius: 50px;  /* More circular */
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
             font-weight: 600;
             display: flex;
             align-items: center;
@@ -1478,13 +1478,13 @@
             cursor: pointer;
             transition: all 0.3s ease;
             min-width: 60px;
-            border: none;
             font-size: 1em;
         }
         
         .feedback-button:hover {
-            background: rgba(255, 255, 255, 0.95);
+            background: rgba(255, 255, 255, 0.35);  /* Match status banner hover */
             transform: scale(1.05);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
         }
         
         .feedback-button-emoji {
