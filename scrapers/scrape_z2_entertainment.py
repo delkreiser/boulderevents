@@ -54,8 +54,8 @@ def scrape_events():
     soup = BeautifulSoup(response.content, 'html.parser')
     events = []
     
-    # Find all event items - based on provided HTML structure
-    event_items = soup.find_all('div', class_='item')
+    # Find all event items - each event is wrapped in div.eventItem
+    event_items = soup.find_all('div', class_='eventItem')
     
     if not event_items:
         print("No event items found. The page structure may have changed.")
