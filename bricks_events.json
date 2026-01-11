@@ -1,8 +1,8 @@
 [
   {
-    "link": "https://www.bricksretail.com/event-details/open-mic-night-2026-01-06-17-30",
+    "link": "https://www.bricksretail.com/event-details/open-mic-night-2026-01-13-17-30",
     "title": "Open Mic Night",
-    "date": "January 06, 2026",
+    "date": "January 13, 2026",
     "time": "5:30 PM - 8:30 PM",
     "description": "Music open mic, sign up at 5:30, about 15 minute time slots, often runs till 8:30 or a little later but general timeline is 6-8. Come down and eat dinner and have drinks and enjoy the music community here!",
     "image": "https://static.wixstatic.com/media/f119ff_930ac49a2c5d4e0aa220b93515ba6ee3~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/f119ff_930ac49a2c5d4e0aa220b93515ba6ee3~mv2.jpg",
@@ -22,60 +22,19 @@
     ]
   },
   {
-    "link": "https://www.bricksretail.com/event-details/main-st-laughs-free-comedy-at-bricks-on-main",
-    "title": "Main St Laughs- free Comedy at Bricks on Main",
-    "date": "January 08, 2026",
+    "link": "https://www.bricksretail.com/event-details/karaoke-night-2026-01-14-18-00",
+    "title": "Karaoke Night",
+    "date": "January 14, 2026",
     "time": "6:00 PM - 8:00 PM",
-    "description": "2nd free comedy show organized by up and comer Kristian Velando! First show was a full crowd and lots of laughs so come check out this new monthly series and support local comedians! (Mostly clean comedy, could be some language but we try for mostly PG and relatable content)",
-    "image": "https://static.wixstatic.com/media/f119ff_476de9e586e84b5081b3eba58941244f~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/f119ff_476de9e586e84b5081b3eba58941244f~mv2.jpg",
+    "description": "Take the Bricks Main Stage ... you're the headliner!",
+    "image": "https://static.wixstatic.com/media/0f3cdb_cc11739aca8043a8a8cbdf5cdc8f3661~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/0f3cdb_cc11739aca8043a8a8cbdf5cdc8f3661~mv2.jpg",
     "venue": "Bricks on Main",
     "location": "Longmont",
     "category": "Music",
     "source_url": "https://www.bricksretail.com/events-calendar",
     "event_type_tags": [
-      "Comedy",
-      "Entertainment"
-    ],
-    "venue_type_tags": [
-      "Music Venue",
-      "Bar",
-      "Restaurant"
-    ]
-  },
-  {
-    "link": "https://www.bricksretail.com/event-details/aoxomoxoa-the-stage-at-bricks",
-    "title": "AoxomoxoA @ the stage at Bricks",
-    "date": "January 09, 2026",
-    "time": "6:00 PM - 9:00 PM",
-    "description": "AoxomoxoA is a Boulder County based band that plays music from the Grateful Dead universe. With strong vocals, creative interpretations, and the love of all things Grateful Dead, AoxomoxoA plays all over the Front Range region and puts on a professional and fan friendly show!",
-    "image": "https://static.wixstatic.com/media/f119ff_49e8ae4b37c641f682726f4aba079722~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/f119ff_49e8ae4b37c641f682726f4aba079722~mv2.jpg",
-    "venue": "Bricks on Main",
-    "location": "Longmont",
-    "category": "Music",
-    "source_url": "https://www.bricksretail.com/events-calendar",
-    "event_type_tags": [
-      "Live Music",
-      "Entertainment"
-    ],
-    "venue_type_tags": [
-      "Music Venue",
-      "Bar",
-      "Restaurant"
-    ]
-  },
-  {
-    "link": "https://www.bricksretail.com/event-details/joe-cool-band-7",
-    "title": "Joe Cool Band",
-    "date": "January 10, 2026",
-    "time": "6:00 PM - 9:00 PM",
-    "description": "The “Joe Cool Band” is a 6 piece high energy variety dance band that will “ROCK” your event.  Our goal is simple, to give you a night to remember, a celebration filled with fun, laughter, family and friends, GREAT MUSIC and a PACKED DANCE FLOOR.",
-    "image": "https://static.wixstatic.com/media/ea2d6f_8c0ec41248e84cb1b9bc4b65bbfa6384~mv2.png/v1/fill/w_400,h_400,al_c,q_85,enc_auto/ea2d6f_8c0ec41248e84cb1b9bc4b65bbfa6384~mv2.png",
-    "venue": "Bricks on Main",
-    "location": "Longmont",
-    "category": "Music",
-    "source_url": "https://www.bricksretail.com/events-calendar",
-    "event_type_tags": [
-      "Live Music",
+      "Karaoke",
+      "Music",
       "Entertainment"
     ],
     "venue_type_tags": [
@@ -278,6 +237,8 @@
     "title": "Tenbucksixer",
     "date": "January 31, 2026",
     "time": "6:00 PM - 9:00 PM",
+    "description": "Tenbucksixer is an original band with folk-rock songs that can take you by surprise, with lyrics and tunes that are sometimes whimsical, sometimes serious, but always witty, poetic, and insightful.  they will tickle you with fun, prod you with clever, and touch you with soulful tunes.",
+    "image": "https://static.wixstatic.com/media/ea2d6f_6aa4ae6188bf4bc784ac645464a6decb~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_6aa4ae6188bf4bc784ac645464a6decb~mv2.jpg",
     "venue": "Bricks on Main",
     "location": "Longmont",
     "category": "Music",
@@ -290,8 +251,7 @@
       "Music Venue",
       "Bar",
       "Restaurant"
-    ],
-    "image": "bricks.jpg"
+    ]
   },
   {
     "link": "https://www.bricksretail.com/event-details/mmb3-organ-trio",

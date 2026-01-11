@@ -1,7 +1,7 @@
 [
   {
     "title": "BIG SHRIMP with Juicebox",
-    "date": "January 8, 2026",
+    "date": "January 8, 2027",
     "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/61657Juicebox.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
     "venue": "Velvet Elk Lounge",
     "location": "Boulder",
@@ -38,6 +38,25 @@
     "link": "https://www.velvetelklounge.com/event/january-22nd-toubab-krewe-with-river-spell/"
   },
   {
+    "title": "DUBLDRGN: An electro-dub duo featuring Borahm Lee (Pretty Lights/Break Science) and Jeffrey James Franca (Thievery Corporation/ETHNO)",
+    "date": "January 23, 2026",
+    "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/1945DublDrgn-Graphic.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+    "venue": "Velvet Elk Lounge",
+    "location": "Boulder",
+    "category": "Music",
+    "source_url": "https://www.velvetelklounge.com/events/",
+    "event_type_tags": [
+      "Live Music",
+      "Nightlife"
+    ],
+    "venue_type_tags": [
+      "Bar",
+      "Music Venue",
+      "Nightlife"
+    ],
+    "link": "https://www.velvetelklounge.com/event/january-23rd-dubldrgn-an-electro-dub-duo-featuring-borahm-lee-pretty-lightsbreak-science-and-jeffrey-james-franca-thievery-corporationethno/"
+  },
+  {
     "title": "JIMKATA with Terrawave",
     "date": "January 24, 2026",
     "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/64045Jimkata_2024_2_1.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
@@ -57,7 +76,7 @@
     "link": "https://www.velvetelklounge.com/event/jimkata-featuring-special-guest-january-24th/"
   },
   {
-    "title": "Dig Deep",
+    "title": "Dig Deep with Jake Leg Band",
     "date": "January 30, 2026",
     "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/61780dig_deep.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
     "venue": "Velvet Elk Lounge",
@@ -95,6 +114,25 @@
     "link": "https://www.velvetelklounge.com/event/february-5th-hot-like-mars/"
   },
   {
+    "title": "Rolling Harvest",
+    "date": "February 13, 2026",
+    "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/38918Rolling_Harvest_Nissis_Backstage_2024.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+    "venue": "Velvet Elk Lounge",
+    "location": "Boulder",
+    "category": "Music",
+    "source_url": "https://www.velvetelklounge.com/events/",
+    "event_type_tags": [
+      "Live Music",
+      "Nightlife"
+    ],
+    "venue_type_tags": [
+      "Bar",
+      "Music Venue",
+      "Nightlife"
+    ],
+    "link": "https://www.velvetelklounge.com/event/february-13th-rolling-harvest/"
+  },
+  {
     "title": "Pimps of Joytime with Gio Chamba",
     "date": "February 21, 2026",
     "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/19328Pimps_Press_Photo_2024_credit_Isaac_Nunn.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
@@ -114,7 +152,26 @@
     "link": "https://www.velvetelklounge.com/event/february-21st-pimps-of-joytime-with-gio-chamba/"
   },
   {
-    "title": "Tinsley Ellis: Labor of Love Tour",
+    "title": "Kendall Street Company with DJ Williams Band",
+    "date": "March 4, 2026",
+    "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/15486KSC_Promo-59.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+    "venue": "Velvet Elk Lounge",
+    "location": "Boulder",
+    "category": "Music",
+    "source_url": "https://www.velvetelklounge.com/events/",
+    "event_type_tags": [
+      "Live Music",
+      "Nightlife"
+    ],
+    "venue_type_tags": [
+      "Bar",
+      "Music Venue",
+      "Nightlife"
+    ],
+    "link": "https://www.velvetelklounge.com/event/march-4th-kendall-street-company-with-dj-williams-band/"
+  },
+  {
+    "title": "Tinsley Ellis: PRIVATE SOUND CHECK EXPERIENCE",
     "date": "March 6, 2026",
     "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/40988Tinsley_Ellis.png?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
     "venue": "Velvet Elk Lounge",
@@ -130,6 +187,6 @@
       "Music Venue",
       "Nightlife"
     ],
-    "link": "https://www.velvetelklounge.com/event/march-6th-tinsley-ellis-labor-of-love-tour/"
+    "link": "https://www.velvetelklounge.com/event/march-6th-tinsley-ellis-private-sound-check-experience/"
   }
 ]

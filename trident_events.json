@@ -2,7 +2,7 @@
   {
     "title": "Stryder Jones & Fiona Liv",
     "link": "https://www.tridentcafe.com/events/2026/1/10/stryder-jones",
-    "date": "January 10, 2026",
+    "date": "January 10, 2027",
     "time": "6:00 PM",
     "description": "",
     "venue": "Trident Booksellers & Cafe",
@@ -66,7 +66,29 @@
     ]
   },
   {
-    "title": "Foxes Float Trip",
+    "title": "Paula Gayatri & Mira Devi",
+    "link": "https://www.tridentcafe.com/events/2026/1/14/paula-gayatri-amp-mira-devi",
+    "date": "January 14, 2026",
+    "time": "6:00 PM",
+    "description": "Singer-songwriter Paula Gayatri delivers poetic, intimate performances dripping with soul. Early influences like Joni Mitchell, Indigo Girls, and Bach weave with her years of chanting and meditation at a yoga ashram. Her songs of personal healing and collective resilience welcome us home to the hear...",
+    "venue": "Trident Booksellers & Cafe",
+    "location": "Boulder",
+    "category": "Books & Literary",
+    "source_url": "https://www.tridentcafe.com/events",
+    "image": "trident.jpg",
+    "event_type_tags": [
+      "Live Music",
+      "Books",
+      "Community"
+    ],
+    "venue_type_tags": [
+      "Cafe",
+      "Bookstore",
+      "Music Venue"
+    ]
+  },
+  {
+    "title": "Foxes Float Trip & Magpie",
     "link": "https://www.tridentcafe.com/events/2026/1/15/foxes-float-trip",
     "date": "January 15, 2026",
     "time": "6:00 PM",
@@ -202,6 +224,27 @@
     "date": "January 22, 2026",
     "time": "6:00 PM",
     "description": "Magic Mountain Talks presents:Rachel Kushneris the author of the novelsCREATION LAKE,THE MARS ROOM,THE FLAMETHROWERS, andTELEX FROM CUBA, a book of short stories,THE STRANGE CASE OF RACHEL K, andTHE\u00a0HARD CROWD: ESSAYS 2000-2020.\u00a0She has won the Prix M\u00e9dicis and been a finalist for the Booker Prize, ...",
+    "venue": "Trident Booksellers & Cafe",
+    "location": "Boulder",
+    "category": "Books & Literary",
+    "source_url": "https://www.tridentcafe.com/events",
+    "image": "trident.jpg",
+    "event_type_tags": [
+      "Live Music",
+      "Books",
+      "Community"
+    ],
+    "venue_type_tags": [
+      "Cafe",
+      "Bookstore",
+      "Music Venue"
+    ]
+  },
+  {
+    "title": "Chicken Coop Willaye",
+    "link": "https://www.tridentcafe.com/events/2026/1/23/chicken-coop-willaye",
+    "date": "January 23, 2026",
+    "time": "6:00 PM",
     "venue": "Trident Booksellers & Cafe",
     "location": "Boulder",
     "category": "Books & Literary",
@@ -458,9 +501,72 @@
     ]
   },
   {
+    "title": "The Elaborate Owl & Malcom Teel",
+    "link": "https://www.tridentcafe.com/events/2026/2/11/the-elaborate-owl-amp-malcom-teel",
+    "date": "February 18, 2026",
+    "time": "6:00 PM",
+    "venue": "Trident Booksellers & Cafe",
+    "location": "Boulder",
+    "category": "Books & Literary",
+    "source_url": "https://www.tridentcafe.com/events",
+    "image": "trident.jpg",
+    "event_type_tags": [
+      "Live Music",
+      "Books",
+      "Community"
+    ],
+    "venue_type_tags": [
+      "Cafe",
+      "Bookstore",
+      "Music Venue"
+    ]
+  },
+  {
     "title": "Magic Mountain Author Series",
     "link": "https://www.tridentcafe.com/events/2026/1/22/magic-mountain-author-series-8mflg",
     "date": "February 19, 2026",
+    "time": "6:00 PM",
+    "venue": "Trident Booksellers & Cafe",
+    "location": "Boulder",
+    "category": "Books & Literary",
+    "source_url": "https://www.tridentcafe.com/events",
+    "image": "trident.jpg",
+    "event_type_tags": [
+      "Live Music",
+      "Books",
+      "Community"
+    ],
+    "venue_type_tags": [
+      "Cafe",
+      "Bookstore",
+      "Music Venue"
+    ]
+  },
+  {
+    "title": "Jehovah's Fitness Club",
+    "link": "https://www.tridentcafe.com/events/2026/2/21/john-shepherd",
+    "date": "February 21, 2026",
+    "time": "6:00 PM",
+    "venue": "Trident Booksellers & Cafe",
+    "location": "Boulder",
+    "category": "Books & Literary",
+    "source_url": "https://www.tridentcafe.com/events",
+    "image": "trident.jpg",
+    "event_type_tags": [
+      "Live Music",
+      "Books",
+      "Community"
+    ],
+    "venue_type_tags": [
+      "Cafe",
+      "Bookstore",
+      "Music Venue"
+    ]
+  },
+  {
+    "title": "The Tongueless Theater",
+    "link": "https://www.tridentcafe.com/events/2026/2/22/the-tongueless-theater",
+    "date": "February 22, 2026",
     "time": "6:00 PM",
     "venue": "Trident Booksellers & Cafe",
     "location": "Boulder",
@@ -1174,6 +1280,27 @@
     ]
   },
   {
+    "title": "Corners Of The Sky (LFK)",
+    "link": "https://www.tridentcafe.com/events/2026/6/19/corners-of-the-sky-lfk",
+    "date": "June 19, 2026",
+    "time": "6:00 PM",
+    "venue": "Trident Booksellers & Cafe",
+    "location": "Boulder",
+    "category": "Books & Literary",
+    "source_url": "https://www.tridentcafe.com/events",
+    "image": "trident.jpg",
+    "event_type_tags": [
+      "Live Music",
+      "Books",
+      "Community"
+    ],
+    "venue_type_tags": [
+      "Cafe",
+      "Bookstore",
+      "Music Venue"
+    ]
+  },
+  {
     "title": "Boulder Old-Time Jam",
     "link": "https://www.tridentcafe.com/events/2022/12/8/boulder-old-time-jam-a64x2-aw5n6-sa228-pyc6f-je84d-hgpe2-ckm9k-dddm2-dpm37-pm79k-n36jh-zsm5r-2bazp-4ftff-4ahc9-l7she-a7lex-s5sxa-wmanr-z6myr-y4pf6-4wxhs",
     "date": "July 26, 2026",
@@ -1765,50 +1892,6 @@
     "date": "November 19, 2026",
     "time": "6:00 PM",
     "description": "Kings of Oblivion will be playing:Amid all this talk of kings, no kings, and careless flings, come on out and listen to Kings of Oblivion play a distorted collection of folk, rock, and jazz tunes. There will be originals, deep covers, and occasional classic tunes of angst, destruction, quiet despera...",
-    "venue": "Trident Booksellers & Cafe",
-    "location": "Boulder",
-    "category": "Books & Literary",
-    "source_url": "https://www.tridentcafe.com/events",
-    "image": "trident.jpg",
-    "event_type_tags": [
-      "Live Music",
-      "Books",
-      "Community"
-    ],
-    "venue_type_tags": [
-      "Cafe",
-      "Bookstore",
-      "Music Venue"
-    ]
-  },
-  {
-    "title": "Trident Author Series: Heather Snodgrass - A Love Letter to Reading",
-    "link": "https://www.tridentcafe.com/events/2025/11/18/trident-author-series-heather-snodgrass-a-love-letter-to-reading",
-    "date": "November 18, 2026",
-    "time": "6:30 PM",
-    "description": "A Love Letter to Readingis a genre-blending literary thriller that follows Ariana Rossi, a skilled assassin raised in a morally corrupt crime family. By day, she\u2019s a compassionate pediatric oncology nurse. By night, she operates as the elusive \"Scorpion,\" executing high-profile targets in choreograp...",
-    "venue": "Trident Booksellers & Cafe",
-    "location": "Boulder",
-    "category": "Books & Literary",
-    "source_url": "https://www.tridentcafe.com/events",
-    "image": "trident.jpg",
-    "event_type_tags": [
-      "Live Music",
-      "Books",
-      "Community"
-    ],
-    "venue_type_tags": [
-      "Cafe",
-      "Bookstore",
-      "Music Venue"
-    ]
-  },
-  {
-    "title": "Language Exchange Night",
-    "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-p95zc-n2als-t7axs",
-    "date": "November 17, 2026",
-    "time": "7:00 PM",
-    "description": "Free!Every Monday evening, 7-9p.m.All languages welcome. Facilitated by Kelvin Tavarez.",
     "venue": "Trident Booksellers & Cafe",
     "location": "Boulder",
     "category": "Books & Literary",
