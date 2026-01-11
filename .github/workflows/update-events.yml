@@ -47,6 +47,7 @@ jobs:
         python3 scrapers/roots_music_project.py || echo "Roots Music Project scraper failed"
         python3 scrapers/bricks_on_main.py || echo "Bricks on Main scraper failed"
         python3 scrapers/scrape_summer_series.py || echo "Summer Series scraper failed"
+        python3 scrapers/scrape_z2_entertainment.py || echo "Z2 Entertainment scraper failed"
     
     - name: Fix date/time fields
       run: |
