@@ -1595,8 +1595,11 @@
         }
         
         /* Hide elements when modal is open */
-        .modal-open .feedback-button,
-        .modal-open .search-section.sticky {
+        .modal-open .feedback-button {
+            display: none !important;
+        }
+        
+        .modal-open .search-section {
             display: none !important;
         }
     </style>
