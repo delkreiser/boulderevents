@@ -1556,20 +1556,20 @@
             border: none;
         }
         
-        /* Footer CTA */
-        .footer-cta {
+        /* Footer Contact Section */
+        .footer-contact {
             text-align: center;
             padding: 48px 0;
             margin-top: 32px;
         }
         
-        .footer-cta-text {
+        .footer-contact-text {
             color: white;
             font-size: 1.125em;
             margin-bottom: 16px;
         }
         
-        .footer-cta-button {
+        .footer-contact-button {
             display: inline-flex;
             align-items: center;
             gap: 8px;
@@ -1588,7 +1588,7 @@
             text-decoration: none;
         }
         
-        .footer-cta-button:hover {
+        .footer-contact-button:hover {
             background: rgba(255, 255, 255, 0.35);  /* Match feedback button hover */
             box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
             transform: scale(1.05);
@@ -1878,10 +1878,10 @@
             No events found matching your filters. Try adjusting your search!
         </div>
         
-        <!-- Footer CTA -->
-        <div class="footer-cta">
-            <p class="footer-cta-text">Know an event we're missing?</p>
-            <button class="footer-cta-button" id="footerCtaBtn">
+        <!-- Footer Contact Section -->
+        <div class="footer-contact">
+            <p class="footer-contact-text">Know an event we're missing?</p>
+            <button class="footer-contact-button" id="footerContactBtn">
                 <span>📝</span>
                 <span>Submit an Event</span>
             </button>
@@ -2827,7 +2827,7 @@
         
         // Feedback Modal Functionality
         const feedbackBtn = document.getElementById('feedbackBtn');
-        const footerCtaBtn = document.getElementById('footerCtaBtn');
+        const footerContactBtn = document.getElementById('footerContactBtn');
         const feedbackModal = document.getElementById('feedbackModal');
         const closeModalBtn = document.getElementById('closeModalBtn');
         
@@ -2845,7 +2845,7 @@
         
         // Event listeners
         feedbackBtn.addEventListener('click', openFeedbackModal);
-        footerCtaBtn.addEventListener('click', openFeedbackModal);
+        footerContactBtn.addEventListener('click', openFeedbackModal);
         closeModalBtn.addEventListener('click', closeFeedbackModal);
         
         // Close on overlay click
