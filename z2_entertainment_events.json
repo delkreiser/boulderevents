@@ -1,0 +1,77 @@
+[
+  {
+    "title": "Bob Weir Vigil & Celebration of Life",
+    "venue": "Boulder Theater",
+    "location": "Boulder",
+    "date": "January 11, 2026",
+    "time": "",
+    "image": "images/bouldertheater.jpg",
+    "link": "https://www.z2ent.com/events/detail/bob-weir-vigil-2026-bt",
+    "description": "",
+    "additional_info": "Free Event",
+    "event_type_tags": [
+      "Live Music",
+      "Concert"
+    ]
+  },
+  {
+    "title": "Sunkissd with The Speeks, Abernathy Shagnaster",
+    "venue": "Fox Theatre",
+    "location": "Boulder",
+    "date": "January 15, 2026",
+    "time": "",
+    "image": "images/foxtheatre.jpg",
+    "link": "https://www.z2ent.com/events/detail/sunkissd-2026-fox",
+    "description": "",
+    "additional_info": "",
+    "event_type_tags": [
+      "Live Music",
+      "Concert"
+    ]
+  },
+  {
+    "title": "East Nash Grass with Pick & Howl",
+    "venue": "Fox Theatre",
+    "location": "Boulder",
+    "date": "January 16, 2026",
+    "time": "",
+    "image": "images/foxtheatre.jpg",
+    "link": "https://www.z2ent.com/events/detail/east-nash-grass-2026-fox",
+    "description": "",
+    "additional_info": "",
+    "event_type_tags": [
+      "Live Music",
+      "Concert"
+    ]
+  },
+  {
+    "title": "United We Dance: The Ultimate Rave Experience",
+    "venue": "Fox Theatre",
+    "location": "Boulder",
+    "date": "January 17, 2026",
+    "time": "",
+    "image": "images/foxtheatre.jpg",
+    "link": "https://www.z2ent.com/events/detail/united-we-dance-2026-fox",
+    "description": "",
+    "additional_info": "",
+    "event_type_tags": [
+      "Live Music",
+      "Concert"
+    ]
+  },
+  {
+    "title": "Ninajirachi with 2charm, astrid",
+    "venue": "Fox Theatre",
+    "location": "Boulder",
+    "date": "January 18, 2026",
+    "time": "",
+    "image": "images/foxtheatre.jpg",
+    "link": "https://www.z2ent.com/events/detail/ninajirachi-2026-fox",
+    "description": "",
+    "additional_info": "Sold Out",
+    "event_type_tags": [
+      "Live Music",
+      "Concert"
+    ]
+  }
+]
