@@ -89,6 +89,16 @@ class EventAggregator:
                 'tags': ['Live Music', 'All Ages', 'Free', 'Community'],
                 'scraper_output': 'summer_series_events.json'
             },
+            'Boulder Theater': {
+                'location': 'Boulder',
+                'tags': ['Live Music', 'Concert', 'Theater'],
+                'scraper_output': 'z2_entertainment_events.json'
+            },
+            'Fox Theatre': {
+                'location': 'Boulder',
+                'tags': ['Live Music', 'Concert', 'Theater'],
+                'scraper_output': 'z2_entertainment_events.json'
+            },
         }
     
     def load_events_from_file(self, filepath):
