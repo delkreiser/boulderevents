@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T08:29:52.821550",
-  "total_events": 206,
+  "generated_at": "2026-01-11T18:28:40.639874",
+  "total_events": 213,
   "tags": {
     "venues": [
       "300 Suns Brewing",
@@ -357,6 +357,34 @@
       ]
     },
     {
+      "id": "junkyard_social_club_drop_in_mahjongg_tuesdays_tuesday_january_13_2026_12_00_2_00_pm",
+      "title": "Drop-In Mahjongg \u2013 Tuesdays",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Tuesday, January 13, 2026",
+      "normalized_date": "2026-01-13T00:00:00",
+      "recurring": null,
+      "time": "12:00 - 2:00 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://junkyardsocialclub.org/drop-in-event/drop-in-mahjongg-tuesdays/",
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/08/Drop-In-MahJongg-Tuesday.jpg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": null,
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Games",
+        "Community"
+      ]
+    },
+    {
       "id": "junkyard_social_club_b_e_a_t_meet_up_wednesday_january_14_2026_6_00_7_00_pm",
       "title": "B.E.A.T. Meet-Up",
       "venue": "Junkyard Social Club",
@@ -411,6 +439,34 @@
       ]
     },
     {
+      "id": "junkyard_social_club_drop_in_mahjongg_thursdays_thursday_january_15_2026_3_30_5_30_pm",
+      "title": "Drop-In Mahjongg \u2013 Thursdays",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Thursday, January 15, 2026",
+      "normalized_date": "2026-01-15T00:00:00",
+      "recurring": null,
+      "time": "3:30 - 5:30 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://junkyardsocialclub.org/drop-in-event/drop-in-mahjongg-thursdays/",
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/08/Drop-In-Mah-Jongg-Thursday.jpg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": null,
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Games",
+        "Community"
+      ]
+    },
+    {
       "id": "junkyard_social_club_silent_disco_fundraiser_for_nosilla_dance_project_saturday_january_17_2026_6_00_pm_10_00_pm",
       "title": "Silent Disco /Fundraiser for Nosilla Dance Project",
       "venue": "Junkyard Social Club",
@@ -434,10 +490,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "All Ages",
+        "Family Friendly",
         "Music",
-        "Family Friendly"
+        "Community"
       ]
     },
     {
@@ -464,10 +520,38 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "All Ages",
+        "Family Friendly",
         "Music",
-        "Family Friendly"
+        "Community"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_community_craft_night_wednesday_january_21_2026_6_00_8_30_pm",
+      "title": "Community Craft Night",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Wednesday, January 21, 2026",
+      "normalized_date": "2026-01-21T00:00:00",
+      "recurring": null,
+      "time": "6:00 - 8:30 PM",
+      "description": "",
+      "additional_info": "All Ages are Welcome",
+      "link": "https://junkyardsocialclub.org/drop-in-event/community-craft-night/",
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/10/Community-Craft-Night.jpeg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": "All Ages",
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "All Ages",
+        "Community"
       ]
     },
     {
@@ -494,8 +578,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "All Ages"
+        "All Ages",
+        "Performance"
       ]
     },
     {
@@ -550,9 +634,36 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Educational",
-        "Music"
+        "Music",
+        "Community"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_speed_dating_with_the_big_dream_wednesday_january_28_2026_6_30_8_30_pm",
+      "title": "Speed Dating with The Big Dream",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Wednesday, January 28, 2026",
+      "normalized_date": "2026-01-28T00:00:00",
+      "recurring": null,
+      "time": "6:30 - 8:30 PM",
+      "description": "",
+      "additional_info": "Must be age 18+",
+      "link": "https://junkyardsocialclub.org/event/speed-dating-with-the-big-dream-2/",
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2026/01/Speed-Dating-768x768.jpg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": null,
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Community"
       ]
     },
     {
@@ -579,9 +690,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Music",
         "Performance",
-        "Community",
-        "Music"
+        "Community"
       ]
     },
     {
@@ -608,9 +719,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Music",
         "Performance",
-        "Community",
-        "Music"
+        "Community"
       ]
     },
     {
@@ -637,9 +748,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Music",
         "Performance",
-        "Community",
-        "Music"
+        "Community"
       ]
     },
     {
@@ -666,10 +777,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Community",
         "All Ages",
-        "Music"
+        "Music",
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -696,8 +807,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Music"
+        "Music",
+        "Community"
       ]
     },
     {
@@ -724,9 +835,98 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Educational",
-        "Games"
+        "Games",
+        "Community"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_junkyard_game_night_thursday_february_12_2026_6_00_9_00_pm",
+      "title": "Junkyard Game Night",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Thursday, February 12, 2026",
+      "normalized_date": "2026-02-12T00:00:00",
+      "recurring": null,
+      "time": "6:00 - 9:00 PM",
+      "description": "",
+      "additional_info": "All Ages are Welcome",
+      "link": "https://junkyardsocialclub.org/drop-in-event/junkyard-game-night/",
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/06/Game-Night-768x768.jpg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": "All Ages",
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Games",
+        "Family Friendly",
+        "All Ages",
+        "Community"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_fusion_partner_dance_thursday_february_12_2026_doors_6_30_class_6_45_pm_social_dance_7_15",
+      "title": "Fusion Partner Dance",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Thursday, February 12, 2026",
+      "normalized_date": "2026-02-12T00:00:00",
+      "recurring": null,
+      "time": "Doors 6:30 | Class 6:45 PM | Social Dance 7:15",
+      "description": "",
+      "additional_info": "",
+      "link": "https://junkyardsocialclub.org/product/fusion-partner-dance/",
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/06/Fusion-Dance-768x768.jpg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": null,
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Music",
+        "Community"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_salsaton_events_friday_february_13_2026_7_30_11_00_pm",
+      "title": "Salsaton Events",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Friday, February 13, 2026",
+      "normalized_date": "2026-02-13T00:00:00",
+      "recurring": null,
+      "time": "7:30 - 11:00 PM",
+      "description": "",
+      "additional_info": "Family Friendly",
+      "link": "https://junkyardsocialclub.org/product/salsaton-events/",
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/12/Salsaton-Dance-Party-768x644.jpg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": "All Ages",
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Family Friendly",
+        "Performance",
+        "Community",
+        "All Ages",
+        "Music"
       ]
     },
     {
