@@ -2652,19 +2652,25 @@
                 return (a.venue || '').localeCompare(b.venue || '');
             });
             
-            // Inject ad card every 6 events
+            // Inject promo cards at specific positions
             const cardsHTML = [];
             eventsToRender.forEach((event, index) => {
                 cardsHTML.push(createEventCard(event));
                 
-                // Insert ad card after every 6th event (positions 6, 12, 18, etc.)
+                // Insert Coffee card after 3rd event
+                if ((index + 1) === 3) {
+                    console.log(`Injecting coffee card after event ${index + 1}`);
+                    cardsHTML.push(createCoffeePromoCard());
+                }
+                
+                // Insert Happy Hours card after every 6th event (positions 6, 12, 18, etc.)
                 if ((index + 1) % 6 === 0) {
-                    console.log(`Injecting ad card after event ${index + 1}`);
+                    console.log(`Injecting happy hours card after event ${index + 1}`);
                     cardsHTML.push(createHappyHourPromoCard());
                 }
             });
             
-            console.log(`Total cards (events + ads): ${cardsHTML.length}, Events: ${eventsToRender.length}`);
+            console.log(`Total cards (events + promos): ${cardsHTML.length}, Events: ${eventsToRender.length}`);
             
             grid.innerHTML = cardsHTML.join('');
             
@@ -2686,6 +2692,22 @@
                            style="display: inline-block; background: white; color: #ff6a88; padding: 12px 30px; border-radius: 25px; font-weight: 600; margin-top: 20px; text-decoration: none;">
                             Check It Out →
                         </a>
+                    </div>
+                </div>
+            `;
+        }
+        
+        function createCoffeePromoCard() {
+            return `
+                <div class="promo-card" style="display: flex !important; background: linear-gradient(135deg, #764ba2 0%, #667eea 100%); min-height: 400px; border-radius: 15px; overflow: hidden; box-shadow: 0 5px 20px rgba(0,0,0,0.15); flex-direction: column;">
+                    <div style="padding: 40px 30px; text-align: center; color: white; flex: 1; display: flex; flex-direction: column; justify-content: center; gap: 15px;">
+                        <h3 style="font-size: 1.8em; font-weight: 700; margin: 0; color: white;">Like the Project?</h3>
+                        <a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank" rel="noopener noreferrer" 
+                           style="display: inline-block; background: white; color: #764ba2; padding: 12px 30px; border-radius: 25px; font-weight: 600; text-decoration: none; font-size: 1.1em;">
+                            ☕ Buy me a Coffee
+                        </a>
+                        <p style="font-size: 1em; margin: 10px 0 0 0; color: white;">Free! No ads.</p>
+                        <p style="font-size: 0.85em; margin: 5px 0 0 0; color: white; opacity: 0.9;">Help keep it alive! 💛</p>
                     </div>
                 </div>
             `;
