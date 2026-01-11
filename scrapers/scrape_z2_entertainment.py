@@ -2,6 +2,7 @@
 """
 Z2 Entertainment Events Scraper
 Scrapes events from Boulder Theater, Fox Theatre, and Aggie Theatre
+Uses direct API calls to get all events without Selenium
 """
 
 import requests
@@ -9,6 +10,7 @@ from bs4 import BeautifulSoup
 import json
 from datetime import datetime
 import re
+from pathlib import Path
 
 # Venue mappings
 VENUE_INFO = {
@@ -35,44 +37,107 @@ VENUE_INFO = {
 }
 
 def scrape_events():
-    """Scrape events from Z2 Entertainment website"""
-    url = "https://www.z2ent.com/events"
+    """Scrape all events by making multiple API calls"""
+    base_url = "https://www.z2ent.com/events"
     
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+        'X-Requested-With': 'XMLHttpRequest',  # Indicates AJAX request
     }
     
-    print("Scraping Z2 Entertainment events...")
+    all_events = []
+    offset = 0
+    increment = 12
+    max_pages = 50  # Safety limit
     
-    try:
-        response = requests.get(url, headers=headers, timeout=10)
-        response.raise_for_status()
-    except Exception as e:
-        print(f"Error fetching page: {e}")
-        return []
+    print("Scraping Z2 Entertainment events with pagination...")
     
-    soup = BeautifulSoup(response.content, 'html.parser')
-    events = []
+    for page in range(max_pages):
+        print(f"\nFetching page {page + 1} (offset: {offset})...")
+        
+        # Try the AJAX endpoint first
+        # Many sites use /events/load or similar for "load more"
+        ajax_urls_to_try = [
+            f"{base_url}?offset={offset}",
+            f"https://www.z2ent.com/api/events?offset={offset}",
+            f"https://www.z2ent.com/events/load?offset={offset}",
+            f"https://www.z2ent.com/events?page={page + 1}",
+        ]
+        
+        soup = None
+        
+        # Try each URL pattern
+        for ajax_url in ajax_urls_to_try:
+            try:
+                response = requests.get(ajax_url, headers=headers, timeout=10)
+                if response.status_code == 200 and len(response.content) > 100:
+                    soup = BeautifulSoup(response.content, 'html.parser')
+                    event_items = soup.find_all('div', class_='eventItem')
+                    if event_items:
+                        print(f"  ✓ Found {len(event_items)} events using {ajax_url}")
+                        break
+            except Exception as e:
+                continue
+        
+        # If AJAX didn't work and it's the first page, get the main page
+        if not soup and page == 0:
+            try:
+                response = requests.get(base_url, headers=headers, timeout=10)
+                response.raise_for_status()
+                soup = BeautifulSoup(response.content, 'html.parser')
+            except Exception as e:
+                print(f"Error fetching page: {e}")
+                break
+        
+        if not soup:
+            print("  Could not load more events")
+            break
+        
+        # Parse events from this page
+        event_items = soup.find_all('div', class_='eventItem')
+        
+        if not event_items:
+            print(f"  No more events found")
+            break
+        
+        print(f"  Found {len(event_items)} events on this page")
+        
+        # Parse each event
+        page_events = []
+        for item in event_items:
+            try:
+                event = parse_event_card(item)
+                if event:
+                    page_events.append(event)
+            except Exception as e:
+                print(f"  Error parsing event: {e}")
+                continue
+        
+        if not page_events:
+            print("  No new events parsed, stopping")
+            break
+        
+        all_events.extend(page_events)
+        
+        # Check if we got fewer events than increment (last page)
+        if len(event_items) < increment:
+            print(f"  Reached last page (got {len(event_items)} < {increment})")
+            break
+        
+        offset += increment
     
-    # Find all event items - each event is wrapped in div.eventItem
-    event_items = soup.find_all('div', class_='eventItem')
+    # Remove duplicates based on title + venue + date
+    unique_events = []
+    seen = set()
+    for event in all_events:
+        key = (event['title'], event['venue'], event['date'])
+        if key not in seen:
+            seen.add(key)
+            unique_events.append(event)
     
-    if not event_items:
-        print("No event items found. The page structure may have changed.")
-        return []
+    print(f"\nTotal unique events: {len(unique_events)} (removed {len(all_events) - len(unique_events)} duplicates)")
     
-    print(f"Found {len(event_items)} total events")
-    
-    for item in event_items:
-        try:
-            event = parse_event_card(item)
-            if event:
-                events.append(event)
-        except Exception as e:
-            print(f"Error parsing event: {e}")
-            continue
-    
-    return events
+    return unique_events
 
 def parse_event_card(card):
     """Parse individual event card based on Z2 Entertainment HTML structure"""
