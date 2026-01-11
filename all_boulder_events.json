@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-01-11T21:27:55.236244",
-  "total_events": 213,
+  "generated_at": "2026-01-11T21:37:21.112762",
+  "total_events": 223,
   "tags": {
     "venues": [
       "300 Suns Brewing",
       "Bands on the Bricks",
+      "Boulder Theater",
       "Bricks on Main",
+      "Fox Theatre",
       "Jungle",
       "Junkyard Social Club",
       "Longs Peak Pub",
@@ -37,6 +39,7 @@
       "Brewery",
       "Cafe",
       "Community",
+      "Concert",
       "DJ",
       "Dance",
       "Entertainment",
@@ -51,6 +54,7 @@
       "Performance",
       "Pub",
       "Retail",
+      "Theater",
       "Upscale"
     ],
     "event_types": [
@@ -58,6 +62,7 @@
       "Books",
       "Brewery",
       "Community",
+      "Concert",
       "DJ",
       "Dance",
       "Educational",
@@ -380,8 +385,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
-        "Community"
+        "Community",
+        "Games"
       ]
     },
     {
@@ -462,8 +467,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
-        "Community"
+        "Community",
+        "Games"
       ]
     },
     {
@@ -490,9 +495,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
         "Community",
         "Music",
+        "Family Friendly",
         "All Ages"
       ]
     },
@@ -520,9 +525,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
         "Community",
         "Music",
+        "Family Friendly",
         "All Ages"
       ]
     },
@@ -691,8 +696,8 @@
       ],
       "event_type_tags": [
         "Community",
-        "Performance",
-        "Music"
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -720,8 +725,8 @@
       ],
       "event_type_tags": [
         "Community",
-        "Performance",
-        "Music"
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -749,8 +754,8 @@
       ],
       "event_type_tags": [
         "Community",
-        "Performance",
-        "Music"
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -778,8 +783,8 @@
       ],
       "event_type_tags": [
         "Community",
-        "Performance",
         "Music",
+        "Performance",
         "All Ages"
       ]
     },
@@ -835,9 +840,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
         "Community",
-        "Educational"
+        "Educational",
+        "Games"
       ]
     },
     {
@@ -864,10 +869,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
         "Community",
-        "Games",
-        "All Ages"
+        "All Ages",
+        "Family Friendly",
+        "Games"
       ]
     },
     {
@@ -922,11 +927,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
+        "Music",
+        "All Ages",
         "Family Friendly",
         "Community",
-        "Music",
-        "All Ages"
+        "Performance"
       ]
     },
     {
@@ -6129,6 +6134,276 @@
         "Live Music",
         "All Ages",
         "Free"
+      ]
+    },
+    {
+      "id": "boulder_theater_bob_weir_vigil_celebration_of_life_january_11_2026",
+      "title": "Bob Weir Vigil & Celebration of Life",
+      "venue": "Boulder Theater",
+      "location": "Boulder",
+      "date": "January 11, 2026",
+      "normalized_date": "2026-01-11T00:00:00",
+      "recurring": null,
+      "time": "",
+      "description": "",
+      "additional_info": "Free Event",
+      "link": "https://www.z2ent.com/events/detail/bob-weir-vigil-2026-bt",
+      "image": "images/bouldertheater.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Boulder Theater",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Concert"
+      ]
+    },
+    {
+      "id": "fox_theatre_sunkissd_with_the_speeks_abernathy_shagnaster_january_15_2026",
+      "title": "Sunkissd with The Speeks, Abernathy Shagnaster",
+      "venue": "Fox Theatre",
+      "location": "Boulder",
+      "date": "January 15, 2026",
+      "normalized_date": "2026-01-15T00:00:00",
+      "recurring": null,
+      "time": "",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.z2ent.com/events/detail/sunkissd-2026-fox",
+      "image": "images/foxtheatre.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Fox Theatre",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Concert"
+      ]
+    },
+    {
+      "id": "fox_theatre_east_nash_grass_with_pick_howl_january_16_2026",
+      "title": "East Nash Grass with Pick & Howl",
+      "venue": "Fox Theatre",
+      "location": "Boulder",
+      "date": "January 16, 2026",
+      "normalized_date": "2026-01-16T00:00:00",
+      "recurring": null,
+      "time": "",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.z2ent.com/events/detail/east-nash-grass-2026-fox",
+      "image": "images/foxtheatre.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Fox Theatre",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Concert"
+      ]
+    },
+    {
+      "id": "fox_theatre_united_we_dance_the_ultimate_rave_experience_january_17_2026",
+      "title": "United We Dance: The Ultimate Rave Experience",
+      "venue": "Fox Theatre",
+      "location": "Boulder",
+      "date": "January 17, 2026",
+      "normalized_date": "2026-01-17T00:00:00",
+      "recurring": null,
+      "time": "",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.z2ent.com/events/detail/united-we-dance-2026-fox",
+      "image": "images/foxtheatre.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Fox Theatre",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Concert"
+      ]
+    },
+    {
+      "id": "fox_theatre_ninajirachi_with_2charm_astrid_january_18_2026",
+      "title": "Ninajirachi with 2charm, astrid",
+      "venue": "Fox Theatre",
+      "location": "Boulder",
+      "date": "January 18, 2026",
+      "normalized_date": "2026-01-18T00:00:00",
+      "recurring": null,
+      "time": "",
+      "description": "",
+      "additional_info": "Sold Out",
+      "link": "https://www.z2ent.com/events/detail/ninajirachi-2026-fox",
+      "image": "images/foxtheatre.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Fox Theatre",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Concert"
+      ]
+    },
+    {
+      "id": "boulder_theater_bob_weir_vigil_celebration_of_life_january_11_2026",
+      "title": "Bob Weir Vigil & Celebration of Life",
+      "venue": "Boulder Theater",
+      "location": "Boulder",
+      "date": "January 11, 2026",
+      "normalized_date": "2026-01-11T00:00:00",
+      "recurring": null,
+      "time": "",
+      "description": "",
+      "additional_info": "Free Event",
+      "link": "https://www.z2ent.com/events/detail/bob-weir-vigil-2026-bt",
+      "image": "images/bouldertheater.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Boulder Theater",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Concert"
+      ]
+    },
+    {
+      "id": "fox_theatre_sunkissd_with_the_speeks_abernathy_shagnaster_january_15_2026",
+      "title": "Sunkissd with The Speeks, Abernathy Shagnaster",
+      "venue": "Fox Theatre",
+      "location": "Boulder",
+      "date": "January 15, 2026",
+      "normalized_date": "2026-01-15T00:00:00",
+      "recurring": null,
+      "time": "",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.z2ent.com/events/detail/sunkissd-2026-fox",
+      "image": "images/foxtheatre.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Fox Theatre",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Concert"
+      ]
+    },
+    {
+      "id": "fox_theatre_east_nash_grass_with_pick_howl_january_16_2026",
+      "title": "East Nash Grass with Pick & Howl",
+      "venue": "Fox Theatre",
+      "location": "Boulder",
+      "date": "January 16, 2026",
+      "normalized_date": "2026-01-16T00:00:00",
+      "recurring": null,
+      "time": "",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.z2ent.com/events/detail/east-nash-grass-2026-fox",
+      "image": "images/foxtheatre.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Fox Theatre",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Concert"
+      ]
+    },
+    {
+      "id": "fox_theatre_united_we_dance_the_ultimate_rave_experience_january_17_2026",
+      "title": "United We Dance: The Ultimate Rave Experience",
+      "venue": "Fox Theatre",
+      "location": "Boulder",
+      "date": "January 17, 2026",
+      "normalized_date": "2026-01-17T00:00:00",
+      "recurring": null,
+      "time": "",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.z2ent.com/events/detail/united-we-dance-2026-fox",
+      "image": "images/foxtheatre.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Fox Theatre",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Concert"
+      ]
+    },
+    {
+      "id": "fox_theatre_ninajirachi_with_2charm_astrid_january_18_2026",
+      "title": "Ninajirachi with 2charm, astrid",
+      "venue": "Fox Theatre",
+      "location": "Boulder",
+      "date": "January 18, 2026",
+      "normalized_date": "2026-01-18T00:00:00",
+      "recurring": null,
+      "time": "",
+      "description": "",
+      "additional_info": "Sold Out",
+      "link": "https://www.z2ent.com/events/detail/ninajirachi-2026-fox",
+      "image": "images/foxtheatre.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Fox Theatre",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Concert"
       ]
     }
   ]
