@@ -82,6 +82,10 @@ def scrape_events():
                         if title_link:
                             title = title_link.get_text(strip=True)
                             date_elem = item.find('span', class_='m-date__singleDate')
+                            if not date_elem:
+                                # Try date range format
+                                date_elem = item.find('span', class_='m-date__rangeFirst')
+                            
                             if date_elem:
                                 # Create event ID for ALL events
                                 event_id = f"{venue}|{title}|{date_elem.get_text(strip=True)}"
@@ -129,8 +133,26 @@ def scrape_events():
             'came_from_page': 'event-list-page'
         }
         
+        # Use more complete headers to avoid 406 error
+        ajax_headers = headers.copy()
+        ajax_headers.update({
+            'Accept': 'application/json, text/javascript, */*; q=0.01',
+            'Accept-Language': 'en-US,en;q=0.9',
+            'Accept-Encoding': 'gzip, deflate, br',
+        })
+        
         try:
-            response = requests.get(ajax_url, params=params, headers=headers, timeout=10)
+            # Add small delay to avoid rate limiting
+            import time
+            time.sleep(0.5)
+            
+            response = requests.get(ajax_url, params=params, headers=ajax_headers, timeout=10)
+            
+            if response.status_code == 406:
+                print(f"  Server returned 406 (Not Acceptable)")
+                print(f"  This usually means the server is blocking automated requests")
+                print(f"  Headers sent: {ajax_headers}")
+                break
             
             if response.status_code != 200:
                 print(f"  Status {response.status_code}, stopping")
@@ -178,6 +200,10 @@ def scrape_events():
                             if title_link:
                                 title = title_link.get_text(strip=True)
                                 date_elem = item.find('span', class_='m-date__singleDate')
+                                if not date_elem:
+                                    # Try date range format
+                                    date_elem = item.find('span', class_='m-date__rangeFirst')
+                                
                                 if date_elem:
                                     # Create event ID for ALL events
                                     event_id = f"{venue}|{title}|{date_elem.get_text(strip=True)}"
@@ -316,26 +342,50 @@ def parse_event_card(card):
     if link and not link.startswith('http'):
         link = f"https://www.z2ent.com{link}"
     
-    # Extract date from span.m-date__singleDate structure
+    # Extract date - handle both single dates and date ranges
     date_container = card.find('span', class_='m-date__singleDate')
-    if not date_container:
-        return None
     
-    # Parse date parts
-    weekday = date_container.find('span', class_='m-date__weekday')
-    month = date_container.find('span', class_='m-date__month')
-    day = date_container.find('span', class_='m-date__day')
-    year = date_container.find('span', class_='m-date__year')
+    if date_container:
+        # Single date format: "Jan 15, 2026"
+        month = date_container.find('span', class_='m-date__month')
+        day = date_container.find('span', class_='m-date__day')
+        year = date_container.find('span', class_='m-date__year')
+        
+        if not all([month, day, year]):
+            return None
+        
+        month_text = month.get_text(strip=True).replace(',', '').strip()
+        day_text = day.get_text(strip=True)
+        year_text = year.get_text(strip=True).replace(',', '').strip()
+        
+        date_str = f"{month_text} {day_text}, {year_text}"
+    else:
+        # Date range format: "Jan 15 - 17, 2026"
+        range_first = card.find('span', class_='m-date__rangeFirst')
+        range_last = card.find('span', class_='m-date__rangeLast')
+        
+        if not all([range_first, range_last]):
+            return None
+        
+        # Get start date parts
+        start_month = range_first.find('span', class_='m-date__month')
+        start_day = range_first.find('span', class_='m-date__day')
+        
+        # Get end date parts
+        end_day = range_last.find('span', class_='m-date__day')
+        year = range_last.find('span', class_='m-date__year')
+        
+        if not all([start_month, start_day, end_day, year]):
+            return None
+        
+        month_text = start_month.get_text(strip=True).replace(',', '').strip()
+        start_day_text = start_day.get_text(strip=True)
+        end_day_text = end_day.get_text(strip=True)
+        year_text = year.get_text(strip=True).replace(',', '').strip()
+        
+        # Use the start date for sorting purposes
+        date_str = f"{month_text} {start_day_text}, {year_text}"
     
-    if not all([month, day, year]):
-        return None
-    
-    # Build date string
-    month_text = month.get_text(strip=True).replace(',', '').strip()
-    day_text = day.get_text(strip=True)
-    year_text = year.get_text(strip=True).replace(',', '').strip()
-    
-    date_str = f"{month_text} {day_text}, {year_text}"
     formatted_date = parse_date(date_str)
     
     # Extract time if available (not in provided HTML, but check)
