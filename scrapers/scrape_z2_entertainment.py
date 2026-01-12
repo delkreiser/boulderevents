@@ -112,17 +112,21 @@ def scrape_events():
                 print(f"  Status {response.status_code}, stopping")
                 break
             
-            # The response is a JSON string containing escaped HTML
+            # The response is a JSON string (wrapped in quotes) containing escaped HTML
             try:
-                html_content = response.json()  # Get the JSON string
-                if not html_content or len(html_content) < 100:
-                    print("  Empty response, stopping")
+                # Parse as JSON to get the HTML string
+                html_string = response.json()
+                
+                # Check if we got an empty string
+                if not html_string or len(html_string) < 100:
+                    print("  Empty HTML string, stopping")
                     break
                 
-                # Parse the HTML string
-                soup = BeautifulSoup(html_content, 'html.parser')
-            except:
-                # If not JSON, try parsing as HTML directly
+                # Now parse the HTML string with BeautifulSoup
+                soup = BeautifulSoup(html_string, 'html.parser')
+                
+            except json.JSONDecodeError:
+                # Fallback: try parsing response content directly as HTML
                 if len(response.content) < 100:
                     print("  Empty response, stopping")
                     break
