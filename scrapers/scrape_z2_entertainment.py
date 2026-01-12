@@ -87,8 +87,46 @@ def scrape_events():
                                 date_elem = item.find('span', class_='m-date__rangeFirst')
                             
                             if date_elem:
-                                # Create event ID for ALL events
-                                event_id = f"{venue}|{title}|{date_elem.get_text(strip=True)}"
+                                # Format date the same way parse_event_card does
+                                raw_date = date_elem.get_text(strip=True)
+                                
+                                # Parse it properly
+                                try:
+                                    if 'rangeFirst' in str(date_elem.get('class', [])):
+                                        # Date range - extract start date
+                                        month_elem = date_elem.find('span', class_='m-date__month')
+                                        day_elem = date_elem.find('span', class_='m-date__day')
+                                        # Get year from rangeLast
+                                        range_last = item.find('span', class_='m-date__rangeLast')
+                                        year_elem = range_last.find('span', class_='m-date__year') if range_last else None
+                                        
+                                        if month_elem and day_elem and year_elem:
+                                            month_text = month_elem.get_text(strip=True).replace(',', '').strip()
+                                            day_text = day_elem.get_text(strip=True)
+                                            year_text = year_elem.get_text(strip=True).replace(',', '').strip()
+                                            date_str = f"{month_text} {day_text}, {year_text}"
+                                            formatted_date = parse_date(date_str)
+                                        else:
+                                            formatted_date = raw_date
+                                    else:
+                                        # Single date - extract properly
+                                        month_elem = date_elem.find('span', class_='m-date__month')
+                                        day_elem = date_elem.find('span', class_='m-date__day')
+                                        year_elem = date_elem.find('span', class_='m-date__year')
+                                        
+                                        if month_elem and day_elem and year_elem:
+                                            month_text = month_elem.get_text(strip=True).replace(',', '').strip()
+                                            day_text = day_elem.get_text(strip=True)
+                                            year_text = year_elem.get_text(strip=True).replace(',', '').strip()
+                                            date_str = f"{month_text} {day_text}, {year_text}"
+                                            formatted_date = parse_date(date_str)
+                                        else:
+                                            formatted_date = raw_date
+                                except:
+                                    formatted_date = raw_date
+                                
+                                # Create event ID for ALL events using formatted date
+                                event_id = f"{venue}|{title}|{formatted_date}"
                                 
                                 # Skip if already seen
                                 if event_id in seen_event_ids:
@@ -205,8 +243,46 @@ def scrape_events():
                                     date_elem = item.find('span', class_='m-date__rangeFirst')
                                 
                                 if date_elem:
-                                    # Create event ID for ALL events
-                                    event_id = f"{venue}|{title}|{date_elem.get_text(strip=True)}"
+                                    # Format date the same way parse_event_card does
+                                    raw_date = date_elem.get_text(strip=True)
+                                    
+                                    # Parse it properly
+                                    try:
+                                        if 'rangeFirst' in str(date_elem.get('class', [])):
+                                            # Date range - extract start date
+                                            month_elem = date_elem.find('span', class_='m-date__month')
+                                            day_elem = date_elem.find('span', class_='m-date__day')
+                                            # Get year from rangeLast
+                                            range_last = item.find('span', class_='m-date__rangeLast')
+                                            year_elem = range_last.find('span', class_='m-date__year') if range_last else None
+                                            
+                                            if month_elem and day_elem and year_elem:
+                                                month_text = month_elem.get_text(strip=True).replace(',', '').strip()
+                                                day_text = day_elem.get_text(strip=True)
+                                                year_text = year_elem.get_text(strip=True).replace(',', '').strip()
+                                                date_str = f"{month_text} {day_text}, {year_text}"
+                                                formatted_date = parse_date(date_str)
+                                            else:
+                                                formatted_date = raw_date
+                                        else:
+                                            # Single date - extract properly
+                                            month_elem = date_elem.find('span', class_='m-date__month')
+                                            day_elem = date_elem.find('span', class_='m-date__day')
+                                            year_elem = date_elem.find('span', class_='m-date__year')
+                                            
+                                            if month_elem and day_elem and year_elem:
+                                                month_text = month_elem.get_text(strip=True).replace(',', '').strip()
+                                                day_text = day_elem.get_text(strip=True)
+                                                year_text = year_elem.get_text(strip=True).replace(',', '').strip()
+                                                date_str = f"{month_text} {day_text}, {year_text}"
+                                                formatted_date = parse_date(date_str)
+                                            else:
+                                                formatted_date = raw_date
+                                    except:
+                                        formatted_date = raw_date
+                                    
+                                    # Create event ID for ALL events using formatted date
+                                    event_id = f"{venue}|{title}|{formatted_date}"
                                     
                                     # Skip if already seen
                                     if event_id in seen_event_ids:
