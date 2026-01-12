@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-12T15:08:11.906767",
+  "generated_at": "2026-01-12T18:34:15.603907",
   "total_events": 220,
   "tags": {
     "venues": [
@@ -495,10 +495,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
         "Music",
-        "Community",
-        "Family Friendly"
+        "All Ages",
+        "Family Friendly",
+        "Community"
       ]
     },
     {
@@ -525,10 +525,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
         "Music",
-        "Community",
-        "Family Friendly"
+        "All Ages",
+        "Family Friendly",
+        "Community"
       ]
     },
     {
@@ -611,8 +611,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Performance"
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -640,8 +640,8 @@
       ],
       "event_type_tags": [
         "Music",
-        "Community",
-        "Educational"
+        "Educational",
+        "Community"
       ]
     },
     {
@@ -696,8 +696,8 @@
       ],
       "event_type_tags": [
         "Music",
-        "Community",
-        "Performance"
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -725,8 +725,8 @@
       ],
       "event_type_tags": [
         "Music",
-        "Community",
-        "Performance"
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -754,8 +754,8 @@
       ],
       "event_type_tags": [
         "Music",
-        "Community",
-        "Performance"
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -782,10 +782,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
         "Music",
-        "Community",
-        "Performance"
+        "All Ages",
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -840,9 +840,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Educational",
         "Games",
-        "Community",
-        "Educational"
+        "Community"
       ]
     },
     {
@@ -870,9 +870,9 @@
       ],
       "event_type_tags": [
         "All Ages",
+        "Games",
         "Family Friendly",
-        "Community",
-        "Games"
+        "Community"
       ]
     },
     {
@@ -927,11 +927,11 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Performance",
         "Music",
-        "Family Friendly",
-        "All Ages",
         "Community",
-        "Performance"
+        "All Ages",
+        "Family Friendly"
       ]
     },
     {
@@ -4912,7 +4912,7 @@
       "description": "GET READY TO BLAST OFF INTO ANOTHER GALAXY!",
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/house-of-fire-cosmic-glow-tickets-1980045564585",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174433144%2F1125606624043%2F1%2Foriginal.20260109-181449?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=2c0edaf146405b76d3904322c310dc60",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174641598%2F1125606624043%2F1%2Foriginal.20260112-173533?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=fef95631c1bcd664725503a650fe2899",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
