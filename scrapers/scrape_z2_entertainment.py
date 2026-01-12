@@ -3,6 +3,7 @@
 Z2 Entertainment Events Scraper
 Scrapes events from Boulder Theater, Fox Theatre, and Aggie Theatre
 Uses direct API calls to get all events without Selenium
+Downloads event images locally to avoid hotlinking
 """
 
 import requests
@@ -11,6 +12,7 @@ import json
 from datetime import datetime
 import re
 from pathlib import Path
+import hashlib
 
 # Venue mappings
 VENUE_INFO = {
@@ -35,6 +37,10 @@ VENUE_INFO = {
         "include": False  # Skip this venue
     }
 }
+
+# Image download settings
+IMAGE_DOWNLOAD_DIR = Path("images/z2")
+DOWNLOAD_IMAGES = True  # Set to False to use venue default images instead
 
 def scrape_events():
     """Scrape all events by making multiple API calls"""
@@ -139,6 +145,61 @@ def scrape_events():
     
     return unique_events
 
+def download_event_image(image_url, title, venue):
+    """
+    Download event image and save locally
+    Returns local path if successful, None if failed
+    """
+    if not DOWNLOAD_IMAGES or not image_url or image_url == VENUE_INFO.get(venue, {}).get('image'):
+        return None
+    
+    try:
+        # Create images/z2 directory if it doesn't exist
+        IMAGE_DOWNLOAD_DIR.mkdir(parents=True, exist_ok=True)
+        
+        # Create safe filename from title
+        # Use hash to keep filename length reasonable
+        safe_title = re.sub(r'[^a-z0-9]+', '-', title.lower())[:50]
+        url_hash = hashlib.md5(image_url.encode()).hexdigest()[:8]
+        
+        # Determine file extension from URL
+        ext = '.jpg'
+        if '.png' in image_url.lower():
+            ext = '.png'
+        elif '.gif' in image_url.lower():
+            ext = '.gif'
+        elif '.webp' in image_url.lower():
+            ext = '.webp'
+        
+        filename = f"{safe_title}-{url_hash}{ext}"
+        filepath = IMAGE_DOWNLOAD_DIR / filename
+        
+        # Skip if already downloaded
+        if filepath.exists():
+            print(f"    Image already exists: {filepath}")
+            return str(filepath)
+        
+        # Download image
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+            'Referer': 'https://www.z2ent.com/'
+        }
+        
+        response = requests.get(image_url, headers=headers, timeout=10, stream=True)
+        response.raise_for_status()
+        
+        # Save image
+        with open(filepath, 'wb') as f:
+            for chunk in response.iter_content(chunk_size=8192):
+                f.write(chunk)
+        
+        print(f"    Downloaded image: {filepath}")
+        return str(filepath)
+        
+    except Exception as e:
+        print(f"    Failed to download image: {e}")
+        return None
+
 def parse_event_card(card):
     """Parse individual event card based on Z2 Entertainment HTML structure"""
     
@@ -204,17 +265,21 @@ def parse_event_card(card):
     
     # Extract image from div.thumb
     thumb_elem = card.find('div', class_='thumb')
-    image_url = venue_config['image']  # Default to venue image
+    remote_image_url = None
     if thumb_elem:
         img = thumb_elem.find('img')
         if img and img.get('src'):
             img_src = img['src']
             if img_src.startswith('http'):
-                image_url = img_src
+                remote_image_url = img_src
             elif img_src.startswith('//'):
-                image_url = f"https:{img_src}"
+                remote_image_url = f"https:{img_src}"
             elif img_src.startswith('/'):
-                image_url = f"https://www.z2ent.com{img_src}"
+                remote_image_url = f"https://www.z2ent.com{img_src}"
+    
+    # Download image locally (or use venue default)
+    local_image_path = download_event_image(remote_image_url, title, venue_name)
+    final_image = local_image_path if local_image_path else venue_config['image']
     
     # Check ticket status
     ticket_elem = card.find('a', class_='tickets')
@@ -232,7 +297,7 @@ def parse_event_card(card):
         "location": venue_config['location'],
         "date": formatted_date,
         "time": time,
-        "image": venue_config['image'],  # Use local venue image
+        "image": final_image,  # Use downloaded local image
         "link": link,
         "description": "",
         "additional_info": ticket_status,
