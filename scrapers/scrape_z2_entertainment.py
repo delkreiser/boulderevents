@@ -43,114 +43,124 @@ IMAGE_DOWNLOAD_DIR = Path("images/z2")
 DOWNLOAD_IMAGES = True  # Set to False to use venue default images instead
 
 def scrape_events():
-    """Scrape all events by making multiple API calls"""
-    base_url = "https://www.z2ent.com/events"
+    """Scrape all events using Z2's AJAX endpoint"""
     
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
-        'X-Requested-With': 'XMLHttpRequest',  # Indicates AJAX request
+        'X-Requested-With': 'XMLHttpRequest',
+        'Referer': 'https://www.z2ent.com/events'
     }
     
     all_events = []
     seen_event_ids = set()  # Track unique events by ID
     offset = 0
-    increment = 12
+    per_page = 12
     max_pages = 50  # Safety limit
     
-    print("Scraping Z2 Entertainment events with pagination...")
+    print("Scraping Z2 Entertainment events using events_ajax endpoint...")
     
-    for page in range(max_pages):
-        print(f"\nFetching page {page + 1} (offset: {offset})...")
+    # First, get initial page
+    print(f"\nFetching initial page...")
+    try:
+        response = requests.get("https://www.z2ent.com/events", headers=headers, timeout=10)
+        response.raise_for_status()
+        soup = BeautifulSoup(response.content, 'html.parser')
         
-        # Try the AJAX endpoint first
-        # Many sites use /events/load or similar for "load more"
-        ajax_urls_to_try = [
-            f"{base_url}?offset={offset}",
-            f"https://www.z2ent.com/api/events?offset={offset}",
-            f"https://www.z2ent.com/events/load?offset={offset}",
-            f"https://www.z2ent.com/events?page={page + 1}",
-        ]
-        
-        soup = None
-        successful_url = None
-        
-        # Try each URL pattern
-        for ajax_url in ajax_urls_to_try:
-            try:
-                response = requests.get(ajax_url, headers=headers, timeout=10)
-                if response.status_code == 200 and len(response.content) > 100:
-                    soup = BeautifulSoup(response.content, 'html.parser')
-                    event_items = soup.find_all('div', class_='eventItem')
-                    if event_items:
-                        print(f"  ✓ Found {len(event_items)} events using {ajax_url}")
-                        successful_url = ajax_url
-                        break
-            except Exception as e:
-                continue
-        
-        # If AJAX didn't work and it's the first page, get the main page
-        if not soup and page == 0:
-            try:
-                response = requests.get(base_url, headers=headers, timeout=10)
-                response.raise_for_status()
-                soup = BeautifulSoup(response.content, 'html.parser')
-                successful_url = base_url
-            except Exception as e:
-                print(f"Error fetching page: {e}")
-                break
-        
-        if not soup:
-            print("  Could not load more events")
-            break
-        
-        # Parse events from this page
         event_items = soup.find_all('div', class_='eventItem')
+        print(f"  Found {len(event_items)} events on initial page")
         
-        if not event_items:
-            print(f"  No more events found")
-            break
-        
-        print(f"  Found {len(event_items)} events on this page")
-        
-        # Parse each event and check for duplicates
-        page_events = []
-        new_events_count = 0
+        # Parse initial events
         for item in event_items:
             try:
                 event = parse_event_card(item)
                 if event:
-                    # Create unique ID for deduplication
                     event_id = f"{event['venue']}|{event['title']}|{event['date']}"
-                    
                     if event_id not in seen_event_ids:
                         seen_event_ids.add(event_id)
-                        page_events.append(event)
-                        new_events_count += 1
-                    else:
-                        print(f"  ⚠ Duplicate skipped: {event['title']}")
+                        all_events.append(event)
             except Exception as e:
                 print(f"  Error parsing event: {e}")
                 continue
         
-        print(f"  New unique events from this page: {new_events_count}")
+        print(f"  Parsed {len(all_events)} unique events from initial page")
         
-        if not page_events:
-            print("  No new events parsed, stopping pagination")
+    except Exception as e:
+        print(f"Error fetching initial page: {e}")
+        return []
+    
+    # Now load more using AJAX endpoint
+    offset = per_page  # Start at 12 (since we got 0-11 already)
+    
+    for page in range(1, max_pages):
+        print(f"\nFetching page {page + 1} (offset: {offset})...")
+        
+        # Use the actual AJAX endpoint Z2 uses
+        ajax_url = f"https://www.z2ent.com/events/events_ajax/{offset}"
+        params = {
+            'category': '0',
+            'venue': '0',
+            'team': '0',
+            'exclude': '',
+            'per_page': str(per_page),
+            'came_from_page': 'event-list-page'
+        }
+        
+        try:
+            response = requests.get(ajax_url, params=params, headers=headers, timeout=10)
+            
+            if response.status_code != 200:
+                print(f"  Status {response.status_code}, stopping")
+                break
+            
+            # Check if we got HTML back
+            if len(response.content) < 100:
+                print("  Empty response, stopping")
+                break
+            
+            soup = BeautifulSoup(response.content, 'html.parser')
+            event_items = soup.find_all('div', class_='eventItem')
+            
+            if not event_items:
+                print(f"  No more events found")
+                break
+            
+            print(f"  Found {len(event_items)} events on this page")
+            
+            # Parse events and check for duplicates
+            new_events_count = 0
+            for item in event_items:
+                try:
+                    event = parse_event_card(item)
+                    if event:
+                        event_id = f"{event['venue']}|{event['title']}|{event['date']}"
+                        
+                        if event_id not in seen_event_ids:
+                            seen_event_ids.add(event_id)
+                            all_events.append(event)
+                            new_events_count += 1
+                        else:
+                            print(f"  ⚠ Duplicate skipped: {event['title']}")
+                except Exception as e:
+                    print(f"  Error parsing event: {e}")
+                    continue
+            
+            print(f"  New unique events from this page: {new_events_count}")
+            
+            # If we got no new events, stop
+            if new_events_count == 0:
+                print("  All events were duplicates, stopping")
+                break
+            
+            # If we got fewer events than per_page, we're on the last page
+            if len(event_items) < per_page:
+                print(f"  Reached last page (got {len(event_items)} < {per_page})")
+                break
+            
+            offset += per_page
+            
+        except Exception as e:
+            print(f"  Error fetching page: {e}")
             break
-        
-        all_events.extend(page_events)
-        
-        # If we got no new events or if pagination doesn't seem to be working, stop
-        if new_events_count == 0:
-            print("  All events on this page were duplicates - pagination may not be working")
-            break
-        
-        # Check if we got fewer events than increment (last page)
-        if len(event_items) < increment:
-            print(f"  Reached last page (got {len(event_items)} < {increment})")
-            break
-        
-        offset += increment
     
     print(f"\n{'='*60}")
     print(f"Total unique events scraped: {len(all_events)}")
