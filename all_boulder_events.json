@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T14:12:20.673548",
-  "total_events": 230,
+  "generated_at": "2026-01-12T14:25:36.556380",
+  "total_events": 232,
   "tags": {
     "venues": [
       "300 Suns Brewing",
@@ -385,8 +385,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
-        "Community"
+        "Community",
+        "Games"
       ]
     },
     {
@@ -467,8 +467,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
-        "Community"
+        "Community",
+        "Games"
       ]
     },
     {
@@ -495,10 +495,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
         "Music",
+        "Community",
         "All Ages",
-        "Community"
+        "Family Friendly"
       ]
     },
     {
@@ -525,10 +525,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
         "Music",
+        "Community",
         "All Ages",
-        "Community"
+        "Family Friendly"
       ]
     },
     {
@@ -555,8 +555,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Community"
+        "Community",
+        "All Ages"
       ]
     },
     {
@@ -583,8 +583,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "All Ages"
+        "All Ages",
+        "Performance"
       ]
     },
     {
@@ -611,8 +611,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -640,8 +640,8 @@
       ],
       "event_type_tags": [
         "Music",
-        "Educational",
-        "Community"
+        "Community",
+        "Educational"
       ]
     },
     {
@@ -696,8 +696,8 @@
       ],
       "event_type_tags": [
         "Music",
-        "Performance",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -725,8 +725,8 @@
       ],
       "event_type_tags": [
         "Music",
-        "Performance",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -754,8 +754,8 @@
       ],
       "event_type_tags": [
         "Music",
-        "Performance",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -782,10 +782,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
         "Music",
-        "Performance",
-        "Community"
+        "Community",
+        "All Ages",
+        "Performance"
       ]
     },
     {
@@ -840,9 +840,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
         "Educational",
-        "Community"
+        "Community",
+        "Games"
       ]
     },
     {
@@ -869,10 +869,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
+        "Community",
         "All Ages",
         "Games",
-        "Community"
+        "Family Friendly"
       ]
     },
     {
@@ -927,11 +927,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
         "Music",
-        "Family Friendly",
         "Performance",
-        "Community"
+        "Family Friendly",
+        "Community",
+        "All Ages"
       ]
     },
     {
@@ -6077,6 +6077,33 @@
       ]
     },
     {
+      "id": "boulder_theater_umphrey_s_mcgee_3_nights_january_15_2026",
+      "title": "UMPHREY'S McGEE (3 Nights!)",
+      "venue": "Boulder Theater",
+      "location": "Boulder",
+      "date": "January 15, 2026",
+      "normalized_date": "2026-01-15T00:00:00",
+      "recurring": null,
+      "time": "",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.z2ent.com/events/detail/umphreys-mcgee-2026-bt",
+      "image": "images/z2/umphrey-s-mcgee-3-nights--360eaad1.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Boulder Theater",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Concert"
+      ]
+    },
+    {
       "id": "fox_theatre_east_nash_grass_with_pick_howl_january_16_2026",
       "title": "East Nash Grass with Pick & Howl",
       "venue": "Fox Theatre",
@@ -6335,6 +6362,33 @@
       "source_url": null,
       "age_restriction": null,
       "venue_tag": "Fox Theatre",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Concert"
+      ]
+    },
+    {
+      "id": "boulder_theater_umphrey_s_mcgee_3_nights_january_15_2026",
+      "title": "UMPHREY'S McGEE (3 Nights!)",
+      "venue": "Boulder Theater",
+      "location": "Boulder",
+      "date": "January 15, 2026",
+      "normalized_date": "2026-01-15T00:00:00",
+      "recurring": null,
+      "time": "",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.z2ent.com/events/detail/umphreys-mcgee-2026-bt",
+      "image": "images/z2/umphrey-s-mcgee-3-nights--360eaad1.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Boulder Theater",
       "location_tag": "Boulder",
       "venue_type_tags": [
         "Live Music",
