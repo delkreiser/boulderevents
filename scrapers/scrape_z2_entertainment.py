@@ -72,15 +72,33 @@ def scrape_events():
         # Parse initial events
         for item in event_items:
             try:
+                # First extract basic info to track ALL events (even ones we skip)
+                location_elem = item.find('div', class_='location')
+                if location_elem:
+                    venue = location_elem.get_text(strip=True)
+                    title_elem = item.find('h3', class_='title')
+                    if title_elem:
+                        title_link = title_elem.find('a')
+                        if title_link:
+                            title = title_link.get_text(strip=True)
+                            date_elem = item.find('span', class_='m-date__singleDate')
+                            if date_elem:
+                                # Create event ID for ALL events
+                                event_id = f"{venue}|{title}|{date_elem.get_text(strip=True)}"
+                                
+                                # Skip if already seen
+                                if event_id in seen_event_ids:
+                                    print(f"    ⚠ DUPLICATE on initial page: {venue}: {title}")
+                                    continue
+                                
+                                # Mark as seen
+                                seen_event_ids.add(event_id)
+                
+                # Now parse the event properly
                 event = parse_event_card(item)
                 if event:
-                    event_id = f"{event['venue']}|{event['title']}|{event['date']}"
-                    if event_id not in seen_event_ids:
-                        seen_event_ids.add(event_id)
-                        all_events.append(event)
-                        print(f"    + {event['venue']}: {event['title']} ({event['date']})")
-                    else:
-                        print(f"    ⚠ DUPLICATE on initial page: {event['venue']}: {event['title']}")
+                    all_events.append(event)
+                    print(f"    + {event['venue']}: {event['title']} ({event['date']})")
             except Exception as e:
                 print(f"  Error parsing event: {e}")
                 continue
@@ -92,10 +110,10 @@ def scrape_events():
         return []
     
     # Now load more using AJAX endpoint
-    # The initial page shows events 0-11 (offset 0, implicit)
-    # The "Load More" button starts at offset 24 (events 12-23)
-    # So we start at 24, not 12!
-    offset = 24  # Start at 24 to get events 12-23
+    # The page automatically calls /events_ajax/12 on load
+    # Then Load More calls /events_ajax/24, 36, 48, etc.
+    # So we start at 12 to get the first batch
+    offset = 12  # Start at 12 to match what the page does
     
     for page in range(1, max_pages):
         print(f"\nFetching page {page + 1} (offset: {offset})...")
@@ -150,17 +168,34 @@ def scrape_events():
             new_events_count = 0
             for item in event_items:
                 try:
+                    # First extract basic info to track ALL events (even ones we skip)
+                    location_elem = item.find('div', class_='location')
+                    if location_elem:
+                        venue = location_elem.get_text(strip=True)
+                        title_elem = item.find('h3', class_='title')
+                        if title_elem:
+                            title_link = title_elem.find('a')
+                            if title_link:
+                                title = title_link.get_text(strip=True)
+                                date_elem = item.find('span', class_='m-date__singleDate')
+                                if date_elem:
+                                    # Create event ID for ALL events
+                                    event_id = f"{venue}|{title}|{date_elem.get_text(strip=True)}"
+                                    
+                                    # Skip if already seen
+                                    if event_id in seen_event_ids:
+                                        print(f"    ⚠ DUPLICATE (already seen): {venue}: {title}")
+                                        continue
+                                    
+                                    # Mark as seen
+                                    seen_event_ids.add(event_id)
+                    
+                    # Now parse the event properly
                     event = parse_event_card(item)
                     if event:
-                        event_id = f"{event['venue']}|{event['title']}|{event['date']}"
-                        
-                        if event_id not in seen_event_ids:
-                            seen_event_ids.add(event_id)
-                            all_events.append(event)
-                            new_events_count += 1
-                            print(f"    + NEW: {event['venue']}: {event['title']} ({event['date']})")
-                        else:
-                            print(f"    ⚠ DUPLICATE (already seen): {event['venue']}: {event['title']} ({event['date']})")
+                        all_events.append(event)
+                        new_events_count += 1
+                        print(f"    + NEW: {event['venue']}: {event['title']} ({event['date']})")
                 except Exception as e:
                     print(f"  Error parsing event: {e}")
                     continue
