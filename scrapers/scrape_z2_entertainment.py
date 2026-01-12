@@ -52,6 +52,7 @@ def scrape_events():
     }
     
     all_events = []
+    seen_event_ids = set()  # Track unique events by ID
     offset = 0
     increment = 12
     max_pages = 50  # Safety limit
@@ -71,6 +72,7 @@ def scrape_events():
         ]
         
         soup = None
+        successful_url = None
         
         # Try each URL pattern
         for ajax_url in ajax_urls_to_try:
@@ -81,6 +83,7 @@ def scrape_events():
                     event_items = soup.find_all('div', class_='eventItem')
                     if event_items:
                         print(f"  ✓ Found {len(event_items)} events using {ajax_url}")
+                        successful_url = ajax_url
                         break
             except Exception as e:
                 continue
@@ -91,6 +94,7 @@ def scrape_events():
                 response = requests.get(base_url, headers=headers, timeout=10)
                 response.raise_for_status()
                 soup = BeautifulSoup(response.content, 'html.parser')
+                successful_url = base_url
             except Exception as e:
                 print(f"Error fetching page: {e}")
                 break
@@ -108,22 +112,38 @@ def scrape_events():
         
         print(f"  Found {len(event_items)} events on this page")
         
-        # Parse each event
+        # Parse each event and check for duplicates
         page_events = []
+        new_events_count = 0
         for item in event_items:
             try:
                 event = parse_event_card(item)
                 if event:
-                    page_events.append(event)
+                    # Create unique ID for deduplication
+                    event_id = f"{event['venue']}|{event['title']}|{event['date']}"
+                    
+                    if event_id not in seen_event_ids:
+                        seen_event_ids.add(event_id)
+                        page_events.append(event)
+                        new_events_count += 1
+                    else:
+                        print(f"  ⚠ Duplicate skipped: {event['title']}")
             except Exception as e:
                 print(f"  Error parsing event: {e}")
                 continue
         
+        print(f"  New unique events from this page: {new_events_count}")
+        
         if not page_events:
-            print("  No new events parsed, stopping")
+            print("  No new events parsed, stopping pagination")
             break
         
         all_events.extend(page_events)
+        
+        # If we got no new events or if pagination doesn't seem to be working, stop
+        if new_events_count == 0:
+            print("  All events on this page were duplicates - pagination may not be working")
+            break
         
         # Check if we got fewer events than increment (last page)
         if len(event_items) < increment:
@@ -132,18 +152,11 @@ def scrape_events():
         
         offset += increment
     
-    # Remove duplicates based on title + venue + date
-    unique_events = []
-    seen = set()
-    for event in all_events:
-        key = (event['title'], event['venue'], event['date'])
-        if key not in seen:
-            seen.add(key)
-            unique_events.append(event)
+    print(f"\n{'='*60}")
+    print(f"Total unique events scraped: {len(all_events)}")
+    print(f"{'='*60}")
     
-    print(f"\nTotal unique events: {len(unique_events)} (removed {len(all_events) - len(unique_events)} duplicates)")
-    
-    return unique_events
+    return all_events
 
 def download_event_image(image_url, title, venue):
     """
