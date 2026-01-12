@@ -78,6 +78,9 @@ def scrape_events():
                     if event_id not in seen_event_ids:
                         seen_event_ids.add(event_id)
                         all_events.append(event)
+                        print(f"    + {event['venue']}: {event['title']} ({event['date']})")
+                    else:
+                        print(f"    ⚠ DUPLICATE on initial page: {event['venue']}: {event['title']}")
             except Exception as e:
                 print(f"  Error parsing event: {e}")
                 continue
@@ -89,7 +92,10 @@ def scrape_events():
         return []
     
     # Now load more using AJAX endpoint
-    offset = per_page  # Start at 12 (since we got 0-11 already)
+    # The initial page shows events 0-11 (offset 0, implicit)
+    # The "Load More" button starts at offset 24 (events 12-23)
+    # So we start at 24, not 12!
+    offset = 24  # Start at 24 to get events 12-23
     
     for page in range(1, max_pages):
         print(f"\nFetching page {page + 1} (offset: {offset})...")
@@ -152,8 +158,9 @@ def scrape_events():
                             seen_event_ids.add(event_id)
                             all_events.append(event)
                             new_events_count += 1
+                            print(f"    + NEW: {event['venue']}: {event['title']} ({event['date']})")
                         else:
-                            print(f"  ⚠ Duplicate skipped: {event['title']}")
+                            print(f"    ⚠ DUPLICATE (already seen): {event['venue']}: {event['title']} ({event['date']})")
                 except Exception as e:
                     print(f"  Error parsing event: {e}")
                     continue
