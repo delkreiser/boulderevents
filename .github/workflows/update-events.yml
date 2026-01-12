@@ -63,6 +63,11 @@ jobs:
       run: |
         echo "Aggregating events..."
         python3 aggregate_events.py
+
+    - name: Clean up old event images
+      run: |
+        echo "Cleaning up old event images..."
+        python3 cleanup_old_images.py || echo "Image cleanup failed"
     
     - name: Check for changes
       id: check_changes
@@ -74,7 +79,7 @@ jobs:
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git add all_boulder_events.json *_events.json
+        git add all_boulder_events.json *_events.json images/z2/
         git commit -m "🤖 Auto-update events - $(date +'%Y-%m-%d %H:%M')"
         git push
       env:
