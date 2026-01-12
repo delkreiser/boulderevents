@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T14:25:36.556380",
-  "total_events": 232,
+  "generated_at": "2026-01-12T15:08:11.906767",
+  "total_events": 220,
   "tags": {
     "venues": [
       "300 Suns Brewing",
@@ -385,8 +385,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Games"
+        "Games",
+        "Community"
       ]
     },
     {
@@ -467,8 +467,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Games"
+        "Games",
+        "Community"
       ]
     },
     {
@@ -495,9 +495,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "All Ages",
         "Music",
         "Community",
-        "All Ages",
         "Family Friendly"
       ]
     },
@@ -525,9 +525,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "All Ages",
         "Music",
         "Community",
-        "All Ages",
         "Family Friendly"
       ]
     },
@@ -555,8 +555,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "All Ages"
+        "All Ages",
+        "Community"
       ]
     },
     {
@@ -782,9 +782,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "All Ages",
         "Music",
         "Community",
-        "All Ages",
         "Performance"
       ]
     },
@@ -840,9 +840,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Educational",
+        "Games",
         "Community",
-        "Games"
+        "Educational"
       ]
     },
     {
@@ -869,10 +869,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "All Ages",
-        "Games",
-        "Family Friendly"
+        "Family Friendly",
+        "Community",
+        "Games"
       ]
     },
     {
@@ -928,10 +928,10 @@
       ],
       "event_type_tags": [
         "Music",
-        "Performance",
         "Family Friendly",
+        "All Ages",
         "Community",
-        "All Ages"
+        "Performance"
       ]
     },
     {
@@ -6185,168 +6185,6 @@
       ]
     },
     {
-      "id": "boulder_theater_rory_scovel_january_23_2026",
-      "title": "Rory Scovel",
-      "venue": "Boulder Theater",
-      "location": "Boulder",
-      "date": "January 23, 2026",
-      "normalized_date": "2026-01-23T00:00:00",
-      "recurring": null,
-      "time": "",
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.z2ent.com/events/detail/rory-scovel-2026-bt",
-      "image": "images/z2/rory-scovel-98809bb0.jpg",
-      "source_url": null,
-      "age_restriction": null,
-      "venue_tag": "Boulder Theater",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Concert",
-        "Theater"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Concert"
-      ]
-    },
-    {
-      "id": "fox_theatre_jammy_buffet_january_23_2026",
-      "title": "Jammy Buffet",
-      "venue": "Fox Theatre",
-      "location": "Boulder",
-      "date": "January 23, 2026",
-      "normalized_date": "2026-01-23T00:00:00",
-      "recurring": null,
-      "time": "",
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.z2ent.com/events/detail/jammy-buffet-2026-fox",
-      "image": "images/z2/jammy-buffet-60f332f4.jpg",
-      "source_url": null,
-      "age_restriction": null,
-      "venue_tag": "Fox Theatre",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Concert",
-        "Theater"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Concert"
-      ]
-    },
-    {
-      "id": "boulder_theater_dead_floyd_january_24_2026",
-      "title": "Dead Floyd",
-      "venue": "Boulder Theater",
-      "location": "Boulder",
-      "date": "January 24, 2026",
-      "normalized_date": "2026-01-24T00:00:00",
-      "recurring": null,
-      "time": "",
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.z2ent.com/events/detail/dead-floyd-2026-bt",
-      "image": "images/z2/dead-floyd-16032cee.jpg",
-      "source_url": null,
-      "age_restriction": null,
-      "venue_tag": "Boulder Theater",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Concert",
-        "Theater"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Concert"
-      ]
-    },
-    {
-      "id": "fox_theatre_diva_cup_with_rosebay_dry_ice_january_24_2026",
-      "title": "Diva Cup with Rosebay, Dry Ice",
-      "venue": "Fox Theatre",
-      "location": "Boulder",
-      "date": "January 24, 2026",
-      "normalized_date": "2026-01-24T00:00:00",
-      "recurring": null,
-      "time": "",
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.z2ent.com/events/detail/diva-cup-2026-fox",
-      "image": "images/z2/diva-cup-with-rosebay-dry-ice-32f9ac35.jpg",
-      "source_url": null,
-      "age_restriction": null,
-      "venue_tag": "Fox Theatre",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Concert",
-        "Theater"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Concert"
-      ]
-    },
-    {
-      "id": "boulder_theater_welcome_to_night_vale_murder_night_in_blood_forest_with_musical_guest_mal_blum_january_27_2026",
-      "title": "Welcome to Night Vale: Murder Night in Blood Forest with musical guest Mal Blum",
-      "venue": "Boulder Theater",
-      "location": "Boulder",
-      "date": "January 27, 2026",
-      "normalized_date": "2026-01-27T00:00:00",
-      "recurring": null,
-      "time": "",
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.z2ent.com/events/detail/night-vale-2026-bt",
-      "image": "images/z2/welcome-to-night-vale-murder-night-in-blood-forest-bdd2345d.jpg",
-      "source_url": null,
-      "age_restriction": null,
-      "venue_tag": "Boulder Theater",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Concert",
-        "Theater"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Concert"
-      ]
-    },
-    {
-      "id": "fox_theatre_earlybirds_club_january_30_2026",
-      "title": "Earlybirds Club",
-      "venue": "Fox Theatre",
-      "location": "Boulder",
-      "date": "January 30, 2026",
-      "normalized_date": "2026-01-30T00:00:00",
-      "recurring": null,
-      "time": "",
-      "description": "",
-      "additional_info": "Sold Out",
-      "link": "https://www.z2ent.com/events/detail/early-birds-club-2026-fox",
-      "image": "images/z2/earlybirds-club-58e44a6d.jpg",
-      "source_url": null,
-      "age_restriction": null,
-      "venue_tag": "Fox Theatre",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Concert",
-        "Theater"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Concert"
-      ]
-    },
-    {
       "id": "fox_theatre_sunkissd_with_the_speeks_abernathy_shagnaster_january_15_2026",
       "title": "Sunkissd with The Speeks, Abernathy Shagnaster",
       "venue": "Fox Theatre",
@@ -6467,168 +6305,6 @@
       "additional_info": "Sold Out",
       "link": "https://www.z2ent.com/events/detail/ninajirachi-2026-fox",
       "image": "images/z2/ninajirachi-with-2charm-astrid-7019a2ad.jpg",
-      "source_url": null,
-      "age_restriction": null,
-      "venue_tag": "Fox Theatre",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Concert",
-        "Theater"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Concert"
-      ]
-    },
-    {
-      "id": "boulder_theater_rory_scovel_january_23_2026",
-      "title": "Rory Scovel",
-      "venue": "Boulder Theater",
-      "location": "Boulder",
-      "date": "January 23, 2026",
-      "normalized_date": "2026-01-23T00:00:00",
-      "recurring": null,
-      "time": "",
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.z2ent.com/events/detail/rory-scovel-2026-bt",
-      "image": "images/z2/rory-scovel-98809bb0.jpg",
-      "source_url": null,
-      "age_restriction": null,
-      "venue_tag": "Boulder Theater",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Concert",
-        "Theater"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Concert"
-      ]
-    },
-    {
-      "id": "fox_theatre_jammy_buffet_january_23_2026",
-      "title": "Jammy Buffet",
-      "venue": "Fox Theatre",
-      "location": "Boulder",
-      "date": "January 23, 2026",
-      "normalized_date": "2026-01-23T00:00:00",
-      "recurring": null,
-      "time": "",
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.z2ent.com/events/detail/jammy-buffet-2026-fox",
-      "image": "images/z2/jammy-buffet-60f332f4.jpg",
-      "source_url": null,
-      "age_restriction": null,
-      "venue_tag": "Fox Theatre",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Concert",
-        "Theater"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Concert"
-      ]
-    },
-    {
-      "id": "boulder_theater_dead_floyd_january_24_2026",
-      "title": "Dead Floyd",
-      "venue": "Boulder Theater",
-      "location": "Boulder",
-      "date": "January 24, 2026",
-      "normalized_date": "2026-01-24T00:00:00",
-      "recurring": null,
-      "time": "",
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.z2ent.com/events/detail/dead-floyd-2026-bt",
-      "image": "images/z2/dead-floyd-16032cee.jpg",
-      "source_url": null,
-      "age_restriction": null,
-      "venue_tag": "Boulder Theater",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Concert",
-        "Theater"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Concert"
-      ]
-    },
-    {
-      "id": "fox_theatre_diva_cup_with_rosebay_dry_ice_january_24_2026",
-      "title": "Diva Cup with Rosebay, Dry Ice",
-      "venue": "Fox Theatre",
-      "location": "Boulder",
-      "date": "January 24, 2026",
-      "normalized_date": "2026-01-24T00:00:00",
-      "recurring": null,
-      "time": "",
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.z2ent.com/events/detail/diva-cup-2026-fox",
-      "image": "images/z2/diva-cup-with-rosebay-dry-ice-32f9ac35.jpg",
-      "source_url": null,
-      "age_restriction": null,
-      "venue_tag": "Fox Theatre",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Concert",
-        "Theater"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Concert"
-      ]
-    },
-    {
-      "id": "boulder_theater_welcome_to_night_vale_murder_night_in_blood_forest_with_musical_guest_mal_blum_january_27_2026",
-      "title": "Welcome to Night Vale: Murder Night in Blood Forest with musical guest Mal Blum",
-      "venue": "Boulder Theater",
-      "location": "Boulder",
-      "date": "January 27, 2026",
-      "normalized_date": "2026-01-27T00:00:00",
-      "recurring": null,
-      "time": "",
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.z2ent.com/events/detail/night-vale-2026-bt",
-      "image": "images/z2/welcome-to-night-vale-murder-night-in-blood-forest-bdd2345d.jpg",
-      "source_url": null,
-      "age_restriction": null,
-      "venue_tag": "Boulder Theater",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Concert",
-        "Theater"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Concert"
-      ]
-    },
-    {
-      "id": "fox_theatre_earlybirds_club_january_30_2026",
-      "title": "Earlybirds Club",
-      "venue": "Fox Theatre",
-      "location": "Boulder",
-      "date": "January 30, 2026",
-      "normalized_date": "2026-01-30T00:00:00",
-      "recurring": null,
-      "time": "",
-      "description": "",
-      "additional_info": "Sold Out",
-      "link": "https://www.z2ent.com/events/detail/early-birds-club-2026-fox",
-      "image": "images/z2/earlybirds-club-58e44a6d.jpg",
       "source_url": null,
       "age_restriction": null,
       "venue_tag": "Fox Theatre",
