@@ -2,17 +2,25 @@
 """
 Z2 Entertainment Events Scraper
 Scrapes events from Boulder Theater, Fox Theatre, and Aggie Theatre
-Uses direct API calls to get all events without Selenium
+Uses Selenium to handle dynamic JavaScript content and click "Load More" buttons
 Downloads event images locally to avoid hotlinking
 """
 
-import requests
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.common.exceptions import TimeoutException, NoSuchElementException
 from bs4 import BeautifulSoup
 import json
 from datetime import datetime
 import re
 from pathlib import Path
 import hashlib
+import requests
+import time
 
 # Venue mappings
 VENUE_INFO = {
@@ -43,179 +51,147 @@ IMAGE_DOWNLOAD_DIR = Path("images/z2")
 DOWNLOAD_IMAGES = True  # Set to False to use venue default images instead
 
 def scrape_events():
-    """Scrape all events using session with cookies (like a real browser)"""
+    """Scrape all events using Selenium (real browser automation)"""
     
-    # Use a session to maintain cookies
-    session = requests.Session()
-    
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
-        'Accept-Language': 'en-US,en;q=0.9',
-        'Accept-Encoding': 'gzip, deflate, br',
-        'DNT': '1',
-        'Connection': 'keep-alive',
-        'Upgrade-Insecure-Requests': '1',
-    }
+    # Set up Chrome options for headless operation
+    chrome_options = Options()
+    chrome_options.add_argument('--headless')  # Run without visible window
+    chrome_options.add_argument('--no-sandbox')  # Required for Linux/GitHub Actions
+    chrome_options.add_argument('--disable-dev-shm-usage')  # Overcome limited resource problems
+    chrome_options.add_argument('--disable-gpu')  # Disable GPU hardware acceleration
+    chrome_options.add_argument('--window-size=1920,1080')  # Set window size
+    chrome_options.add_argument('--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36')
     
     all_events = []
     seen_event_ids = set()  # Track unique events by ID
-    offset = 0
-    per_page = 12
-    max_pages = 50  # Safety limit
     
-    print("Scraping Z2 Entertainment events using session with cookies...")
+    driver = None
     
-    # First, get initial page AND establish session cookies
-    print(f"\nFetching initial page (establishes session)...")
     try:
-        response = session.get("https://www.z2ent.com/events", headers=headers, timeout=10)
-        response.raise_for_status()
-        print(f"  Session cookies: {list(session.cookies.keys())}")
-        soup = BeautifulSoup(response.content, 'html.parser')
+        # Create Chrome driver
+        print("Initializing Chrome browser...")
+        driver = webdriver.Chrome(options=chrome_options)
         
+        print("Scraping Z2 Entertainment events using Selenium...")
+        print(f"\n{'='*60}")
+        print("Venues:")
+        for venue, info in VENUE_INFO.items():
+            status = "INCLUDED" if info['include'] else ("SCRAPED, NOT SHOWN" if venue == "Aggie Theatre" else "SKIPPED")
+            print(f" • {venue} ({info['location']}) - {status}")
+        print(f"{'='*60}\n")
+        
+        # Load main page
+        print("Loading main Z2 Entertainment events page...")
+        driver.get("https://www.z2ent.com/events")
+        
+        # Wait for initial events to load
+        wait = WebDriverWait(driver, 10)
+        wait.until(EC.presence_of_element_located((By.CLASS_NAME, "eventItem")))
+        print("✓ Page loaded successfully")
+        
+        # Parse initial page events
+        print("\nParsing initial page events...")
+        html = driver.page_source
+        soup = BeautifulSoup(html, 'html.parser')
         event_items = soup.find_all('div', class_='eventItem')
-        print(f"  Found {len(event_items)} events on initial page")
         
-        # Parse initial events
         for item in event_items:
+            event = parse_event_card(item)
+            if event:
+                event_id = f"{event['venue']}|{event['title']}|{event['date']}"
+                if event_id not in seen_event_ids:
+                    seen_event_ids.add(event_id)
+                    all_events.append(event)
+                    print(f"  + {event['venue']}: {event['title']} ({event['date']})")
+        
+        print(f"\n✓ Initial page: {len(all_events)} events captured")
+        
+        # Click "Load More" button 4 times to get January + February events
+        # (Extra clicks account for other venues in the list)
+        print("\nClicking 'Load More' button to get additional events...")
+        
+        for click_num in range(1, 5):  # Click 4 times
             try:
-                # Parse the event first
-                event = parse_event_card(item)
-                if event:
-                    # Create event ID from the PARSED event data
-                    event_id = f"{event['venue']}|{event['title']}|{event['date']}"
-                    
-                    if event_id not in seen_event_ids:
-                        seen_event_ids.add(event_id)
-                        all_events.append(event)
-                        print(f"    + {event['venue']}: {event['title']} ({event['date']})")
-                    else:
-                        print(f"    ⚠ DUPLICATE on initial page: {event['venue']}: {event['title']}")
-            except Exception as e:
-                print(f"  Error parsing event: {e}")
-                continue
-        
-        print(f"  Parsed {len(all_events)} unique events from initial page")
-        
-    except Exception as e:
-        print(f"Error fetching initial page: {e}")
-        return []
-    
-    # Now load more using AJAX endpoint
-    # The page automatically calls /events_ajax/12 on load
-    # Then Load More calls /events_ajax/24, 36, 48, etc.
-    # So we start at 12 to get the first batch
-    offset = 12  # Start at 12 to match what the page does
-    
-    for page in range(1, max_pages):
-        print(f"\nFetching page {page + 1} (offset: {offset})...")
-        
-        # Use the actual AJAX endpoint Z2 uses
-        ajax_url = f"https://www.z2ent.com/events/events_ajax/{offset}"
-        params = {
-            'category': '0',
-            'venue': '0',
-            'team': '0',
-            'exclude': '',
-            'per_page': str(per_page),
-            'came_from_page': 'event-list-page'
-        }
-        
-        # Use more complete headers to avoid 406 error
-        ajax_headers = headers.copy()
-        ajax_headers.update({
-            'Accept': 'application/json, text/javascript, */*; q=0.01',
-            'Accept-Language': 'en-US,en;q=0.9',
-            'Accept-Encoding': 'gzip, deflate, br',
-        })
-        
-        try:
-            # Add small delay to avoid rate limiting
-            import time
-            time.sleep(0.5)
-            
-            response = session.get(ajax_url, params=params, headers=ajax_headers, timeout=10)
-            
-            if response.status_code == 406:
-                print(f"  Server returned 406 (Not Acceptable)")
-                print(f"  This usually means the server is blocking automated requests")
-                break
-            
-            if response.status_code != 200:
-                print(f"  Status {response.status_code}, stopping")
-                break
-            
-            # The response is a JSON string (wrapped in quotes) containing escaped HTML
-            try:
-                # Parse as JSON to get the HTML string
-                html_string = response.json()
+                print(f"\n--- Load More Click #{click_num} ---")
                 
-                # Check if we got an empty string
-                if not html_string or len(html_string) < 100:
-                    print("  Empty HTML string, stopping")
+                # Scroll to bottom to ensure button is visible
+                driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+                time.sleep(1)
+                
+                # Find and click the Load More button
+                # Try multiple possible selectors
+                load_more_button = None
+                selectors = [
+                    "a.load-more-events",
+                    "button.load-more-events", 
+                    ".load-more-events",
+                    "a[href*='events_ajax']",
+                    ".ajax-load-more"
+                ]
+                
+                for selector in selectors:
+                    try:
+                        load_more_button = driver.find_element(By.CSS_SELECTOR, selector)
+                        if load_more_button and load_more_button.is_displayed():
+                            break
+                    except NoSuchElementException:
+                        continue
+                
+                if not load_more_button:
+                    print("  ✗ Load More button not found - reached end of events")
                     break
                 
-                # Now parse the HTML string with BeautifulSoup
-                soup = BeautifulSoup(html_string, 'html.parser')
+                # Click using JavaScript to avoid click interception
+                driver.execute_script("arguments[0].click();", load_more_button)
+                print("  ✓ Clicked Load More button")
                 
-            except json.JSONDecodeError:
-                # Fallback: try parsing response content directly as HTML
-                if len(response.content) < 100:
-                    print("  Empty response, stopping")
-                    break
-                soup = BeautifulSoup(response.content, 'html.parser')
-            
-            event_items = soup.find_all('div', class_='eventItem')
-            
-            if not event_items:
-                print(f"  No more events found")
-                break
-            
-            print(f"  Found {len(event_items)} events on this page")
-            
-            # Parse events and check for duplicates
-            new_events_count = 0
-            for item in event_items:
-                try:
-                    # Parse the event first
+                # Wait for new events to load (wait for AJAX response)
+                time.sleep(3)
+                
+                # Parse newly loaded events
+                html = driver.page_source
+                soup = BeautifulSoup(html, 'html.parser')
+                event_items = soup.find_all('div', class_='eventItem')
+                
+                events_before = len(all_events)
+                
+                for item in event_items:
                     event = parse_event_card(item)
                     if event:
-                        # Create event ID from the PARSED event data
                         event_id = f"{event['venue']}|{event['title']}|{event['date']}"
-                        
                         if event_id not in seen_event_ids:
                             seen_event_ids.add(event_id)
                             all_events.append(event)
-                            new_events_count += 1
-                            print(f"    + NEW: {event['venue']}: {event['title']} ({event['date']})")
-                        else:
-                            print(f"    ⚠ DUPLICATE (already seen): {event['venue']}: {event['title']} ({event['date']})")
-                except Exception as e:
-                    print(f"  Error parsing event: {e}")
-                    continue
-            
-            print(f"  New unique events from this page: {new_events_count}")
-            
-            # If we got no new events, stop
-            if new_events_count == 0:
-                print("  All events were duplicates, stopping")
+                            print(f"    + {event['venue']}: {event['title']} ({event['date']})")
+                
+                new_events = len(all_events) - events_before
+                print(f"  ✓ Found {new_events} new events (total: {len(all_events)})")
+                
+                if new_events == 0:
+                    print("  ✗ No new events found - stopping")
+                    break
+                    
+            except TimeoutException:
+                print(f"  ✗ Timeout waiting for new events to load")
                 break
-            
-            # If we got fewer events than per_page, we're on the last page
-            if len(event_items) < per_page:
-                print(f"  Reached last page (got {len(event_items)} < {per_page})")
+            except Exception as e:
+                print(f"  ✗ Error clicking Load More: {e}")
                 break
-            
-            offset += per_page
-            
-        except Exception as e:
-            print(f"  Error fetching page: {e}")
-            break
-    
-    print(f"\n{'='*60}")
-    print(f"Total unique events scraped: {len(all_events)}")
-    print(f"{'='*60}")
+        
+        print(f"\n{'='*60}")
+        print(f"Total unique events scraped: {len(all_events)}")
+        print(f"{'='*60}")
+        
+    except Exception as e:
+        print(f"\n✗ ERROR: {e}")
+        import traceback
+        traceback.print_exc()
+        
+    finally:
+        # Always close the browser
+        if driver:
+            print("\nClosing browser...")
+            driver.quit()
     
     return all_events
 
@@ -305,175 +281,147 @@ def parse_event_card(card):
         return None
     
     title = title_link.get_text(strip=True)
-    
-    # Extract link
-    link = title_link.get('href', '')
-    if link and not link.startswith('http'):
-        link = f"https://www.z2ent.com{link}"
+    event_url = title_link.get('href', '')
+    if event_url and not event_url.startswith('http'):
+        event_url = f"https://www.z2ent.com{event_url}"
     
     # Extract date - handle both single dates and date ranges
     date_container = card.find('span', class_='m-date__singleDate')
     
     if date_container:
-        # Single date format: "Jan 15, 2026"
-        month = date_container.find('span', class_='m-date__month')
-        day = date_container.find('span', class_='m-date__day')
-        year = date_container.find('span', class_='m-date__year')
+        # Single date format: "Wed, Jan 15, 2026"
+        weekday_elem = date_container.find('span', class_='m-date__weekday')
+        month_elem = date_container.find('span', class_='m-date__month')
+        day_elem = date_container.find('span', class_='m-date__day')
+        year_elem = date_container.find('span', class_='m-date__year')
         
-        if not all([month, day, year]):
+        if not all([month_elem, day_elem, year_elem]):
             return None
         
-        month_text = month.get_text(strip=True).replace(',', '').strip()
-        day_text = day.get_text(strip=True)
-        year_text = year.get_text(strip=True).replace(',', '').strip()
+        month_text = month_elem.get_text(strip=True)
+        day_text = day_elem.get_text(strip=True).strip()
+        year_text = year_elem.get_text(strip=True).replace(',', '').strip()
         
+        # Format: "January 15, 2026"
         date_str = f"{month_text} {day_text}, {year_text}"
+        
     else:
         # Date range format: "Jan 15 - 17, 2026"
         range_first = card.find('span', class_='m-date__rangeFirst')
         range_last = card.find('span', class_='m-date__rangeLast')
         
-        if not all([range_first, range_last]):
+        if not range_first or not range_last:
             return None
         
-        # Get start date parts
-        start_month = range_first.find('span', class_='m-date__month')
-        start_day = range_first.find('span', class_='m-date__day')
+        # Extract start date components
+        month_elem = range_first.find('span', class_='m-date__month')
+        start_day_elem = range_first.find('span', class_='m-date__day')
         
-        # Get end date parts
-        end_day = range_last.find('span', class_='m-date__day')
-        year = range_last.find('span', class_='m-date__year')
+        # Extract end day and year
+        end_day_elem = range_last.find('span', class_='m-date__day')
+        year_elem = range_last.find('span', class_='m-date__year')
         
-        if not all([start_month, start_day, end_day, year]):
+        if not all([month_elem, start_day_elem, year_elem]):
             return None
         
-        month_text = start_month.get_text(strip=True).replace(',', '').strip()
-        start_day_text = start_day.get_text(strip=True)
-        end_day_text = end_day.get_text(strip=True)
-        year_text = year.get_text(strip=True).replace(',', '').strip()
+        month_text = month_elem.get_text(strip=True)
+        start_day_text = start_day_elem.get_text(strip=True).strip()
+        year_text = year_elem.get_text(strip=True).replace(',', '').strip()
         
-        # Use the start date for sorting purposes
+        # Use start date for display/sorting
         date_str = f"{month_text} {start_day_text}, {year_text}"
     
-    formatted_date = parse_date(date_str)
+    # Parse and normalize the date
+    try:
+        parsed_date = datetime.strptime(date_str, "%B %d, %Y")
+        normalized_date = parsed_date.strftime("%Y-%m-%d")
+    except ValueError:
+        try:
+            # Try abbreviated month format
+            parsed_date = datetime.strptime(date_str, "%b %d, %Y")
+            normalized_date = parsed_date.strftime("%Y-%m-%d")
+        except ValueError:
+            print(f"  Could not parse date: {date_str}")
+            return None
     
-    # Extract time if available (not in provided HTML, but check)
-    time_elem = card.find('div', class_='time') or card.find('span', class_='time')
-    time = time_elem.get_text(strip=True) if time_elem else ""
+    # Extract image URL
+    image_elem = card.find('img')
+    image_url = None
+    if image_elem and image_elem.get('src'):
+        image_url = image_elem['src']
+        if image_url and not image_url.startswith('http'):
+            image_url = f"https://www.z2ent.com{image_url}"
     
-    # Extract image from div.thumb
-    thumb_elem = card.find('div', class_='thumb')
-    remote_image_url = None
-    if thumb_elem:
-        img = thumb_elem.find('img')
-        if img and img.get('src'):
-            img_src = img['src']
-            if img_src.startswith('http'):
-                remote_image_url = img_src
-            elif img_src.startswith('//'):
-                remote_image_url = f"https:{img_src}"
-            elif img_src.startswith('/'):
-                remote_image_url = f"https://www.z2ent.com{img_src}"
+    # Download image if available
+    local_image_path = None
+    if image_url:
+        local_image_path = download_event_image(image_url, title, venue_name)
     
-    # Download image locally (or use venue default)
-    local_image_path = download_event_image(remote_image_url, title, venue_name)
+    # Use local image path if downloaded, otherwise use default venue image
     final_image = local_image_path if local_image_path else venue_config['image']
     
-    # Check ticket status
-    ticket_elem = card.find('a', class_='tickets')
-    ticket_status = ""
-    if ticket_elem:
-        ticket_text = ticket_elem.get_text(strip=True)
-        if "FREE" in ticket_text.upper():
-            ticket_status = "Free Event"
-        elif "SOLD OUT" in ticket_text.upper():
-            ticket_status = "Sold Out"
+    # Extract ticket link from buttons section
+    ticket_link = None
+    buttons_div = card.find('div', class_='buttons')
+    if buttons_div:
+        ticket_elem = buttons_div.find('a', class_='tickets')
+        if ticket_elem and ticket_elem.get('href'):
+            ticket_link = ticket_elem['href']
     
-    event = {
+    print(f"✓ {title} at {venue_name} on {date_str}")
+    
+    return {
         "title": title,
         "venue": venue_name,
         "location": venue_config['location'],
-        "date": formatted_date,
-        "time": time,
-        "image": final_image,  # Use downloaded local image
-        "link": link,
-        "description": "",
-        "additional_info": ticket_status,
-        "event_type_tags": ["Live Music", "Concert"]
+        "date": date_str,
+        "normalized_date": normalized_date,
+        "time": None,  # Z2 doesn't show times on event cards
+        "image": final_image,
+        "url": event_url,
+        "ticket_link": ticket_link,
+        "tags": ["music", "concert"],
+        "description": None
     }
-    
-    print(f"✓ {title} at {venue_name} on {formatted_date}")
-    return event
-
-def parse_date(date_str):
-    """Parse date string to 'Month DD, YYYY' format"""
-    try:
-        # Z2 Entertainment format: "Jan 11, 2026"
-        date_str = date_str.strip()
-        
-        # Try to parse as-is first
-        try:
-            date_obj = datetime.strptime(date_str, "%b %d, %Y")
-            return date_obj.strftime("%B %d, %Y")
-        except ValueError:
-            pass
-        
-        # Other common formats to try
-        formats = [
-            "%B %d, %Y",       # "January 10, 2025"
-            "%m/%d/%Y",        # "01/10/2025"
-            "%m-%d-%Y",        # "01-10-2025"
-            "%Y-%m-%d",        # "2025-01-10"
-        ]
-        
-        for fmt in formats:
-            try:
-                date_obj = datetime.strptime(date_str, fmt)
-                return date_obj.strftime("%B %d, %Y")
-            except ValueError:
-                continue
-        
-        # If none of the formats work, return original
-        print(f"Warning: Could not parse date '{date_str}'")
-        return date_str
-        
-    except Exception as e:
-        print(f"Error parsing date '{date_str}': {e}")
-        return date_str
-
-def save_events(events):
-    """Save events to JSON file"""
-    output_file = "z2_entertainment_events.json"
-    
-    with open(output_file, 'w', encoding='utf-8') as f:
-        json.dump(events, f, indent=2, ensure_ascii=False)
-    
-    print(f"\n✓ Saved {len(events)} events to {output_file}")
 
 def main():
-    print("=" * 60)
-    print("Z2 Entertainment Events Scraper")
-    print("=" * 60)
-    print("\nVenues:")
-    print("  • Boulder Theater (Boulder) - INCLUDED")
-    print("  • Fox Theatre (Boulder) - INCLUDED")
-    print("  • Aggie Theatre (Fort Collins) - SCRAPED, NOT SHOWN")
-    print("  • 10 Mile Music Hall - SKIPPED")
-    print()
+    """Main execution function"""
     
+    print(f"\n{'='*60}")
+    print("Z2 Entertainment Events Scraper")
+    print(f"{'='*60}")
+    
+    # Scrape events
     events = scrape_events()
     
-    if events:
-        save_events(events)
-        print(f"\n✓ Successfully scraped {len(events)} events")
-    else:
-        print("\n✗ No events found")
-        print("\nTroubleshooting:")
-        print("1. Check if the website structure has changed")
-        print("2. Update CSS selectors in parse_event_card()")
-        print("3. Verify the events page URL is correct")
+    if not events:
+        print("\n⚠ No events scraped!")
+        return
     
-    print("=" * 60)
+    # Save to JSON file
+    output_file = "z2_entertainment_events.json"
+    
+    try:
+        with open(output_file, 'w', encoding='utf-8') as f:
+            json.dump(events, f, indent=2, ensure_ascii=False)
+        
+        print(f"\n✓ Saved {len(events)} events to {output_file}")
+        
+        # Print summary by venue
+        print("\nEvents by venue:")
+        venue_counts = {}
+        for event in events:
+            venue = event['venue']
+            venue_counts[venue] = venue_counts.get(venue, 0) + 1
+        
+        for venue, count in sorted(venue_counts.items()):
+            print(f"  • {venue}: {count} events")
+        
+        print(f"\n✓ Successfully scraped {len(events)} events")
+        print(f"{'='*60}\n")
+        
+    except Exception as e:
+        print(f"\n✗ Error saving to file: {e}")
 
 if __name__ == "__main__":
     main()
