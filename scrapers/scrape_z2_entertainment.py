@@ -100,13 +100,7 @@ def scrape_events():
     # So we start at 12 to get the first batch
     offset = 12  # Start at 12 to match what the page does
     
-    # Try at least a few pages even if we get errors
-    # This helps get more events even if Z2 blocks some requests
-    min_pages_to_try = 3  # Try at least 3 AJAX calls (offsets 12, 24, 36)
-    pages_tried = 0
-    
     for page in range(1, max_pages):
-        pages_tried += 1
         print(f"\nFetching page {page + 1} (offset: {offset})...")
         
         # Use the actual AJAX endpoint Z2 uses
@@ -137,13 +131,8 @@ def scrape_events():
             
             if response.status_code == 406:
                 print(f"  Server returned 406 (Not Acceptable)")
-                if pages_tried >= min_pages_to_try:
-                    print(f"  Tried {pages_tried} pages, stopping")
-                    break
-                else:
-                    print(f"  Only tried {pages_tried}/{min_pages_to_try} pages, continuing anyway...")
-                    offset += per_page
-                    continue
+                print(f"  This usually means the server is blocking automated requests")
+                break
             
             if response.status_code != 200:
                 print(f"  Status {response.status_code}, stopping")
