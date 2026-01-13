@@ -179,10 +179,17 @@ class EventAggregator:
         
         # Try to parse various date formats
         date_patterns = [
-            (r'(\w+day),\s+(\w+)\s+(\d{1,2})(?:st|nd|rd|th)?,\s+(\d{4})', '%A, %B %d, %Y'),
-            (r'(\w+)\s+(\d{1,2})(?:st|nd|rd|th)?,\s+(\d{4})', '%B %d, %Y'),
-            (r'(\w+)\s+(\d{1,2})(?:st|nd|rd|th)?', '%B %d'),
-            (r'(\d{1,2})/(\d{1,2})/(\d{4})', '%m/%d/%Y'),
+            # Full month name formats
+            (r'(\w+day),\s+(\w+)\s+(\d{1,2})(?:st|nd|rd|th)?,\s+(\d{4})', '%A, %B %d, %Y'),  # "Monday, January 23, 2026"
+            (r'(\w+)\s+(\d{1,2})(?:st|nd|rd|th)?,\s+(\d{4})', '%B %d, %Y'),  # "January 23, 2026"
+            (r'(\w+)\s+(\d{1,2})(?:st|nd|rd|th)?', '%B %d'),  # "January 23"
+            
+            # Abbreviated month name formats (Z2 Entertainment uses these)
+            (r'(\w{3})\s+(\d{1,2})(?:st|nd|rd|th)?,\s+(\d{4})', '%b %d, %Y'),  # "Jan 23, 2026"
+            (r'(\w{3})\s+(\d{1,2})(?:st|nd|rd|th)?', '%b %d'),  # "Jan 23"
+            
+            # Numeric formats
+            (r'(\d{1,2})/(\d{1,2})/(\d{4})', '%m/%d/%Y'),  # "1/23/2026"
         ]
         
         for pattern, date_format in date_patterns:
@@ -243,8 +250,8 @@ class EventAggregator:
                 # Get venue config (handle cases where event venue might be more specific)
                 venue_config = self.venue_configs.get(event_venue, config)
                 
-                # Normalize the date first
-                normalized_date = self.normalize_date(event)
+                # Normalize the date - use existing normalized_date if present, otherwise compute it
+                normalized_date = event.get('normalized_date') or self.normalize_date(event)
                 
                 # Skip past events (before today, but include today's events)
                 if normalized_date:
