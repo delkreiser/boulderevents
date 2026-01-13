@@ -72,7 +72,8 @@ def cleanup_old_images():
     # Delete images that are no longer in use
     deleted_count = 0
     for image_path in all_z2_images:
-        relative_path = str(image_path)
+        # Convert Path object to string with forward slashes (matches JSON format)
+        relative_path = str(image_path).replace('\\', '/')
         
         if relative_path not in active_images:
             try:
@@ -81,6 +82,8 @@ def cleanup_old_images():
                 deleted_count += 1
             except Exception as e:
                 print(f"  Error deleting {relative_path}: {e}")
+        else:
+            print(f"  Keeping active image: {relative_path}")
     
     print(f"\n{'='*60}")
     print(f"Image Cleanup Complete")

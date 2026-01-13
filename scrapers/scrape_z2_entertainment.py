@@ -119,20 +119,19 @@ def scrape_events():
                 time.sleep(1)
                 
                 # Find and click the Load More button
-                # Try multiple possible selectors
+                # The button has id="loadMoreEvents" and class="eventList__showMore"
                 load_more_button = None
                 selectors = [
-                    "a.load-more-events",
-                    "button.load-more-events", 
-                    ".load-more-events",
-                    "a[href*='events_ajax']",
-                    ".ajax-load-more"
+                    "#loadMoreEvents",  # Primary selector - the actual ID
+                    "button.eventList__showMore",  # Class-based backup
+                    "button[data-options='events']",  # Data attribute backup
                 ]
                 
                 for selector in selectors:
                     try:
                         load_more_button = driver.find_element(By.CSS_SELECTOR, selector)
                         if load_more_button and load_more_button.is_displayed():
+                            print(f"  ✓ Found button using selector: {selector}")
                             break
                     except NoSuchElementException:
                         continue
