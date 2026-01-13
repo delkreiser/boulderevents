@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-12T18:34:15.603907",
+  "generated_at": "2026-01-13T00:58:57.963577",
   "total_events": 220,
   "tags": {
     "venues": [
@@ -94,6 +94,34 @@
       "additional_info": "",
       "link": "https://www.velvetelklounge.com/event/january-8th-big-shrimp-with-juicebox/",
       "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/61657Juicebox.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+      "source_url": "https://www.velvetelklounge.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Velvet Elk Lounge",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Live Music",
+        "Bar",
+        "Nightlife"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "velvet_elk_lounge_atomga_january_16_2026",
+      "title": "ATOMGA",
+      "venue": "Velvet Elk Lounge",
+      "location": "Boulder",
+      "date": "January 16, 2026",
+      "normalized_date": "2026-01-16T00:00:00",
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.velvetelklounge.com/event/january-16th-atomga/",
+      "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/82931atomga.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
       "source_url": "https://www.velvetelklounge.com/events/",
       "age_restriction": null,
       "venue_tag": "Velvet Elk Lounge",
@@ -334,34 +362,6 @@
       ]
     },
     {
-      "id": "velvet_elk_lounge_tinsley_ellis_private_sound_check_experience_march_6_2026",
-      "title": "Tinsley Ellis: PRIVATE SOUND CHECK EXPERIENCE",
-      "venue": "Velvet Elk Lounge",
-      "location": "Boulder",
-      "date": "March 6, 2026",
-      "normalized_date": "2026-03-06T00:00:00",
-      "recurring": null,
-      "time": null,
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.velvetelklounge.com/event/march-6th-tinsley-ellis-private-sound-check-experience/",
-      "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/40988Tinsley_Ellis.png?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
-      "source_url": "https://www.velvetelklounge.com/events/",
-      "age_restriction": null,
-      "venue_tag": "Velvet Elk Lounge",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Music",
-        "Live Music",
-        "Bar",
-        "Nightlife"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Nightlife"
-      ]
-    },
-    {
       "id": "junkyard_social_club_drop_in_mahjongg_tuesdays_tuesday_january_13_2026_12_00_2_00_pm",
       "title": "Drop-In Mahjongg \u2013 Tuesdays",
       "venue": "Junkyard Social Club",
@@ -385,8 +385,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
-        "Community"
+        "Community",
+        "Games"
       ]
     },
     {
@@ -467,8 +467,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
-        "Community"
+        "Community",
+        "Games"
       ]
     },
     {
@@ -495,10 +495,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "All Ages",
-        "Family Friendly",
-        "Community"
+        "Community",
+        "Music",
+        "Family Friendly"
       ]
     },
     {
@@ -525,10 +525,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "All Ages",
-        "Family Friendly",
-        "Community"
+        "Community",
+        "Music",
+        "Family Friendly"
       ]
     },
     {
@@ -611,8 +611,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -639,9 +639,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Community",
         "Music",
-        "Educational",
-        "Community"
+        "Educational"
       ]
     },
     {
@@ -695,9 +695,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
+        "Community",
         "Performance",
-        "Community"
+        "Music"
       ]
     },
     {
@@ -724,9 +724,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
+        "Community",
         "Performance",
-        "Community"
+        "Music"
       ]
     },
     {
@@ -753,9 +753,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
+        "Community",
         "Performance",
-        "Community"
+        "Music"
       ]
     },
     {
@@ -782,10 +782,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "All Ages",
+        "Community",
         "Performance",
-        "Community"
+        "Music"
       ]
     },
     {
@@ -812,8 +812,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
@@ -840,9 +840,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Educational",
+        "Community",
         "Games",
-        "Community"
+        "Educational"
       ]
     },
     {
@@ -870,9 +870,9 @@
       ],
       "event_type_tags": [
         "All Ages",
+        "Community",
         "Games",
-        "Family Friendly",
-        "Community"
+        "Family Friendly"
       ]
     },
     {
@@ -899,8 +899,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
@@ -928,10 +928,10 @@
       ],
       "event_type_tags": [
         "Performance",
-        "Music",
+        "Family Friendly",
         "Community",
-        "All Ages",
-        "Family Friendly"
+        "Music",
+        "All Ages"
       ]
     },
     {
