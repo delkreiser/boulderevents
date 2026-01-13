@@ -211,6 +211,7 @@ class EventAggregator:
     def aggregate_all_events(self):
         """Load and aggregate all events from all venues"""
         all_events = []
+        loaded_files = set()  # Track which files we've already loaded
         
         # Use Mountain Time for Colorado events if pytz is available
         if PYTZ_AVAILABLE:
@@ -222,8 +223,18 @@ class EventAggregator:
         for venue_name, config in self.venue_configs.items():
             print(f"\nProcessing {venue_name}...")
             
+            scraper_file = config['scraper_output']
+            
+            # Skip if we've already loaded this file
+            if scraper_file in loaded_files:
+                print(f"  Already loaded events from {scraper_file}, skipping duplicate load")
+                continue
+            
+            # Mark this file as loaded
+            loaded_files.add(scraper_file)
+            
             # Load events from file
-            events = self.load_events_from_file(config['scraper_output'])
+            events = self.load_events_from_file(scraper_file)
             
             for event in events:
                 # Get the venue name from the event or use the config key
