@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T08:31:55.734671",
-  "total_events": 215,
+  "generated_at": "2026-01-13T14:24:08.848068",
+  "total_events": 221,
   "tags": {
     "venues": [
       "300 Suns Brewing",
@@ -62,7 +62,6 @@
       "Books",
       "Brewery",
       "Community",
-      "Concert",
       "DJ",
       "Dance",
       "Educational",
@@ -385,8 +384,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Games"
+        "Games",
+        "Community"
       ]
     },
     {
@@ -467,8 +466,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Games"
+        "Games",
+        "Community"
       ]
     },
     {
@@ -495,10 +494,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "Community",
+        "All Ages",
         "Family Friendly",
-        "All Ages"
+        "Music",
+        "Community"
       ]
     },
     {
@@ -525,10 +524,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "Community",
+        "All Ages",
         "Family Friendly",
-        "All Ages"
+        "Music",
+        "Community"
       ]
     },
     {
@@ -583,8 +582,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Performance"
+        "Performance",
+        "All Ages"
       ]
     },
     {
@@ -611,8 +610,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Performance"
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -639,9 +638,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Educational",
         "Music",
-        "Community",
-        "Educational"
+        "Community"
       ]
     },
     {
@@ -695,9 +694,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Performance",
         "Music",
-        "Community",
-        "Performance"
+        "Community"
       ]
     },
     {
@@ -724,9 +723,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Performance",
         "Music",
-        "Community",
-        "Performance"
+        "Community"
       ]
     },
     {
@@ -753,9 +752,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Performance",
         "Music",
-        "Community",
-        "Performance"
+        "Community"
       ]
     },
     {
@@ -782,10 +781,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "Community",
         "Performance",
-        "All Ages"
+        "All Ages",
+        "Music",
+        "Community"
       ]
     },
     {
@@ -840,9 +839,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Educational",
-        "Games"
+        "Games",
+        "Community"
       ]
     },
     {
@@ -870,9 +869,9 @@
       ],
       "event_type_tags": [
         "All Ages",
-        "Community",
+        "Games",
         "Family Friendly",
-        "Games"
+        "Community"
       ]
     },
     {
@@ -927,11 +926,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Family Friendly",
+        "All Ages",
         "Performance",
+        "Family Friendly",
         "Music",
-        "All Ages"
+        "Community"
       ]
     },
     {
@@ -6050,17 +6049,17 @@
       ]
     },
     {
-      "id": "fox_theatre_sunkissd_with_the_speeks_abernathy_shagnaster_january_15_2026",
+      "id": "fox_theatre_sunkissd_with_the_speeks_abernathy_shagnaster_jan_15_2026_none",
       "title": "Sunkissd with The Speeks, Abernathy Shagnaster",
       "venue": "Fox Theatre",
       "location": "Boulder",
-      "date": "January 15, 2026",
-      "normalized_date": "2026-01-15T00:00:00",
+      "date": "Jan 15, 2026",
+      "normalized_date": null,
       "recurring": null,
-      "time": "",
-      "description": "",
+      "time": null,
+      "description": null,
       "additional_info": "",
-      "link": "https://www.z2ent.com/events/detail/sunkissd-2026-fox",
+      "link": null,
       "image": "images/z2/sunkissd-with-the-speeks-abernathy-shagnaster-80fdb479.jpg",
       "source_url": null,
       "age_restriction": null,
@@ -6071,23 +6070,20 @@
         "Concert",
         "Theater"
       ],
-      "event_type_tags": [
-        "Live Music",
-        "Concert"
-      ]
+      "event_type_tags": []
     },
     {
-      "id": "boulder_theater_umphrey_s_mcgee_3_nights_january_15_2026",
+      "id": "boulder_theater_umphrey_s_mcgee_3_nights_jan_15_2026_none",
       "title": "UMPHREY'S McGEE (3 Nights!)",
       "venue": "Boulder Theater",
       "location": "Boulder",
-      "date": "January 15, 2026",
-      "normalized_date": "2026-01-15T00:00:00",
+      "date": "Jan 15, 2026",
+      "normalized_date": null,
       "recurring": null,
-      "time": "",
-      "description": "",
+      "time": null,
+      "description": null,
       "additional_info": "",
-      "link": "https://www.z2ent.com/events/detail/umphreys-mcgee-2026-bt",
+      "link": null,
       "image": "images/z2/umphrey-s-mcgee-3-nights--360eaad1.jpg",
       "source_url": null,
       "age_restriction": null,
@@ -6098,23 +6094,20 @@
         "Concert",
         "Theater"
       ],
-      "event_type_tags": [
-        "Live Music",
-        "Concert"
-      ]
+      "event_type_tags": []
     },
     {
-      "id": "fox_theatre_east_nash_grass_with_pick_howl_january_16_2026",
+      "id": "fox_theatre_east_nash_grass_with_pick_howl_jan_16_2026_none",
       "title": "East Nash Grass with Pick & Howl",
       "venue": "Fox Theatre",
       "location": "Boulder",
-      "date": "January 16, 2026",
-      "normalized_date": "2026-01-16T00:00:00",
+      "date": "Jan 16, 2026",
+      "normalized_date": null,
       "recurring": null,
-      "time": "",
-      "description": "",
+      "time": null,
+      "description": null,
       "additional_info": "",
-      "link": "https://www.z2ent.com/events/detail/east-nash-grass-2026-fox",
+      "link": null,
       "image": "images/z2/east-nash-grass-with-pick-howl-07586708.jpg",
       "source_url": null,
       "age_restriction": null,
@@ -6125,23 +6118,20 @@
         "Concert",
         "Theater"
       ],
-      "event_type_tags": [
-        "Live Music",
-        "Concert"
-      ]
+      "event_type_tags": []
     },
     {
-      "id": "fox_theatre_united_we_dance_the_ultimate_rave_experience_january_17_2026",
+      "id": "fox_theatre_united_we_dance_the_ultimate_rave_experience_jan_17_2026_none",
       "title": "United We Dance: The Ultimate Rave Experience",
       "venue": "Fox Theatre",
       "location": "Boulder",
-      "date": "January 17, 2026",
-      "normalized_date": "2026-01-17T00:00:00",
+      "date": "Jan 17, 2026",
+      "normalized_date": null,
       "recurring": null,
-      "time": "",
-      "description": "",
+      "time": null,
+      "description": null,
       "additional_info": "",
-      "link": "https://www.z2ent.com/events/detail/united-we-dance-2026-fox",
+      "link": null,
       "image": "images/z2/united-we-dance-the-ultimate-rave-experience-c29a7e8f.jpg",
       "source_url": null,
       "age_restriction": null,
@@ -6152,23 +6142,20 @@
         "Concert",
         "Theater"
       ],
-      "event_type_tags": [
-        "Live Music",
-        "Concert"
-      ]
+      "event_type_tags": []
     },
     {
-      "id": "fox_theatre_ninajirachi_with_2charm_astrid_january_18_2026",
+      "id": "fox_theatre_ninajirachi_with_2charm_astrid_jan_18_2026_none",
       "title": "Ninajirachi with 2charm, astrid",
       "venue": "Fox Theatre",
       "location": "Boulder",
-      "date": "January 18, 2026",
-      "normalized_date": "2026-01-18T00:00:00",
+      "date": "Jan 18, 2026",
+      "normalized_date": null,
       "recurring": null,
-      "time": "",
-      "description": "",
-      "additional_info": "Sold Out",
-      "link": "https://www.z2ent.com/events/detail/ninajirachi-2026-fox",
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": null,
       "image": "images/z2/ninajirachi-with-2charm-astrid-7019a2ad.jpg",
       "source_url": null,
       "age_restriction": null,
@@ -6179,10 +6166,151 @@
         "Concert",
         "Theater"
       ],
-      "event_type_tags": [
+      "event_type_tags": []
+    },
+    {
+      "id": "boulder_theater_rory_scovel_jan_23_2026_none",
+      "title": "Rory Scovel",
+      "venue": "Boulder Theater",
+      "location": "Boulder",
+      "date": "Jan 23, 2026",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": null,
+      "image": "images/z2/rory-scovel-98809bb0.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Boulder Theater",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
         "Live Music",
-        "Concert"
-      ]
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "fox_theatre_jammy_buffet_jan_23_2026_none",
+      "title": "Jammy Buffet",
+      "venue": "Fox Theatre",
+      "location": "Boulder",
+      "date": "Jan 23, 2026",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": null,
+      "image": "images/foxtheatre.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Fox Theatre",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "boulder_theater_dead_floyd_jan_24_2026_none",
+      "title": "Dead Floyd",
+      "venue": "Boulder Theater",
+      "location": "Boulder",
+      "date": "Jan 24, 2026",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": null,
+      "image": "images/z2/dead-floyd-16032cee.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Boulder Theater",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "fox_theatre_diva_cup_with_rosebay_dry_ice_jan_24_2026_none",
+      "title": "Diva Cup with Rosebay, Dry Ice",
+      "venue": "Fox Theatre",
+      "location": "Boulder",
+      "date": "Jan 24, 2026",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": null,
+      "image": "images/foxtheatre.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Fox Theatre",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "boulder_theater_welcome_to_night_vale_murder_night_in_blood_forest_with_musical_guest_mal_blum_jan_27_2026_none",
+      "title": "Welcome to Night Vale: Murder Night in Blood Forest with musical guest Mal Blum",
+      "venue": "Boulder Theater",
+      "location": "Boulder",
+      "date": "Jan 27, 2026",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": null,
+      "image": "images/z2/welcome-to-night-vale-murder-night-in-blood-forest-bdd2345d.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Boulder Theater",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "fox_theatre_earlybirds_club_jan_30_2026_none",
+      "title": "Earlybirds Club",
+      "venue": "Fox Theatre",
+      "location": "Boulder",
+      "date": "Jan 30, 2026",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": null,
+      "image": "images/z2/earlybirds-club-58e44a6d.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Fox Theatre",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
     }
   ]
 }
