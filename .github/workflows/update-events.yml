@@ -25,9 +25,29 @@ jobs:
       with:
         python-version: '3.11'
     
+    # Install Chrome for Selenium (needed for Z2 scraper)
+    - name: Install Chrome
+      run: |
+        wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+        sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list'
+        sudo apt-get update
+        sudo apt-get install -y google-chrome-stable
+    
+    # Install ChromeDriver for Selenium (needed for Z2 scraper)
+    - name: Install ChromeDriver
+      run: |
+        CHROME_VERSION=$(google-chrome --version | awk '{print $3}' | cut -d '.' -f 1)
+        wget -q "https://googlechromelabs.github.io/chrome-for-testing/LATEST_RELEASE_$CHROME_VERSION" -O chrome-version.txt
+        DRIVER_VERSION=$(cat chrome-version.txt)
+        wget -q "https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/$DRIVER_VERSION/linux64/chromedriver-linux64.zip"
+        unzip -q chromedriver-linux64.zip
+        sudo mv chromedriver-linux64/chromedriver /usr/local/bin/
+        sudo chmod +x /usr/local/bin/chromedriver
+        rm -rf chromedriver-linux64 chromedriver-linux64.zip chrome-version.txt
+    
     - name: Install dependencies
       run: |
-        pip install playwright beautifulsoup4 requests pytz
+        pip install playwright beautifulsoup4 requests pytz selenium
         playwright install chromium
         playwright install-deps chromium
     
@@ -84,4 +104,3 @@ jobs:
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
