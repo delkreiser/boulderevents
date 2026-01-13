@@ -43,12 +43,19 @@ IMAGE_DOWNLOAD_DIR = Path("images/z2")
 DOWNLOAD_IMAGES = True  # Set to False to use venue default images instead
 
 def scrape_events():
-    """Scrape all events using Z2's AJAX endpoint"""
+    """Scrape all events using session with cookies (like a real browser)"""
+    
+    # Use a session to maintain cookies
+    session = requests.Session()
     
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
-        'X-Requested-With': 'XMLHttpRequest',
-        'Referer': 'https://www.z2ent.com/events'
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
+        'Accept-Language': 'en-US,en;q=0.9',
+        'Accept-Encoding': 'gzip, deflate, br',
+        'DNT': '1',
+        'Connection': 'keep-alive',
+        'Upgrade-Insecure-Requests': '1',
     }
     
     all_events = []
@@ -57,13 +64,14 @@ def scrape_events():
     per_page = 12
     max_pages = 50  # Safety limit
     
-    print("Scraping Z2 Entertainment events using events_ajax endpoint...")
+    print("Scraping Z2 Entertainment events using session with cookies...")
     
-    # First, get initial page
-    print(f"\nFetching initial page...")
+    # First, get initial page AND establish session cookies
+    print(f"\nFetching initial page (establishes session)...")
     try:
-        response = requests.get("https://www.z2ent.com/events", headers=headers, timeout=10)
+        response = session.get("https://www.z2ent.com/events", headers=headers, timeout=10)
         response.raise_for_status()
+        print(f"  Session cookies: {list(session.cookies.keys())}")
         soup = BeautifulSoup(response.content, 'html.parser')
         
         event_items = soup.find_all('div', class_='eventItem')
@@ -127,7 +135,7 @@ def scrape_events():
             import time
             time.sleep(0.5)
             
-            response = requests.get(ajax_url, params=params, headers=ajax_headers, timeout=10)
+            response = session.get(ajax_url, params=params, headers=ajax_headers, timeout=10)
             
             if response.status_code == 406:
                 print(f"  Server returned 406 (Not Acceptable)")
