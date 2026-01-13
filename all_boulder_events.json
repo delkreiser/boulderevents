@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T14:24:08.848068",
-  "total_events": 221,
+  "generated_at": "2026-01-13T14:40:24.833437",
+  "total_events": 250,
   "tags": {
     "venues": [
       "300 Suns Brewing",
@@ -494,10 +494,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
         "Family Friendly",
-        "Music",
-        "Community"
+        "All Ages",
+        "Community",
+        "Music"
       ]
     },
     {
@@ -524,10 +524,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
         "Family Friendly",
-        "Music",
-        "Community"
+        "All Ages",
+        "Community",
+        "Music"
       ]
     },
     {
@@ -639,8 +639,8 @@
       ],
       "event_type_tags": [
         "Educational",
-        "Music",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
@@ -695,8 +695,8 @@
       ],
       "event_type_tags": [
         "Performance",
-        "Music",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
@@ -724,8 +724,8 @@
       ],
       "event_type_tags": [
         "Performance",
-        "Music",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
@@ -753,8 +753,8 @@
       ],
       "event_type_tags": [
         "Performance",
-        "Music",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
@@ -783,8 +783,8 @@
       "event_type_tags": [
         "Performance",
         "All Ages",
-        "Music",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
@@ -811,8 +811,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
@@ -868,9 +868,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Games",
         "Family Friendly",
+        "Games",
+        "All Ages",
         "Community"
       ]
     },
@@ -898,8 +898,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
@@ -926,10 +926,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
         "Performance",
-        "Family Friendly",
         "Music",
+        "All Ages",
+        "Family Friendly",
         "Community"
       ]
     },
@@ -6132,7 +6132,7 @@
       "description": null,
       "additional_info": "",
       "link": null,
-      "image": "images/z2/united-we-dance-the-ultimate-rave-experience-c29a7e8f.jpg",
+      "image": "images/foxtheatre.jpg",
       "source_url": null,
       "age_restriction": null,
       "venue_tag": "Fox Theatre",
@@ -6301,6 +6301,702 @@
       "additional_info": "",
       "link": null,
       "image": "images/z2/earlybirds-club-58e44a6d.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Fox Theatre",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "boulder_theater_the_man_who_saves_the_world_jan_30_2026_none",
+      "title": "The Man Who Saves the World?",
+      "venue": "Boulder Theater",
+      "location": "Boulder",
+      "date": "Jan 30, 2026",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": null,
+      "image": "images/z2/the-man-who-saves-the-world--ad5a0bf1.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Boulder Theater",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "boulder_theater_fitz_and_the_tantrums_jan_31_2026_none",
+      "title": "Fitz and the Tantrums",
+      "venue": "Boulder Theater",
+      "location": "Boulder",
+      "date": "Jan 31, 2026",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": null,
+      "image": "images/z2/fitz-and-the-tantrums-55fb6f18.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Boulder Theater",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "fox_theatre_josh_teed_with_dmvu_absnt_beanz_jan_31_2026_none",
+      "title": "Josh Teed with DMVU, absnt, Beanz",
+      "venue": "Fox Theatre",
+      "location": "Boulder",
+      "date": "Jan 31, 2026",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": null,
+      "image": "images/foxtheatre.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Fox Theatre",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "fox_theatre_jane_and_matthews_with_tidepool_nu_bass_theory_feb_5_2026_none",
+      "title": "Jane and Matthews with Tidepool, NU Bass Theory",
+      "venue": "Fox Theatre",
+      "location": "Boulder",
+      "date": "Feb 5, 2026",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": null,
+      "image": "images/foxtheatre.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Fox Theatre",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "boulder_theater_stella_cole_with_the_boulder_philharmonic_feb_6_2026_none",
+      "title": "Stella Cole with the Boulder Philharmonic",
+      "venue": "Boulder Theater",
+      "location": "Boulder",
+      "date": "Feb 6, 2026",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": null,
+      "image": "images/z2/stella-cole-with-the-boulder-philharmonic-72323a54.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Boulder Theater",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "fox_theatre_jerro_with_luko_siixnights_feb_6_2026_none",
+      "title": "Jerro with LuKo, siixnights",
+      "venue": "Fox Theatre",
+      "location": "Boulder",
+      "date": "Feb 6, 2026",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": null,
+      "image": "images/z2/jerro-with-luko-siixnights-24105f6a.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Fox Theatre",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "boulder_theater_shakedown_street_feb_7_2026_none",
+      "title": "Shakedown Street",
+      "venue": "Boulder Theater",
+      "location": "Boulder",
+      "date": "Feb 7, 2026",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": null,
+      "image": "images/z2/shakedown-street-402b4ae7.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Boulder Theater",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "fox_theatre_the_ocean_blue_with_brian_tighe_of_the_hang_ups_feb_7_2026_none",
+      "title": "The Ocean Blue with Brian Tighe of The Hang Ups",
+      "venue": "Fox Theatre",
+      "location": "Boulder",
+      "date": "Feb 7, 2026",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": null,
+      "image": "images/z2/the-ocean-blue-with-brian-tighe-of-the-hang-ups-7f356f5c.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Fox Theatre",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "fox_theatre_say_she_she_with_katz_oso_feb_9_2026_none",
+      "title": "Say She She with Katz\u00f9 Oso",
+      "venue": "Fox Theatre",
+      "location": "Boulder",
+      "date": "Feb 9, 2026",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": null,
+      "image": "images/z2/say-she-she-with-katz-oso-56be1411.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Fox Theatre",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "boulder_theater_the_revivalists_feb_10_2026_none",
+      "title": "The Revivalists",
+      "venue": "Boulder Theater",
+      "location": "Boulder",
+      "date": "Feb 10, 2026",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": null,
+      "image": "images/z2/the-revivalists-d82a4d76.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Boulder Theater",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "boulder_theater_grand_kyiv_ballet_presents_swan_lake_feb_11_2026_none",
+      "title": "Grand Kyiv Ballet presents Swan Lake",
+      "venue": "Boulder Theater",
+      "location": "Boulder",
+      "date": "Feb 11, 2026",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": null,
+      "image": "images/z2/grand-kyiv-ballet-presents-swan-lake-1b8c42a6.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Boulder Theater",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "fox_theatre_the_galentines_with_squash_desiderata_feb_12_2026_none",
+      "title": "The Galentines with Squash, Desiderata",
+      "venue": "Fox Theatre",
+      "location": "Boulder",
+      "date": "Feb 12, 2026",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": null,
+      "image": "images/z2/the-galentines-with-squash-desiderata-72b0dddd.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Fox Theatre",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "boulder_theater_the_record_company_with_jontavious_willis_feb_13_2026_none",
+      "title": "The Record Company with Jontavious Willis",
+      "venue": "Boulder Theater",
+      "location": "Boulder",
+      "date": "Feb 13, 2026",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": null,
+      "image": "images/bouldertheater.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Boulder Theater",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "fox_theatre_it_s_a_2000s_party_boulder_feb_13_2026_none",
+      "title": "It's A 2000s Party: Boulder",
+      "venue": "Fox Theatre",
+      "location": "Boulder",
+      "date": "Feb 13, 2026",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": null,
+      "image": "images/z2/it-s-a-2000s-party-boulder-b943a3fb.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Fox Theatre",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "fox_theatre_daniel_rodriguez_with_special_guest_lvdy_feb_14_2026_none",
+      "title": "Daniel Rodriguez with special guest LVDY",
+      "venue": "Fox Theatre",
+      "location": "Boulder",
+      "date": "Feb 14, 2026",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": null,
+      "image": "images/z2/daniel-rodriguez-with-special-guest-lvdy-dfd7ecd2.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Fox Theatre",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "boulder_theater_devotchka_feb_14_2026_none",
+      "title": "DeVotchKa",
+      "venue": "Boulder Theater",
+      "location": "Boulder",
+      "date": "Feb 14, 2026",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": null,
+      "image": "images/z2/devotchka-3edb154d.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Boulder Theater",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "boulder_theater_banff_centre_mountain_film_festival_3_nights_feb_16_2026_none",
+      "title": "Banff Centre Mountain Film Festival (3 Nights!)",
+      "venue": "Boulder Theater",
+      "location": "Boulder",
+      "date": "Feb 16, 2026",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": null,
+      "image": "images/z2/banff-centre-mountain-film-festival-3-nights--629b1e74.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Boulder Theater",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "fox_theatre_mntra_with_cj_doubletake_feb_19_2026_none",
+      "title": "MNTRA with CJ, DoubleTake",
+      "venue": "Fox Theatre",
+      "location": "Boulder",
+      "date": "Feb 19, 2026",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": null,
+      "image": "images/z2/mntra-with-cj-doubletake-c8e9a201.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Fox Theatre",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "boulder_theater_atmosphere_feb_20_2026_none",
+      "title": "Atmosphere",
+      "venue": "Boulder Theater",
+      "location": "Boulder",
+      "date": "Feb 20, 2026",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": null,
+      "image": "images/z2/atmosphere-f9353645.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Boulder Theater",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "fox_theatre_young_and_dead_feat_liquid_jpeg_light_show_feb_20_2026_none",
+      "title": "Young and Dead feat. Liquid JPEG Light Show",
+      "venue": "Fox Theatre",
+      "location": "Boulder",
+      "date": "Feb 20, 2026",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": null,
+      "image": "images/z2/young-and-dead-feat-liquid-jpeg-light-show-f5f381fc.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Fox Theatre",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "fox_theatre_dennett_with_papajay_dubv_feb_21_2026_none",
+      "title": "DENNETT with PAPAJAY, DUBV",
+      "venue": "Fox Theatre",
+      "location": "Boulder",
+      "date": "Feb 21, 2026",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": null,
+      "image": "images/z2/dennett-with-papajay-dubv-05c96f54.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Fox Theatre",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "fox_theatre_the_502s_with_harf_feb_22_2026_none",
+      "title": "The 502s with harf.",
+      "venue": "Fox Theatre",
+      "location": "Boulder",
+      "date": "Feb 22, 2026",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": null,
+      "image": "images/z2/the-502s-with-harf--e2f4098c.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Fox Theatre",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "boulder_theater_the_human_advantage_summit_feb_23_2026_none",
+      "title": "The Human Advantage Summit",
+      "venue": "Boulder Theater",
+      "location": "Boulder",
+      "date": "Feb 23, 2026",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": null,
+      "image": "images/z2/the-human-advantage-summit-48c5a631.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Boulder Theater",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "fox_theatre_daniel_donato_s_cosmic_country_feb_24_2026_none",
+      "title": "Daniel Donato's Cosmic Country",
+      "venue": "Fox Theatre",
+      "location": "Boulder",
+      "date": "Feb 24, 2026",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": null,
+      "image": "images/z2/daniel-donato-s-cosmic-country-8d2a9b39.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Fox Theatre",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "boulder_theater_daniel_donato_s_cosmic_country_2_nights_feb_25_2026_none",
+      "title": "Daniel Donato's Cosmic Country (2 Nights!)",
+      "venue": "Boulder Theater",
+      "location": "Boulder",
+      "date": "Feb 25, 2026",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": null,
+      "image": "images/z2/daniel-donato-s-cosmic-country-2-nights--62d8a633.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Boulder Theater",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "fox_theatre_riot_with_beanz_slick_portal_feb_26_2026_none",
+      "title": "RIOT with Beanz, Slick Portal",
+      "venue": "Fox Theatre",
+      "location": "Boulder",
+      "date": "Feb 26, 2026",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": null,
+      "image": "images/z2/riot-with-beanz-slick-portal-235d6523.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Fox Theatre",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "fox_theatre_penelope_road_feb_27_2026_none",
+      "title": "Penelope Road",
+      "venue": "Fox Theatre",
+      "location": "Boulder",
+      "date": "Feb 27, 2026",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": null,
+      "image": "images/z2/penelope-road-72e887db.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Fox Theatre",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "boulder_theater_all_them_witches_with_king_buffalo_feb_28_2026_none",
+      "title": "All Them Witches with King Buffalo",
+      "venue": "Boulder Theater",
+      "location": "Boulder",
+      "date": "Feb 28, 2026",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": null,
+      "image": "images/z2/all-them-witches-with-king-buffalo-5b3ff17a.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Boulder Theater",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "fox_theatre_tauk_with_sqwerv_feb_28_2026_none",
+      "title": "TAUK with Sqwerv",
+      "venue": "Fox Theatre",
+      "location": "Boulder",
+      "date": "Feb 28, 2026",
+      "normalized_date": null,
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": null,
+      "image": "images/z2/tauk-with-sqwerv-b42b98f1.jpg",
       "source_url": null,
       "age_restriction": null,
       "venue_tag": "Fox Theatre",
