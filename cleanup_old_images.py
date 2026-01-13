@@ -38,14 +38,35 @@ def cleanup_old_images():
     else:
         today = datetime.now().date()
     
+    print(f"Today's date: {today}")
+    print(f"Total events in JSON: {len(events)}")
+    
     # Track which images are still in use
     active_images = set()
     
     for event in events:
-        # Check if event has passed
+        # Get normalized date, or try to parse from date field if missing
         normalized_date = event.get('normalized_date')
+        
         if not normalized_date:
-            continue
+            # Try to parse from date field (e.g., "Jan 15, 2026")
+            date_str = event.get('date')
+            if date_str:
+                try:
+                    # Try parsing "Jan 15, 2026" format
+                    from datetime import datetime
+                    parsed_date = datetime.strptime(date_str, "%b %d, %Y")
+                    normalized_date = parsed_date.strftime("%Y-%m-%d")
+                except:
+                    try:
+                        # Try parsing "January 15, 2026" format
+                        parsed_date = datetime.strptime(date_str, "%B %d, %Y")
+                        normalized_date = parsed_date.strftime("%Y-%m-%d")
+                    except:
+                        print(f"  ⚠ Could not parse date for {event.get('title')}: {date_str}")
+                        continue
+            else:
+                continue
         
         try:
             event_date = datetime.fromisoformat(normalized_date).date()
@@ -55,41 +76,60 @@ def cleanup_old_images():
                 image_path = event.get('image')
                 if image_path and image_path.startswith('images/z2/'):
                     active_images.add(image_path)
+                    print(f"  Active event: {event.get('title')} ({event_date}) - Image: {image_path}")
         except Exception as e:
             print(f"Error parsing date for {event.get('title')}: {e}")
             continue
     
+    print(f"\nTotal active Z2 images in JSON: {len(active_images)}")
+    if active_images:
+        print("Active image paths:")
+        for img in sorted(active_images):
+            print(f"  - {img}")
+    
     # Find all Z2 images in directory
     z2_image_dir = Path("images/z2")
     if not z2_image_dir.exists():
-        print("No images/z2 directory found, nothing to clean up")
+        print("\nNo images/z2 directory found, nothing to clean up")
         return
     
     all_z2_images = set()
     for ext in ['*.jpg', '*.jpeg', '*.png', '*.gif', '*.webp']:
         all_z2_images.update(z2_image_dir.glob(ext))
     
+    print(f"\nTotal Z2 images in folder: {len(all_z2_images)}")
+    if all_z2_images:
+        print("Images in folder:")
+        for img in sorted(all_z2_images):
+            print(f"  - {str(img).replace(chr(92), '/')}")  # Show with forward slashes
+    
     # Delete images that are no longer in use
     deleted_count = 0
+    kept_count = 0
+    
     for image_path in all_z2_images:
         # Convert Path object to string with forward slashes (matches JSON format)
         relative_path = str(image_path).replace('\\', '/')
         
+        print(f"\nChecking: {relative_path}")
+        print(f"  In active_images? {relative_path in active_images}")
+        
         if relative_path not in active_images:
             try:
                 image_path.unlink()
-                print(f"  Deleted old image: {relative_path}")
+                print(f"  ✗ DELETED (not in active list)")
                 deleted_count += 1
             except Exception as e:
-                print(f"  Error deleting {relative_path}: {e}")
+                print(f"  ✗ Error deleting: {e}")
         else:
-            print(f"  Keeping active image: {relative_path}")
+            kept_count += 1
+            print(f"  ✓ KEPT (active event)")
     
     print(f"\n{'='*60}")
     print(f"Image Cleanup Complete")
     print(f"{'='*60}")
-    print(f"Active images: {len(active_images)}")
-    print(f"Deleted images: {deleted_count}")
+    print(f"Active images kept: {kept_count}")
+    print(f"Old images deleted: {deleted_count}")
     print(f"{'='*60}")
 
 def main():
