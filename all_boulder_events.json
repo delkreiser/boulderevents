@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T08:31:59.785683",
-  "total_events": 255,
+  "generated_at": "2026-01-14T18:33:30.947850",
+  "total_events": 256,
   "tags": {
     "venues": [
       "300 Suns Brewing",
@@ -75,6 +75,7 @@
       "Live Music",
       "Music",
       "Nightlife",
+      "Open Mic",
       "Performance"
     ]
   },
@@ -450,8 +451,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
-        "Community"
+        "Community",
+        "Games"
       ]
     },
     {
@@ -479,10 +480,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
+        "Community",
         "Family Friendly",
         "Music",
-        "Community"
+        "All Ages"
       ]
     },
     {
@@ -510,10 +511,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
+        "Community",
         "Family Friendly",
         "Music",
-        "Community"
+        "All Ages"
       ]
     },
     {
@@ -541,8 +542,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Community"
+        "Community",
+        "All Ages"
       ]
     },
     {
@@ -570,8 +571,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Performance"
+        "Performance",
+        "All Ages"
       ]
     },
     {
@@ -628,9 +629,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
+        "Community",
         "Educational",
-        "Community"
+        "Music"
       ]
     },
     {
@@ -686,9 +687,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Performance",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
@@ -716,9 +717,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Performance",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
@@ -746,9 +747,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Performance",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
@@ -776,10 +777,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Music",
         "Performance",
-        "Community"
+        "Community",
+        "Music",
+        "All Ages"
       ]
     },
     {
@@ -807,8 +808,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
@@ -836,9 +837,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
+        "Community",
         "Educational",
-        "Community"
+        "Games"
       ]
     },
     {
@@ -866,10 +867,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
+        "Community",
         "Family Friendly",
-        "Games",
-        "Community"
+        "All Ages",
+        "Games"
       ]
     },
     {
@@ -897,8 +898,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
@@ -927,10 +928,10 @@
       ],
       "event_type_tags": [
         "All Ages",
-        "Family Friendly",
         "Music",
+        "Performance",
         "Community",
-        "Performance"
+        "Family Friendly"
       ]
     },
     {
@@ -1203,36 +1204,6 @@
       "event_type_tags": [
         "Entertainment",
         "Hotel Events"
-      ]
-    },
-    {
-      "id": "trident_booksellers_cafe_trident_author_series_christina_rivera_my_oceans_january_13_2027_6_30_pm",
-      "title": "Trident Author Series: Christina Rivera - My Oceans",
-      "venue": "Trident Booksellers & Cafe",
-      "location": "Boulder",
-      "date": "January 13, 2027",
-      "normalized_date": "2027-01-13T00:00:00",
-      "recurring": null,
-      "time": "6:30 PM",
-      "description": "MY\u00a0OCEANSAn urgent\u00a0exploration of\u00a0caring & mothering on a planet in crisisIn a swell of sea-linked essays, Christina Rivera explores the kinship between marine animals, humans, and Earth\u2019s blue womb. Rivera\u2019s investigative questions begin with the toxic burden of her body and spiral out\u2014to a grievin...",
-      "additional_info": "",
-      "link": "https://www.tridentcafe.com/events/2026/1/13/trident-author-series-christina-rivera-my-oceans",
-      "ticket_link": null,
-      "image": "trident.jpg",
-      "source_url": "https://www.tridentcafe.com/events",
-      "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Books",
-        "Community"
       ]
     },
     {
@@ -3396,6 +3367,36 @@
       ]
     },
     {
+      "id": "trident_booksellers_cafe_trident_author_series_christina_rivera_my_oceans_january_13_2027_6_30_pm",
+      "title": "Trident Author Series: Christina Rivera - My Oceans",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "January 13, 2027",
+      "normalized_date": "2027-01-13T00:00:00",
+      "recurring": null,
+      "time": "6:30 PM",
+      "description": "MY\u00a0OCEANSAn urgent\u00a0exploration of\u00a0caring & mothering on a planet in crisisIn a swell of sea-linked essays, Christina Rivera explores the kinship between marine animals, humans, and Earth\u2019s blue womb. Rivera\u2019s investigative questions begin with the toxic burden of her body and spiral out\u2014to a grievin...",
+      "additional_info": "",
+      "link": "https://www.tridentcafe.com/events/2026/1/13/trident-author-series-christina-rivera-my-oceans",
+      "ticket_link": null,
+      "image": "trident.jpg",
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Books",
+        "Community"
+      ]
+    },
+    {
       "id": "trident_booksellers_cafe_language_exchange_night_january_12_2027_7_00_pm",
       "title": "Language Exchange Night",
       "venue": "Trident Booksellers & Cafe",
@@ -3977,36 +3978,6 @@
       "description": "Emily Barnes is a contemporary folk singer-songwriter known for her haunting voice and vividly drawn characters. Hailing from the tiny town of Johnsonburg, NJ, she\u2019s built a grassroots following through heartfelt performances and honest storytelling. With four albums to her name\u2014including her latest...",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2025/11/22/emily-barnes",
-      "ticket_link": null,
-      "image": "trident.jpg",
-      "source_url": "https://www.tridentcafe.com/events",
-      "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Books",
-        "Community"
-      ]
-    },
-    {
-      "id": "trident_booksellers_cafe_randy_miles_martin_balgach_micki_balder_november_21_2026_6_00_pm",
-      "title": "Randy Miles / Martin Balgach / Micki Balder",
-      "venue": "Trident Booksellers & Cafe",
-      "location": "Boulder",
-      "date": "November 21, 2026",
-      "normalized_date": "2026-11-21T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM",
-      "description": "Randy Miles is an Alt-folk artist hailing from New England and now rooted in Louisville, CO. After two decades of playing and touring in bands up and down the East Coast, he\u2019s turned inward to craft his first solo album. Set to release in the spring of 2026, the project blends his love for the rustl...",
-      "additional_info": "",
-      "link": "https://www.tridentcafe.com/events/2025/11/21/randy-miles-martin-balgach-ian-huschle",
       "ticket_link": null,
       "image": "trident.jpg",
       "source_url": "https://www.tridentcafe.com/events",
@@ -4706,6 +4677,35 @@
       ]
     },
     {
+      "id": "bricks_on_main_open_mic_night_january_20_2026_5_30_pm_8_30_pm",
+      "title": "Open Mic Night",
+      "venue": "Bricks on Main",
+      "location": "Longmont",
+      "date": "January 20, 2026",
+      "normalized_date": "2026-01-20T00:00:00",
+      "recurring": null,
+      "time": "5:30 PM - 8:30 PM",
+      "description": "Music open mic, sign up at 5:30, about 15 minute time slots, often runs till 8:30 or a little later but general timeline is 6-8. Come down and eat dinner and have drinks and enjoy the music community here!",
+      "additional_info": "",
+      "link": "https://www.bricksretail.com/event-details/open-mic-night-2026-01-20-17-30",
+      "ticket_link": null,
+      "image": "https://static.wixstatic.com/media/f119ff_930ac49a2c5d4e0aa220b93515ba6ee3~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/f119ff_930ac49a2c5d4e0aa220b93515ba6ee3~mv2.jpg",
+      "source_url": "https://www.bricksretail.com/events-calendar",
+      "age_restriction": null,
+      "venue_tag": "Bricks on Main",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Community",
+        "Retail",
+        "Entertainment"
+      ],
+      "event_type_tags": [
+        "Open Mic",
+        "Music",
+        "Community"
+      ]
+    },
+    {
       "id": "bricks_on_main_minstrel_in_the_galaxy_january_22_2026_6_00_pm_8_00_pm",
       "title": "Minstrel in the Galaxy",
       "venue": "Bricks on Main",
@@ -4915,6 +4915,34 @@
       "link": "https://www.bricksretail.com/event-details/mmb3-organ-trio",
       "ticket_link": null,
       "image": "https://static.wixstatic.com/media/ea2d6f_e8e865cc985742ea9cf3100ceec76cac~mv2.jpeg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_e8e865cc985742ea9cf3100ceec76cac~mv2.jpeg",
+      "source_url": "https://www.bricksretail.com/events-calendar",
+      "age_restriction": null,
+      "venue_tag": "Bricks on Main",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Community",
+        "Retail",
+        "Entertainment"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "bricks_on_main_wylie_jones_february_06_2026_6_00_pm_9_00_pm",
+      "title": "Wylie Jones",
+      "venue": "Bricks on Main",
+      "location": "Longmont",
+      "date": "February 06, 2026",
+      "normalized_date": "2026-02-06T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM - 9:00 PM",
+      "description": "Wylie Jones is a multi instrumentalist one man band loop artist like the great Keller Williams, with the spirit of Toots, Bob Marley and Metallica wrapped into one.",
+      "additional_info": "",
+      "link": "https://www.bricksretail.com/event-details/wylie-jones",
+      "ticket_link": null,
+      "image": "https://static.wixstatic.com/media/ea2d6f_646feb49e2bf4f7b83030defc91a2cfb~mv2.jpeg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_646feb49e2bf4f7b83030defc91a2cfb~mv2.jpeg",
       "source_url": "https://www.bricksretail.com/events-calendar",
       "age_restriction": null,
       "venue_tag": "Bricks on Main",
