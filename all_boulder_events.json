@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T01:19:33.563811",
-  "total_events": 228,
+  "generated_at": "2026-01-14T01:42:58.788181",
+  "total_events": 234,
   "tags": {
     "venues": [
       "300 Suns Brewing",
@@ -395,8 +395,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
-        "Community"
+        "Community",
+        "Games"
       ]
     },
     {
@@ -480,8 +480,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
-        "Community"
+        "Community",
+        "Games"
       ]
     },
     {
@@ -509,10 +509,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
-        "All Ages",
         "Community",
-        "Music"
+        "All Ages",
+        "Music",
+        "Family Friendly"
       ]
     },
     {
@@ -540,10 +540,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
-        "All Ages",
         "Community",
-        "Music"
+        "All Ages",
+        "Music",
+        "Family Friendly"
       ]
     },
     {
@@ -571,8 +571,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Community"
+        "Community",
+        "All Ages"
       ]
     },
     {
@@ -629,8 +629,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -716,8 +716,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "Community",
+        "Performance",
         "Music"
       ]
     },
@@ -746,8 +746,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "Community",
+        "Performance",
         "Music"
       ]
     },
@@ -776,8 +776,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "Community",
+        "Performance",
         "Music"
       ]
     },
@@ -806,8 +806,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "Community",
+        "Performance",
         "All Ages",
         "Music"
       ]
@@ -866,9 +866,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
         "Community",
-        "Educational"
+        "Educational",
+        "Games"
       ]
     },
     {
@@ -896,10 +896,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
-        "Games",
+        "Community",
         "All Ages",
-        "Community"
+        "Games",
+        "Family Friendly"
       ]
     },
     {
@@ -956,11 +956,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
-        "Performance",
         "Community",
+        "Music",
         "All Ages",
-        "Music"
+        "Performance",
+        "Family Friendly"
       ]
     },
     {
@@ -6728,6 +6728,156 @@
       "link": "https://www.z2ent.com/events/detail/early-birds-club-2026-fox",
       "ticket_link": "https://www.axs.com/events/1131534/?skin=foxtheatre",
       "image": "images/z2/earlybirds-club-58e44a6d.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Fox Theatre",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "boulder_theater_the_man_who_saves_the_world_jan_30_2026_none",
+      "title": "The Man Who Saves the World?",
+      "venue": "Boulder Theater",
+      "location": "Boulder",
+      "date": "Jan 30, 2026",
+      "normalized_date": "2026-01-30",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": "https://www.z2ent.com/events/detail/who-saves-the-world-2026-bt",
+      "ticket_link": "https://www.axs.com/events/1253179/?skin=bouldetheater",
+      "image": "images/z2/the-man-who-saves-the-world--ad5a0bf1.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Boulder Theater",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "boulder_theater_fitz_and_the_tantrums_with_juno_rossa_jan_31_2026_none",
+      "title": "Fitz and the Tantrums with Juno Rossa",
+      "venue": "Boulder Theater",
+      "location": "Boulder",
+      "date": "Jan 31, 2026",
+      "normalized_date": "2026-01-31",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": "https://www.z2ent.com/events/detail/fitz-and-the-tantrums-2026-bt",
+      "ticket_link": "https://www.axs.com/events/1183880/?skin=bouldertheater",
+      "image": "images/z2/fitz-and-the-tantrums-with-juno-rossa-55fb6f18.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Boulder Theater",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "fox_theatre_josh_teed_with_dmvu_absnt_beanz_jan_31_2026_none",
+      "title": "Josh Teed with DMVU, absnt, Beanz",
+      "venue": "Fox Theatre",
+      "location": "Boulder",
+      "date": "Jan 31, 2026",
+      "normalized_date": "2026-01-31",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": "https://www.z2ent.com/events/detail/josh-teed-2026-fox",
+      "ticket_link": "https://www.axs.com/events/1154886/?skin=foxtheatre",
+      "image": "images/z2/josh-teed-with-dmvu-absnt-beanz-d4e1f77e.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Fox Theatre",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "fox_theatre_jane_and_matthews_with_tidepool_nu_bass_theory_feb_5_2026_none",
+      "title": "Jane and Matthews with Tidepool, NU Bass Theory",
+      "venue": "Fox Theatre",
+      "location": "Boulder",
+      "date": "Feb 5, 2026",
+      "normalized_date": "2026-02-05",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": "https://www.z2ent.com/events/detail/jane-and-matthews-2026-fox",
+      "ticket_link": "https://www.axs.com/events/1286659/?skin=foxtheatre",
+      "image": "images/z2/jane-and-matthews-with-tidepool-nu-bass-theory-e5512c3b.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Fox Theatre",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "boulder_theater_stella_cole_with_the_boulder_philharmonic_feb_6_2026_none",
+      "title": "Stella Cole with the Boulder Philharmonic",
+      "venue": "Boulder Theater",
+      "location": "Boulder",
+      "date": "Feb 6, 2026",
+      "normalized_date": "2026-02-06",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": "https://www.z2ent.com/events/detail/stella-cole-boulder-philharmonic-2026-bt",
+      "ticket_link": "https://www.axs.com/events/1074668/?skin=bouldertheater",
+      "image": "images/z2/stella-cole-with-the-boulder-philharmonic-72323a54.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Boulder Theater",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "fox_theatre_jerro_with_luko_siixnights_feb_6_2026_none",
+      "title": "Jerro with LuKo, siixnights",
+      "venue": "Fox Theatre",
+      "location": "Boulder",
+      "date": "Feb 6, 2026",
+      "normalized_date": "2026-02-06",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": "https://www.z2ent.com/events/detail/jerro-2026-fox",
+      "ticket_link": "https://www.axs.com/events/1175049/?skin=foxtheatre",
+      "image": "images/z2/jerro-with-luko-siixnights-24105f6a.jpg",
       "source_url": null,
       "age_restriction": null,
       "venue_tag": "Fox Theatre",
