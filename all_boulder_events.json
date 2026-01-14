@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T14:40:24.833437",
-  "total_events": 250,
+  "generated_at": "2026-01-13T18:31:27.535056",
+  "total_events": 251,
   "tags": {
     "venues": [
       "300 Suns Brewing",
@@ -121,6 +121,34 @@
       "additional_info": "",
       "link": "https://www.velvetelklounge.com/event/january-16th-atomga/",
       "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/82931atomga.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+      "source_url": "https://www.velvetelklounge.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Velvet Elk Lounge",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Live Music",
+        "Bar",
+        "Nightlife"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "velvet_elk_lounge_late_night_with_cousin_eli_andy_farag_of_umphrey_s_mcgee_january_16_2026",
+      "title": "Late Night with Cousin Eli: Andy Farag of Umphrey's McGee",
+      "venue": "Velvet Elk Lounge",
+      "location": "Boulder",
+      "date": "January 16, 2026",
+      "normalized_date": "2026-01-16T00:00:00",
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.velvetelklounge.com/event/january-16th-late-night-with-cousin-eli-andy-farag-of-umphreys-mcgee/",
+      "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/24556Cousin_Eli_Logo.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
       "source_url": "https://www.velvetelklounge.com/events/",
       "age_restriction": null,
       "venue_tag": "Velvet Elk Lounge",
@@ -333,34 +361,6 @@
       ]
     },
     {
-      "id": "velvet_elk_lounge_kendall_street_company_with_dj_williams_band_march_4_2026",
-      "title": "Kendall Street Company with DJ Williams Band",
-      "venue": "Velvet Elk Lounge",
-      "location": "Boulder",
-      "date": "March 4, 2026",
-      "normalized_date": "2026-03-04T00:00:00",
-      "recurring": null,
-      "time": null,
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.velvetelklounge.com/event/march-4th-kendall-street-company-with-dj-williams-band/",
-      "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/15486KSC_Promo-59.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
-      "source_url": "https://www.velvetelklounge.com/events/",
-      "age_restriction": null,
-      "venue_tag": "Velvet Elk Lounge",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Music",
-        "Live Music",
-        "Bar",
-        "Nightlife"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Nightlife"
-      ]
-    },
-    {
       "id": "junkyard_social_club_drop_in_mahjongg_tuesdays_tuesday_january_13_2026_12_00_2_00_pm",
       "title": "Drop-In Mahjongg \u2013 Tuesdays",
       "venue": "Junkyard Social Club",
@@ -384,8 +384,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
-        "Community"
+        "Community",
+        "Games"
       ]
     },
     {
@@ -466,8 +466,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
-        "Community"
+        "Community",
+        "Games"
       ]
     },
     {
@@ -494,10 +494,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
-        "All Ages",
         "Community",
-        "Music"
+        "All Ages",
+        "Music",
+        "Family Friendly"
       ]
     },
     {
@@ -524,10 +524,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
-        "All Ages",
         "Community",
-        "Music"
+        "All Ages",
+        "Music",
+        "Family Friendly"
       ]
     },
     {
@@ -554,8 +554,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Community"
+        "Community",
+        "All Ages"
       ]
     },
     {
@@ -582,8 +582,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "All Ages"
+        "All Ages",
+        "Performance"
       ]
     },
     {
@@ -610,8 +610,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -638,8 +638,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Educational",
         "Community",
+        "Educational",
         "Music"
       ]
     },
@@ -694,8 +694,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "Community",
+        "Performance",
         "Music"
       ]
     },
@@ -723,8 +723,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "Community",
+        "Performance",
         "Music"
       ]
     },
@@ -752,8 +752,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "Community",
+        "Performance",
         "Music"
       ]
     },
@@ -781,9 +781,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "All Ages",
         "Community",
+        "All Ages",
+        "Performance",
         "Music"
       ]
     },
@@ -839,9 +839,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Community",
         "Educational",
-        "Games",
-        "Community"
+        "Games"
       ]
     },
     {
@@ -868,10 +868,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
-        "Games",
+        "Community",
         "All Ages",
-        "Community"
+        "Games",
+        "Family Friendly"
       ]
     },
     {
@@ -926,11 +926,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Music",
-        "All Ages",
         "Family Friendly",
-        "Community"
+        "Community",
+        "All Ages",
+        "Performance",
+        "Music"
       ]
     },
     {
@@ -5075,6 +5075,31 @@
       ]
     },
     {
+      "id": "roots_music_project_rmp_s_monthly_jazz_soul_and_groove_jam_sessions_february_19_2026_7_30_pm_10_00_pm",
+      "title": "RMP's Monthly Jazz, Soul, and Groove Jam Sessions",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": "February 19, 2026",
+      "normalized_date": "2026-02-19T00:00:00",
+      "recurring": null,
+      "time": "7:30 PM - 10:00 PM",
+      "description": "RMP Monthly Jam: Musicians unite for collaborative jazz, soul & groove performance. Pro artists create dynamic musical fusion. Free Event!",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/rmps-monthly-jazz-soul-and-groove-jam-sessions-tickets-1980479658973",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F954537953%2F1125606624043%2F1%2Foriginal.20250206-174854?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=e6697e534a6f2fddc6b7e9d404724717",
+      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
       "id": "roots_music_project_resonance_ritual_featuring_tim_snider_kayla_diana_february_26_2026_7_30_pm_11_00_pm",
       "title": "Resonance & Ritual featuring Tim Snider & Kayla Diana",
       "venue": "Roots Music Project",
@@ -6054,7 +6079,7 @@
       "venue": "Fox Theatre",
       "location": "Boulder",
       "date": "Jan 15, 2026",
-      "normalized_date": null,
+      "normalized_date": "2026-01-15",
       "recurring": null,
       "time": null,
       "description": null,
@@ -6078,7 +6103,7 @@
       "venue": "Boulder Theater",
       "location": "Boulder",
       "date": "Jan 15, 2026",
-      "normalized_date": null,
+      "normalized_date": "2026-01-15",
       "recurring": null,
       "time": null,
       "description": null,
@@ -6102,7 +6127,7 @@
       "venue": "Fox Theatre",
       "location": "Boulder",
       "date": "Jan 16, 2026",
-      "normalized_date": null,
+      "normalized_date": "2026-01-16",
       "recurring": null,
       "time": null,
       "description": null,
@@ -6126,13 +6151,13 @@
       "venue": "Fox Theatre",
       "location": "Boulder",
       "date": "Jan 17, 2026",
-      "normalized_date": null,
+      "normalized_date": "2026-01-17",
       "recurring": null,
       "time": null,
       "description": null,
       "additional_info": "",
       "link": null,
-      "image": "images/foxtheatre.jpg",
+      "image": "images/z2/united-we-dance-the-ultimate-rave-experience-c29a7e8f.jpg",
       "source_url": null,
       "age_restriction": null,
       "venue_tag": "Fox Theatre",
@@ -6150,7 +6175,7 @@
       "venue": "Fox Theatre",
       "location": "Boulder",
       "date": "Jan 18, 2026",
-      "normalized_date": null,
+      "normalized_date": "2026-01-18",
       "recurring": null,
       "time": null,
       "description": null,
@@ -6174,7 +6199,7 @@
       "venue": "Boulder Theater",
       "location": "Boulder",
       "date": "Jan 23, 2026",
-      "normalized_date": null,
+      "normalized_date": "2026-01-23",
       "recurring": null,
       "time": null,
       "description": null,
@@ -6198,13 +6223,13 @@
       "venue": "Fox Theatre",
       "location": "Boulder",
       "date": "Jan 23, 2026",
-      "normalized_date": null,
+      "normalized_date": "2026-01-23",
       "recurring": null,
       "time": null,
       "description": null,
       "additional_info": "",
       "link": null,
-      "image": "images/foxtheatre.jpg",
+      "image": "images/z2/jammy-buffet-60f332f4.jpg",
       "source_url": null,
       "age_restriction": null,
       "venue_tag": "Fox Theatre",
@@ -6222,7 +6247,7 @@
       "venue": "Boulder Theater",
       "location": "Boulder",
       "date": "Jan 24, 2026",
-      "normalized_date": null,
+      "normalized_date": "2026-01-24",
       "recurring": null,
       "time": null,
       "description": null,
@@ -6246,13 +6271,13 @@
       "venue": "Fox Theatre",
       "location": "Boulder",
       "date": "Jan 24, 2026",
-      "normalized_date": null,
+      "normalized_date": "2026-01-24",
       "recurring": null,
       "time": null,
       "description": null,
       "additional_info": "",
       "link": null,
-      "image": "images/foxtheatre.jpg",
+      "image": "images/z2/diva-cup-with-rosebay-dry-ice-32f9ac35.jpg",
       "source_url": null,
       "age_restriction": null,
       "venue_tag": "Fox Theatre",
@@ -6270,7 +6295,7 @@
       "venue": "Boulder Theater",
       "location": "Boulder",
       "date": "Jan 27, 2026",
-      "normalized_date": null,
+      "normalized_date": "2026-01-27",
       "recurring": null,
       "time": null,
       "description": null,
@@ -6294,7 +6319,7 @@
       "venue": "Fox Theatre",
       "location": "Boulder",
       "date": "Jan 30, 2026",
-      "normalized_date": null,
+      "normalized_date": "2026-01-30",
       "recurring": null,
       "time": null,
       "description": null,
@@ -6318,7 +6343,7 @@
       "venue": "Boulder Theater",
       "location": "Boulder",
       "date": "Jan 30, 2026",
-      "normalized_date": null,
+      "normalized_date": "2026-01-30",
       "recurring": null,
       "time": null,
       "description": null,
@@ -6342,7 +6367,7 @@
       "venue": "Boulder Theater",
       "location": "Boulder",
       "date": "Jan 31, 2026",
-      "normalized_date": null,
+      "normalized_date": "2026-01-31",
       "recurring": null,
       "time": null,
       "description": null,
@@ -6366,7 +6391,7 @@
       "venue": "Fox Theatre",
       "location": "Boulder",
       "date": "Jan 31, 2026",
-      "normalized_date": null,
+      "normalized_date": "2026-01-31",
       "recurring": null,
       "time": null,
       "description": null,
@@ -6390,13 +6415,13 @@
       "venue": "Fox Theatre",
       "location": "Boulder",
       "date": "Feb 5, 2026",
-      "normalized_date": null,
+      "normalized_date": "2026-02-05",
       "recurring": null,
       "time": null,
       "description": null,
       "additional_info": "",
       "link": null,
-      "image": "images/foxtheatre.jpg",
+      "image": "images/z2/jane-and-matthews-with-tidepool-nu-bass-theory-e5512c3b.jpg",
       "source_url": null,
       "age_restriction": null,
       "venue_tag": "Fox Theatre",
@@ -6414,7 +6439,7 @@
       "venue": "Boulder Theater",
       "location": "Boulder",
       "date": "Feb 6, 2026",
-      "normalized_date": null,
+      "normalized_date": "2026-02-06",
       "recurring": null,
       "time": null,
       "description": null,
@@ -6438,7 +6463,7 @@
       "venue": "Fox Theatre",
       "location": "Boulder",
       "date": "Feb 6, 2026",
-      "normalized_date": null,
+      "normalized_date": "2026-02-06",
       "recurring": null,
       "time": null,
       "description": null,
@@ -6462,7 +6487,7 @@
       "venue": "Boulder Theater",
       "location": "Boulder",
       "date": "Feb 7, 2026",
-      "normalized_date": null,
+      "normalized_date": "2026-02-07",
       "recurring": null,
       "time": null,
       "description": null,
@@ -6486,7 +6511,7 @@
       "venue": "Fox Theatre",
       "location": "Boulder",
       "date": "Feb 7, 2026",
-      "normalized_date": null,
+      "normalized_date": "2026-02-07",
       "recurring": null,
       "time": null,
       "description": null,
@@ -6510,7 +6535,7 @@
       "venue": "Fox Theatre",
       "location": "Boulder",
       "date": "Feb 9, 2026",
-      "normalized_date": null,
+      "normalized_date": "2026-02-09",
       "recurring": null,
       "time": null,
       "description": null,
@@ -6534,7 +6559,7 @@
       "venue": "Boulder Theater",
       "location": "Boulder",
       "date": "Feb 10, 2026",
-      "normalized_date": null,
+      "normalized_date": "2026-02-10",
       "recurring": null,
       "time": null,
       "description": null,
@@ -6558,7 +6583,7 @@
       "venue": "Boulder Theater",
       "location": "Boulder",
       "date": "Feb 11, 2026",
-      "normalized_date": null,
+      "normalized_date": "2026-02-11",
       "recurring": null,
       "time": null,
       "description": null,
@@ -6582,7 +6607,7 @@
       "venue": "Fox Theatre",
       "location": "Boulder",
       "date": "Feb 12, 2026",
-      "normalized_date": null,
+      "normalized_date": "2026-02-12",
       "recurring": null,
       "time": null,
       "description": null,
@@ -6606,13 +6631,13 @@
       "venue": "Boulder Theater",
       "location": "Boulder",
       "date": "Feb 13, 2026",
-      "normalized_date": null,
+      "normalized_date": "2026-02-13",
       "recurring": null,
       "time": null,
       "description": null,
       "additional_info": "",
       "link": null,
-      "image": "images/bouldertheater.jpg",
+      "image": "images/z2/the-record-company-with-jontavious-willis-ceb02006.jpg",
       "source_url": null,
       "age_restriction": null,
       "venue_tag": "Boulder Theater",
@@ -6630,7 +6655,7 @@
       "venue": "Fox Theatre",
       "location": "Boulder",
       "date": "Feb 13, 2026",
-      "normalized_date": null,
+      "normalized_date": "2026-02-13",
       "recurring": null,
       "time": null,
       "description": null,
@@ -6654,7 +6679,7 @@
       "venue": "Fox Theatre",
       "location": "Boulder",
       "date": "Feb 14, 2026",
-      "normalized_date": null,
+      "normalized_date": "2026-02-14",
       "recurring": null,
       "time": null,
       "description": null,
@@ -6678,7 +6703,7 @@
       "venue": "Boulder Theater",
       "location": "Boulder",
       "date": "Feb 14, 2026",
-      "normalized_date": null,
+      "normalized_date": "2026-02-14",
       "recurring": null,
       "time": null,
       "description": null,
@@ -6702,7 +6727,7 @@
       "venue": "Boulder Theater",
       "location": "Boulder",
       "date": "Feb 16, 2026",
-      "normalized_date": null,
+      "normalized_date": "2026-02-16",
       "recurring": null,
       "time": null,
       "description": null,
@@ -6726,7 +6751,7 @@
       "venue": "Fox Theatre",
       "location": "Boulder",
       "date": "Feb 19, 2026",
-      "normalized_date": null,
+      "normalized_date": "2026-02-19",
       "recurring": null,
       "time": null,
       "description": null,
@@ -6750,7 +6775,7 @@
       "venue": "Boulder Theater",
       "location": "Boulder",
       "date": "Feb 20, 2026",
-      "normalized_date": null,
+      "normalized_date": "2026-02-20",
       "recurring": null,
       "time": null,
       "description": null,
@@ -6774,7 +6799,7 @@
       "venue": "Fox Theatre",
       "location": "Boulder",
       "date": "Feb 20, 2026",
-      "normalized_date": null,
+      "normalized_date": "2026-02-20",
       "recurring": null,
       "time": null,
       "description": null,
@@ -6798,7 +6823,7 @@
       "venue": "Fox Theatre",
       "location": "Boulder",
       "date": "Feb 21, 2026",
-      "normalized_date": null,
+      "normalized_date": "2026-02-21",
       "recurring": null,
       "time": null,
       "description": null,
@@ -6822,7 +6847,7 @@
       "venue": "Fox Theatre",
       "location": "Boulder",
       "date": "Feb 22, 2026",
-      "normalized_date": null,
+      "normalized_date": "2026-02-22",
       "recurring": null,
       "time": null,
       "description": null,
@@ -6846,7 +6871,7 @@
       "venue": "Boulder Theater",
       "location": "Boulder",
       "date": "Feb 23, 2026",
-      "normalized_date": null,
+      "normalized_date": "2026-02-23",
       "recurring": null,
       "time": null,
       "description": null,
@@ -6870,7 +6895,7 @@
       "venue": "Fox Theatre",
       "location": "Boulder",
       "date": "Feb 24, 2026",
-      "normalized_date": null,
+      "normalized_date": "2026-02-24",
       "recurring": null,
       "time": null,
       "description": null,
@@ -6894,7 +6919,7 @@
       "venue": "Boulder Theater",
       "location": "Boulder",
       "date": "Feb 25, 2026",
-      "normalized_date": null,
+      "normalized_date": "2026-02-25",
       "recurring": null,
       "time": null,
       "description": null,
@@ -6918,7 +6943,7 @@
       "venue": "Fox Theatre",
       "location": "Boulder",
       "date": "Feb 26, 2026",
-      "normalized_date": null,
+      "normalized_date": "2026-02-26",
       "recurring": null,
       "time": null,
       "description": null,
@@ -6942,7 +6967,7 @@
       "venue": "Fox Theatre",
       "location": "Boulder",
       "date": "Feb 27, 2026",
-      "normalized_date": null,
+      "normalized_date": "2026-02-27",
       "recurring": null,
       "time": null,
       "description": null,
@@ -6966,7 +6991,7 @@
       "venue": "Boulder Theater",
       "location": "Boulder",
       "date": "Feb 28, 2026",
-      "normalized_date": null,
+      "normalized_date": "2026-02-28",
       "recurring": null,
       "time": null,
       "description": null,
@@ -6990,7 +7015,7 @@
       "venue": "Fox Theatre",
       "location": "Boulder",
       "date": "Feb 28, 2026",
-      "normalized_date": null,
+      "normalized_date": "2026-02-28",
       "recurring": null,
       "time": null,
       "description": null,
