@@ -110,6 +110,9 @@ def scrape_events():
         # (Extra clicks account for other venues in the list)
         print("\nClicking 'Load More' button to get additional events...")
         
+        # Wait a moment for the page to fully render the button
+        time.sleep(2)
+        
         for click_num in range(1, 5):  # Click 4 times
             try:
                 print(f"\n--- Load More Click #{click_num} ---")
@@ -117,6 +120,15 @@ def scrape_events():
                 # Scroll to bottom to ensure button is visible
                 driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
                 time.sleep(1)
+                
+                # Wait for the Load More button to be present
+                try:
+                    wait = WebDriverWait(driver, 5)
+                    wait.until(EC.presence_of_element_located((By.ID, "loadMoreEvents")))
+                    print("  ✓ Load More button found in DOM")
+                except TimeoutException:
+                    print("  ✗ Load More button not in DOM - all events loaded")
+                    break
                 
                 # Find and click the Load More button
                 # The button has id="loadMoreEvents" and class="eventList__showMore"
@@ -132,8 +144,13 @@ def scrape_events():
                         load_more_button = driver.find_element(By.CSS_SELECTOR, selector)
                         if load_more_button and load_more_button.is_displayed():
                             print(f"  ✓ Found button using selector: {selector}")
+                            print(f"  ✓ Button is visible: {load_more_button.is_displayed()}")
+                            print(f"  ✓ Button is enabled: {load_more_button.is_enabled()}")
                             break
+                        else:
+                            print(f"  ⚠ Found button with {selector} but not displayed")
                     except NoSuchElementException:
+                        print(f"  ⚠ Selector {selector} didn't match")
                         continue
                 
                 if not load_more_button:
