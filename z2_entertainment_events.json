@@ -174,5 +174,101 @@
       "concert"
     ],
     "description": null
+  },
+  {
+    "title": "The Man Who Saves the World?",
+    "venue": "Boulder Theater",
+    "location": "Boulder",
+    "date": "Jan 30, 2026",
+    "normalized_date": "2026-01-30",
+    "time": null,
+    "image": "images/z2/the-man-who-saves-the-world--ad5a0bf1.jpg",
+    "url": "https://www.z2ent.com/events/detail/who-saves-the-world-2026-bt",
+    "ticket_link": "https://www.axs.com/events/1253179/?skin=bouldetheater",
+    "tags": [
+      "music",
+      "concert"
+    ],
+    "description": null
+  },
+  {
+    "title": "Fitz and the Tantrums with Juno Rossa",
+    "venue": "Boulder Theater",
+    "location": "Boulder",
+    "date": "Jan 31, 2026",
+    "normalized_date": "2026-01-31",
+    "time": null,
+    "image": "images/z2/fitz-and-the-tantrums-with-juno-rossa-55fb6f18.jpg",
+    "url": "https://www.z2ent.com/events/detail/fitz-and-the-tantrums-2026-bt",
+    "ticket_link": "https://www.axs.com/events/1183880/?skin=bouldertheater",
+    "tags": [
+      "music",
+      "concert"
+    ],
+    "description": null
+  },
+  {
+    "title": "Josh Teed with DMVU, absnt, Beanz",
+    "venue": "Fox Theatre",
+    "location": "Boulder",
+    "date": "Jan 31, 2026",
+    "normalized_date": "2026-01-31",
+    "time": null,
+    "image": "images/z2/josh-teed-with-dmvu-absnt-beanz-d4e1f77e.jpg",
+    "url": "https://www.z2ent.com/events/detail/josh-teed-2026-fox",
+    "ticket_link": "https://www.axs.com/events/1154886/?skin=foxtheatre",
+    "tags": [
+      "music",
+      "concert"
+    ],
+    "description": null
+  },
+  {
+    "title": "Jane and Matthews with Tidepool, NU Bass Theory",
+    "venue": "Fox Theatre",
+    "location": "Boulder",
+    "date": "Feb 5, 2026",
+    "normalized_date": "2026-02-05",
+    "time": null,
+    "image": "images/z2/jane-and-matthews-with-tidepool-nu-bass-theory-e5512c3b.jpg",
+    "url": "https://www.z2ent.com/events/detail/jane-and-matthews-2026-fox",
+    "ticket_link": "https://www.axs.com/events/1286659/?skin=foxtheatre",
+    "tags": [
+      "music",
+      "concert"
+    ],
+    "description": null
+  },
+  {
+    "title": "Stella Cole with the Boulder Philharmonic",
+    "venue": "Boulder Theater",
+    "location": "Boulder",
+    "date": "Feb 6, 2026",
+    "normalized_date": "2026-02-06",
+    "time": null,
+    "image": "images/z2/stella-cole-with-the-boulder-philharmonic-72323a54.jpg",
+    "url": "https://www.z2ent.com/events/detail/stella-cole-boulder-philharmonic-2026-bt",
+    "ticket_link": "https://www.axs.com/events/1074668/?skin=bouldertheater",
+    "tags": [
+      "music",
+      "concert"
+    ],
+    "description": null
+  },
+  {
+    "title": "Jerro with LuKo, siixnights",
+    "venue": "Fox Theatre",
+    "location": "Boulder",
+    "date": "Feb 6, 2026",
+    "normalized_date": "2026-02-06",
+    "time": null,
+    "image": "images/z2/jerro-with-luko-siixnights-24105f6a.jpg",
+    "url": "https://www.z2ent.com/events/detail/jerro-2026-fox",
+    "ticket_link": "https://www.axs.com/events/1175049/?skin=foxtheatre",
+    "tags": [
+      "music",
+      "concert"
+    ],
+    "description": null
   }
 ]
