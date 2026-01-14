@@ -96,7 +96,7 @@ def scrape_events():
         event_items = soup.find_all('div', class_='eventItem')
         
         for item in event_items:
-            event = parse_event_card(item)
+            event = parse_event_card(item, driver)
             if event:
                 event_id = f"{event['venue']}|{event['title']}|{event['date']}"
                 if event_id not in seen_event_ids:
@@ -155,7 +155,7 @@ def scrape_events():
                 events_before = len(all_events)
                 
                 for item in event_items:
-                    event = parse_event_card(item)
+                    event = parse_event_card(item, driver)
                     if event:
                         event_id = f"{event['venue']}|{event['title']}|{event['date']}"
                         if event_id not in seen_event_ids:
@@ -194,9 +194,9 @@ def scrape_events():
     
     return all_events
 
-def download_event_image(image_url, title, venue):
+def download_event_image(driver, image_url, title, venue):
     """
-    Download event image and save locally
+    Download event image using Selenium (bypasses 406 blocks)
     Returns local path if successful, None if failed
     """
     if not DOWNLOAD_IMAGES or not image_url or image_url == VENUE_INFO.get(venue, {}).get('image'):
@@ -228,28 +228,37 @@ def download_event_image(image_url, title, venue):
             print(f"    Image already exists: {filepath}")
             return str(filepath)
         
-        # Download image
-        headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
-            'Referer': 'https://www.z2ent.com/'
-        }
+        # Download image using Selenium (bypasses 406 blocks)
+        print(f"    Downloading with Selenium: {image_url}")
         
-        response = requests.get(image_url, headers=headers, timeout=10, stream=True)
-        response.raise_for_status()
+        # Navigate to the image URL
+        driver.get(image_url)
+        time.sleep(1)  # Brief wait for image to load
         
-        # Save image
-        with open(filepath, 'wb') as f:
-            for chunk in response.iter_content(chunk_size=8192):
-                f.write(chunk)
-        
-        print(f"    Downloaded image: {filepath}")
-        return str(filepath)
+        # Take a screenshot of the image element
+        # Find the img tag on the page
+        try:
+            img_element = driver.find_element(By.TAG_NAME, "img")
+            
+            # Get the image as PNG bytes
+            image_bytes = img_element.screenshot_as_png
+            
+            # Save to file
+            with open(filepath, 'wb') as f:
+                f.write(image_bytes)
+            
+            print(f"    ✓ Downloaded image: {filepath}")
+            return str(filepath)
+            
+        except Exception as e:
+            print(f"    ✗ Could not find image element: {e}")
+            return None
         
     except Exception as e:
-        print(f"    Failed to download image: {e}")
+        print(f"    ✗ Failed to download image: {e}")
         return None
 
-def parse_event_card(card):
+def parse_event_card(card, driver):
     """Parse individual event card based on Z2 Entertainment HTML structure"""
     
     # Extract venue name from div.location
@@ -354,7 +363,7 @@ def parse_event_card(card):
     # Download image if available
     local_image_path = None
     if image_url:
-        local_image_path = download_event_image(image_url, title, venue_name)
+        local_image_path = download_event_image(driver, image_url, title, venue_name)
     
     # Use local image path if downloaded, otherwise use default venue image
     final_image = local_image_path if local_image_path else venue_config['image']

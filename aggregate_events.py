@@ -279,7 +279,8 @@ class EventAggregator:
                     'time': event.get('time'),
                     'description': event.get('description', ''),
                     'additional_info': event.get('additional_info', ''),  # NEW: Additional notes
-                    'link': event.get('link'),
+                    'link': event.get('link') or event.get('url'),  # Support both 'link' and 'url' fields
+                    'ticket_link': event.get('ticket_link'),  # Ticket purchase link (for Z2 events)
                     'image': event.get('image'),
                     'source_url': event.get('source_url'),
                     'age_restriction': event.get('age_restriction'),
