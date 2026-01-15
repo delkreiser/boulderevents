@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T08:34:43.485673",
-  "total_events": 259,
+  "generated_at": "2026-01-15T18:36:45.437653",
+  "total_events": 257,
   "tags": {
     "venues": [
       "300 Suns Brewing",
@@ -61,7 +61,6 @@
       "All Ages",
       "Books",
       "Brewery",
-      "Comedy",
       "Community",
       "DJ",
       "Dance",
@@ -72,7 +71,6 @@
       "Games",
       "Hotel Events",
       "Jazz",
-      "Karaoke",
       "Live Music",
       "Music",
       "Nightlife",
@@ -425,8 +423,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Music"
+        "Music",
+        "All Ages"
       ]
     },
     {
@@ -454,9 +452,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
         "Music",
         "Community",
+        "All Ages",
         "Family Friendly"
       ]
     },
@@ -485,9 +483,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
         "Music",
         "Community",
+        "All Ages",
         "Family Friendly"
       ]
     },
@@ -516,8 +514,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Community"
+        "Community",
+        "All Ages"
       ]
     },
     {
@@ -545,8 +543,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Performance"
+        "Performance",
+        "All Ages"
       ]
     },
     {
@@ -604,8 +602,8 @@
       ],
       "event_type_tags": [
         "Music",
-        "Educational",
-        "Community"
+        "Community",
+        "Educational"
       ]
     },
     {
@@ -661,8 +659,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Performance",
+        "Music",
         "Community"
       ]
     },
@@ -691,8 +689,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Performance",
+        "Music",
         "Community"
       ]
     },
@@ -721,8 +719,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Performance",
+        "Music",
         "Community"
       ]
     },
@@ -751,10 +749,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Music",
         "Performance",
-        "Community"
+        "Music",
+        "Community",
+        "All Ages"
       ]
     },
     {
@@ -812,8 +810,8 @@
       ],
       "event_type_tags": [
         "Games",
-        "Educational",
-        "Community"
+        "Community",
+        "Educational"
       ]
     },
     {
@@ -841,9 +839,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
         "Games",
         "Community",
+        "All Ages",
         "Family Friendly"
       ]
     },
@@ -902,10 +900,10 @@
       ],
       "event_type_tags": [
         "Music",
-        "Community",
-        "All Ages",
+        "Family Friendly",
         "Performance",
-        "Family Friendly"
+        "Community",
+        "All Ages"
       ]
     },
     {
@@ -4680,35 +4678,6 @@
       ]
     },
     {
-      "id": "bricks_on_main_karaoke_night_january_21_2026_6_00_pm_8_00_pm",
-      "title": "Karaoke Night",
-      "venue": "Bricks on Main",
-      "location": "Longmont",
-      "date": "January 21, 2026",
-      "normalized_date": "2026-01-21T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM - 8:00 PM",
-      "description": "Take the Bricks Main Stage ... you're the headliner!",
-      "additional_info": "",
-      "link": "https://www.bricksretail.com/event-details/karaoke-night-2026-01-21-18-00",
-      "ticket_link": null,
-      "image": "https://static.wixstatic.com/media/0f3cdb_cc11739aca8043a8a8cbdf5cdc8f3661~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/0f3cdb_cc11739aca8043a8a8cbdf5cdc8f3661~mv2.jpg",
-      "source_url": "https://www.bricksretail.com/events-calendar",
-      "age_restriction": null,
-      "venue_tag": "Bricks on Main",
-      "location_tag": "Longmont",
-      "venue_type_tags": [
-        "Community",
-        "Retail",
-        "Entertainment"
-      ],
-      "event_type_tags": [
-        "Karaoke",
-        "Music",
-        "Entertainment"
-      ]
-    },
-    {
       "id": "bricks_on_main_minstrel_in_the_galaxy_january_22_2026_6_00_pm_8_00_pm",
       "title": "Minstrel in the Galaxy",
       "venue": "Bricks on Main",
@@ -4806,34 +4775,6 @@
       "link": "https://www.bricksretail.com/event-details/boogie-river",
       "ticket_link": null,
       "image": "https://static.wixstatic.com/media/ea2d6f_135ec425e39443578a983ac034389603~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_135ec425e39443578a983ac034389603~mv2.jpg",
-      "source_url": "https://www.bricksretail.com/events-calendar",
-      "age_restriction": null,
-      "venue_tag": "Bricks on Main",
-      "location_tag": "Longmont",
-      "venue_type_tags": [
-        "Community",
-        "Retail",
-        "Entertainment"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Entertainment"
-      ]
-    },
-    {
-      "id": "bricks_on_main_niwot_hs_band_performance_january_28_2026_7_00_pm_9_00_pm",
-      "title": "Niwot HS Band Performance",
-      "venue": "Bricks on Main",
-      "location": "Longmont",
-      "date": "January 28, 2026",
-      "normalized_date": "2026-01-28T00:00:00",
-      "recurring": null,
-      "time": "7:00 PM - 9:00 PM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.bricksretail.com/event-details/niwot-hs-band-performance",
-      "ticket_link": null,
-      "image": "https://static.wixstatic.com/media/ea2d6f_ea03fa4a91a74d919959387107889367~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_ea03fa4a91a74d919959387107889367~mv2.jpg",
       "source_url": "https://www.bricksretail.com/events-calendar",
       "age_restriction": null,
       "venue_tag": "Bricks on Main",
@@ -4961,19 +4902,19 @@
       ]
     },
     {
-      "id": "bricks_on_main_main_st_laughs_free_stand_up_comedy_ft_mentalist_magician_february_05_2026_6_00_pm_8_00_pm",
-      "title": "Main St Laughs - FREE Stand Up Comedy Ft. Mentalist/Magician",
+      "id": "bricks_on_main_wylie_jones_february_06_2026_6_00_pm_9_00_pm",
+      "title": "Wylie Jones",
       "venue": "Bricks on Main",
       "location": "Longmont",
-      "date": "February 05, 2026",
-      "normalized_date": "2026-02-05T00:00:00",
+      "date": "February 06, 2026",
+      "normalized_date": "2026-02-06T00:00:00",
       "recurring": null,
-      "time": "6:00 PM - 8:00 PM",
-      "description": "Free comedy. Great drinks. Big laughs. Don\u2019t miss this killer lineup of Colorado\u2019s best stand-up comics at Bricks on Main!",
+      "time": "6:00 PM - 9:00 PM",
+      "description": "Wylie Jones is a multi instrumentalist one man band loop artist like the great Keller Williams, with the spirit of Toots, Bob Marley and Metallica wrapped into one.",
       "additional_info": "",
-      "link": "https://www.bricksretail.com/event-details/main-st-laughs-free-stand-up-comedy-ft-mentalist-magician",
+      "link": "https://www.bricksretail.com/event-details/wylie-jones",
       "ticket_link": null,
-      "image": "https://static.wixstatic.com/media/ea2d6f_2cfeae4d40984cea9f5ae99b9f94078a~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_2cfeae4d40984cea9f5ae99b9f94078a~mv2.jpg",
+      "image": "https://static.wixstatic.com/media/ea2d6f_646feb49e2bf4f7b83030defc91a2cfb~mv2.jpeg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_646feb49e2bf4f7b83030defc91a2cfb~mv2.jpeg",
       "source_url": "https://www.bricksretail.com/events-calendar",
       "age_restriction": null,
       "venue_tag": "Bricks on Main",
@@ -4984,7 +4925,7 @@
         "Entertainment"
       ],
       "event_type_tags": [
-        "Comedy",
+        "Live Music",
         "Entertainment"
       ]
     },
