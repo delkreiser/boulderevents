@@ -1,14 +1,14 @@
 [
   {
-    "title": "Sunkissd with The Speeks, Abernathy Shagnaster",
+    "title": "East Nash Grass with Pick & Howl",
     "venue": "Fox Theatre",
     "location": "Boulder",
-    "date": "Jan 15, 2026",
-    "normalized_date": "2026-01-15",
+    "date": "Jan 16, 2026",
+    "normalized_date": "2026-01-16",
     "time": null,
-    "image": "images/z2/sunkissd-with-the-speeks-abernathy-shagnaster-80fdb479.jpg",
-    "url": "https://www.z2ent.com/events/detail/sunkissd-2026-fox",
-    "ticket_link": "https://www.axs.com/events/1232495/sunkissd-with-the-speeks-abernathy-shagnaster-tickets",
+    "image": "images/z2/east-nash-grass-with-pick-howl-07586708.jpg",
+    "url": "https://www.z2ent.com/events/detail/east-nash-grass-2026-fox",
+    "ticket_link": "https://www.axs.com/events/1143375/?skin=foxtheatre",
     "tags": [
       "music",
       "concert"
@@ -19,28 +19,12 @@
     "title": "UMPHREY'S McGEE (3 Nights!)",
     "venue": "Boulder Theater",
     "location": "Boulder",
-    "date": "Jan 15, 2026",
-    "normalized_date": "2026-01-15",
+    "date": "Jan 16, 2026",
+    "normalized_date": "2026-01-16",
     "time": null,
     "image": "images/z2/umphrey-s-mcgee-3-nights--360eaad1.jpg",
     "url": "https://www.z2ent.com/events/detail/umphreys-mcgee-2026-bt",
     "ticket_link": "https://www.axs.com/series/29927/umphrey-s-mcgee-3-nights-tickets/?skin=bouldertheater  ",
-    "tags": [
-      "music",
-      "concert"
-    ],
-    "description": null
-  },
-  {
-    "title": "East Nash Grass with Pick & Howl",
-    "venue": "Fox Theatre",
-    "location": "Boulder",
-    "date": "Jan 16, 2026",
-    "normalized_date": "2026-01-16",
-    "time": null,
-    "image": "images/z2/east-nash-grass-with-pick-howl-07586708.jpg",
-    "url": "https://www.z2ent.com/events/detail/east-nash-grass-2026-fox",
-    "ticket_link": "https://www.axs.com/events/1143375/?skin=foxtheatre",
     "tags": [
       "music",
       "concert"
