@@ -576,6 +576,22 @@
     "description": null
   },
   {
+    "title": "The Mellow Film Tour",
+    "venue": "Boulder Theater",
+    "location": "Boulder",
+    "date": "Feb 27, 2026",
+    "normalized_date": "2026-02-27",
+    "time": null,
+    "image": "images/z2/the-mellow-film-tour-0f14d048.jpg",
+    "url": "https://www.z2ent.com/events/detail/mellow-film-2026-bt",
+    "ticket_link": "https://www.axs.com/events/1281686/?skin=bouldertheater",
+    "tags": [
+      "music",
+      "concert"
+    ],
+    "description": null
+  },
+  {
     "title": "Penelope Road",
     "venue": "Fox Theatre",
     "location": "Boulder",
@@ -601,22 +617,6 @@
     "image": "images/z2/all-them-witches-with-king-buffalo-5b3ff17a.jpg",
     "url": "https://www.z2ent.com/events/detail/all-them-witches-2026-bt",
     "ticket_link": "https://www.axs.com/events/1158172/?skin=bouldertheater",
-    "tags": [
-      "music",
-      "concert"
-    ],
-    "description": null
-  },
-  {
-    "title": "TAUK with Sqwerv",
-    "venue": "Fox Theatre",
-    "location": "Boulder",
-    "date": "Feb 28, 2026",
-    "normalized_date": "2026-02-28",
-    "time": null,
-    "image": "images/z2/tauk-with-sqwerv-b42b98f1.jpg",
-    "url": "https://www.z2ent.com/events/detail/tauk-2026-fox",
-    "ticket_link": "https://www.axs.com/events/1259246/?skin=foxtheatre",
     "tags": [
       "music",
       "concert"
