@@ -434,8 +434,29 @@
     ]
   },
   {
-    "title": "Magic Mountain Author Series",
+    "title": "Magic Mountain Author Series: Perry Anderson",
     "link": "https://www.tridentcafe.com/events/2026/1/22/magic-mountain-author-series-8mflg",
+    "date": "February 19, 2026",
+    "time": "6:00 PM",
+    "venue": "Trident Booksellers & Cafe",
+    "location": "Boulder",
+    "category": "Books & Literary",
+    "source_url": "https://www.tridentcafe.com/events",
+    "image": "trident.jpg",
+    "event_type_tags": [
+      "Live Music",
+      "Books",
+      "Community"
+    ],
+    "venue_type_tags": [
+      "Cafe",
+      "Bookstore",
+      "Music Venue"
+    ]
+  },
+  {
+    "title": "The Trident Presents: Perry Anderson - Magic Mountain Talks",
+    "link": "https://www.tridentcafe.com/events/2026/2/19/the-trident-presents-perry-anderson-magic-mountain-talks",
     "date": "February 19, 2026",
     "time": "6:00 PM",
     "venue": "Trident Booksellers & Cafe",
@@ -976,27 +997,6 @@
     ]
   },
   {
-    "title": "Magic Mountain Author Series",
-    "link": "https://www.tridentcafe.com/events/2026/1/22/magic-mountain-author-series-pe62t",
-    "date": "April 16, 2026",
-    "time": "6:00 PM",
-    "venue": "Trident Booksellers & Cafe",
-    "location": "Boulder",
-    "category": "Books & Literary",
-    "source_url": "https://www.tridentcafe.com/events",
-    "image": "trident.jpg",
-    "event_type_tags": [
-      "Live Music",
-      "Books",
-      "Community"
-    ],
-    "venue_type_tags": [
-      "Cafe",
-      "Bookstore",
-      "Music Venue"
-    ]
-  },
-  {
     "title": "Jehovah's Fitness Club",
     "link": "https://www.tridentcafe.com/events/2026/2/21/john-shepherd-xxa42-a6kpg",
     "date": "April 18, 2026",
@@ -1044,6 +1044,48 @@
     "link": "https://www.tridentcafe.com/events/2026/4/28/trident-author-series-michael-sowder-sacred-letters-sanskrit-yoga-and-awakening-the-divine",
     "date": "April 21, 2026",
     "time": "6:30 PM",
+    "venue": "Trident Booksellers & Cafe",
+    "location": "Boulder",
+    "category": "Books & Literary",
+    "source_url": "https://www.tridentcafe.com/events",
+    "image": "trident.jpg",
+    "event_type_tags": [
+      "Live Music",
+      "Books",
+      "Community"
+    ],
+    "venue_type_tags": [
+      "Cafe",
+      "Bookstore",
+      "Music Venue"
+    ]
+  },
+  {
+    "title": "The Trident Presents: Alyssa Battistoni - Magic Mountain Talks",
+    "link": "https://www.tridentcafe.com/events/2026/4/23/the-trident-presents-alyssa-battistoni-magic-mountain-talks",
+    "date": "April 23, 2026",
+    "time": "6:00 PM",
+    "venue": "Trident Booksellers & Cafe",
+    "location": "Boulder",
+    "category": "Books & Literary",
+    "source_url": "https://www.tridentcafe.com/events",
+    "image": "trident.jpg",
+    "event_type_tags": [
+      "Live Music",
+      "Books",
+      "Community"
+    ],
+    "venue_type_tags": [
+      "Cafe",
+      "Bookstore",
+      "Music Venue"
+    ]
+  },
+  {
+    "title": "Magic Mountain Author Series: Alyssa Battistoni",
+    "link": "https://www.tridentcafe.com/events/2026/1/22/magic-mountain-author-series-pe62t",
+    "date": "April 23, 2026",
+    "time": "6:00 PM",
     "venue": "Trident Booksellers & Cafe",
     "location": "Boulder",
     "category": "Books & Literary",

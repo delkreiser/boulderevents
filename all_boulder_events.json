@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T08:27:52.834758",
-  "total_events": 262,
+  "generated_at": "2026-01-17T18:30:48.695125",
+  "total_events": 270,
   "tags": {
     "venues": [
       "300 Suns Brewing",
@@ -397,9 +397,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "All Ages",
         "Family Friendly",
         "Music",
-        "All Ages",
         "Community"
       ]
     },
@@ -428,9 +428,68 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "All Ages",
         "Family Friendly",
         "Music",
+        "Community"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_ecstatic_dance_tuesday_january_20_2026_6_30_8_30_pm",
+      "title": "Ecstatic Dance",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Tuesday, January 20, 2026",
+      "normalized_date": "2026-01-20T00:00:00",
+      "recurring": null,
+      "time": "6:30 - 8:30 PM",
+      "description": "",
+      "additional_info": "All Ages are Welcome",
+      "link": "https://junkyardsocialclub.org/product/ecstatic-dance/",
+      "ticket_link": null,
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/07/JEDI-768x768.jpg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": "All Ages",
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
         "All Ages",
+        "Music",
+        "Community"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_drop_in_mahjongg_tuesdays_tuesday_january_20_2026_12_00_2_00_pm",
+      "title": "Drop-In Mahjongg \u2013 Tuesdays",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Tuesday, January 20, 2026",
+      "normalized_date": "2026-01-20T00:00:00",
+      "recurring": null,
+      "time": "12:00 - 2:00 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://junkyardsocialclub.org/drop-in-event/drop-in-mahjongg-tuesdays/",
+      "ticket_link": null,
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/08/Drop-In-MahJongg-Tuesday.jpg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": null,
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Games",
         "Community"
       ]
     },
@@ -460,6 +519,35 @@
       ],
       "event_type_tags": [
         "All Ages",
+        "Community"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_drop_in_mahjongg_thursdays_thursday_january_22_2026_3_30_5_30_pm",
+      "title": "Drop-In Mahjongg \u2013 Thursdays",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Thursday, January 22, 2026",
+      "normalized_date": "2026-01-22T00:00:00",
+      "recurring": null,
+      "time": "3:30 - 5:30 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://junkyardsocialclub.org/drop-in-event/drop-in-mahjongg-thursdays/",
+      "ticket_link": null,
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/08/Drop-In-Mah-Jongg-Thursday.jpg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": null,
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Games",
         "Community"
       ]
     },
@@ -604,8 +692,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Performance",
+        "Music",
         "Community"
       ]
     },
@@ -634,8 +722,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Performance",
+        "Music",
         "Community"
       ]
     },
@@ -664,8 +752,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Performance",
+        "Music",
         "Community"
       ]
     },
@@ -694,9 +782,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Performance",
         "All Ages",
+        "Music",
         "Community"
       ]
     },
@@ -760,6 +848,62 @@
       ]
     },
     {
+      "id": "junkyard_social_club_b_e_a_t_meet_up_wednesday_february_11_2026_6_00_7_00_pm",
+      "title": "B.E.A.T. Meet-Up",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Wednesday, February 11, 2026",
+      "normalized_date": "2026-02-11T00:00:00",
+      "recurring": null,
+      "time": "6:00 - 7:00 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://junkyardsocialclub.org/drop-in-event/b-e-a-t-meet-up/",
+      "ticket_link": null,
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/06/BEAT-768x768.jpg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": null,
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Community"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_boulder_burner_meet_up_wednesday_february_11_2026_6_30_8_30_pm",
+      "title": "Boulder Burner Meet-up",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Wednesday, February 11, 2026",
+      "normalized_date": "2026-02-11T00:00:00",
+      "recurring": null,
+      "time": "6:30 - 8:30 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://junkyardsocialclub.org/drop-in-event/burner/",
+      "ticket_link": null,
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/07/Burner-768x434.jpg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": null,
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Community"
+      ]
+    },
+    {
       "id": "junkyard_social_club_junkyard_game_night_thursday_february_12_2026_6_00_9_00_pm",
       "title": "Junkyard Game Night",
       "venue": "Junkyard Social Club",
@@ -784,9 +928,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
-        "Family Friendly",
         "All Ages",
+        "Family Friendly",
+        "Games",
         "Community"
       ]
     },
@@ -844,11 +988,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "All Ages",
-        "Music",
+        "Performance",
         "Family Friendly",
-        "Performance"
+        "Music",
+        "Community"
       ]
     },
     {
@@ -876,8 +1020,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Performance",
+        "Music",
         "Community"
       ]
     },
@@ -1755,8 +1899,8 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_magic_mountain_author_series_february_19_2026_6_00_pm",
-      "title": "Magic Mountain Author Series",
+      "id": "trident_booksellers_cafe_magic_mountain_author_series_perry_anderson_february_19_2026_6_00_pm",
+      "title": "Magic Mountain Author Series: Perry Anderson",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "February 19, 2026",
@@ -1766,6 +1910,36 @@
       "description": "",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2026/1/22/magic-mountain-author-series-8mflg",
+      "ticket_link": null,
+      "image": "trident.jpg",
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Books",
+        "Community"
+      ]
+    },
+    {
+      "id": "trident_booksellers_cafe_the_trident_presents_perry_anderson_magic_mountain_talks_february_19_2026_6_00_pm",
+      "title": "The Trident Presents: Perry Anderson - Magic Mountain Talks",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "February 19, 2026",
+      "normalized_date": "2026-02-19T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.tridentcafe.com/events/2026/2/19/the-trident-presents-perry-anderson-magic-mountain-talks",
       "ticket_link": null,
       "image": "trident.jpg",
       "source_url": "https://www.tridentcafe.com/events",
@@ -2505,36 +2679,6 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_magic_mountain_author_series_april_16_2026_6_00_pm",
-      "title": "Magic Mountain Author Series",
-      "venue": "Trident Booksellers & Cafe",
-      "location": "Boulder",
-      "date": "April 16, 2026",
-      "normalized_date": "2026-04-16T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.tridentcafe.com/events/2026/1/22/magic-mountain-author-series-pe62t",
-      "ticket_link": null,
-      "image": "trident.jpg",
-      "source_url": "https://www.tridentcafe.com/events",
-      "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Books",
-        "Community"
-      ]
-    },
-    {
       "id": "trident_booksellers_cafe_jehovah_s_fitness_club_april_18_2026_6_00_pm",
       "title": "Jehovah's Fitness Club",
       "venue": "Trident Booksellers & Cafe",
@@ -2606,6 +2750,66 @@
       "description": "",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2026/4/28/trident-author-series-michael-sowder-sacred-letters-sanskrit-yoga-and-awakening-the-divine",
+      "ticket_link": null,
+      "image": "trident.jpg",
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Books",
+        "Community"
+      ]
+    },
+    {
+      "id": "trident_booksellers_cafe_the_trident_presents_alyssa_battistoni_magic_mountain_talks_april_23_2026_6_00_pm",
+      "title": "The Trident Presents: Alyssa Battistoni - Magic Mountain Talks",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "April 23, 2026",
+      "normalized_date": "2026-04-23T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.tridentcafe.com/events/2026/4/23/the-trident-presents-alyssa-battistoni-magic-mountain-talks",
+      "ticket_link": null,
+      "image": "trident.jpg",
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Books",
+        "Community"
+      ]
+    },
+    {
+      "id": "trident_booksellers_cafe_magic_mountain_author_series_alyssa_battistoni_april_23_2026_6_00_pm",
+      "title": "Magic Mountain Author Series: Alyssa Battistoni",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "April 23, 2026",
+      "normalized_date": "2026-04-23T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.tridentcafe.com/events/2026/1/22/magic-mountain-author-series-pe62t",
       "ticket_link": null,
       "image": "trident.jpg",
       "source_url": "https://www.tridentcafe.com/events",
@@ -5158,6 +5362,34 @@
       ],
       "event_type_tags": [
         "Comedy",
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "bricks_on_main_wylie_jones_february_06_2026_6_00_pm_9_00_pm",
+      "title": "Wylie Jones",
+      "venue": "Bricks on Main",
+      "location": "Longmont",
+      "date": "February 06, 2026",
+      "normalized_date": "2026-02-06T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM - 9:00 PM",
+      "description": "Wylie Jones is a multi instrumentalist one man band loop artist like the great Keller Williams, with the spirit of Toots, Bob Marley and Metallica wrapped into one.",
+      "additional_info": "",
+      "link": "https://www.bricksretail.com/event-details/wylie-jones",
+      "ticket_link": null,
+      "image": "https://static.wixstatic.com/media/ea2d6f_646feb49e2bf4f7b83030defc91a2cfb~mv2.jpeg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_646feb49e2bf4f7b83030defc91a2cfb~mv2.jpeg",
+      "source_url": "https://www.bricksretail.com/events-calendar",
+      "age_restriction": null,
+      "venue_tag": "Bricks on Main",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Community",
+        "Retail",
+        "Entertainment"
+      ],
+      "event_type_tags": [
+        "Live Music",
         "Entertainment"
       ]
     },
