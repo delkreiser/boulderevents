@@ -1,26 +1,10 @@
 [
   {
-    "title": "East Nash Grass with Pick & Howl",
-    "venue": "Fox Theatre",
-    "location": "Boulder",
-    "date": "Jan 16, 2026",
-    "normalized_date": "2026-01-16",
-    "time": null,
-    "image": "images/z2/east-nash-grass-with-pick-howl-07586708.jpg",
-    "url": "https://www.z2ent.com/events/detail/east-nash-grass-2026-fox",
-    "ticket_link": "https://www.axs.com/events/1143375/?skin=foxtheatre",
-    "tags": [
-      "music",
-      "concert"
-    ],
-    "description": null
-  },
-  {
     "title": "UMPHREY'S McGEE (3 Nights!)",
     "venue": "Boulder Theater",
     "location": "Boulder",
-    "date": "Jan 16, 2026",
-    "normalized_date": "2026-01-16",
+    "date": "Jan 17, 2026",
+    "normalized_date": "2026-01-17",
     "time": null,
     "image": "images/z2/umphrey-s-mcgee-3-nights--360eaad1.jpg",
     "url": "https://www.z2ent.com/events/detail/umphreys-mcgee-2026-bt",
@@ -617,6 +601,22 @@
     "image": "images/z2/all-them-witches-with-king-buffalo-5b3ff17a.jpg",
     "url": "https://www.z2ent.com/events/detail/all-them-witches-2026-bt",
     "ticket_link": "https://www.axs.com/events/1158172/?skin=bouldertheater",
+    "tags": [
+      "music",
+      "concert"
+    ],
+    "description": null
+  },
+  {
+    "title": "TAUK with Sqwerv",
+    "venue": "Fox Theatre",
+    "location": "Boulder",
+    "date": "Feb 28, 2026",
+    "normalized_date": "2026-02-28",
+    "time": null,
+    "image": "images/z2/tauk-with-sqwerv-b42b98f1.jpg",
+    "url": "https://www.z2ent.com/events/detail/tauk-2026-fox",
+    "ticket_link": "https://www.axs.com/events/1259246/?skin=foxtheatre",
     "tags": [
       "music",
       "concert"
