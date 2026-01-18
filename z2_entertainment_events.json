@@ -1,37 +1,5 @@
 [
   {
-    "title": "UMPHREY'S McGEE (3 Nights!)",
-    "venue": "Boulder Theater",
-    "location": "Boulder",
-    "date": "Jan 17, 2026",
-    "normalized_date": "2026-01-17",
-    "time": null,
-    "image": "images/z2/umphrey-s-mcgee-3-nights--360eaad1.jpg",
-    "url": "https://www.z2ent.com/events/detail/umphreys-mcgee-2026-bt",
-    "ticket_link": "https://www.axs.com/series/29927/umphrey-s-mcgee-3-nights-tickets/?skin=bouldertheater  ",
-    "tags": [
-      "music",
-      "concert"
-    ],
-    "description": null
-  },
-  {
-    "title": "United We Dance: The Ultimate Rave Experience",
-    "venue": "Fox Theatre",
-    "location": "Boulder",
-    "date": "Jan 17, 2026",
-    "normalized_date": "2026-01-17",
-    "time": null,
-    "image": "images/z2/united-we-dance-the-ultimate-rave-experience-c29a7e8f.jpg",
-    "url": "https://www.z2ent.com/events/detail/united-we-dance-2026-fox",
-    "ticket_link": "https://www.axs.com/events/1211895/?skin=foxtheatre",
-    "tags": [
-      "music",
-      "concert"
-    ],
-    "description": null
-  },
-  {
     "title": "Ninajirachi with 2charm, astrid",
     "venue": "Fox Theatre",
     "location": "Boulder",
@@ -617,6 +585,54 @@
     "image": "images/z2/tauk-with-sqwerv-b42b98f1.jpg",
     "url": "https://www.z2ent.com/events/detail/tauk-2026-fox",
     "ticket_link": "https://www.axs.com/events/1259246/?skin=foxtheatre",
+    "tags": [
+      "music",
+      "concert"
+    ],
+    "description": null
+  },
+  {
+    "title": "The Devil Makes Three with Lightnin' Luke",
+    "venue": "Boulder Theater",
+    "location": "Boulder",
+    "date": "Mar 1, 2026",
+    "normalized_date": "2026-03-01",
+    "time": null,
+    "image": "images/z2/the-devil-makes-three-with-lightnin-luke-78f6f054.jpg",
+    "url": "https://www.z2ent.com/events/detail/devil-makes-three-2026-bt",
+    "ticket_link": "https://www.axs.com/events/1206772/?skin=bouldertheater",
+    "tags": [
+      "music",
+      "concert"
+    ],
+    "description": null
+  },
+  {
+    "title": "3OH!3",
+    "venue": "Boulder Theater",
+    "location": "Boulder",
+    "date": "Mar 3, 2026",
+    "normalized_date": "2026-03-03",
+    "time": null,
+    "image": "images/z2/3oh-3-a9fc108a.jpg",
+    "url": "https://www.z2ent.com/events/detail/3oh3-2026-bt",
+    "ticket_link": "https://www.axs.com/events/1267632/?skin=bouldertheater",
+    "tags": [
+      "music",
+      "concert"
+    ],
+    "description": null
+  },
+  {
+    "title": "Yacht Rock Revue",
+    "venue": "Boulder Theater",
+    "location": "Boulder",
+    "date": "Mar 4, 2026",
+    "normalized_date": "2026-03-04",
+    "time": null,
+    "image": "images/z2/yacht-rock-revue-47442709.jpg",
+    "url": "https://www.z2ent.com/events/detail/yacht-rock-revue-2026-bt",
+    "ticket_link": "https://www.axs.com/events/1152517/?skin=bouldertheater",
     "tags": [
       "music",
       "concert"
