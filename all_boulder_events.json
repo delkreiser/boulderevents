@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T08:34:23.927520",
-  "total_events": 264,
+  "generated_at": "2026-01-19T18:32:19.953540",
+  "total_events": 265,
   "tags": {
     "venues": [
       "300 Suns Brewing",
@@ -397,9 +397,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
+        "All Ages",
         "Community",
-        "All Ages"
+        "Music"
       ]
     },
     {
@@ -427,8 +427,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Games"
+        "Games",
+        "Community"
       ]
     },
     {
@@ -485,8 +485,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Games"
+        "Games",
+        "Community"
       ]
     },
     {
@@ -514,8 +514,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "All Ages"
+        "All Ages",
+        "Performance"
       ]
     },
     {
@@ -543,8 +543,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -572,9 +572,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
+        "Educational",
         "Community",
-        "Educational"
+        "Music"
       ]
     },
     {
@@ -630,9 +630,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Community",
         "Music",
-        "Performance",
-        "Community"
+        "Performance"
       ]
     },
     {
@@ -660,9 +660,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Community",
         "Music",
-        "Performance",
-        "Community"
+        "Performance"
       ]
     },
     {
@@ -690,9 +690,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Community",
         "Music",
-        "Performance",
-        "Community"
+        "Performance"
       ]
     },
     {
@@ -720,10 +720,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "Performance",
+        "All Ages",
         "Community",
-        "All Ages"
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -751,8 +751,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
@@ -780,9 +780,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
+        "Educational",
         "Games",
-        "Educational"
+        "Community"
       ]
     },
     {
@@ -866,10 +866,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
-        "Community",
         "Games",
-        "All Ages"
+        "Community",
+        "All Ages",
+        "Family Friendly"
       ]
     },
     {
@@ -897,8 +897,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
@@ -926,11 +926,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
+        "Performance",
         "Family Friendly",
+        "Community",
         "Music",
-        "All Ages",
-        "Performance"
+        "All Ages"
       ]
     },
     {
@@ -958,9 +958,40 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Community",
         "Music",
+        "Performance"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_salsa_sunday_sunday_february_15_2026_5_00_pm_7_30_pm",
+      "title": "Salsa Sunday",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Sunday, February 15, 2026",
+      "normalized_date": "2026-02-15T00:00:00",
+      "recurring": null,
+      "time": "5:00 PM - 7:30 PM",
+      "description": "",
+      "additional_info": "Family Friendly",
+      "link": "https://junkyardsocialclub.org/drop-in-event/salsa-sunday/",
+      "ticket_link": null,
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/09/Salsa-Sunday-1.jpg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": "All Ages",
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
         "Performance",
-        "Community"
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "All Ages",
+        "Community",
+        "Music",
+        "Family Friendly"
       ]
     },
     {
@@ -988,8 +1019,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
