@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T18:28:22.539018",
-  "total_events": 267,
+  "generated_at": "2026-01-19T08:34:23.927520",
+  "total_events": 264,
   "tags": {
     "venues": [
       "300 Suns Brewing",
@@ -373,37 +373,6 @@
       ]
     },
     {
-      "id": "junkyard_social_club_salsa_sunday_sunday_january_18_2026_5_00_pm_7_30_pm",
-      "title": "Salsa Sunday",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Sunday, January 18, 2026",
-      "normalized_date": "2026-01-18T00:00:00",
-      "recurring": null,
-      "time": "5:00 PM - 7:30 PM",
-      "description": "",
-      "additional_info": "Family Friendly",
-      "link": "https://junkyardsocialclub.org/drop-in-event/salsa-sunday/",
-      "ticket_link": null,
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/09/Salsa-Sunday-1.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": "All Ages",
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Family Friendly",
-        "Music",
-        "All Ages",
-        "Community"
-      ]
-    },
-    {
       "id": "junkyard_social_club_ecstatic_dance_tuesday_january_20_2026_6_30_8_30_pm",
       "title": "Ecstatic Dance",
       "venue": "Junkyard Social Club",
@@ -429,8 +398,8 @@
       ],
       "event_type_tags": [
         "Music",
-        "All Ages",
-        "Community"
+        "Community",
+        "All Ages"
       ]
     },
     {
@@ -487,8 +456,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Community"
+        "Community",
+        "All Ages"
       ]
     },
     {
@@ -661,8 +630,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "Music",
+        "Performance",
         "Community"
       ]
     },
@@ -691,8 +660,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "Music",
+        "Performance",
         "Community"
       ]
     },
@@ -721,8 +690,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "Music",
+        "Performance",
         "Community"
       ]
     },
@@ -751,10 +720,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "Music",
-        "All Ages",
-        "Community"
+        "Performance",
+        "Community",
+        "All Ages"
       ]
     },
     {
@@ -812,8 +781,8 @@
       ],
       "event_type_tags": [
         "Community",
-        "Educational",
-        "Games"
+        "Games",
+        "Educational"
       ]
     },
     {
@@ -898,9 +867,9 @@
       ],
       "event_type_tags": [
         "Family Friendly",
-        "All Ages",
         "Community",
-        "Games"
+        "Games",
+        "All Ages"
       ]
     },
     {
@@ -957,11 +926,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Community",
+        "Family Friendly",
+        "Music",
         "All Ages",
-        "Performance",
-        "Family Friendly"
+        "Performance"
       ]
     },
     {
@@ -989,8 +958,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "Music",
+        "Performance",
         "Community"
       ]
     },
@@ -1265,36 +1234,6 @@
       "event_type_tags": [
         "Entertainment",
         "Hotel Events"
-      ]
-    },
-    {
-      "id": "trident_booksellers_cafe_mercy_club_katie_mintle_trouble_s_braids_january_17_2027_6_00_pm",
-      "title": "Mercy Club / Katie Mintle / Trouble's Braids",
-      "venue": "Trident Booksellers & Cafe",
-      "location": "Boulder",
-      "date": "January 17, 2027",
-      "normalized_date": "2027-01-17T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM",
-      "description": "Boulder County's own boisterous folk rock band Mercy Club is back at the Trident! Anchored in family harmony, singable melodies and accessible, honest lyrics, Mercy Club is a dynamic folk ensemble with a rock n' roll heart.",
-      "additional_info": "",
-      "link": "https://www.tridentcafe.com/events/2026/1/17/mercy-club-katie-mintle-troubles-braids",
-      "ticket_link": null,
-      "image": "trident.jpg",
-      "source_url": "https://www.tridentcafe.com/events",
-      "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Books",
-        "Community"
       ]
     },
     {
@@ -3218,15 +3157,15 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_magic_mountain_author_series_june_18_2026_6_00_pm",
-      "title": "Magic Mountain Author Series",
+      "id": "trident_booksellers_cafe_trident_book_event_jeff_sharlet_magic_mountain_author_series_june_18_2026_6_00_pm",
+      "title": "Trident Book Event: Jeff Sharlet - Magic Mountain Author Series",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "June 18, 2026",
       "normalized_date": "2026-06-18T00:00:00",
       "recurring": null,
       "time": "6:00 PM",
-      "description": "",
+      "description": "Jeff Sharlet is theNew York Timesbestselling author or editor of eight\u00a0books. His latest isThe Undertow: Scenes from a Slow Civil War(2023),\u00a0a National Book Critics Circle Award Finalist for Nonfiction, one ofThe\u00a0New York Times100 Books of the Year, and aNew Republicbook of the year.\u00a0In 2020, he pub...",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2026/1/22/magic-mountain-author-series-6m6eb",
       "ticket_link": null,
@@ -3529,6 +3468,36 @@
       "description": "Bring an acoustic instrument and sit in with Boulder Old-Time Jam! Every first Thursday on the Trident Patio, starting at 6 p.m.",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2022/12/8/boulder-old-time-jam-a64x2-aw5n6-sa228-pyc6f-je84d-hgpe2-ckm9k-dddm2-dpm37-pm79k-n36jh-zsm5r-2bazp-4ftff-4ahc9-l7she-a7lex-s5sxa-wmanr-z6myr-y4pf6-lajhx",
+      "ticket_link": null,
+      "image": "trident.jpg",
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Books",
+        "Community"
+      ]
+    },
+    {
+      "id": "trident_booksellers_cafe_mercy_club_katie_mintle_trouble_s_braids_january_17_2027_6_00_pm",
+      "title": "Mercy Club / Katie Mintle / Trouble's Braids",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "January 17, 2027",
+      "normalized_date": "2027-01-17T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM",
+      "description": "Boulder County's own boisterous folk rock band Mercy Club is back at the Trident! Anchored in family harmony, singable melodies and accessible, honest lyrics, Mercy Club is a dynamic folk ensemble with a rock n' roll heart.",
+      "additional_info": "",
+      "link": "https://www.tridentcafe.com/events/2026/1/17/mercy-club-katie-mintle-troubles-braids",
       "ticket_link": null,
       "image": "trident.jpg",
       "source_url": "https://www.tridentcafe.com/events",
@@ -4148,36 +4117,6 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_bethylovelight_justin_roots_november_29_2026_6_00_pm",
-      "title": "BethyLoveLight & Justin Roots",
-      "venue": "Trident Booksellers & Cafe",
-      "location": "Boulder",
-      "date": "November 29, 2026",
-      "normalized_date": "2026-11-29T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM",
-      "description": "BethyLoveLight is an intergalactic star-rockin' musician who loves to rock out for Truth, beauty, goodness and the One Love! Living as a multifaceted artist, she composes, records and co-produces all of her original audio creations.\u00a0 BethyLoveLight offers a stellar variety of music from angelic down...",
-      "additional_info": "",
-      "link": "https://www.tridentcafe.com/events/2025/11/7/third-turn",
-      "ticket_link": null,
-      "image": "trident.jpg",
-      "source_url": "https://www.tridentcafe.com/events",
-      "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Books",
-        "Community"
-      ]
-    },
-    {
       "id": "license_no_1_live_music_with_george_nelson_band_wednesday_january_21_2026_8_00_pm_11_59_pm",
       "title": "Live Music with George Nelson Band",
       "venue": "License No 1",
@@ -4344,102 +4283,6 @@
       "event_type_tags": [
         "Live Music",
         "Jazz"
-      ]
-    },
-    {
-      "id": "rosetta_hall_shares_january_15_2027_10_00_pm",
-      "title": "SHARES",
-      "venue": "Rosetta Hall",
-      "location": "Boulder",
-      "date": "January 15, 2027",
-      "normalized_date": "2027-01-15T00:00:00",
-      "recurring": null,
-      "time": "10:00 PM",
-      "description": "TECH HOUSE / TECHNO",
-      "additional_info": "",
-      "link": "https://rosettahall.com/live-music/",
-      "ticket_link": null,
-      "image": "rosettahall.jpg",
-      "source_url": "https://rosettahall.com/live-music/",
-      "age_restriction": "21+",
-      "venue_tag": "Rosetta Hall",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Music",
-        "Nightlife",
-        "Dance",
-        "DJ",
-        "21+"
-      ],
-      "event_type_tags": [
-        "Music",
-        "Nightlife",
-        "Dance",
-        "DJ"
-      ]
-    },
-    {
-      "id": "rosetta_hall_hami_january_16_2027_10_00_pm",
-      "title": "HAMI",
-      "venue": "Rosetta Hall",
-      "location": "Boulder",
-      "date": "January 16, 2027",
-      "normalized_date": "2027-01-16T00:00:00",
-      "recurring": null,
-      "time": "10:00 PM",
-      "description": "HOUSE / DUBSTEP",
-      "additional_info": "",
-      "link": "https://rosettahall.com/live-music/",
-      "ticket_link": null,
-      "image": "rosettahall.jpg",
-      "source_url": "https://rosettahall.com/live-music/",
-      "age_restriction": "21+",
-      "venue_tag": "Rosetta Hall",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Music",
-        "Nightlife",
-        "Dance",
-        "DJ",
-        "21+"
-      ],
-      "event_type_tags": [
-        "Music",
-        "Nightlife",
-        "Dance",
-        "DJ"
-      ]
-    },
-    {
-      "id": "rosetta_hall_stuey_january_17_2027_10_00_pm",
-      "title": "STUEY",
-      "venue": "Rosetta Hall",
-      "location": "Boulder",
-      "date": "January 17, 2027",
-      "normalized_date": "2027-01-17T00:00:00",
-      "recurring": null,
-      "time": "10:00 PM",
-      "description": "HIP HOP / HOUSE",
-      "additional_info": "",
-      "link": "https://rosettahall.com/live-music/",
-      "ticket_link": null,
-      "image": "rosettahall.jpg",
-      "source_url": "https://rosettahall.com/live-music/",
-      "age_restriction": "21+",
-      "venue_tag": "Rosetta Hall",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Music",
-        "Nightlife",
-        "Dance",
-        "DJ",
-        "21+"
-      ],
-      "event_type_tags": [
-        "Music",
-        "Nightlife",
-        "Dance",
-        "DJ"
       ]
     },
     {
@@ -4827,6 +4670,38 @@
       ]
     },
     {
+      "id": "rosetta_hall_rodrigo_arreguin_february_10_2026_6_00_pm",
+      "title": "RODRIGO ARREGUIN",
+      "venue": "Rosetta Hall",
+      "location": "Boulder",
+      "date": "February 10, 2026",
+      "normalized_date": "2026-02-10T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM",
+      "description": "ACOUSTIC GUITAR",
+      "additional_info": "",
+      "link": "https://rosettahall.com/live-music/",
+      "ticket_link": null,
+      "image": "rosettahall.jpg",
+      "source_url": "https://rosettahall.com/live-music/",
+      "age_restriction": "21+",
+      "venue_tag": "Rosetta Hall",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Nightlife",
+        "Dance",
+        "DJ",
+        "21+"
+      ],
+      "event_type_tags": [
+        "Music",
+        "Nightlife",
+        "Dance",
+        "DJ"
+      ]
+    },
+    {
       "id": "300_suns_brewing_jake_edmoundson_february_7_2026_6_00_8_00_pm",
       "title": "Jake Edmoundson",
       "venue": "300 Suns Brewing",
@@ -4853,34 +4728,6 @@
         "Live Music",
         "Brewery",
         "Family Friendly"
-      ]
-    },
-    {
-      "id": "bricks_on_main_crick_wooder_january_18_2026_4_00_pm_7_00_pm",
-      "title": "Crick Wooder",
-      "venue": "Bricks on Main",
-      "location": "Longmont",
-      "date": "January 18, 2026",
-      "normalized_date": "2026-01-18T00:00:00",
-      "recurring": null,
-      "time": "4:00 PM - 7:00 PM",
-      "description": "There couldn't be a nicer way to honor our hero Bob Weir than an aces back to back Sunday Show! An Owsley-Grade Grateful Dead Experience.",
-      "additional_info": "",
-      "link": "https://www.bricksretail.com/event-details/crick-wooder-2",
-      "ticket_link": null,
-      "image": "https://static.wixstatic.com/media/ea2d6f_87c80b623fc94403a9ca8d74d950f3d9~mv2.png/v1/fill/w_400,h_400,al_c,q_85,enc_auto/ea2d6f_87c80b623fc94403a9ca8d74d950f3d9~mv2.png",
-      "source_url": "https://www.bricksretail.com/events-calendar",
-      "age_restriction": null,
-      "venue_tag": "Bricks on Main",
-      "location_tag": "Longmont",
-      "venue_type_tags": [
-        "Community",
-        "Retail",
-        "Entertainment"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Entertainment"
       ]
     },
     {
@@ -5316,7 +5163,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/cousin-curtiss-high-voltage-blues-roots-rock-duo-w-derek-dames-ohl-tickets-1859181344449",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1159902733%2F1125606624043%2F1%2Foriginal.20251022-175018?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=2e55d16b7cbb97b499abd0f9787f96fa",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1159902733%2F1125606624043%2F1%2Foriginal.20251022-175018?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=06190d1f465c663c8b6459b44f4ffa8e",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -5342,7 +5189,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/dave-abears-a-very-jerry-band-w-foggy-mountain-spaceship-tickets-1977583587746",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172914001%2F1125606624043%2F1%2Foriginal.20251213-203458?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=65b382d7d08a2d228bc6cbe18a8cbd91",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172914001%2F1125606624043%2F1%2Foriginal.20251213-203458?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=9d8de24d398af7c2ecc497cfd1974b02",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -5368,7 +5215,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/jeremy-mohney-his-orchestra-new-big-band-classics-lindy-hop-lessons-tickets-1977785302079",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172921298%2F1125606624043%2F1%2Foriginal.20251214-013939?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=06fd19536c17320e59e50de8c9186232",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172921298%2F1125606624043%2F1%2Foriginal.20251214-013939?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=93e1cf1bfd22745e4df66fe9ac9ed4ff",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -5394,7 +5241,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/workshop-series-roots-on-the-road-pro-audio-and-live-sound-tickets-1979890068492",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174124424%2F1125606624043%2F1%2Foriginal.20260106-181142?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=00c865fe0752c5f26d6e5d8357aec030",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174124424%2F1125606624043%2F1%2Foriginal.20260106-181142?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=8cd4c99b7a0572974ba46cec1cd42580",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -5420,7 +5267,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/dana-kyle-stokes-dave-boylan-steve-koppe-songwriters-in-the-round-tickets-1979886555986",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174119807%2F1125606624043%2F1%2Foriginal.20260106-172927?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=0ce053c1f33ae1f1c9d205e44b36939a",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174119807%2F1125606624043%2F1%2Foriginal.20260106-172927?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=ee51173d4fd5b43bce53d99225501551",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -5498,7 +5345,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/house-of-fire-cosmic-glow-tickets-1980045564585",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174641598%2F1125606624043%2F1%2Foriginal.20260112-173533?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=fef95631c1bcd664725503a650fe2899",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174641598%2F1125606624043%2F1%2Foriginal.20260112-173533?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=cfc1ea08913f42c605a12e7a833065c2",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -5524,7 +5371,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/sober-night-live-1055-the-colorado-sound-presents-tickets-1980129179680",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171681178%2F1125606624043%2F1%2Foriginal.20251124-221112?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=98887b4a971be63a95e24d16b4cd962e",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171681178%2F1125606624043%2F1%2Foriginal.20251124-221112?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d5ebb1565147fced78ce25fdf2f1d537",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -5576,7 +5423,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/roots-soul-an-evening-with-hazel-miller-jack-hadley-tickets-1976353960899",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172329391%2F1125606624043%2F1%2Foriginal.20251204-175611?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=c06ba5c015dce1418d1c96019bb36598",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172329391%2F1125606624043%2F1%2Foriginal.20251204-175611?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=37b712d42eedc93333c4f3df8e1da02b",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -5602,7 +5449,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/face-vocal-band-a-valentines-night-of-harmony-heart-tickets-1975614440975",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171737840%2F1125606624043%2F1%2Foriginal.20251125-170141?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=9aa66c945dcdc7431a2ea5d03a14881c",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171737840%2F1125606624043%2F1%2Foriginal.20251125-170141?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=65f92e2108cb53de97501e0ea14f5891",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -5628,7 +5475,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/stephen-kellogg-and-the-homecoming-wspecial-guest-gutter-sinatra-night-1-tickets-1730968386039",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1131586293%2F1125606624043%2F1%2Foriginal.20250922-165943?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d7fde1e0fb93fe346e3a8fcc15dfecfe",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1131586293%2F1125606624043%2F1%2Foriginal.20250922-165943?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=6d0a7dbfe4d4c1a4543850c9d3a9ff68",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -5654,7 +5501,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/stephen-kellogg-and-the-homecoming-wspecial-guest-gutter-sinatra-night-2-tickets-1730981384919",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1131586293%2F1125606624043%2F1%2Foriginal.20250922-165943?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d7fde1e0fb93fe346e3a8fcc15dfecfe",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1131586293%2F1125606624043%2F1%2Foriginal.20250922-165943?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=6d0a7dbfe4d4c1a4543850c9d3a9ff68",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -5694,6 +5541,32 @@
       ]
     },
     {
+      "id": "roots_music_project_tempo_high_school_internship_and_program_info_session_free_open_house_february_18_2026_5_00_pm_6_00_pm",
+      "title": "TEMPO: High School Internship and Program Info Session-  Free Open House",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": "February 18, 2026",
+      "normalized_date": "2026-02-18T00:00:00",
+      "recurring": null,
+      "time": "5:00 PM - 6:00 PM",
+      "description": "Come check out our High School Internship and Music Industry Program  info Session- Free Open House on February 18th, 2026!",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/tempo-high-school-internship-and-program-info-session-free-open-house-registration-1980830362938",
+      "ticket_link": null,
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175197778%2F1125606624043%2F1%2Foriginal.20260118-231743?w=400&auto=format%2Ccompress&q=75&sharp=10&s=ca9bd98cd8412368c41eb76e9ad88f29",
+      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
       "id": "roots_music_project_rmp_s_monthly_jazz_soul_and_groove_jam_sessions_february_19_2026_7_30_pm_10_00_pm",
       "title": "RMP's Monthly Jazz, Soul, and Groove Jam Sessions",
       "venue": "Roots Music Project",
@@ -5706,7 +5579,33 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/rmps-monthly-jazz-soul-and-groove-jam-sessions-tickets-1980479658973",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F954537953%2F1125606624043%2F1%2Foriginal.20250206-174854?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=e6697e534a6f2fddc6b7e9d404724717",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F954537953%2F1125606624043%2F1%2Foriginal.20250206-174854?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=ef5db859e24afae7187d27cedd45ef19",
+      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_tempo_program_february_23rd_through_april_26th_2026_february_23_2026_12_00_am_6_00_pm",
+      "title": "TEMPO Program (February 23rd through April 26th, 2026)",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": "February 23, 2026",
+      "normalized_date": "2026-02-23T00:00:00",
+      "recurring": null,
+      "time": "12:00 AM - 6:00 PM",
+      "description": "TEMPO: Training Emerging Musicians for Professional Opportunities",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/tempo-program-february-23rd-through-april-26th-2026-tickets-1980673372375",
+      "ticket_link": null,
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175004016%2F1125606624043%2F1%2Foriginal.20260115-221420?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a5ce6117b8a46c3fb3d82a86a1eb89a6",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -5732,7 +5631,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/resonance-ritual-featuring-tim-snider-kayla-diana-tickets-1979120897882",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173575342%2F1125606624043%2F1%2Foriginal.20251227-192139?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=f4d37a9f80462cddc986c4f4a747f16b",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173575342%2F1125606624043%2F1%2Foriginal.20251227-192139?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=3486d6f05b1c0706efece0eb259f1d64",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -5758,7 +5657,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/dave-watts-and-friends-w-big-ol-pig-tickets-1980440011386",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174701753%2F1408677475953%2F1%2Foriginal.20260113-044232?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=7416c1e7cc9bb56be3e8c0d80accc99c",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174701753%2F1408677475953%2F1%2Foriginal.20260113-044232?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=801e2c9a335eb9e270451ce26ee921c0",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -5784,7 +5683,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/asteroid-please-bear-hat-rmp-vinyl-release-party-benefiting-ms-tickets-1980026672077",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174246812%2F1125606624043%2F1%2Foriginal.20260107-204920?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=13b87eb1fc8adb9373b8a62c19e49789",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174246812%2F1125606624043%2F1%2Foriginal.20260107-204920?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=0b6d4cf4543dbfad344af605632aa73c",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -5811,6 +5710,32 @@
       "link": "https://www.eventbrite.com/e/global-bass-gathering-w-mah-ze-tar-peace-sine-bloomurian-and-dros-tickets-1979121656150",
       "ticket_link": null,
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173576470%2F1125606624043%2F1%2Foriginal.20251227-195426?w=355&auto=format%2Ccompress&q=75&sharp=10&s=e91cd5c6b51d0f1af57a305c7118f187",
+      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_jay_nash_garrison_starr_swamp_gospel_heartfelt_storytelling_april_03_2026_8_00_pm_10_30_pm",
+      "title": "Jay Nash & Garrison Starr: Swamp Gospel & Heartfelt Storytelling",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": "April 03, 2026",
+      "normalized_date": "2026-04-03T00:00:00",
+      "recurring": null,
+      "time": "8:00 PM - 10:30 PM",
+      "description": "Two masterful singer-songwriters unite for an intimate evening of poignant melodies, rough-hewn vocals, and stories that heal the soul.",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/jay-nash-garrison-starr-swamp-gospel-heartfelt-storytelling-tickets-1980821634832",
+      "ticket_link": null,
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175185057%2F1125606624043%2F1%2Foriginal.20260118-193247?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=2a4c1970a188effba5d39a429de16398",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -6752,31 +6677,6 @@
         "All Ages",
         "Free"
       ]
-    },
-    {
-      "id": "fox_theatre_ninajirachi_with_2charm_astrid_jan_18_2026_none",
-      "title": "Ninajirachi with 2charm, astrid",
-      "venue": "Fox Theatre",
-      "location": "Boulder",
-      "date": "Jan 18, 2026",
-      "normalized_date": "2026-01-18",
-      "recurring": null,
-      "time": null,
-      "description": null,
-      "additional_info": "",
-      "link": "https://www.z2ent.com/events/detail/ninajirachi-2026-fox",
-      "ticket_link": "https://www.axs.com/events/1140550/?skin=foxtheatre",
-      "image": "images/z2/ninajirachi-with-2charm-astrid-7019a2ad.jpg",
-      "source_url": null,
-      "age_restriction": null,
-      "venue_tag": "Fox Theatre",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Concert",
-        "Theater"
-      ],
-      "event_type_tags": []
     },
     {
       "id": "boulder_theater_rory_scovel_jan_23_2026_none",

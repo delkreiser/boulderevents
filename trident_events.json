@@ -1,27 +1,5 @@
 [
   {
-    "title": "Mercy Club / Katie Mintle / Trouble's Braids",
-    "link": "https://www.tridentcafe.com/events/2026/1/17/mercy-club-katie-mintle-troubles-braids",
-    "date": "January 17, 2027",
-    "time": "6:00 PM",
-    "description": "Boulder County's own boisterous folk rock band Mercy Club is back at the Trident! Anchored in family harmony, singable melodies and accessible, honest lyrics, Mercy Club is a dynamic folk ensemble with a rock n' roll heart.",
-    "venue": "Trident Booksellers & Cafe",
-    "location": "Boulder",
-    "category": "Books & Literary",
-    "source_url": "https://www.tridentcafe.com/events",
-    "image": "trident.jpg",
-    "event_type_tags": [
-      "Live Music",
-      "Books",
-      "Community"
-    ],
-    "venue_type_tags": [
-      "Cafe",
-      "Bookstore",
-      "Music Venue"
-    ]
-  },
-  {
     "title": "Language Exchange Night",
     "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-s7a5x-brgdj-p3rzz-yz36e",
     "date": "January 19, 2026",
@@ -1405,10 +1383,11 @@
     ]
   },
   {
-    "title": "Magic Mountain Author Series",
+    "title": "Trident Book Event: Jeff Sharlet - Magic Mountain Author Series",
     "link": "https://www.tridentcafe.com/events/2026/1/22/magic-mountain-author-series-6m6eb",
     "date": "June 18, 2026",
     "time": "6:00 PM",
+    "description": "Jeff Sharlet is theNew York Timesbestselling author or editor of eight\u00a0books. His latest isThe Undertow: Scenes from a Slow Civil War(2023),\u00a0a National Book Critics Circle Award Finalist for Nonfiction, one ofThe\u00a0New York Times100 Books of the Year, and aNew Republicbook of the year.\u00a0In 2020, he pub...",
     "venue": "Trident Booksellers & Cafe",
     "location": "Boulder",
     "category": "Books & Literary",
@@ -1622,6 +1601,28 @@
     "date": "October 16, 2026",
     "time": "6:00 PM",
     "description": "Bring an acoustic instrument and sit in with Boulder Old-Time Jam! Every first Thursday on the Trident Patio, starting at 6 p.m.",
+    "venue": "Trident Booksellers & Cafe",
+    "location": "Boulder",
+    "category": "Books & Literary",
+    "source_url": "https://www.tridentcafe.com/events",
+    "image": "trident.jpg",
+    "event_type_tags": [
+      "Live Music",
+      "Books",
+      "Community"
+    ],
+    "venue_type_tags": [
+      "Cafe",
+      "Bookstore",
+      "Music Venue"
+    ]
+  },
+  {
+    "title": "Mercy Club / Katie Mintle / Trouble's Braids",
+    "link": "https://www.tridentcafe.com/events/2026/1/17/mercy-club-katie-mintle-troubles-braids",
+    "date": "January 17, 2027",
+    "time": "6:00 PM",
+    "description": "Boulder County's own boisterous folk rock band Mercy Club is back at the Trident! Anchored in family harmony, singable melodies and accessible, honest lyrics, Mercy Club is a dynamic folk ensemble with a rock n' roll heart.",
     "venue": "Trident Booksellers & Cafe",
     "location": "Boulder",
     "category": "Books & Literary",
@@ -2060,28 +2061,6 @@
     "date": "December 17, 2026",
     "time": "7:00 PM",
     "description": "Free!Every Monday evening, 7-9p.m.All languages welcome. Facilitated by Kelvin Tavarez.",
-    "venue": "Trident Booksellers & Cafe",
-    "location": "Boulder",
-    "category": "Books & Literary",
-    "source_url": "https://www.tridentcafe.com/events",
-    "image": "trident.jpg",
-    "event_type_tags": [
-      "Live Music",
-      "Books",
-      "Community"
-    ],
-    "venue_type_tags": [
-      "Cafe",
-      "Bookstore",
-      "Music Venue"
-    ]
-  },
-  {
-    "title": "BethyLoveLight & Justin Roots",
-    "link": "https://www.tridentcafe.com/events/2025/11/7/third-turn",
-    "date": "November 29, 2026",
-    "time": "6:00 PM",
-    "description": "BethyLoveLight is an intergalactic star-rockin' musician who loves to rock out for Truth, beauty, goodness and the One Love! Living as a multifaceted artist, she composes, records and co-produces all of her original audio creations.\u00a0 BethyLoveLight offers a stellar variety of music from angelic down...",
     "venue": "Trident Booksellers & Cafe",
     "location": "Boulder",
     "category": "Books & Literary",
