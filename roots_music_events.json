@@ -63,7 +63,7 @@
     "title": "Workshop Series: Roots on the Road - Pro Audio and Live Sound",
     "description": "Roots on the Road brings professional live music production to community events, supporting local artists & training audio volunteers",
     "link": "https://www.eventbrite.com/e/workshop-series-roots-on-the-road-pro-audio-and-live-sound-tickets-1979890068492",
-    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174124424%2F1125606624043%2F1%2Foriginal.20260106-181142?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=5414bc3e4df34ed95e365fd768f6c32f",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174124424%2F1125606624043%2F1%2Foriginal.20260106-181142?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=8cd4c99b7a0572974ba46cec1cd42580",
     "date": "January 27, 2026",
     "time": "6:30 PM - 8:00 PM",
     "venue": "Roots Music Project",
@@ -160,6 +160,26 @@
     "age_restriction": "21+"
   },
   {
+    "title": "Open Mic with Steve Koppe at Roots Music Project",
+    "description": "Roots Music Project Community Open Mic with host Steve Koppe",
+    "link": "https://www.eventbrite.com/e/open-mic-with-steve-koppe-at-roots-music-project-tickets-1981259973916",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175499932%2F1125606624043%2F1%2Foriginal.20240520-162949?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=84d56400e2a29e5ab25e09d9297de890",
+    "date": "February 02, 2026",
+    "time": "6:00 PM - 9:00 PM",
+    "venue": "Roots Music Project",
+    "location": "Boulder",
+    "category": "Music",
+    "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
+    "event_type_tags": [
+      "Live Music"
+    ],
+    "venue_type_tags": [
+      "Live Music",
+      "Community"
+    ],
+    "age_restriction": "21+"
+  },
+  {
     "title": "Sober Night Live! 105.5 The Colorado Sound Presents",
     "description": "Monthly open mic for sober creatives. Share your art, find your community, perform in a supportive space. Free admission, donations welcome.",
     "link": "https://www.eventbrite.com/e/sober-night-live-1055-the-colorado-sound-presents-tickets-1980129179680",
@@ -183,7 +203,7 @@
     "title": "Tim Cook &  Godson - An Intimate Soul & Roots Evening",
     "description": "Subdudes bassist Tim Cook + Godson Seth Strickland of Green Buddha perform intimate originals & classics.",
     "link": "https://www.eventbrite.com/e/tim-cook-godson-an-intimate-soul-roots-evening-tickets-1977324060493",
-    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172573132%2F1125606624043%2F1%2Foriginal.20251209-005808?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=75a79d5b5ef5302334df9f5e40750acb",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172573132%2F1125606624043%2F1%2Foriginal.20251209-005808?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=23b271b87b30e1e72005a8b626e197f2",
     "date": "February 06, 2026",
     "time": "7:30 PM - 10:30 PM",
     "venue": "Roots Music Project",
@@ -203,7 +223,7 @@
     "title": "Roots & Soul: An Evening with Hazel Miller & Jack Hadley",
     "description": "Colorado music legends, Hazel Miller and Jack Hadley join forces for a special evening of soul, heart, laughter and song.",
     "link": "https://www.eventbrite.com/e/roots-soul-an-evening-with-hazel-miller-jack-hadley-tickets-1976353960899",
-    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172329391%2F1125606624043%2F1%2Foriginal.20251204-175611?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d1c035aaef8e36b83d9959dbc1a67a78",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172329391%2F1125606624043%2F1%2Foriginal.20251204-175611?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=37b712d42eedc93333c4f3df8e1da02b",
     "date": "February 07, 2026",
     "time": "7:30 PM - 10:30 PM",
     "venue": "Roots Music Project",
@@ -300,9 +320,9 @@
     "age_restriction": "21+"
   },
   {
-    "title": "TEMPO: High School Internship and Program Info Session-  Free Open House",
-    "description": "Come check out our High School Internship and Music Industry Program  info Session- Free Open House on February 18th, 2026!",
-    "link": "https://www.eventbrite.com/e/tempo-high-school-internship-and-program-info-session-free-open-house-registration-1980830362938",
+    "title": "TEMPO: Music Industry Program Info Session-  Free Open House",
+    "description": "Come check out our  Music Industry Program info Session- Free Open House on February 18th, 2026!",
+    "link": "https://www.eventbrite.com/e/tempo-music-industry-program-info-session-free-open-house-registration-1980830362938",
     "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175197778%2F1125606624043%2F1%2Foriginal.20260118-231743?w=400&auto=format%2Ccompress&q=75&sharp=10&s=ca9bd98cd8412368c41eb76e9ad88f29",
     "date": "February 18, 2026",
     "time": "5:00 PM - 6:00 PM",
@@ -363,7 +383,7 @@
     "title": "Resonance & Ritual featuring Tim Snider & Kayla Diana",
     "description": "Step into an evening where sound becomes medicine and rhythm becomes ritual.",
     "link": "https://www.eventbrite.com/e/resonance-ritual-featuring-tim-snider-kayla-diana-tickets-1979120897882",
-    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173575342%2F1125606624043%2F1%2Foriginal.20251227-192139?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a9b1346061bb34aca9129ef99096c44d",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173575342%2F1125606624043%2F1%2Foriginal.20251227-192139?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=3486d6f05b1c0706efece0eb259f1d64",
     "date": "February 26, 2026",
     "time": "7:30 PM - 11:00 PM",
     "venue": "Roots Music Project",
@@ -446,26 +466,6 @@
     "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175270585%2F1125606624043%2F1%2Foriginal.20260119-195609?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=1f3b5539fe3648964b257dcca37699f8",
     "date": "March 07, 2026",
     "time": "8:00 PM - 11:30 PM",
-    "venue": "Roots Music Project",
-    "location": "Boulder",
-    "category": "Music",
-    "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
-    "event_type_tags": [
-      "Live Music"
-    ],
-    "venue_type_tags": [
-      "Live Music",
-      "Community"
-    ],
-    "age_restriction": "21+"
-  },
-  {
-    "title": "In Bloom: RMP Silent Auction Spring Fundraiser",
-    "description": "Turn up the music, bid for the future! Live indie/funk, folk & alt-rock across two rooms. Silent auction. All proceeds support local music.",
-    "link": "https://www.eventbrite.com/e/in-bloom-rmp-silent-auction-spring-fundraiser-tickets-1980905379314",
-    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175276529%2F1125606624043%2F1%2Foriginal.20260119-205725?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=3563d18b86bfe344ea6634bc492fb72f",
-    "date": "March 28, 2026",
-    "time": "6:30 PM - 10:30 PM",
     "venue": "Roots Music Project",
     "location": "Boulder",
     "category": "Music",

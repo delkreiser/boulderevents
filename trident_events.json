@@ -1,26 +1,5 @@
 [
   {
-    "title": "Rodrigo Arreguin",
-    "link": "https://www.tridentcafe.com/events/2026/1/21/rodrigo-arreguin",
-    "date": "January 21, 2026",
-    "time": "6:00 PM",
-    "venue": "Trident Booksellers & Cafe",
-    "location": "Boulder",
-    "category": "Books & Literary",
-    "source_url": "https://www.tridentcafe.com/events",
-    "image": "trident.jpg",
-    "event_type_tags": [
-      "Live Music",
-      "Books",
-      "Community"
-    ],
-    "venue_type_tags": [
-      "Cafe",
-      "Bookstore",
-      "Music Venue"
-    ]
-  },
-  {
     "title": "Trident Book Event: Rachel Kushner on Aesthetics and Politics, in Conversation with Benjamin Kunkel",
     "link": "https://www.tridentcafe.com/events/2026/1/22/trident-book-event-rachel-kushner-on-aesthetics-and-politics-in-conversation-with-benjamin-kunkel",
     "date": "January 22, 2026",
@@ -435,6 +414,7 @@
     "link": "https://www.tridentcafe.com/events/2026/2/21/john-shepherd",
     "date": "February 21, 2026",
     "time": "6:00 PM",
+    "description": "\"With humble roots in an unheated backyard shed, Boulder-based Jehovah's Fitness Club brings an eclectic mix of jazz, funk, blues and Latin sounds to the local scene. With eight enthused musicians at its core, JFC has a budding track record of putting on a lighthearted and energetic show, drawing cr...",
     "venue": "Trident Booksellers & Cafe",
     "location": "Boulder",
     "category": "Books & Literary",
@@ -761,6 +741,7 @@
     "link": "https://www.tridentcafe.com/events/2026/2/21/john-shepherd-xxa42",
     "date": "March 21, 2026",
     "time": "6:00 PM",
+    "description": "\"With humble roots in an unheated backyard shed, Boulder-based Jehovah's Fitness Club brings an eclectic mix of jazz, funk, blues and Latin sounds to the local scene. With eight enthused musicians at its core, JFC has a budding track record of putting on a lighthearted and energetic show, drawing cr...",
     "venue": "Trident Booksellers & Cafe",
     "location": "Boulder",
     "category": "Books & Literary",
@@ -931,10 +912,32 @@
     ]
   },
   {
+    "title": "Juniper Blue",
+    "link": "https://www.tridentcafe.com/events/2026/4/17/juniper-blue",
+    "date": "April 17, 2026",
+    "time": "6:00 PM",
+    "venue": "Trident Booksellers & Cafe",
+    "location": "Boulder",
+    "category": "Books & Literary",
+    "source_url": "https://www.tridentcafe.com/events",
+    "image": "trident.jpg",
+    "event_type_tags": [
+      "Live Music",
+      "Books",
+      "Community"
+    ],
+    "venue_type_tags": [
+      "Cafe",
+      "Bookstore",
+      "Music Venue"
+    ]
+  },
+  {
     "title": "Jehovah's Fitness Club",
     "link": "https://www.tridentcafe.com/events/2026/2/21/john-shepherd-xxa42-a6kpg",
     "date": "April 18, 2026",
     "time": "6:00 PM",
+    "description": "\"With humble roots in an unheated backyard shed, Boulder-based Jehovah's Fitness Club brings an eclectic mix of jazz, funk, blues and Latin sounds to the local scene. With eight enthused musicians at its core, JFC has a budding track record of putting on a lighthearted and energetic show, drawing cr...",
     "venue": "Trident Booksellers & Cafe",
     "location": "Boulder",
     "category": "Books & Literary",
@@ -1149,6 +1152,7 @@
     "link": "https://www.tridentcafe.com/events/2026/2/21/john-shepherd-xxa42-l2ggx",
     "date": "May 16, 2026",
     "time": "6:00 PM",
+    "description": "\"With humble roots in an unheated backyard shed, Boulder-based Jehovah's Fitness Club brings an eclectic mix of jazz, funk, blues and Latin sounds to the local scene. With eight enthused musicians at its core, JFC has a budding track record of putting on a lighthearted and energetic show, drawing cr...",
     "venue": "Trident Booksellers & Cafe",
     "location": "Boulder",
     "category": "Books & Literary",
@@ -1557,6 +1561,27 @@
     "date": "October 16, 2026",
     "time": "6:00 PM",
     "description": "Bring an acoustic instrument and sit in with Boulder Old-Time Jam! Every first Thursday on the Trident Patio, starting at 6 p.m.",
+    "venue": "Trident Booksellers & Cafe",
+    "location": "Boulder",
+    "category": "Books & Literary",
+    "source_url": "https://www.tridentcafe.com/events",
+    "image": "trident.jpg",
+    "event_type_tags": [
+      "Live Music",
+      "Books",
+      "Community"
+    ],
+    "venue_type_tags": [
+      "Cafe",
+      "Bookstore",
+      "Music Venue"
+    ]
+  },
+  {
+    "title": "Rodrigo Arreguin",
+    "link": "https://www.tridentcafe.com/events/2026/1/21/rodrigo-arreguin",
+    "date": "January 21, 2027",
+    "time": "6:00 PM",
     "venue": "Trident Booksellers & Cafe",
     "location": "Boulder",
     "category": "Books & Literary",
