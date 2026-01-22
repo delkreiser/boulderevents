@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T08:34:29.898956",
-  "total_events": 289,
+  "generated_at": "2026-01-22T18:34:52.677193",
+  "total_events": 314,
   "tags": {
     "venues": [
       "300 Suns Brewing",
@@ -73,6 +73,7 @@
       "Games",
       "Hotel Events",
       "Jazz",
+      "Karaoke",
       "Live Music",
       "Music",
       "Nightlife",
@@ -396,8 +397,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Games"
+        "Games",
+        "Community"
       ]
     },
     {
@@ -454,8 +455,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -720,9 +721,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Games",
         "Educational",
-        "Community",
-        "Games"
+        "Community"
       ]
     },
     {
@@ -806,10 +807,10 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Games",
         "All Ages",
-        "Community",
         "Family Friendly",
-        "Games"
+        "Community"
       ]
     },
     {
@@ -866,11 +867,11 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Music",
         "All Ages",
-        "Performance",
         "Community",
-        "Family Friendly",
-        "Music"
+        "Performance",
+        "Family Friendly"
       ]
     },
     {
@@ -958,8 +959,8 @@
       ],
       "event_type_tags": [
         "All Ages",
-        "Community",
         "Family Friendly",
+        "Community",
         "Music"
       ]
     },
@@ -1698,36 +1699,6 @@
       "description": "",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2026/2/11/the-elaborate-owl-amp-malcom-teel",
-      "ticket_link": null,
-      "image": "trident.jpg",
-      "source_url": "https://www.tridentcafe.com/events",
-      "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Books",
-        "Community"
-      ]
-    },
-    {
-      "id": "trident_booksellers_cafe_magic_mountain_author_series_perry_anderson_february_19_2026_6_00_pm",
-      "title": "Magic Mountain Author Series: Perry Anderson",
-      "venue": "Trident Booksellers & Cafe",
-      "location": "Boulder",
-      "date": "February 19, 2026",
-      "normalized_date": "2026-02-19T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.tridentcafe.com/events/2026/1/22/magic-mountain-author-series-8mflg",
       "ticket_link": null,
       "image": "trident.jpg",
       "source_url": "https://www.tridentcafe.com/events",
@@ -2647,36 +2618,6 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_magic_mountain_author_series_alyssa_battistoni_april_23_2026_6_00_pm",
-      "title": "Magic Mountain Author Series: Alyssa Battistoni",
-      "venue": "Trident Booksellers & Cafe",
-      "location": "Boulder",
-      "date": "April 23, 2026",
-      "normalized_date": "2026-04-23T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.tridentcafe.com/events/2026/1/22/magic-mountain-author-series-pe62t",
-      "ticket_link": null,
-      "image": "trident.jpg",
-      "source_url": "https://www.tridentcafe.com/events",
-      "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Books",
-        "Community"
-      ]
-    },
-    {
       "id": "trident_booksellers_cafe_bailey_pope_noah_lekas_april_24_2026_6_00_pm",
       "title": "Bailey Pope/Noah Lekas",
       "venue": "Trident Booksellers & Cafe",
@@ -2868,36 +2809,6 @@
       "description": "Free!Every Monday evening, 7-9p.m.All languages welcome. Facilitated by Kelvin Tavarez.",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-s7a5x-brgdj-6jtkx-pwzma-syw95",
-      "ticket_link": null,
-      "image": "trident.jpg",
-      "source_url": "https://www.tridentcafe.com/events",
-      "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Books",
-        "Community"
-      ]
-    },
-    {
-      "id": "trident_booksellers_cafe_magic_mountain_author_series_may_21_2026_6_00_pm",
-      "title": "Magic Mountain Author Series",
-      "venue": "Trident Booksellers & Cafe",
-      "location": "Boulder",
-      "date": "May 21, 2026",
-      "normalized_date": "2026-05-21T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.tridentcafe.com/events/2026/1/22/magic-mountain-author-series-t9lzf",
       "ticket_link": null,
       "image": "trident.jpg",
       "source_url": "https://www.tridentcafe.com/events",
@@ -3348,36 +3259,6 @@
       "description": "",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2025/9/13/jazzetry-w-von-disco-5w3sd-b4jws-4dz6c-m7tm5",
-      "ticket_link": null,
-      "image": "trident.jpg",
-      "source_url": "https://www.tridentcafe.com/events",
-      "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Books",
-        "Community"
-      ]
-    },
-    {
-      "id": "trident_booksellers_cafe_magic_mountain_author_series_september_17_2026_6_00_pm",
-      "title": "Magic Mountain Author Series",
-      "venue": "Trident Booksellers & Cafe",
-      "location": "Boulder",
-      "date": "September 17, 2026",
-      "normalized_date": "2026-09-17T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.tridentcafe.com/events/2026/1/22/magic-mountain-author-series-6m6eb-jf9a9-y8sd6-3n7p2",
       "ticket_link": null,
       "image": "trident.jpg",
       "source_url": "https://www.tridentcafe.com/events",
@@ -4087,6 +3968,34 @@
       ]
     },
     {
+      "id": "license_no_1_the_underground_comedy_showcase_thursday_january_22_2026_7_30_pm_8_30_pm",
+      "title": "The Underground Comedy Showcase",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "Thursday, January 22, 2026",
+      "normalized_date": "2026-01-22T00:00:00",
+      "recurring": null,
+      "time": "7:30\u202fPM - 8:30\u202fPM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.license1boulderado.com/calendar/ne2lznhx2axgyzft9hyspt2z98m5jp",
+      "ticket_link": null,
+      "image": "licenseno1.jpg",
+      "source_url": "https://www.license1boulderado.com/calendar",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+"
+      ],
+      "event_type_tags": [
+        "Comedy",
+        "Nightlife"
+      ]
+    },
+    {
       "id": "license_no_1_the_underground_comedy_showcase_thursday_january_22_2026_8_00_pm_9_00_pm",
       "title": "The Underground Comedy Showcase",
       "venue": "License No 1",
@@ -4111,6 +4020,62 @@
       ],
       "event_type_tags": [
         "Comedy",
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_live_music_with_nu_bass_theory_thursday_january_22_2026_9_00_pm_11_59_pm",
+      "title": "Live Music With Nu Bass Theory",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "Thursday, January 22, 2026",
+      "normalized_date": "2026-01-22T00:00:00",
+      "recurring": null,
+      "time": "9:00\u202fPM - 11:59\u202fPM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.license1boulderado.com/calendar/live-music-with-nu-bass-theory-2",
+      "ticket_link": null,
+      "image": "licenseno1.jpg",
+      "source_url": "https://www.license1boulderado.com/calendar",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_live_music_with_hunter_stone_thursday_january_22_2026_9_00_pm_11_59_pm",
+      "title": "Live Music With Hunter Stone",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "Thursday, January 22, 2026",
+      "normalized_date": "2026-01-22T00:00:00",
+      "recurring": null,
+      "time": "9:00\u202fPM - 11:59\u202fPM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.license1boulderado.com/calendar/chknrl4e7c78n8dw7fnnbzcncn63z3",
+      "ticket_link": null,
+      "image": "licenseno1.jpg",
+      "source_url": "https://www.license1boulderado.com/calendar",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+"
+      ],
+      "event_type_tags": [
+        "Live Music",
         "Nightlife"
       ]
     },
@@ -4871,17 +4836,45 @@
       ]
     },
     {
-      "id": "license_no_1_the_underground_comedy_showcase_saturday_february_14_2026_7_30_pm_8_30_pm",
+      "id": "license_no_1_live_music_with_george_nelson_band_wednesday_february_18_2026_8_00_pm_11_59_pm",
+      "title": "Live Music With George Nelson Band",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "Wednesday, February 18, 2026",
+      "normalized_date": "2026-02-18T00:00:00",
+      "recurring": null,
+      "time": "8:00\u202fPM - 11:59\u202fPM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.license1boulderado.com/calendar/live-music-with-george-nelson-1",
+      "ticket_link": null,
+      "image": "licenseno1.jpg",
+      "source_url": "https://www.license1boulderado.com/calendar",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_the_underground_comedy_showcase_thursday_february_19_2026_8_00_pm_9_00_pm",
       "title": "The Underground Comedy Showcase",
       "venue": "License No 1",
       "location": "Boulder",
-      "date": "Saturday, February 14, 2026",
-      "normalized_date": "2026-02-14T00:00:00",
+      "date": "Thursday, February 19, 2026",
+      "normalized_date": "2026-02-19T00:00:00",
       "recurring": null,
-      "time": "7:30\u202fPM - 8:30\u202fPM",
+      "time": "8:00\u202fPM - 9:00\u202fPM",
       "description": "",
       "additional_info": "",
-      "link": "https://www.license1boulderado.com/calendar/z6fmncxwtwf4wcjxjs25yc9w64nhgl",
+      "link": "https://www.license1boulderado.com/calendar/alllxwct7ewjtlyfanbknfzld6xg4k",
       "ticket_link": null,
       "image": "licenseno1.jpg",
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -4899,17 +4892,45 @@
       ]
     },
     {
-      "id": "license_no_1_the_underground_comedy_showcase_saturday_february_14_2026_9_15_pm_10_15_pm",
+      "id": "license_no_1_live_music_with_hunter_stone_thursday_february_19_2026_9_00_pm_11_59_pm",
+      "title": "Live Music With Hunter Stone",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "Thursday, February 19, 2026",
+      "normalized_date": "2026-02-19T00:00:00",
+      "recurring": null,
+      "time": "9:00\u202fPM - 11:59\u202fPM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.license1boulderado.com/calendar/live-music-with-hunter-stone-5",
+      "ticket_link": null,
+      "image": "licenseno1.jpg",
+      "source_url": "https://www.license1boulderado.com/calendar",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_the_underground_comedy_showcase_friday_february_20_2026_8_00_pm_9_00_pm",
       "title": "The Underground Comedy Showcase",
       "venue": "License No 1",
       "location": "Boulder",
-      "date": "Saturday, February 14, 2026",
-      "normalized_date": "2026-02-14T00:00:00",
+      "date": "Friday, February 20, 2026",
+      "normalized_date": "2026-02-20T00:00:00",
       "recurring": null,
-      "time": "9:15\u202fPM - 10:15\u202fPM",
+      "time": "8:00\u202fPM - 9:00\u202fPM",
       "description": "",
       "additional_info": "",
-      "link": "https://www.license1boulderado.com/calendar/wn98p66gb9d5kr934346hzkprjtawg",
+      "link": "https://www.license1boulderado.com/calendar/n4zlk4axmp7p2ph35fzw3wrfwkfdnh",
       "ticket_link": null,
       "image": "licenseno1.jpg",
       "source_url": "https://www.license1boulderado.com/calendar",
@@ -4923,6 +4944,622 @@
       ],
       "event_type_tags": [
         "Comedy",
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_the_underground_comedy_showcase_saturday_february_21_2026_7_30_pm_8_30_pm",
+      "title": "The Underground Comedy Showcase",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "Saturday, February 21, 2026",
+      "normalized_date": "2026-02-21T00:00:00",
+      "recurring": null,
+      "time": "7:30\u202fPM - 8:30\u202fPM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.license1boulderado.com/calendar/9s4eahskpeeaf9p9rp9d2geadsja9b",
+      "ticket_link": null,
+      "image": "licenseno1.jpg",
+      "source_url": "https://www.license1boulderado.com/calendar",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+"
+      ],
+      "event_type_tags": [
+        "Comedy",
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_live_music_with_al_s_highway_50_saturday_february_21_2026_9_00_pm_11_59_pm",
+      "title": "Live Music With Al's Highway 50",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "Saturday, February 21, 2026",
+      "normalized_date": "2026-02-21T00:00:00",
+      "recurring": null,
+      "time": "9:00\u202fPM - 11:59\u202fPM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.license1boulderado.com/calendar/live-music-with-als-highway-50-1",
+      "ticket_link": null,
+      "image": "licenseno1.jpg",
+      "source_url": "https://www.license1boulderado.com/calendar",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_the_underground_comedy_showcase_saturday_february_21_2026_9_15_pm_10_15_pm",
+      "title": "The Underground Comedy Showcase",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "Saturday, February 21, 2026",
+      "normalized_date": "2026-02-21T00:00:00",
+      "recurring": null,
+      "time": "9:15\u202fPM - 10:15\u202fPM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.license1boulderado.com/calendar/26s63segabysdg2gz8tcrjx8s33lld",
+      "ticket_link": null,
+      "image": "licenseno1.jpg",
+      "source_url": "https://www.license1boulderado.com/calendar",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+"
+      ],
+      "event_type_tags": [
+        "Comedy",
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_live_music_with_george_nelson_band_wednesday_february_25_2026_8_00_pm_11_59_pm",
+      "title": "Live Music With George Nelson Band",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "Wednesday, February 25, 2026",
+      "normalized_date": "2026-02-25T00:00:00",
+      "recurring": null,
+      "time": "8:00\u202fPM - 11:59\u202fPM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.license1boulderado.com/calendar/fkst7ktbkkn7m2as7xj2jc7xy2kz8b",
+      "ticket_link": null,
+      "image": "licenseno1.jpg",
+      "source_url": "https://www.license1boulderado.com/calendar",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_the_underground_comedy_show_thursday_february_26_2026_8_00_pm_9_00_pm",
+      "title": "The Underground Comedy Show",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "Thursday, February 26, 2026",
+      "normalized_date": "2026-02-26T00:00:00",
+      "recurring": null,
+      "time": "8:00\u202fPM - 9:00\u202fPM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.license1boulderado.com/calendar/rl3ahdtmnrcaak58jmmz2nbkhsmldx",
+      "ticket_link": null,
+      "image": "licenseno1.jpg",
+      "source_url": "https://www.license1boulderado.com/calendar",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+"
+      ],
+      "event_type_tags": [
+        "Comedy",
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_live_music_with_hunter_stone_thursday_february_26_2026_9_00_pm_11_59_pm",
+      "title": "Live Music With Hunter Stone",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "Thursday, February 26, 2026",
+      "normalized_date": "2026-02-26T00:00:00",
+      "recurring": null,
+      "time": "9:00\u202fPM - 11:59\u202fPM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.license1boulderado.com/calendar/xsdxg6h7ehebwwtwtlytxh2j727y9n",
+      "ticket_link": null,
+      "image": "licenseno1.jpg",
+      "source_url": "https://www.license1boulderado.com/calendar",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_the_underground_comedy_showcase_friday_february_27_2026_8_00_pm_9_00_pm",
+      "title": "The Underground Comedy Showcase",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "Friday, February 27, 2026",
+      "normalized_date": "2026-02-27T00:00:00",
+      "recurring": null,
+      "time": "8:00\u202fPM - 9:00\u202fPM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.license1boulderado.com/calendar/gs2wn6k4ec7p2djbkgsl2xz9capdp5",
+      "ticket_link": null,
+      "image": "licenseno1.jpg",
+      "source_url": "https://www.license1boulderado.com/calendar",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+"
+      ],
+      "event_type_tags": [
+        "Comedy",
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_live_music_with_phoebe_nix_friday_february_27_2026_9_00_pm_11_59_pm",
+      "title": "Live Music With Phoebe Nix",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "Friday, February 27, 2026",
+      "normalized_date": "2026-02-27T00:00:00",
+      "recurring": null,
+      "time": "9:00\u202fPM - 11:59\u202fPM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.license1boulderado.com/calendar/live-music-with-phoebe-nix-4",
+      "ticket_link": null,
+      "image": "licenseno1.jpg",
+      "source_url": "https://www.license1boulderado.com/calendar",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_the_underground_comedy_showcase_saturday_february_28_2026_7_30_pm_8_30_pm",
+      "title": "The Underground Comedy Showcase",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "Saturday, February 28, 2026",
+      "normalized_date": "2026-02-28T00:00:00",
+      "recurring": null,
+      "time": "7:30\u202fPM - 8:30\u202fPM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.license1boulderado.com/calendar/6k9ibxzh8kafv0ypr08och6wvfpjne",
+      "ticket_link": null,
+      "image": "licenseno1.jpg",
+      "source_url": "https://www.license1boulderado.com/calendar",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+"
+      ],
+      "event_type_tags": [
+        "Comedy",
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_live_music_with_blove_saturday_february_28_2026_9_00_pm_11_59_pm",
+      "title": "Live Music With BLove",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "Saturday, February 28, 2026",
+      "normalized_date": "2026-02-28T00:00:00",
+      "recurring": null,
+      "time": "9:00\u202fPM - 11:59\u202fPM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.license1boulderado.com/calendar/live-music-with-blove-2",
+      "ticket_link": null,
+      "image": "licenseno1.jpg",
+      "source_url": "https://www.license1boulderado.com/calendar",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_the_underground_comedy_showcase_saturday_february_28_2026_9_15_pm_10_15_pm",
+      "title": "The Underground Comedy Showcase",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "Saturday, February 28, 2026",
+      "normalized_date": "2026-02-28T00:00:00",
+      "recurring": null,
+      "time": "9:15\u202fPM - 10:15\u202fPM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.license1boulderado.com/calendar/amtw4nc9f6r4f7d8b7gpfmrhmdc6x7",
+      "ticket_link": null,
+      "image": "licenseno1.jpg",
+      "source_url": "https://www.license1boulderado.com/calendar",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+"
+      ],
+      "event_type_tags": [
+        "Comedy",
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_live_music_with_george_nelson_band_wednesday_march_4_2026_8_00_pm_11_59_pm",
+      "title": "Live Music With George Nelson Band",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "Wednesday, March 4, 2026",
+      "normalized_date": "2026-03-04T00:00:00",
+      "recurring": null,
+      "time": "8:00\u202fPM - 11:59\u202fPM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.license1boulderado.com/calendar/4gsy5a8h6shjsl7tz2scresez6m6k7",
+      "ticket_link": null,
+      "image": "licenseno1.jpg",
+      "source_url": "https://www.license1boulderado.com/calendar",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_the_underground_comedy_showcase_thursday_march_5_2026_8_00_pm_9_00_pm",
+      "title": "The Underground Comedy Showcase",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "Thursday, March 5, 2026",
+      "normalized_date": "2026-03-05T00:00:00",
+      "recurring": null,
+      "time": "8:00\u202fPM - 9:00\u202fPM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.license1boulderado.com/calendar/hbfcz4lc9d3xfm96647d58ry6lj9w8",
+      "ticket_link": null,
+      "image": "licenseno1.jpg",
+      "source_url": "https://www.license1boulderado.com/calendar",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+"
+      ],
+      "event_type_tags": [
+        "Comedy",
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_live_music_with_hunter_stone_thursday_march_5_2026_9_00_pm_11_59_pm",
+      "title": "Live Music With Hunter Stone",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "Thursday, March 5, 2026",
+      "normalized_date": "2026-03-05T00:00:00",
+      "recurring": null,
+      "time": "9:00\u202fPM - 11:59\u202fPM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.license1boulderado.com/calendar/7t7hjblf7ejnbpyb93whzfpf3j2eb2",
+      "ticket_link": null,
+      "image": "licenseno1.jpg",
+      "source_url": "https://www.license1boulderado.com/calendar",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_the_underground_comedy_showcase_friday_march_6_2026_8_00_pm_9_00_pm",
+      "title": "The Underground Comedy Showcase",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "Friday, March 6, 2026",
+      "normalized_date": "2026-03-06T00:00:00",
+      "recurring": null,
+      "time": "8:00\u202fPM - 9:00\u202fPM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.license1boulderado.com/calendar/jbttngyj8nlmfjh6fgms2dedfwjd9n",
+      "ticket_link": null,
+      "image": "licenseno1.jpg",
+      "source_url": "https://www.license1boulderado.com/calendar",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+"
+      ],
+      "event_type_tags": [
+        "Comedy",
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_live_music_with_von_disco_friday_march_6_2026_9_00_pm_11_59_pm",
+      "title": "Live Music With Von Disco",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "Friday, March 6, 2026",
+      "normalized_date": "2026-03-06T00:00:00",
+      "recurring": null,
+      "time": "9:00\u202fPM - 11:59\u202fPM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.license1boulderado.com/calendar/live-music-with-von-disco-3",
+      "ticket_link": null,
+      "image": "licenseno1.jpg",
+      "source_url": "https://www.license1boulderado.com/calendar",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_the_underground_comedy_showcase_saturday_march_7_2026_7_30_pm_8_30_pm",
+      "title": "The Underground Comedy Showcase",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "Saturday, March 7, 2026",
+      "normalized_date": "2026-03-07T00:00:00",
+      "recurring": null,
+      "time": "7:30\u202fPM - 8:30\u202fPM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.license1boulderado.com/calendar/dmc2r4dbsrkhzr9g82gcekeyknxndg",
+      "ticket_link": null,
+      "image": "licenseno1.jpg",
+      "source_url": "https://www.license1boulderado.com/calendar",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+"
+      ],
+      "event_type_tags": [
+        "Comedy",
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_live_music_with_voodoo_lily_saturday_march_7_2026_9_00_pm_11_59_pm",
+      "title": "Live Music With Voodoo Lily",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "Saturday, March 7, 2026",
+      "normalized_date": "2026-03-07T00:00:00",
+      "recurring": null,
+      "time": "9:00\u202fPM - 11:59\u202fPM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.license1boulderado.com/calendar/live-music-with-voodoo-lily-4",
+      "ticket_link": null,
+      "image": "licenseno1.jpg",
+      "source_url": "https://www.license1boulderado.com/calendar",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_the_underground_comedy_showcase_saturday_march_7_2026_9_15_pm_10_15_pm",
+      "title": "The Underground Comedy Showcase",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "Saturday, March 7, 2026",
+      "normalized_date": "2026-03-07T00:00:00",
+      "recurring": null,
+      "time": "9:15\u202fPM - 10:15\u202fPM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.license1boulderado.com/calendar/8ldeg2ltesc6b7katg6kp4y5bzgba8",
+      "ticket_link": null,
+      "image": "licenseno1.jpg",
+      "source_url": "https://www.license1boulderado.com/calendar",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+"
+      ],
+      "event_type_tags": [
+        "Comedy",
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_live_music_with_george_nelson_band_wednesday_march_11_2026_8_00_pm_11_59_pm",
+      "title": "Live Music With George Nelson Band",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "Wednesday, March 11, 2026",
+      "normalized_date": "2026-03-11T00:00:00",
+      "recurring": null,
+      "time": "8:00\u202fPM - 11:59\u202fPM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.license1boulderado.com/calendar/live-music-with-george-nelson-2",
+      "ticket_link": null,
+      "image": "licenseno1.jpg",
+      "source_url": "https://www.license1boulderado.com/calendar",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_the_underground_comedy_showcase_thursday_march_12_2026_8_00_pm_9_00_pm",
+      "title": "The Underground Comedy Showcase",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "Thursday, March 12, 2026",
+      "normalized_date": "2026-03-12T00:00:00",
+      "recurring": null,
+      "time": "8:00\u202fPM - 9:00\u202fPM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.license1boulderado.com/calendar/wzec8asml89wc7ppbc38lb4lgdmdw3",
+      "ticket_link": null,
+      "image": "licenseno1.jpg",
+      "source_url": "https://www.license1boulderado.com/calendar",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+"
+      ],
+      "event_type_tags": [
+        "Comedy",
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "license_no_1_live_music_with_phoebe_nix_friday_march_13_2026_9_00_pm_11_59_pm",
+      "title": "Live Music With Phoebe Nix",
+      "venue": "License No 1",
+      "location": "Boulder",
+      "date": "Friday, March 13, 2026",
+      "normalized_date": "2026-03-13T00:00:00",
+      "recurring": null,
+      "time": "9:00\u202fPM - 11:59\u202fPM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.license1boulderado.com/calendar/live-music-with-phoebe-nix-5",
+      "ticket_link": null,
+      "image": "licenseno1.jpg",
+      "source_url": "https://www.license1boulderado.com/calendar",
+      "age_restriction": null,
+      "venue_tag": "License No 1",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Nightlife",
+        "Bar",
+        "21+"
+      ],
+      "event_type_tags": [
+        "Live Music",
         "Nightlife"
       ]
     },
@@ -5682,6 +6319,35 @@
       ]
     },
     {
+      "id": "bricks_on_main_karaoke_night_february_04_2026_6_00_pm_8_00_pm",
+      "title": "Karaoke Night",
+      "venue": "Bricks on Main",
+      "location": "Longmont",
+      "date": "February 04, 2026",
+      "normalized_date": "2026-02-04T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM - 8:00 PM",
+      "description": "Take the Bricks Main Stage ... you're the headliner!",
+      "additional_info": "",
+      "link": "https://www.bricksretail.com/event-details/karaoke-night-2026-02-04-18-00",
+      "ticket_link": null,
+      "image": "https://static.wixstatic.com/media/0f3cdb_cc11739aca8043a8a8cbdf5cdc8f3661~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/0f3cdb_cc11739aca8043a8a8cbdf5cdc8f3661~mv2.jpg",
+      "source_url": "https://www.bricksretail.com/events-calendar",
+      "age_restriction": null,
+      "venue_tag": "Bricks on Main",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Community",
+        "Retail",
+        "Entertainment"
+      ],
+      "event_type_tags": [
+        "Karaoke",
+        "Music",
+        "Entertainment"
+      ]
+    },
+    {
       "id": "bricks_on_main_main_st_laughs_free_stand_up_comedy_ft_mentalist_magician_february_05_2026_6_00_pm_8_00_pm",
       "title": "Main St Laughs - FREE Stand Up Comedy Ft. Mentalist/Magician",
       "venue": "Bricks on Main",
@@ -5751,6 +6417,34 @@
       "link": "https://www.bricksretail.com/event-details/winter-walkabout-music-showcase",
       "ticket_link": null,
       "image": "https://static.wixstatic.com/media/ea2d6f_2aecc47fd2824fb7af15be8eed337b15~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_2aecc47fd2824fb7af15be8eed337b15~mv2.jpg",
+      "source_url": "https://www.bricksretail.com/events-calendar",
+      "age_restriction": null,
+      "venue_tag": "Bricks on Main",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Community",
+        "Retail",
+        "Entertainment"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "bricks_on_main_the_big_spenders_february_13_2026_6_00_pm_9_00_pm",
+      "title": "The Big Spenders",
+      "venue": "Bricks on Main",
+      "location": "Longmont",
+      "date": "February 13, 2026",
+      "normalized_date": "2026-02-13T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM - 9:00 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.bricksretail.com/event-details/the-big-spenders",
+      "ticket_link": null,
+      "image": "https://static.wixstatic.com/media/ea2d6f_d1b6d51c369f47f68c388625e929b01b~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_d1b6d51c369f47f68c388625e929b01b~mv2.jpg",
       "source_url": "https://www.bricksretail.com/events-calendar",
       "age_restriction": null,
       "venue_tag": "Bricks on Main",

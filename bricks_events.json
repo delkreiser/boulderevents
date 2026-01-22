@@ -210,6 +210,28 @@
     ]
   },
   {
+    "link": "https://www.bricksretail.com/event-details/karaoke-night-2026-02-04-18-00",
+    "title": "Karaoke Night",
+    "date": "February 04, 2026",
+    "time": "6:00 PM - 8:00 PM",
+    "description": "Take the Bricks Main Stage ... you're the headliner!",
+    "image": "https://static.wixstatic.com/media/0f3cdb_cc11739aca8043a8a8cbdf5cdc8f3661~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/0f3cdb_cc11739aca8043a8a8cbdf5cdc8f3661~mv2.jpg",
+    "venue": "Bricks on Main",
+    "location": "Longmont",
+    "category": "Music",
+    "source_url": "https://www.bricksretail.com/events-calendar",
+    "event_type_tags": [
+      "Karaoke",
+      "Music",
+      "Entertainment"
+    ],
+    "venue_type_tags": [
+      "Music Venue",
+      "Bar",
+      "Restaurant"
+    ]
+  },
+  {
     "link": "https://www.bricksretail.com/event-details/main-st-laughs-free-stand-up-comedy-ft-mentalist-magician",
     "title": "Main St Laughs - FREE Stand Up Comedy Ft. Mentalist/Magician",
     "date": "February 05, 2026",
@@ -258,6 +280,26 @@
     "time": "2:00 PM - 9:30 PM",
     "description": "An all-day, multi-venue music festival featuring local music, unique venues, good vibes & community spirit, and the best that Downtown Longmont has to offer!",
     "image": "https://static.wixstatic.com/media/ea2d6f_2aecc47fd2824fb7af15be8eed337b15~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_2aecc47fd2824fb7af15be8eed337b15~mv2.jpg",
+    "venue": "Bricks on Main",
+    "location": "Longmont",
+    "category": "Music",
+    "source_url": "https://www.bricksretail.com/events-calendar",
+    "event_type_tags": [
+      "Live Music",
+      "Entertainment"
+    ],
+    "venue_type_tags": [
+      "Music Venue",
+      "Bar",
+      "Restaurant"
+    ]
+  },
+  {
+    "link": "https://www.bricksretail.com/event-details/the-big-spenders",
+    "title": "The Big Spenders",
+    "date": "February 13, 2026",
+    "time": "6:00 PM - 9:00 PM",
+    "image": "https://static.wixstatic.com/media/ea2d6f_d1b6d51c369f47f68c388625e929b01b~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_d1b6d51c369f47f68c388625e929b01b~mv2.jpg",
     "venue": "Bricks on Main",
     "location": "Longmont",
     "category": "Music",
