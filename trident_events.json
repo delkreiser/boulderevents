@@ -1,27 +1,5 @@
 [
   {
-    "title": "Trident Book Event: Rachel Kushner on Aesthetics and Politics, in Conversation with Benjamin Kunkel",
-    "link": "https://www.tridentcafe.com/events/2026/1/22/trident-book-event-rachel-kushner-on-aesthetics-and-politics-in-conversation-with-benjamin-kunkel",
-    "date": "January 22, 2027",
-    "time": "6:00 PM",
-    "description": "Magic Mountain Talks presents:Rachel Kushneris the author of the novelsCREATION LAKE,THE MARS ROOM,THE FLAMETHROWERS, andTELEX FROM CUBA, a book of short stories,THE STRANGE CASE OF RACHEL K, andTHE\u00a0HARD CROWD: ESSAYS 2000-2020.\u00a0She has won the Prix M\u00e9dicis and been a finalist for the Booker Prize, ...",
-    "venue": "Trident Booksellers & Cafe",
-    "location": "Boulder",
-    "category": "Books & Literary",
-    "source_url": "https://www.tridentcafe.com/events",
-    "image": "trident.jpg",
-    "event_type_tags": [
-      "Live Music",
-      "Books",
-      "Community"
-    ],
-    "venue_type_tags": [
-      "Cafe",
-      "Bookstore",
-      "Music Venue"
-    ]
-  },
-  {
     "title": "Chicken Coop Willaye",
     "link": "https://www.tridentcafe.com/events/2026/1/23/chicken-coop-willaye",
     "date": "January 23, 2026",
@@ -1478,6 +1456,28 @@
     "date": "October 16, 2026",
     "time": "6:00 PM",
     "description": "Bring an acoustic instrument and sit in with Boulder Old-Time Jam! Every first Thursday on the Trident Patio, starting at 6 p.m.",
+    "venue": "Trident Booksellers & Cafe",
+    "location": "Boulder",
+    "category": "Books & Literary",
+    "source_url": "https://www.tridentcafe.com/events",
+    "image": "trident.jpg",
+    "event_type_tags": [
+      "Live Music",
+      "Books",
+      "Community"
+    ],
+    "venue_type_tags": [
+      "Cafe",
+      "Bookstore",
+      "Music Venue"
+    ]
+  },
+  {
+    "title": "Trident Book Event: Rachel Kushner on Aesthetics and Politics, in Conversation with Benjamin Kunkel",
+    "link": "https://www.tridentcafe.com/events/2026/1/22/trident-book-event-rachel-kushner-on-aesthetics-and-politics-in-conversation-with-benjamin-kunkel",
+    "date": "January 22, 2027",
+    "time": "6:00 PM",
+    "description": "Magic Mountain Talks presents:Rachel Kushneris the author of the novelsCREATION LAKE,THE MARS ROOM,THE FLAMETHROWERS, andTELEX FROM CUBA, a book of short stories,THE STRANGE CASE OF RACHEL K, andTHE\u00a0HARD CROWD: ESSAYS 2000-2020.\u00a0She has won the Prix M\u00e9dicis and been a finalist for the Booker Prize, ...",
     "venue": "Trident Booksellers & Cafe",
     "location": "Boulder",
     "category": "Books & Literary",

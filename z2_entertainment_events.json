@@ -640,6 +640,22 @@
     "description": null
   },
   {
+    "title": "Daft Disko [french house & disco party]",
+    "venue": "Fox Theatre",
+    "location": "Boulder",
+    "date": "Mar 5, 2026",
+    "normalized_date": "2026-03-05",
+    "time": null,
+    "image": "images/z2/daft-disko-french-house-disco-party--cf6d051b.jpg",
+    "url": "https://www.z2ent.com/events/detail/daft-disko-2026-fox",
+    "ticket_link": "https://www.axs.com/events/1303206/?skin=foxtheatre",
+    "tags": [
+      "music",
+      "concert"
+    ],
+    "description": null
+  },
+  {
     "title": "Summer Camp: On The Road Tour",
     "venue": "Fox Theatre",
     "location": "Boulder",
@@ -649,22 +665,6 @@
     "image": "images/z2/summer-camp-on-the-road-tour-a0059d8a.jpg",
     "url": "https://www.z2ent.com/events/detail/scamp-on-the-road-tour-2026-fox",
     "ticket_link": "https://www.axs.com/events/1304865/summer-camp-on-the-road-tickets",
-    "tags": [
-      "music",
-      "concert"
-    ],
-    "description": null
-  },
-  {
-    "title": "The Bad Plus Chris Potter and Craig Taborn",
-    "venue": "Boulder Theater",
-    "location": "Boulder",
-    "date": "Mar 6, 2026",
-    "normalized_date": "2026-03-06",
-    "time": null,
-    "image": "images/z2/the-bad-plus-chris-potter-and-craig-taborn-e738277f.jpg",
-    "url": "https://www.z2ent.com/events/detail/the-bad-plus-2026-bt",
-    "ticket_link": "https://www.axs.com/events/1240577/?skin=bouldertheater",
     "tags": [
       "music",
       "concert"

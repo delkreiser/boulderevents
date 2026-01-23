@@ -1142,5 +1142,93 @@
       "Bar",
       "Nightlife"
     ]
+  },
+  {
+    "title": "The Underground Comedy Showcase",
+    "link": "https://www.license1boulderado.com/calendar/9eshizg29rvf2jrvcny297ivhl04gq",
+    "date": "Saturday, March 14, 2026",
+    "start_datetime": "2026-03-14",
+    "time_start": "7:30\u202fPM",
+    "time_end": "8:30\u202fPM",
+    "time": "7:30\u202fPM - 8:30\u202fPM",
+    "venue": "License No 1",
+    "location": "Boulder",
+    "category": "Nightlife",
+    "source_url": "https://www.license1boulderado.com/calendar",
+    "image": "licenseno1.jpg",
+    "event_type_tags": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "venue_type_tags": [
+      "Bar",
+      "Nightlife"
+    ]
+  },
+  {
+    "title": "Live Music With PJ  Moon & The Swappers",
+    "link": "https://www.license1boulderado.com/calendar/live-music-with-pj-moon-the-swappers",
+    "date": "Saturday, March 14, 2026",
+    "start_datetime": "2026-03-14",
+    "time_start": "9:00\u202fPM",
+    "time_end": "11:59\u202fPM",
+    "time": "9:00\u202fPM - 11:59\u202fPM",
+    "venue": "License No 1",
+    "location": "Boulder",
+    "category": "Nightlife",
+    "source_url": "https://www.license1boulderado.com/calendar",
+    "image": "licenseno1.jpg",
+    "event_type_tags": [
+      "Live Music",
+      "Nightlife"
+    ],
+    "venue_type_tags": [
+      "Bar",
+      "Nightlife"
+    ]
+  },
+  {
+    "title": "The Underground Comedy Showcase",
+    "link": "https://www.license1boulderado.com/calendar/5269z2tsmtzk9w24y47zxdee2f9wk8",
+    "date": "Saturday, March 14, 2026",
+    "start_datetime": "2026-03-14",
+    "time_start": "9:15\u202fPM",
+    "time_end": "10:15\u202fPM",
+    "time": "9:15\u202fPM - 10:15\u202fPM",
+    "venue": "License No 1",
+    "location": "Boulder",
+    "category": "Nightlife",
+    "source_url": "https://www.license1boulderado.com/calendar",
+    "image": "licenseno1.jpg",
+    "event_type_tags": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "venue_type_tags": [
+      "Bar",
+      "Nightlife"
+    ]
+  },
+  {
+    "title": "Live Music With George Nelson",
+    "link": "https://www.license1boulderado.com/calendar/live-music-with-george-nelson-3",
+    "date": "Wednesday, March 18, 2026",
+    "start_datetime": "2026-03-18",
+    "time_start": "8:00\u202fPM",
+    "time_end": "11:59\u202fPM",
+    "time": "8:00\u202fPM - 11:59\u202fPM",
+    "venue": "License No 1",
+    "location": "Boulder",
+    "category": "Nightlife",
+    "source_url": "https://www.license1boulderado.com/calendar",
+    "image": "licenseno1.jpg",
+    "event_type_tags": [
+      "Live Music",
+      "Nightlife"
+    ],
+    "venue_type_tags": [
+      "Bar",
+      "Nightlife"
+    ]
   }
 ]
