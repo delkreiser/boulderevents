@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T18:34:52.677193",
-  "total_events": 314,
+  "generated_at": "2026-01-23T08:32:00.336459",
+  "total_events": 307,
   "tags": {
     "venues": [
       "300 Suns Brewing",
@@ -83,12 +83,12 @@
   },
   "events": [
     {
-      "id": "velvet_elk_lounge_toubab_krewe_with_river_spell_january_22_2026",
+      "id": "velvet_elk_lounge_toubab_krewe_with_river_spell_january_22_2027",
       "title": "Toubab Krewe with River Spell",
       "venue": "Velvet Elk Lounge",
       "location": "Boulder",
-      "date": "January 22, 2026",
-      "normalized_date": "2026-01-22T00:00:00",
+      "date": "January 22, 2027",
+      "normalized_date": "2027-01-22T00:00:00",
       "recurring": null,
       "time": null,
       "description": "",
@@ -373,35 +373,6 @@
       ]
     },
     {
-      "id": "junkyard_social_club_drop_in_mahjongg_thursdays_thursday_january_22_2026_3_30_5_30_pm",
-      "title": "Drop-In Mahjongg \u2013 Thursdays",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Thursday, January 22, 2026",
-      "normalized_date": "2026-01-22T00:00:00",
-      "recurring": null,
-      "time": "3:30 - 5:30 PM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://junkyardsocialclub.org/drop-in-event/drop-in-mahjongg-thursdays/",
-      "ticket_link": null,
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/08/Drop-In-Mah-Jongg-Thursday.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Games",
-        "Community"
-      ]
-    },
-    {
       "id": "junkyard_social_club_book_launch_for_widow_widower_widowest_a_grief_mosaic_friday_january_23_2026_7_00_pm_doors_7_30_11_00_pm_event",
       "title": "Book Launch for \u201cwidow\u2014 widower\u2014 widowest\u2014 a grief mosaic\u201d",
       "venue": "Junkyard Social Club",
@@ -426,8 +397,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Performance"
+        "Performance",
+        "All Ages"
       ]
     },
     {
@@ -455,8 +426,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Performance"
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -485,8 +456,8 @@
       ],
       "event_type_tags": [
         "Educational",
-        "Community",
-        "Music"
+        "Music",
+        "Community"
       ]
     },
     {
@@ -542,9 +513,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Music",
         "Performance",
-        "Community",
-        "Music"
+        "Community"
       ]
     },
     {
@@ -572,9 +543,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Music",
         "Performance",
-        "Community",
-        "Music"
+        "Community"
       ]
     },
     {
@@ -602,9 +573,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Music",
         "Performance",
-        "Community",
-        "Music"
+        "Community"
       ]
     },
     {
@@ -632,10 +603,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
+        "Music",
         "Performance",
         "Community",
-        "Music"
+        "All Ages"
       ]
     },
     {
@@ -663,8 +634,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Music"
+        "Music",
+        "Community"
       ]
     },
     {
@@ -809,8 +780,8 @@
       "event_type_tags": [
         "Games",
         "All Ages",
-        "Family Friendly",
-        "Community"
+        "Community",
+        "Family Friendly"
       ]
     },
     {
@@ -838,8 +809,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Music"
+        "Music",
+        "Community"
       ]
     },
     {
@@ -868,10 +839,10 @@
       ],
       "event_type_tags": [
         "Music",
-        "All Ages",
         "Community",
-        "Performance",
-        "Family Friendly"
+        "All Ages",
+        "Family Friendly",
+        "Performance"
       ]
     },
     {
@@ -899,9 +870,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Music",
         "Performance",
-        "Community",
-        "Music"
+        "Community"
       ]
     },
     {
@@ -958,10 +929,10 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Music",
         "All Ages",
-        "Family Friendly",
         "Community",
-        "Music"
+        "Family Friendly"
       ]
     },
     {
@@ -989,8 +960,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Music"
+        "Music",
+        "Community"
       ]
     },
     {
@@ -1126,34 +1097,6 @@
       "event_type_tags": []
     },
     {
-      "id": "st_julien_hotel_spa_amy_biondo_038_bill_kopper_january_22_2026_6_00_pm_9_00_pm",
-      "title": "Amy Biondo &#038; Bill Kopper",
-      "venue": "St Julien Hotel & Spa",
-      "location": "Boulder",
-      "date": "January 22, 2026",
-      "normalized_date": "2026-01-22T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM - 9:00 PM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://stjulien.com/event/amy-biondo-bill-kopper-19/",
-      "ticket_link": null,
-      "image": "stjulien.jpg",
-      "source_url": "https://stjulien.com/boulder-colorado-events/month/?tribe_eventcategory%5B0%5D=83",
-      "age_restriction": null,
-      "venue_tag": "St Julien Hotel & Spa",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Entertainment",
-        "Hotel",
-        "Upscale"
-      ],
-      "event_type_tags": [
-        "Entertainment",
-        "Hotel Events"
-      ]
-    },
-    {
       "id": "st_julien_hotel_spa_honeycomb_january_23_2026_6_00_pm_9_00_pm",
       "title": "Honeycomb",
       "venue": "St Julien Hotel & Spa",
@@ -1238,12 +1181,12 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_trident_book_event_rachel_kushner_on_aesthetics_and_politics_in_conversation_with_benjamin_kunkel_january_22_2026_6_00_pm",
+      "id": "trident_booksellers_cafe_trident_book_event_rachel_kushner_on_aesthetics_and_politics_in_conversation_with_benjamin_kunkel_january_22_2027_6_00_pm",
       "title": "Trident Book Event: Rachel Kushner on Aesthetics and Politics, in Conversation with Benjamin Kunkel",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
-      "date": "January 22, 2026",
-      "normalized_date": "2026-01-22T00:00:00",
+      "date": "January 22, 2027",
+      "normalized_date": "2027-01-22T00:00:00",
       "recurring": null,
       "time": "6:00 PM",
       "description": "Magic Mountain Talks presents:Rachel Kushneris the author of the novelsCREATION LAKE,THE MARS ROOM,THE FLAMETHROWERS, andTELEX FROM CUBA, a book of short stories,THE STRANGE CASE OF RACHEL K, andTHE\u00a0HARD CROWD: ESSAYS 2000-2020.\u00a0She has won the Prix M\u00e9dicis and been a finalist for the Booker Prize, ...",
@@ -2566,7 +2509,7 @@
       "normalized_date": "2026-04-21T00:00:00",
       "recurring": null,
       "time": "6:30 PM",
-      "description": "",
+      "description": "Offers letters of the Sanskrit alphabet as key to understanding Yoga and the DivineThese original meditations on the Sanskrit letters range from personal narratives to metaphysical and theological speculations, linguistic play, and inter-spiritual allusions to other works and traditions, all relevan...",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2026/4/28/trident-author-series-michael-sowder-sacred-letters-sanskrit-yoga-and-awakening-the-divine",
       "ticket_link": null,
@@ -3965,146 +3908,6 @@
         "Live Music",
         "Books",
         "Community"
-      ]
-    },
-    {
-      "id": "license_no_1_the_underground_comedy_showcase_thursday_january_22_2026_7_30_pm_8_30_pm",
-      "title": "The Underground Comedy Showcase",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": "Thursday, January 22, 2026",
-      "normalized_date": "2026-01-22T00:00:00",
-      "recurring": null,
-      "time": "7:30\u202fPM - 8:30\u202fPM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.license1boulderado.com/calendar/ne2lznhx2axgyzft9hyspt2z98m5jp",
-      "ticket_link": null,
-      "image": "licenseno1.jpg",
-      "source_url": "https://www.license1boulderado.com/calendar",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+"
-      ],
-      "event_type_tags": [
-        "Comedy",
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "license_no_1_the_underground_comedy_showcase_thursday_january_22_2026_8_00_pm_9_00_pm",
-      "title": "The Underground Comedy Showcase",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": "Thursday, January 22, 2026",
-      "normalized_date": "2026-01-22T00:00:00",
-      "recurring": null,
-      "time": "8:00\u202fPM - 9:00\u202fPM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.license1boulderado.com/calendar/245pyb7a599y6y46sk23rdkrw7cht3",
-      "ticket_link": null,
-      "image": "licenseno1.jpg",
-      "source_url": "https://www.license1boulderado.com/calendar",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+"
-      ],
-      "event_type_tags": [
-        "Comedy",
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "license_no_1_live_music_with_nu_bass_theory_thursday_january_22_2026_9_00_pm_11_59_pm",
-      "title": "Live Music With Nu Bass Theory",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": "Thursday, January 22, 2026",
-      "normalized_date": "2026-01-22T00:00:00",
-      "recurring": null,
-      "time": "9:00\u202fPM - 11:59\u202fPM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.license1boulderado.com/calendar/live-music-with-nu-bass-theory-2",
-      "ticket_link": null,
-      "image": "licenseno1.jpg",
-      "source_url": "https://www.license1boulderado.com/calendar",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "license_no_1_live_music_with_hunter_stone_thursday_january_22_2026_9_00_pm_11_59_pm",
-      "title": "Live Music With Hunter Stone",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": "Thursday, January 22, 2026",
-      "normalized_date": "2026-01-22T00:00:00",
-      "recurring": null,
-      "time": "9:00\u202fPM - 11:59\u202fPM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.license1boulderado.com/calendar/chknrl4e7c78n8dw7fnnbzcncn63z3",
-      "ticket_link": null,
-      "image": "licenseno1.jpg",
-      "source_url": "https://www.license1boulderado.com/calendar",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "license_no_1_live_music_with_hunter_stone_thursday_january_22_2026_9_00_pm_11_59_pm",
-      "title": "Live Music with Hunter Stone",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": "Thursday, January 22, 2026",
-      "normalized_date": "2026-01-22T00:00:00",
-      "recurring": null,
-      "time": "9:00\u202fPM - 11:59\u202fPM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.license1boulderado.com/calendar/live-music-with-hunter-stone-1",
-      "ticket_link": null,
-      "image": "licenseno1.jpg",
-      "source_url": "https://www.license1boulderado.com/calendar",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Nightlife"
       ]
     },
     {
@@ -5625,12 +5428,12 @@
       ]
     },
     {
-      "id": "rosetta_hall_davey_daydream_january_22_2026_10_00_pm",
+      "id": "rosetta_hall_davey_daydream_january_22_2027_10_00_pm",
       "title": "DAVEY DAYDREAM",
       "venue": "Rosetta Hall",
       "location": "Boulder",
-      "date": "January 22, 2026",
-      "normalized_date": "2026-01-22T00:00:00",
+      "date": "January 22, 2027",
+      "normalized_date": "2027-01-22T00:00:00",
       "recurring": null,
       "time": "10:00 PM",
       "description": "OPEN FORMAT",
@@ -6038,34 +5841,6 @@
       ]
     },
     {
-      "id": "bricks_on_main_minstrel_in_the_galaxy_january_22_2026_6_00_pm_8_00_pm",
-      "title": "Minstrel in the Galaxy",
-      "venue": "Bricks on Main",
-      "location": "Longmont",
-      "date": "January 22, 2026",
-      "normalized_date": "2026-01-22T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM - 8:00 PM",
-      "description": "Trio made up of Kenny Peralez, Thomas Gronberg and Dan Crecco always bring an amazing show.  Come hang out for a bit, you never know until you know!",
-      "additional_info": "",
-      "link": "https://www.bricksretail.com/event-details/minstrel-in-the-galaxy-2",
-      "ticket_link": null,
-      "image": "https://static.wixstatic.com/media/ea2d6f_13ae29f5b571444db6fc21f87481fedc~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_13ae29f5b571444db6fc21f87481fedc~mv2.jpg",
-      "source_url": "https://www.bricksretail.com/events-calendar",
-      "age_restriction": null,
-      "venue_tag": "Bricks on Main",
-      "location_tag": "Longmont",
-      "venue_type_tags": [
-        "Community",
-        "Retail",
-        "Entertainment"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Entertainment"
-      ]
-    },
-    {
       "id": "bricks_on_main_john_mckay_band_january_23_2026_6_00_pm_9_00_pm",
       "title": "John McKay Band",
       "venue": "Bricks on Main",
@@ -6460,32 +6235,6 @@
       ]
     },
     {
-      "id": "roots_music_project_cousin_curtiss_high_voltage_blues_roots_rock_duo_w_derek_dames_ohl_january_22_2026_8_00_pm_10_30_pm",
-      "title": "Cousin Curtiss: High-Voltage Blues & Roots Rock Duo w/ Derek Dames Ohl",
-      "venue": "Roots Music Project",
-      "location": "Boulder",
-      "date": "January 22, 2026",
-      "normalized_date": "2026-01-22T00:00:00",
-      "recurring": null,
-      "time": "8:00 PM - 10:30 PM",
-      "description": "Raw, soulful powerhouse duo ignites blues, roots rock & Americana. Don't miss this two-man sonic explosion! w/ Derek Dames Ohl",
-      "additional_info": "",
-      "link": "https://www.eventbrite.com/e/cousin-curtiss-high-voltage-blues-roots-rock-duo-w-derek-dames-ohl-tickets-1859181344449",
-      "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1159902733%2F1125606624043%2F1%2Foriginal.20251022-175018?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=06190d1f465c663c8b6459b44f4ffa8e",
-      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
-      "age_restriction": "21+",
-      "venue_tag": "Roots Music Project",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Community"
-      ],
-      "event_type_tags": [
-        "Live Music"
-      ]
-    },
-    {
       "id": "roots_music_project_dave_abear_s_a_very_jerry_band_w_foggy_mountain_spaceship_january_23_2026_8_00_pm_11_30_pm",
       "title": "Dave Abear's A Very Jerry Band w/ Foggy Mountain Spaceship",
       "venue": "Roots Music Project",
@@ -6602,7 +6351,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/back-to-the-2000s-nostalgic-dance-party-fundraiser-tickets-1963304920869",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1170207805%2F1125606624043%2F1%2Foriginal.20251105-142633?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=b319148df868e3a8d70afdbd82f4c3ae",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1170207805%2F1125606624043%2F1%2Foriginal.20251105-142633?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=1f388c8ee55cb946fbc91a084eaaae2d",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -6654,7 +6403,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/house-of-fire-cosmic-glow-tickets-1980045564585",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174641598%2F1125606624043%2F1%2Foriginal.20260112-173533?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=cfc1ea08913f42c605a12e7a833065c2",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174641598%2F1125606624043%2F1%2Foriginal.20260112-173533?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=fef95631c1bcd664725503a650fe2899",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -6706,7 +6455,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/sober-night-live-1055-the-colorado-sound-presents-tickets-1980129179680",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171681178%2F1125606624043%2F1%2Foriginal.20251124-221112?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d5ebb1565147fced78ce25fdf2f1d537",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171681178%2F1125606624043%2F1%2Foriginal.20251124-221112?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=98887b4a971be63a95e24d16b4cd962e",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -6784,7 +6533,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/face-vocal-band-a-valentines-night-of-harmony-heart-tickets-1975614440975",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171737840%2F1125606624043%2F1%2Foriginal.20251125-170141?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=65f92e2108cb53de97501e0ea14f5891",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171737840%2F1125606624043%2F1%2Foriginal.20251125-170141?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=9aa66c945dcdc7431a2ea5d03a14881c",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -6810,7 +6559,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/stephen-kellogg-and-the-homecoming-wspecial-guest-gutter-sinatra-night-1-tickets-1730968386039",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1131586293%2F1125606624043%2F1%2Foriginal.20250922-165943?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=6d0a7dbfe4d4c1a4543850c9d3a9ff68",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1131586293%2F1125606624043%2F1%2Foriginal.20250922-165943?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d7fde1e0fb93fe346e3a8fcc15dfecfe",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -6836,7 +6585,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/stephen-kellogg-and-the-homecoming-wspecial-guest-gutter-sinatra-night-2-tickets-1730981384919",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1131586293%2F1125606624043%2F1%2Foriginal.20250922-165943?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=6d0a7dbfe4d4c1a4543850c9d3a9ff68",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1131586293%2F1125606624043%2F1%2Foriginal.20250922-165943?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d7fde1e0fb93fe346e3a8fcc15dfecfe",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -6928,6 +6677,32 @@
       ]
     },
     {
+      "id": "roots_music_project_cosmic_smoke_wagon_howlin_goatz_guest_bovine_intervention_february_20_2026_8_00_pm_10_30_pm",
+      "title": "Cosmic Smoke Wagon + Howlin' Goatz +  Guest: Bovine Intervention",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": "February 20, 2026",
+      "normalized_date": "2026-02-20T00:00:00",
+      "recurring": null,
+      "time": "8:00 PM - 10:30 PM",
+      "description": "Heavy stoner rock meets high-energy Rock N' Roll! Three bands including a special guest bring the thunder for a night of sonic power.",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/cosmic-smoke-wagon-howlin-goatz-guest-bovine-intervention-tickets-1981387251607",
+      "ticket_link": null,
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175603594%2F1125606624043%2F1%2Foriginal.20260122-230916?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=45e1fd547b125821024ea530a12c148e",
+      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
       "id": "roots_music_project_tempo_program_february_23rd_through_april_26th_2026_february_23_2026_12_00_am_6_00_pm",
       "title": "TEMPO Program (February 23rd through April 26th, 2026)",
       "venue": "Roots Music Project",
@@ -6940,7 +6715,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/tempo-program-february-23rd-through-april-26th-2026-tickets-1980673372375",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175004016%2F1125606624043%2F1%2Foriginal.20260115-221420?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a5ce6117b8a46c3fb3d82a86a1eb89a6",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175004016%2F1125606624043%2F1%2Foriginal.20260115-221420?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=1f2a194c40bed37b264b760ab84975cb",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -7018,7 +6793,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/asteroid-please-bear-hat-rmp-vinyl-release-party-benefiting-ms-tickets-1980026672077",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174246812%2F1125606624043%2F1%2Foriginal.20260107-204920?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=0b6d4cf4543dbfad344af605632aa73c",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174246812%2F1125606624043%2F1%2Foriginal.20260107-204920?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=13b87eb1fc8adb9373b8a62c19e49789",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -7070,7 +6845,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/college-showcase-w-abernathy-shagnaster-words-of-mouth-and-red-revival-tickets-1980901767511",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175270585%2F1125606624043%2F1%2Foriginal.20260119-195609?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=1f3b5539fe3648964b257dcca37699f8",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175270585%2F1125606624043%2F1%2Foriginal.20260119-195609?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d276c817d0a750271b9f84a41a79ec2b",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -9005,6 +8780,31 @@
       "source_url": null,
       "age_restriction": null,
       "venue_tag": "Boulder Theater",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "fox_theatre_summer_camp_on_the_road_tour_mar_6_2026_none",
+      "title": "Summer Camp: On The Road Tour",
+      "venue": "Fox Theatre",
+      "location": "Boulder",
+      "date": "Mar 6, 2026",
+      "normalized_date": "2026-03-06",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": "https://www.z2ent.com/events/detail/scamp-on-the-road-tour-2026-fox",
+      "ticket_link": "https://www.axs.com/events/1304865/summer-camp-on-the-road-tickets",
+      "image": "images/z2/summer-camp-on-the-road-tour-a0059d8a.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Fox Theatre",
       "location_tag": "Boulder",
       "venue_type_tags": [
         "Live Music",

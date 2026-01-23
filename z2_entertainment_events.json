@@ -640,6 +640,22 @@
     "description": null
   },
   {
+    "title": "Summer Camp: On The Road Tour",
+    "venue": "Fox Theatre",
+    "location": "Boulder",
+    "date": "Mar 6, 2026",
+    "normalized_date": "2026-03-06",
+    "time": null,
+    "image": "images/z2/summer-camp-on-the-road-tour-a0059d8a.jpg",
+    "url": "https://www.z2ent.com/events/detail/scamp-on-the-road-tour-2026-fox",
+    "ticket_link": "https://www.axs.com/events/1304865/summer-camp-on-the-road-tickets",
+    "tags": [
+      "music",
+      "concert"
+    ],
+    "description": null
+  },
+  {
     "title": "The Bad Plus Chris Potter and Craig Taborn",
     "venue": "Boulder Theater",
     "location": "Boulder",
