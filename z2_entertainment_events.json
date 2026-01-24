@@ -1,37 +1,5 @@
 [
   {
-    "title": "Rory Scovel",
-    "venue": "Boulder Theater",
-    "location": "Boulder",
-    "date": "Jan 23, 2026",
-    "normalized_date": "2026-01-23",
-    "time": null,
-    "image": "images/z2/rory-scovel-98809bb0.jpg",
-    "url": "https://www.z2ent.com/events/detail/rory-scovel-2026-bt",
-    "ticket_link": "https://www.axs.com/events/1097561/?skin=bouldertheater",
-    "tags": [
-      "music",
-      "concert"
-    ],
-    "description": null
-  },
-  {
-    "title": "Jammy Buffet",
-    "venue": "Fox Theatre",
-    "location": "Boulder",
-    "date": "Jan 23, 2026",
-    "normalized_date": "2026-01-23",
-    "time": null,
-    "image": "images/z2/jammy-buffet-60f332f4.jpg",
-    "url": "https://www.z2ent.com/events/detail/jammy-buffet-2026-fox",
-    "ticket_link": "https://www.axs.com/events/1185874/?skin=foxtheatre",
-    "tags": [
-      "music",
-      "concert"
-    ],
-    "description": null
-  },
-  {
     "title": "An Evening with Dead Floyd: This one's for Bobby!",
     "venue": "Boulder Theater",
     "location": "Boulder",
@@ -448,6 +416,22 @@
     "description": null
   },
   {
+    "title": "Heated Rivalry Night",
+    "venue": "Boulder Theater",
+    "location": "Boulder",
+    "date": "Feb 21, 2026",
+    "normalized_date": "2026-02-21",
+    "time": null,
+    "image": "images/z2/heated-rivalry-night-7fc5de0a.jpg",
+    "url": "https://www.z2ent.com/events/detail/heated-rivalry-2-2026-bt",
+    "ticket_link": "https://www.axs.com/events/1304794/?skin=bouldertheater",
+    "tags": [
+      "music",
+      "concert"
+    ],
+    "description": null
+  },
+  {
     "title": "The 502s with harf.",
     "venue": "Fox Theatre",
     "location": "Boulder",
@@ -457,214 +441,6 @@
     "image": "images/z2/the-502s-with-harf--e2f4098c.jpg",
     "url": "https://www.z2ent.com/events/detail/502s-2026-fox",
     "ticket_link": "https://www.axs.com/events/1206402/the-502s-tickets",
-    "tags": [
-      "music",
-      "concert"
-    ],
-    "description": null
-  },
-  {
-    "title": "The Human Advantage Summit",
-    "venue": "Boulder Theater",
-    "location": "Boulder",
-    "date": "Feb 23, 2026",
-    "normalized_date": "2026-02-23",
-    "time": null,
-    "image": "images/z2/the-human-advantage-summit-48c5a631.jpg",
-    "url": "https://www.z2ent.com/events/detail/human-advantage-summit-2026-bt",
-    "ticket_link": "https://www.axs.com/events/1281681/?skin=bouldertheater",
-    "tags": [
-      "music",
-      "concert"
-    ],
-    "description": null
-  },
-  {
-    "title": "Daniel Donato's Cosmic Country",
-    "venue": "Fox Theatre",
-    "location": "Boulder",
-    "date": "Feb 24, 2026",
-    "normalized_date": "2026-02-24",
-    "time": null,
-    "image": "images/z2/daniel-donato-s-cosmic-country-8d2a9b39.jpg",
-    "url": "https://www.z2ent.com/events/detail/daniel-donatos-2026-fox",
-    "ticket_link": "https://www.axs.com/au/events/1216476/daniel-donato-s-cosmic-country-night-1-tickets/promopage/75956?axssid=token_d8b11b26e5d1&locale=en-NZ&originalReferringURL=",
-    "tags": [
-      "music",
-      "concert"
-    ],
-    "description": null
-  },
-  {
-    "title": "Daniel Donato's Cosmic Country (2 Nights!)",
-    "venue": "Boulder Theater",
-    "location": "Boulder",
-    "date": "Feb 25, 2026",
-    "normalized_date": "2026-02-25",
-    "time": null,
-    "image": "images/z2/daniel-donato-s-cosmic-country-2-nights--62d8a633.jpg",
-    "url": "https://www.z2ent.com/events/detail/daniel-donato-2026-bt",
-    "ticket_link": "https://www.axs.com/series/30335/daniel-donato-s-cosmic-country-2-nights-tickets/?skin=bouldertheater ",
-    "tags": [
-      "music",
-      "concert"
-    ],
-    "description": null
-  },
-  {
-    "title": "RIOT with Beanz, Slick Portal",
-    "venue": "Fox Theatre",
-    "location": "Boulder",
-    "date": "Feb 26, 2026",
-    "normalized_date": "2026-02-26",
-    "time": null,
-    "image": "images/z2/riot-with-beanz-slick-portal-235d6523.jpg",
-    "url": "https://www.z2ent.com/events/detail/riot-2026-fox",
-    "ticket_link": "https://www.axs.com/events/1240594/?skin=foxtheatre",
-    "tags": [
-      "music",
-      "concert"
-    ],
-    "description": null
-  },
-  {
-    "title": "The Mellow Film Tour",
-    "venue": "Boulder Theater",
-    "location": "Boulder",
-    "date": "Feb 27, 2026",
-    "normalized_date": "2026-02-27",
-    "time": null,
-    "image": "images/z2/the-mellow-film-tour-0f14d048.jpg",
-    "url": "https://www.z2ent.com/events/detail/mellow-film-2026-bt",
-    "ticket_link": "https://www.axs.com/events/1281686/?skin=bouldertheater",
-    "tags": [
-      "music",
-      "concert"
-    ],
-    "description": null
-  },
-  {
-    "title": "Penelope Road",
-    "venue": "Fox Theatre",
-    "location": "Boulder",
-    "date": "Feb 27, 2026",
-    "normalized_date": "2026-02-27",
-    "time": null,
-    "image": "images/z2/penelope-road-72e887db.jpg",
-    "url": "https://www.z2ent.com/events/detail/penelope-road-2026-fox",
-    "ticket_link": "https://www.axs.com/events/1206428/?skin=foxtheatre",
-    "tags": [
-      "music",
-      "concert"
-    ],
-    "description": null
-  },
-  {
-    "title": "All Them Witches with King Buffalo",
-    "venue": "Boulder Theater",
-    "location": "Boulder",
-    "date": "Feb 28, 2026",
-    "normalized_date": "2026-02-28",
-    "time": null,
-    "image": "images/z2/all-them-witches-with-king-buffalo-5b3ff17a.jpg",
-    "url": "https://www.z2ent.com/events/detail/all-them-witches-2026-bt",
-    "ticket_link": "https://www.axs.com/events/1158172/?skin=bouldertheater",
-    "tags": [
-      "music",
-      "concert"
-    ],
-    "description": null
-  },
-  {
-    "title": "TAUK with Sqwerv",
-    "venue": "Fox Theatre",
-    "location": "Boulder",
-    "date": "Feb 28, 2026",
-    "normalized_date": "2026-02-28",
-    "time": null,
-    "image": "images/z2/tauk-with-sqwerv-b42b98f1.jpg",
-    "url": "https://www.z2ent.com/events/detail/tauk-2026-fox",
-    "ticket_link": "https://www.axs.com/events/1259246/?skin=foxtheatre",
-    "tags": [
-      "music",
-      "concert"
-    ],
-    "description": null
-  },
-  {
-    "title": "The Devil Makes Three with Lightnin' Luke",
-    "venue": "Boulder Theater",
-    "location": "Boulder",
-    "date": "Mar 1, 2026",
-    "normalized_date": "2026-03-01",
-    "time": null,
-    "image": "images/z2/the-devil-makes-three-with-lightnin-luke-78f6f054.jpg",
-    "url": "https://www.z2ent.com/events/detail/devil-makes-three-2026-bt",
-    "ticket_link": "https://www.axs.com/events/1206772/?skin=bouldertheater",
-    "tags": [
-      "music",
-      "concert"
-    ],
-    "description": null
-  },
-  {
-    "title": "3OH!3",
-    "venue": "Boulder Theater",
-    "location": "Boulder",
-    "date": "Mar 3, 2026",
-    "normalized_date": "2026-03-03",
-    "time": null,
-    "image": "images/z2/3oh-3-a9fc108a.jpg",
-    "url": "https://www.z2ent.com/events/detail/3oh3-2026-bt",
-    "ticket_link": "https://www.axs.com/events/1267632/?skin=bouldertheater",
-    "tags": [
-      "music",
-      "concert"
-    ],
-    "description": null
-  },
-  {
-    "title": "Yacht Rock Revue",
-    "venue": "Boulder Theater",
-    "location": "Boulder",
-    "date": "Mar 4, 2026",
-    "normalized_date": "2026-03-04",
-    "time": null,
-    "image": "images/z2/yacht-rock-revue-47442709.jpg",
-    "url": "https://www.z2ent.com/events/detail/yacht-rock-revue-2026-bt",
-    "ticket_link": "https://www.axs.com/events/1152517/?skin=bouldertheater",
-    "tags": [
-      "music",
-      "concert"
-    ],
-    "description": null
-  },
-  {
-    "title": "Daft Disko [french house & disco party]",
-    "venue": "Fox Theatre",
-    "location": "Boulder",
-    "date": "Mar 5, 2026",
-    "normalized_date": "2026-03-05",
-    "time": null,
-    "image": "images/z2/daft-disko-french-house-disco-party--cf6d051b.jpg",
-    "url": "https://www.z2ent.com/events/detail/daft-disko-2026-fox",
-    "ticket_link": "https://www.axs.com/events/1303206/?skin=foxtheatre",
-    "tags": [
-      "music",
-      "concert"
-    ],
-    "description": null
-  },
-  {
-    "title": "Summer Camp: On The Road Tour",
-    "venue": "Fox Theatre",
-    "location": "Boulder",
-    "date": "Mar 6, 2026",
-    "normalized_date": "2026-03-06",
-    "time": null,
-    "image": "images/z2/summer-camp-on-the-road-tour-a0059d8a.jpg",
-    "url": "https://www.z2ent.com/events/detail/scamp-on-the-road-tour-2026-fox",
-    "ticket_link": "https://www.axs.com/events/1304865/summer-camp-on-the-road-tickets",
     "tags": [
       "music",
       "concert"

@@ -1,25 +1,5 @@
 [
   {
-    "title": "Dave Abear's A Very Jerry Band w/ Foggy Mountain Spaceship",
-    "description": "A journey of music inspired by the Grateful Dead woven with original music by some of Colorado's best musicians!",
-    "link": "https://www.eventbrite.com/e/dave-abears-a-very-jerry-band-w-foggy-mountain-spaceship-tickets-1977583587746",
-    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172914001%2F1125606624043%2F1%2Foriginal.20251213-203458?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=9d8de24d398af7c2ecc497cfd1974b02",
-    "date": "January 23, 2026",
-    "time": "8:00 PM - 11:30 PM",
-    "venue": "Roots Music Project",
-    "location": "Boulder",
-    "category": "Music",
-    "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
-    "event_type_tags": [
-      "Live Music"
-    ],
-    "venue_type_tags": [
-      "Live Music",
-      "Community"
-    ],
-    "age_restriction": "21+"
-  },
-  {
     "title": "Jeremy Mohney & his Orchestra - New Big Band Classics + Lindy Hop Lessons",
     "description": "Celebrate one year of Colorado's hottest swing orchestra with an unforgettable night of jazz classics and original compositions!",
     "link": "https://www.eventbrite.com/e/jeremy-mohney-his-orchestra-new-big-band-classics-lindy-hop-lessons-tickets-1977785302079",
@@ -466,6 +446,26 @@
     "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175270585%2F1125606624043%2F1%2Foriginal.20260119-195609?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d276c817d0a750271b9f84a41a79ec2b",
     "date": "March 07, 2026",
     "time": "8:00 PM - 11:30 PM",
+    "venue": "Roots Music Project",
+    "location": "Boulder",
+    "category": "Music",
+    "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
+    "event_type_tags": [
+      "Live Music"
+    ],
+    "venue_type_tags": [
+      "Live Music",
+      "Community"
+    ],
+    "age_restriction": "21+"
+  },
+  {
+    "title": "Boulder Philharmonic - JAZZ | explored",
+    "description": "Rhythm you can feel. Melodies you recognize. A journey into the sounds that shaped jazz.",
+    "link": "https://www.eventbrite.com/e/boulder-philharmonic-jazz-explored-tickets-1981436401616",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175659994%2F1125606624043%2F1%2Foriginal.20260123-165929?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=16726aa4c33baf29104d22284eb6c48f",
+    "date": "March 27, 2026",
+    "time": "7:00 PM - 10:00 PM",
     "venue": "Roots Music Project",
     "location": "Boulder",
     "category": "Music",
