@@ -1,37 +1,5 @@
 [
   {
-    "title": "An Evening with Dead Floyd: This one's for Bobby!",
-    "venue": "Boulder Theater",
-    "location": "Boulder",
-    "date": "Jan 24, 2026",
-    "normalized_date": "2026-01-24",
-    "time": null,
-    "image": "images/z2/an-evening-with-dead-floyd-this-one-s-for-bobby--16032cee.jpg",
-    "url": "https://www.z2ent.com/events/detail/dead-floyd-2026-bt",
-    "ticket_link": "https://www.axs.com/events/1228266/?skin=bouldertheater",
-    "tags": [
-      "music",
-      "concert"
-    ],
-    "description": null
-  },
-  {
-    "title": "Diva Cup with Rosebay, Dry Ice",
-    "venue": "Fox Theatre",
-    "location": "Boulder",
-    "date": "Jan 24, 2026",
-    "normalized_date": "2026-01-24",
-    "time": null,
-    "image": "images/z2/diva-cup-with-rosebay-dry-ice-32f9ac35.jpg",
-    "url": "https://www.z2ent.com/events/detail/diva-cup-2026-fox",
-    "ticket_link": "https://www.axs.com/events/1232778/?skin=foxtheatre",
-    "tags": [
-      "music",
-      "concert"
-    ],
-    "description": null
-  },
-  {
     "title": "Welcome to Night Vale: Murder Night in Blood Forest with musical guest Mal Blum",
     "venue": "Boulder Theater",
     "location": "Boulder",
@@ -665,6 +633,54 @@
     "image": "images/z2/the-bad-plus-chris-potter-and-craig-taborn-e738277f.jpg",
     "url": "https://www.z2ent.com/events/detail/the-bad-plus-2026-bt",
     "ticket_link": "https://www.axs.com/events/1240577/?skin=bouldertheater",
+    "tags": [
+      "music",
+      "concert"
+    ],
+    "description": null
+  },
+  {
+    "title": "Easy Jim",
+    "venue": "Fox Theatre",
+    "location": "Boulder",
+    "date": "Mar 7, 2026",
+    "normalized_date": "2026-03-07",
+    "time": null,
+    "image": "images/z2/easy-jim-a861dcc1.jpg",
+    "url": "https://www.z2ent.com/events/detail/easy-jim-2026-fox",
+    "ticket_link": "https://www.axs.com/events/1289774/?skin=foxtheatre",
+    "tags": [
+      "music",
+      "concert"
+    ],
+    "description": null
+  },
+  {
+    "title": "Natalie Jane",
+    "venue": "Fox Theatre",
+    "location": "Boulder",
+    "date": "Mar 7, 2026",
+    "normalized_date": "2026-03-07",
+    "time": null,
+    "image": "images/z2/natalie-jane-7c3336d3.jpg",
+    "url": "https://www.z2ent.com/events/detail/natalie-jane-2026-fox",
+    "ticket_link": "https://etix.com/ticket/p/81526052",
+    "tags": [
+      "music",
+      "concert"
+    ],
+    "description": null
+  },
+  {
+    "title": "Heated Rivalry Night",
+    "venue": "Boulder Theater",
+    "location": "Boulder",
+    "date": "Mar 7, 2026",
+    "normalized_date": "2026-03-07",
+    "time": null,
+    "image": "images/z2/heated-rivalry-night-61bf6631.jpg",
+    "url": "https://www.z2ent.com/events/detail/heated-rivalry-2026-bt",
+    "ticket_link": "https://www.axs.com/events/1290703/?skin=bouldertheater",
     "tags": [
       "music",
       "concert"
