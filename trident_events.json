@@ -1,47 +1,5 @@
 [
   {
-    "title": "Chicken Coop Willaye",
-    "link": "https://www.tridentcafe.com/events/2026/1/23/chicken-coop-willaye",
-    "date": "January 23, 2027",
-    "time": "6:00 PM",
-    "venue": "Trident Booksellers & Cafe",
-    "location": "Boulder",
-    "category": "Books & Literary",
-    "source_url": "https://www.tridentcafe.com/events",
-    "image": "trident.jpg",
-    "event_type_tags": [
-      "Live Music",
-      "Books",
-      "Community"
-    ],
-    "venue_type_tags": [
-      "Cafe",
-      "Bookstore",
-      "Music Venue"
-    ]
-  },
-  {
-    "title": "Tom Andes",
-    "link": "https://www.tridentcafe.com/events/2026/1/24/tom-andes",
-    "date": "January 24, 2027",
-    "time": "6:00 PM",
-    "venue": "Trident Booksellers & Cafe",
-    "location": "Boulder",
-    "category": "Books & Literary",
-    "source_url": "https://www.tridentcafe.com/events",
-    "image": "trident.jpg",
-    "event_type_tags": [
-      "Live Music",
-      "Books",
-      "Community"
-    ],
-    "venue_type_tags": [
-      "Cafe",
-      "Bookstore",
-      "Music Venue"
-    ]
-  },
-  {
     "title": "Language Exchange Night",
     "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-s7a5x-brgdj-p3rzz-3fp7f",
     "date": "January 26, 2026",
@@ -721,6 +679,28 @@
     "date": "March 23, 2026",
     "time": "7:00 PM",
     "description": "Lively conversation for language learners, native speakers, and everyone in between. We regularly have 10+ languages spoken and always have spirited discussions!",
+    "venue": "Trident Booksellers & Cafe",
+    "location": "Boulder",
+    "category": "Books & Literary",
+    "source_url": "https://www.tridentcafe.com/events",
+    "image": "trident.jpg",
+    "event_type_tags": [
+      "Live Music",
+      "Books",
+      "Community"
+    ],
+    "venue_type_tags": [
+      "Cafe",
+      "Bookstore",
+      "Music Venue"
+    ]
+  },
+  {
+    "title": "Trident Poetry Series: Aerik Francis - Adams County Poet Laureate",
+    "link": "https://www.tridentcafe.com/events/2026/1/25/trident-poetry-series-aerik-francis-adams-county-poet-laureate",
+    "date": "March 24, 2026",
+    "time": "6:30 PM",
+    "description": "Aerik Francis is a Queer Black Latinx poet born & based Denver, CO, and is currently the Adams County Poet Laureate. They are the author of poetry chapbooks MISEDUCATION (New Delta Review, 2023) and BODYPOLITIC (Abode Press, 2026). Find more of their work on their websitephaentompoet.comor via socia...",
     "venue": "Trident Booksellers & Cafe",
     "location": "Boulder",
     "category": "Books & Literary",
@@ -1456,6 +1436,48 @@
     "date": "October 16, 2026",
     "time": "6:00 PM",
     "description": "Bring an acoustic instrument and sit in with Boulder Old-Time Jam! Every first Thursday on the Trident Patio, starting at 6 p.m.",
+    "venue": "Trident Booksellers & Cafe",
+    "location": "Boulder",
+    "category": "Books & Literary",
+    "source_url": "https://www.tridentcafe.com/events",
+    "image": "trident.jpg",
+    "event_type_tags": [
+      "Live Music",
+      "Books",
+      "Community"
+    ],
+    "venue_type_tags": [
+      "Cafe",
+      "Bookstore",
+      "Music Venue"
+    ]
+  },
+  {
+    "title": "Tom Andes",
+    "link": "https://www.tridentcafe.com/events/2026/1/24/tom-andes",
+    "date": "January 24, 2027",
+    "time": "6:00 PM",
+    "venue": "Trident Booksellers & Cafe",
+    "location": "Boulder",
+    "category": "Books & Literary",
+    "source_url": "https://www.tridentcafe.com/events",
+    "image": "trident.jpg",
+    "event_type_tags": [
+      "Live Music",
+      "Books",
+      "Community"
+    ],
+    "venue_type_tags": [
+      "Cafe",
+      "Bookstore",
+      "Music Venue"
+    ]
+  },
+  {
+    "title": "Chicken Coop Willaye",
+    "link": "https://www.tridentcafe.com/events/2026/1/23/chicken-coop-willaye",
+    "date": "January 23, 2027",
+    "time": "6:00 PM",
     "venue": "Trident Booksellers & Cafe",
     "location": "Boulder",
     "category": "Books & Literary",
