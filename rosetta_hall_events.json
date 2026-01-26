@@ -1,109 +1,5 @@
 [
   {
-    "title": "TALES OF HOFFMAN",
-    "description": "ACOUSTIC ROCK",
-    "time": "6:00 PM",
-    "date": "January 20, 2027",
-    "venue": "Rosetta Hall",
-    "location": "Boulder",
-    "category": "Music",
-    "source_url": "https://rosettahall.com/live-music/",
-    "link": "https://rosettahall.com/live-music/",
-    "image": "rosettahall.jpg",
-    "age_restriction": "21+",
-    "event_type_tags": [
-      "Music",
-      "Nightlife",
-      "Dance",
-      "DJ"
-    ],
-    "venue_type_tags": [
-      "Music",
-      "Nightlife",
-      "Dance",
-      "DJ",
-      "21+"
-    ]
-  },
-  {
-    "title": "DAVEY DAYDREAM",
-    "description": "OPEN FORMAT",
-    "time": "10:00 PM",
-    "date": "January 22, 2027",
-    "venue": "Rosetta Hall",
-    "location": "Boulder",
-    "category": "Music",
-    "source_url": "https://rosettahall.com/live-music/",
-    "link": "https://rosettahall.com/live-music/",
-    "image": "rosettahall.jpg",
-    "age_restriction": "21+",
-    "event_type_tags": [
-      "Music",
-      "Nightlife",
-      "Dance",
-      "DJ"
-    ],
-    "venue_type_tags": [
-      "Music",
-      "Nightlife",
-      "Dance",
-      "DJ",
-      "21+"
-    ]
-  },
-  {
-    "title": "HAMI",
-    "description": "HOUSE / DUBSTEP",
-    "time": "10:00 PM",
-    "date": "January 23, 2027",
-    "venue": "Rosetta Hall",
-    "location": "Boulder",
-    "category": "Music",
-    "source_url": "https://rosettahall.com/live-music/",
-    "link": "https://rosettahall.com/live-music/",
-    "image": "rosettahall.jpg",
-    "age_restriction": "21+",
-    "event_type_tags": [
-      "Music",
-      "Nightlife",
-      "Dance",
-      "DJ"
-    ],
-    "venue_type_tags": [
-      "Music",
-      "Nightlife",
-      "Dance",
-      "DJ",
-      "21+"
-    ]
-  },
-  {
-    "title": "STROM",
-    "description": "TECH HOUSE",
-    "time": "10:00 PM",
-    "date": "January 24, 2027",
-    "venue": "Rosetta Hall",
-    "location": "Boulder",
-    "category": "Music",
-    "source_url": "https://rosettahall.com/live-music/",
-    "link": "https://rosettahall.com/live-music/",
-    "image": "rosettahall.jpg",
-    "age_restriction": "21+",
-    "event_type_tags": [
-      "Music",
-      "Nightlife",
-      "Dance",
-      "DJ"
-    ],
-    "venue_type_tags": [
-      "Music",
-      "Nightlife",
-      "Dance",
-      "DJ",
-      "21+"
-    ]
-  },
-  {
     "title": "DEREK DAMES OHL",
     "description": "ACOUSTIC",
     "time": "6:00 PM",
@@ -260,8 +156,8 @@
     ]
   },
   {
-    "title": "TBA",
-    "description": "TBA",
+    "title": "LIGHTHOUSE",
+    "description": "MELODIC TECHNO / TRANCE",
     "time": "10:00 PM",
     "date": "February 6, 2026",
     "venue": "Rosetta Hall",
@@ -316,6 +212,188 @@
     "description": "ACOUSTIC GUITAR",
     "time": "6:00 PM",
     "date": "February 10, 2026",
+    "venue": "Rosetta Hall",
+    "location": "Boulder",
+    "category": "Music",
+    "source_url": "https://rosettahall.com/live-music/",
+    "link": "https://rosettahall.com/live-music/",
+    "image": "rosettahall.jpg",
+    "age_restriction": "21+",
+    "event_type_tags": [
+      "Music",
+      "Nightlife",
+      "Dance",
+      "DJ"
+    ],
+    "venue_type_tags": [
+      "Music",
+      "Nightlife",
+      "Dance",
+      "DJ",
+      "21+"
+    ]
+  },
+  {
+    "title": "FOUR LIVES",
+    "description": "TECH HOUSE",
+    "time": "10:00 PM",
+    "date": "February 12, 2026",
+    "venue": "Rosetta Hall",
+    "location": "Boulder",
+    "category": "Music",
+    "source_url": "https://rosettahall.com/live-music/",
+    "link": "https://rosettahall.com/live-music/",
+    "image": "rosettahall.jpg",
+    "age_restriction": "21+",
+    "event_type_tags": [
+      "Music",
+      "Nightlife",
+      "Dance",
+      "DJ"
+    ],
+    "venue_type_tags": [
+      "Music",
+      "Nightlife",
+      "Dance",
+      "DJ",
+      "21+"
+    ]
+  },
+  {
+    "title": "TBA",
+    "description": "TBA",
+    "time": "10:00 PM",
+    "date": "February 13, 2026",
+    "venue": "Rosetta Hall",
+    "location": "Boulder",
+    "category": "Music",
+    "source_url": "https://rosettahall.com/live-music/",
+    "link": "https://rosettahall.com/live-music/",
+    "image": "rosettahall.jpg",
+    "age_restriction": "21+",
+    "event_type_tags": [
+      "Music",
+      "Nightlife",
+      "Dance",
+      "DJ"
+    ],
+    "venue_type_tags": [
+      "Music",
+      "Nightlife",
+      "Dance",
+      "DJ",
+      "21+"
+    ]
+  },
+  {
+    "title": "DAVEY DAYDREAM",
+    "description": "OPEN FORMAT",
+    "time": "10:00 PM",
+    "date": "February 14, 2026",
+    "venue": "Rosetta Hall",
+    "location": "Boulder",
+    "category": "Music",
+    "source_url": "https://rosettahall.com/live-music/",
+    "link": "https://rosettahall.com/live-music/",
+    "image": "rosettahall.jpg",
+    "age_restriction": "21+",
+    "event_type_tags": [
+      "Music",
+      "Nightlife",
+      "Dance",
+      "DJ"
+    ],
+    "venue_type_tags": [
+      "Music",
+      "Nightlife",
+      "Dance",
+      "DJ",
+      "21+"
+    ]
+  },
+  {
+    "title": "YAZZY",
+    "description": "BOSSA NOVA",
+    "time": "6:00 PM",
+    "date": "February 17, 2026",
+    "venue": "Rosetta Hall",
+    "location": "Boulder",
+    "category": "Music",
+    "source_url": "https://rosettahall.com/live-music/",
+    "link": "https://rosettahall.com/live-music/",
+    "image": "rosettahall.jpg",
+    "age_restriction": "21+",
+    "event_type_tags": [
+      "Music",
+      "Nightlife",
+      "Dance",
+      "DJ"
+    ],
+    "venue_type_tags": [
+      "Music",
+      "Nightlife",
+      "Dance",
+      "DJ",
+      "21+"
+    ]
+  },
+  {
+    "title": "SHARES",
+    "description": "TECH HOUSE / TECHNO",
+    "time": "10:00 PM",
+    "date": "February 19, 2026",
+    "venue": "Rosetta Hall",
+    "location": "Boulder",
+    "category": "Music",
+    "source_url": "https://rosettahall.com/live-music/",
+    "link": "https://rosettahall.com/live-music/",
+    "image": "rosettahall.jpg",
+    "age_restriction": "21+",
+    "event_type_tags": [
+      "Music",
+      "Nightlife",
+      "Dance",
+      "DJ"
+    ],
+    "venue_type_tags": [
+      "Music",
+      "Nightlife",
+      "Dance",
+      "DJ",
+      "21+"
+    ]
+  },
+  {
+    "title": "K-GUS X DRANNY",
+    "description": "TECH HOUSE",
+    "time": "10:00 PM",
+    "date": "February 20, 2026",
+    "venue": "Rosetta Hall",
+    "location": "Boulder",
+    "category": "Music",
+    "source_url": "https://rosettahall.com/live-music/",
+    "link": "https://rosettahall.com/live-music/",
+    "image": "rosettahall.jpg",
+    "age_restriction": "21+",
+    "event_type_tags": [
+      "Music",
+      "Nightlife",
+      "Dance",
+      "DJ"
+    ],
+    "venue_type_tags": [
+      "Music",
+      "Nightlife",
+      "Dance",
+      "DJ",
+      "21+"
+    ]
+  },
+  {
+    "title": "GRANT PERDUE",
+    "description": "HOUSE",
+    "time": "10:00 PM",
+    "date": "February 21, 2026",
     "venue": "Rosetta Hall",
     "location": "Boulder",
     "category": "Music",

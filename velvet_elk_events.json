@@ -1,45 +1,7 @@
 [
   {
-    "title": "Toubab Krewe with River Spell",
-    "date": "January 22, 2027",
-    "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/71905EchoPhoto.JPEG?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
-    "venue": "Velvet Elk Lounge",
-    "location": "Boulder",
-    "category": "Music",
-    "source_url": "https://www.velvetelklounge.com/events/",
-    "event_type_tags": [
-      "Live Music",
-      "Nightlife"
-    ],
-    "venue_type_tags": [
-      "Bar",
-      "Music Venue",
-      "Nightlife"
-    ],
-    "link": "https://www.velvetelklounge.com/event/january-22nd-toubab-krewe-with-river-spell/"
-  },
-  {
-    "title": "DUBLDRGN: Electro-dub duo Borahm Lee (Pretty Lights/Break Science) & Jeffrey James Franca (Thievery Corporation/ETHNO)",
-    "date": "January 23, 2027",
-    "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/1945DublDrgn-Graphic.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
-    "venue": "Velvet Elk Lounge",
-    "location": "Boulder",
-    "category": "Music",
-    "source_url": "https://www.velvetelklounge.com/events/",
-    "event_type_tags": [
-      "Live Music",
-      "Nightlife"
-    ],
-    "venue_type_tags": [
-      "Bar",
-      "Music Venue",
-      "Nightlife"
-    ],
-    "link": "https://www.velvetelklounge.com/event/january-23rd-dubldrgn-an-electro-dub-duo-featuring-borahm-lee-pretty-lightsbreak-science-and-jeffrey-james-franca-thievery-corporationethno/"
-  },
-  {
     "title": "Public Picasso",
-    "date": "January 25, 2026",
+    "date": "January 25, 2027",
     "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/82081IG_1-1.png?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
     "venue": "Velvet Elk Lounge",
     "location": "Boulder",
@@ -188,5 +150,43 @@
       "Nightlife"
     ],
     "link": "https://www.velvetelklounge.com/event/march-4th-kendall-street-company-with-dj-williams-band/"
+  },
+  {
+    "title": "Tinsley Ellis: PRIVATE SOUND CHECK EXPERIENCE",
+    "date": "March 6, 2026",
+    "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/40988Tinsley_Ellis.png?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+    "venue": "Velvet Elk Lounge",
+    "location": "Boulder",
+    "category": "Music",
+    "source_url": "https://www.velvetelklounge.com/events/",
+    "event_type_tags": [
+      "Live Music",
+      "Nightlife"
+    ],
+    "venue_type_tags": [
+      "Bar",
+      "Music Venue",
+      "Nightlife"
+    ],
+    "link": "https://www.velvetelklounge.com/event/march-6th-tinsley-ellis-private-sound-check-experience/"
+  },
+  {
+    "title": "Tinsley Ellis: Labor of Love Tour",
+    "date": "March 6, 2026",
+    "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/40988Tinsley_Ellis.png?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+    "venue": "Velvet Elk Lounge",
+    "location": "Boulder",
+    "category": "Music",
+    "source_url": "https://www.velvetelklounge.com/events/",
+    "event_type_tags": [
+      "Live Music",
+      "Nightlife"
+    ],
+    "venue_type_tags": [
+      "Bar",
+      "Music Venue",
+      "Nightlife"
+    ],
+    "link": "https://www.velvetelklounge.com/event/march-6th-tinsley-ellis-labor-of-love-tour/"
   }
 ]
