@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-01-26T08:36:20.027055",
-  "total_events": 294,
+  "generated_at": "2026-01-26T18:35:43.964494",
+  "total_events": 308,
   "tags": {
     "venues": [
       "300 Suns Brewing",
       "Bands on the Bricks",
       "Boulder Theater",
+      "Bricks on Main",
       "Fox Theatre",
       "Jungle",
       "Junkyard Social Club",
@@ -53,6 +54,7 @@
       "Nightlife",
       "Performance",
       "Pub",
+      "Retail",
       "Theater",
       "Upscale"
     ],
@@ -71,9 +73,11 @@
       "Games",
       "Hotel Events",
       "Jazz",
+      "Karaoke",
       "Live Music",
       "Music",
       "Nightlife",
+      "Open Mic",
       "Performance"
     ]
   },
@@ -393,9 +397,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Educational",
         "Community",
-        "Music"
+        "Music",
+        "Educational"
       ]
     },
     {
@@ -543,8 +547,8 @@
       "event_type_tags": [
         "Community",
         "Music",
-        "Performance",
-        "All Ages"
+        "All Ages",
+        "Performance"
       ]
     },
     {
@@ -601,8 +605,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Educational",
-        "Community"
+        "Community",
+        "Educational"
       ]
     },
     {
@@ -630,9 +634,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Community",
         "Games",
-        "Educational",
-        "Community"
+        "Educational"
       ]
     },
     {
@@ -716,10 +720,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
         "Community",
-        "Family Friendly",
-        "All Ages"
+        "All Ages",
+        "Games",
+        "Family Friendly"
       ]
     },
     {
@@ -777,10 +781,10 @@
       ],
       "event_type_tags": [
         "Performance",
-        "All Ages",
-        "Family Friendly",
         "Music",
-        "Community"
+        "All Ages",
+        "Community",
+        "Family Friendly"
       ]
     },
     {
@@ -838,8 +842,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Educational",
-        "Community"
+        "Community",
+        "Educational"
       ]
     },
     {
@@ -869,8 +873,8 @@
       "event_type_tags": [
         "Community",
         "Music",
-        "Family Friendly",
-        "All Ages"
+        "All Ages",
+        "Family Friendly"
       ]
     },
     {
@@ -5846,6 +5850,400 @@
         "Live Music",
         "Brewery",
         "Family Friendly"
+      ]
+    },
+    {
+      "id": "bricks_on_main_open_mic_night_january_27_2026_5_30_pm_8_30_pm",
+      "title": "Open Mic Night",
+      "venue": "Bricks on Main",
+      "location": "Longmont",
+      "date": "January 27, 2026",
+      "normalized_date": "2026-01-27T00:00:00",
+      "recurring": null,
+      "time": "5:30 PM - 8:30 PM",
+      "description": "Music open mic, sign up at 5:30, about 15 minute time slots, often runs till 8:30 or a little later but general timeline is 6-8. Come down and eat dinner and have drinks and enjoy the music community here!",
+      "additional_info": "",
+      "link": "https://www.bricksretail.com/event-details/open-mic-night-2026-01-27-17-30",
+      "ticket_link": null,
+      "image": "https://static.wixstatic.com/media/f119ff_930ac49a2c5d4e0aa220b93515ba6ee3~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/f119ff_930ac49a2c5d4e0aa220b93515ba6ee3~mv2.jpg",
+      "source_url": "https://www.bricksretail.com/events-calendar",
+      "age_restriction": null,
+      "venue_tag": "Bricks on Main",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Community",
+        "Retail",
+        "Entertainment"
+      ],
+      "event_type_tags": [
+        "Open Mic",
+        "Music",
+        "Community"
+      ]
+    },
+    {
+      "id": "bricks_on_main_niwot_hs_band_performance_january_28_2026_7_00_pm_9_00_pm",
+      "title": "Niwot HS Band Performance",
+      "venue": "Bricks on Main",
+      "location": "Longmont",
+      "date": "January 28, 2026",
+      "normalized_date": "2026-01-28T00:00:00",
+      "recurring": null,
+      "time": "7:00 PM - 9:00 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.bricksretail.com/event-details/niwot-hs-band-performance",
+      "ticket_link": null,
+      "image": "https://static.wixstatic.com/media/ea2d6f_ea03fa4a91a74d919959387107889367~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_ea03fa4a91a74d919959387107889367~mv2.jpg",
+      "source_url": "https://www.bricksretail.com/events-calendar",
+      "age_restriction": null,
+      "venue_tag": "Bricks on Main",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Community",
+        "Retail",
+        "Entertainment"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "bricks_on_main_john_bunzli_cafe_con_leche_songs_january_29_2026_6_00_pm_9_00_pm",
+      "title": "John Bunzli: Cafe Con Leche Songs",
+      "venue": "Bricks on Main",
+      "location": "Longmont",
+      "date": "January 29, 2026",
+      "normalized_date": "2026-01-29T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM - 9:00 PM",
+      "description": "John Bunzli is a Loveland based songwriter who has been writing a new song a week for 5 years.  To Celebrate year 5 of writing John has gathered some of the best singer/songwriters in the area and they will each perform one of his songs. It will be an evening of great playing and great singing!!",
+      "additional_info": "",
+      "link": "https://www.bricksretail.com/event-details/john-bunzli-cafe-con-leche-songs",
+      "ticket_link": null,
+      "image": "https://static.wixstatic.com/media/ea2d6f_7aa2227020a84e5d9253e98538e53835~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_7aa2227020a84e5d9253e98538e53835~mv2.jpg",
+      "source_url": "https://www.bricksretail.com/events-calendar",
+      "age_restriction": null,
+      "venue_tag": "Bricks on Main",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Community",
+        "Retail",
+        "Entertainment"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "bricks_on_main_mountain_reverb_january_30_2026_6_00_pm_9_00_pm",
+      "title": "Mountain ReVerb",
+      "venue": "Bricks on Main",
+      "location": "Longmont",
+      "date": "January 30, 2026",
+      "normalized_date": "2026-01-30T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM - 9:00 PM",
+      "description": "Tony will be SHREDDING some Tedeschi Trucks, Jimmy Hendrix, Pink Floyd, Prince and Big Head Todd solos among others. For those of you who know Tony - you know!!",
+      "additional_info": "",
+      "link": "https://www.bricksretail.com/event-details/mountain-reverb-2",
+      "ticket_link": null,
+      "image": "https://static.wixstatic.com/media/ea2d6f_f7a3e60a73414ccebf942add639a6b98~mv2.png/v1/fill/w_400,h_400,al_c,q_85,enc_auto/ea2d6f_f7a3e60a73414ccebf942add639a6b98~mv2.png",
+      "source_url": "https://www.bricksretail.com/events-calendar",
+      "age_restriction": null,
+      "venue_tag": "Bricks on Main",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Community",
+        "Retail",
+        "Entertainment"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "bricks_on_main_tenbucksixer_january_31_2026_6_00_pm_9_00_pm",
+      "title": "Tenbucksixer",
+      "venue": "Bricks on Main",
+      "location": "Longmont",
+      "date": "January 31, 2026",
+      "normalized_date": "2026-01-31T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM - 9:00 PM",
+      "description": "Tenbucksixer is an original band with folk-rock songs that can take you by surprise, with lyrics and tunes that are sometimes whimsical, sometimes serious, but always witty, poetic, and insightful.  they will tickle you with fun, prod you with clever, and touch you with soulful tunes.",
+      "additional_info": "",
+      "link": "https://www.bricksretail.com/event-details/tenbucksixer-5",
+      "ticket_link": null,
+      "image": "https://static.wixstatic.com/media/ea2d6f_6aa4ae6188bf4bc784ac645464a6decb~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_6aa4ae6188bf4bc784ac645464a6decb~mv2.jpg",
+      "source_url": "https://www.bricksretail.com/events-calendar",
+      "age_restriction": null,
+      "venue_tag": "Bricks on Main",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Community",
+        "Retail",
+        "Entertainment"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "bricks_on_main_mmb3_organ_trio_february_01_2026_5_00_pm_8_00_pm",
+      "title": "MMB3 Organ Trio",
+      "venue": "Bricks on Main",
+      "location": "Longmont",
+      "date": "February 01, 2026",
+      "normalized_date": "2026-02-01T00:00:00",
+      "recurring": null,
+      "time": "5:00 PM - 8:00 PM",
+      "description": "MMB3 Organ Trio feature Ryan McCurry on Hammond Organ and vocals, John Massone on guitar and vocals, and Steve Balgooyen on drums and vocals. MMB3 plays a mix of classic funk, soul and blues\u2014originals and creative takes on classic covers\u2014with a New Orleans sensibility.",
+      "additional_info": "",
+      "link": "https://www.bricksretail.com/event-details/mmb3-organ-trio",
+      "ticket_link": null,
+      "image": "https://static.wixstatic.com/media/ea2d6f_e8e865cc985742ea9cf3100ceec76cac~mv2.jpeg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_e8e865cc985742ea9cf3100ceec76cac~mv2.jpeg",
+      "source_url": "https://www.bricksretail.com/events-calendar",
+      "age_restriction": null,
+      "venue_tag": "Bricks on Main",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Community",
+        "Retail",
+        "Entertainment"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "bricks_on_main_karaoke_night_february_04_2026_6_00_pm_8_00_pm",
+      "title": "Karaoke Night",
+      "venue": "Bricks on Main",
+      "location": "Longmont",
+      "date": "February 04, 2026",
+      "normalized_date": "2026-02-04T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM - 8:00 PM",
+      "description": "Take the Bricks Main Stage ... you're the headliner!",
+      "additional_info": "",
+      "link": "https://www.bricksretail.com/event-details/karaoke-night-2026-02-04-18-00",
+      "ticket_link": null,
+      "image": "https://static.wixstatic.com/media/0f3cdb_cc11739aca8043a8a8cbdf5cdc8f3661~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/0f3cdb_cc11739aca8043a8a8cbdf5cdc8f3661~mv2.jpg",
+      "source_url": "https://www.bricksretail.com/events-calendar",
+      "age_restriction": null,
+      "venue_tag": "Bricks on Main",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Community",
+        "Retail",
+        "Entertainment"
+      ],
+      "event_type_tags": [
+        "Karaoke",
+        "Music",
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "bricks_on_main_main_st_laughs_free_stand_up_comedy_ft_mentalist_magician_february_05_2026_6_00_pm_8_00_pm",
+      "title": "Main St Laughs - FREE Stand Up Comedy Ft. Mentalist/Magician",
+      "venue": "Bricks on Main",
+      "location": "Longmont",
+      "date": "February 05, 2026",
+      "normalized_date": "2026-02-05T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM - 8:00 PM",
+      "description": "Free comedy. Great drinks. Big laughs. Don\u2019t miss this killer lineup of Colorado\u2019s best stand-up comics at Bricks on Main!",
+      "additional_info": "",
+      "link": "https://www.bricksretail.com/event-details/main-st-laughs-free-stand-up-comedy-ft-mentalist-magician",
+      "ticket_link": null,
+      "image": "https://static.wixstatic.com/media/ea2d6f_2cfeae4d40984cea9f5ae99b9f94078a~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_2cfeae4d40984cea9f5ae99b9f94078a~mv2.jpg",
+      "source_url": "https://www.bricksretail.com/events-calendar",
+      "age_restriction": null,
+      "venue_tag": "Bricks on Main",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Community",
+        "Retail",
+        "Entertainment"
+      ],
+      "event_type_tags": [
+        "Comedy",
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "bricks_on_main_wylie_jones_february_06_2026_6_00_pm_9_00_pm",
+      "title": "Wylie Jones",
+      "venue": "Bricks on Main",
+      "location": "Longmont",
+      "date": "February 06, 2026",
+      "normalized_date": "2026-02-06T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM - 9:00 PM",
+      "description": "Wylie Jones is a multi instrumentalist one man band loop artist like the great Keller Williams, with the spirit of Toots, Bob Marley and Metallica wrapped into one.",
+      "additional_info": "",
+      "link": "https://www.bricksretail.com/event-details/wylie-jones",
+      "ticket_link": null,
+      "image": "https://static.wixstatic.com/media/ea2d6f_646feb49e2bf4f7b83030defc91a2cfb~mv2.jpeg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_646feb49e2bf4f7b83030defc91a2cfb~mv2.jpeg",
+      "source_url": "https://www.bricksretail.com/events-calendar",
+      "age_restriction": null,
+      "venue_tag": "Bricks on Main",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Community",
+        "Retail",
+        "Entertainment"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "bricks_on_main_winter_walkabout_music_showcase_february_07_2026_2_00_pm_9_30_pm",
+      "title": "Winter Walkabout Music Showcase",
+      "venue": "Bricks on Main",
+      "location": "Longmont",
+      "date": "February 07, 2026",
+      "normalized_date": "2026-02-07T00:00:00",
+      "recurring": null,
+      "time": "2:00 PM - 9:30 PM",
+      "description": "An all-day, multi-venue music festival featuring local music, unique venues, good vibes & community spirit, and the best that Downtown Longmont has to offer!",
+      "additional_info": "",
+      "link": "https://www.bricksretail.com/event-details/winter-walkabout-music-showcase",
+      "ticket_link": null,
+      "image": "https://static.wixstatic.com/media/ea2d6f_2aecc47fd2824fb7af15be8eed337b15~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_2aecc47fd2824fb7af15be8eed337b15~mv2.jpg",
+      "source_url": "https://www.bricksretail.com/events-calendar",
+      "age_restriction": null,
+      "venue_tag": "Bricks on Main",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Community",
+        "Retail",
+        "Entertainment"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "bricks_on_main_the_big_spenders_february_13_2026_6_00_pm_9_00_pm",
+      "title": "The Big Spenders",
+      "venue": "Bricks on Main",
+      "location": "Longmont",
+      "date": "February 13, 2026",
+      "normalized_date": "2026-02-13T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM - 9:00 PM",
+      "description": "The Big Spenders are an Alt-Country band from Denver, CO. A blend of the best songs, fine players, and great vocals, this band rocks and twangs for a really great time.",
+      "additional_info": "",
+      "link": "https://www.bricksretail.com/event-details/the-big-spenders",
+      "ticket_link": null,
+      "image": "https://static.wixstatic.com/media/ea2d6f_d1b6d51c369f47f68c388625e929b01b~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_d1b6d51c369f47f68c388625e929b01b~mv2.jpg",
+      "source_url": "https://www.bricksretail.com/events-calendar",
+      "age_restriction": null,
+      "venue_tag": "Bricks on Main",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Community",
+        "Retail",
+        "Entertainment"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "bricks_on_main_the_pamlico_sound_valentine_s_day_show_february_14_2026_7_00_pm_10_00_pm",
+      "title": "The Pamlico Sound Valentine's Day Show",
+      "venue": "Bricks on Main",
+      "location": "Longmont",
+      "date": "February 14, 2026",
+      "normalized_date": "2026-02-14T00:00:00",
+      "recurring": null,
+      "time": "7:00 PM - 10:00 PM",
+      "description": "Looking for a fun thing to do on Valentine's Day? Come listen to some funk and soul!",
+      "additional_info": "",
+      "link": "https://www.bricksretail.com/event-details/the-pamlico-sound-valentines-day-show",
+      "ticket_link": null,
+      "image": "https://static.wixstatic.com/media/ea2d6f_6fac67f7ef3e4e5e99f728a3fa8c8065~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_6fac67f7ef3e4e5e99f728a3fa8c8065~mv2.jpg",
+      "source_url": "https://www.bricksretail.com/events-calendar",
+      "age_restriction": null,
+      "venue_tag": "Bricks on Main",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Community",
+        "Retail",
+        "Entertainment"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "bricks_on_main_the_saints_february_17_2026_6_00_pm_9_00_pm",
+      "title": "The Saints",
+      "venue": "Bricks on Main",
+      "location": "Longmont",
+      "date": "February 17, 2026",
+      "normalized_date": "2026-02-17T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM - 9:00 PM",
+      "description": "The Saints is a 6-piece band that has an authentic New Orleans feel. We play a mix of funk, R&B, soul, and rock, featuring both original tunes and cover songs. We have three vocalists who all sing lead (providing a lot of variety), and we have tight 3-part harmonies, which are a huge crowd-pleaser.",
+      "additional_info": "",
+      "link": "https://www.bricksretail.com/event-details/the-saints-7",
+      "ticket_link": null,
+      "image": "https://static.wixstatic.com/media/ea2d6f_07668fc709144c86b545694b2acc4267~mv2.jpeg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_07668fc709144c86b545694b2acc4267~mv2.jpeg",
+      "source_url": "https://www.bricksretail.com/events-calendar",
+      "age_restriction": null,
+      "venue_tag": "Bricks on Main",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Community",
+        "Retail",
+        "Entertainment"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "bricks_on_main_steel_monkey_february_20_2026_6_00_pm_9_00_pm",
+      "title": "Steel Monkey",
+      "venue": "Bricks on Main",
+      "location": "Longmont",
+      "date": "February 20, 2026",
+      "normalized_date": "2026-02-20T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM - 9:00 PM",
+      "description": "The Steel Monkey Band is a tribute band dedicated to celebrating the music of Ian Anderson and Jethro Tull, known for their distinctive blend of progressive rock, folk, and classical influences. The bands dedication to authenticity and musicianship positions them as a noteworthy act as a tribute.",
+      "additional_info": "",
+      "link": "https://www.bricksretail.com/event-details/steel-monkey-2",
+      "ticket_link": null,
+      "image": "https://static.wixstatic.com/media/ea2d6f_4c595a26e44d47528d8c45d0fd62a0ca~mv2.jpeg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_4c595a26e44d47528d8c45d0fd62a0ca~mv2.jpeg",
+      "source_url": "https://www.bricksretail.com/events-calendar",
+      "age_restriction": null,
+      "venue_tag": "Bricks on Main",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Community",
+        "Retail",
+        "Entertainment"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Entertainment"
       ]
     },
     {
