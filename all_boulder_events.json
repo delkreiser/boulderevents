@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T18:41:20.009784",
-  "total_events": 316,
+  "generated_at": "2026-01-28T08:36:06.250719",
+  "total_events": 318,
   "tags": {
     "venues": [
       "300 Suns Brewing",
@@ -77,7 +77,6 @@
       "Live Music",
       "Music",
       "Nightlife",
-      "Open Mic",
       "Performance"
     ]
   },
@@ -373,65 +372,6 @@
       ]
     },
     {
-      "id": "junkyard_social_club_flow_jam_tuesday_january_27_2026_6_00_9_00_pm",
-      "title": "Flow Jam",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Tuesday, January 27, 2026",
-      "normalized_date": "2026-01-27T00:00:00",
-      "recurring": null,
-      "time": "6:00 -9:00 PM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://junkyardsocialclub.org/drop-in-event/flow-jam/",
-      "ticket_link": null,
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/09/FlowJam-2025-768x768.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Music",
-        "Educational",
-        "Community"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_drop_in_mahjongg_tuesdays_tuesday_january_27_2026_12_00_2_00_pm",
-      "title": "Drop-In Mahjongg \u2013 Tuesdays",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Tuesday, January 27, 2026",
-      "normalized_date": "2026-01-27T00:00:00",
-      "recurring": null,
-      "time": "12:00 - 2:00 PM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://junkyardsocialclub.org/drop-in-event/drop-in-mahjongg-tuesdays/",
-      "ticket_link": null,
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/08/Drop-In-MahJongg-Tuesday.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Games",
-        "Community"
-      ]
-    },
-    {
       "id": "junkyard_social_club_speed_dating_with_the_big_dream_wednesday_january_28_2026_6_30_8_30_pm",
       "title": "Speed Dating with The Big Dream",
       "venue": "Junkyard Social Club",
@@ -484,8 +424,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
-        "Community"
+        "Community",
+        "Games"
       ]
     },
     {
@@ -513,8 +453,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Community",
+        "Music",
         "Performance"
       ]
     },
@@ -543,8 +483,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Community",
+        "Music",
         "Performance"
       ]
     },
@@ -573,8 +513,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Community",
+        "Music",
         "Performance"
       ]
     },
@@ -632,9 +572,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Community",
         "All Ages",
+        "Music",
         "Performance"
       ]
     },
@@ -663,8 +603,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
@@ -692,8 +632,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Educational",
-        "Community"
+        "Community",
+        "Educational"
       ]
     },
     {
@@ -721,9 +661,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
+        "Community",
         "Educational",
-        "Community"
+        "Games"
       ]
     },
     {
@@ -807,10 +747,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
-        "Family Friendly",
         "Community",
-        "All Ages"
+        "Family Friendly",
+        "All Ages",
+        "Games"
       ]
     },
     {
@@ -838,8 +778,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
@@ -867,11 +807,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
+        "All Ages",
         "Music",
-        "Performance",
+        "Community",
         "Family Friendly",
-        "All Ages"
+        "Performance"
       ]
     },
     {
@@ -899,8 +839,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Community",
+        "Music",
         "Performance"
       ]
     },
@@ -929,8 +869,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Educational",
-        "Community"
+        "Community",
+        "Educational"
       ]
     },
     {
@@ -958,10 +898,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "Family Friendly",
         "Community",
-        "All Ages"
+        "Family Friendly",
+        "All Ages",
+        "Music"
       ]
     },
     {
@@ -989,8 +929,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Community",
+        "Music",
         "Performance"
       ]
     },
@@ -1007,7 +947,7 @@
       "additional_info": "",
       "link": "https://junkyardsocialclub.org/drop-in-event/queer-art-organics-open-mic/",
       "ticket_link": null,
-      "image": "junkyard.jpg",
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/07/QAO-monthly.jpg",
       "source_url": "https://junkyardsocialclub.org/events/",
       "age_restriction": null,
       "venue_tag": "Junkyard Social Club",
@@ -1019,8 +959,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -1048,8 +988,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
@@ -1077,8 +1017,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Music"
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -1253,6 +1193,34 @@
       "description": "",
       "additional_info": "",
       "link": "https://stjulien.com/event/housecats-funk-soul-8/",
+      "ticket_link": null,
+      "image": "stjulien.jpg",
+      "source_url": "https://stjulien.com/boulder-colorado-events/month/?tribe_eventcategory%5B0%5D=83",
+      "age_restriction": null,
+      "venue_tag": "St Julien Hotel & Spa",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Entertainment",
+        "Hotel",
+        "Upscale"
+      ],
+      "event_type_tags": [
+        "Entertainment",
+        "Hotel Events"
+      ]
+    },
+    {
+      "id": "st_julien_hotel_spa_rachel_alena_january_31_2026_6_00_pm_9_00_pm",
+      "title": "Rachel Alena",
+      "venue": "St Julien Hotel & Spa",
+      "location": "Boulder",
+      "date": "January 31, 2026",
+      "normalized_date": "2026-01-31T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM - 9:00 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://stjulien.com/event/rachel-alena-10/",
       "ticket_link": null,
       "image": "stjulien.jpg",
       "source_url": "https://stjulien.com/boulder-colorado-events/month/?tribe_eventcategory%5B0%5D=83",
@@ -1540,6 +1508,36 @@
       ]
     },
     {
+      "id": "trident_booksellers_cafe_andy_mandabach_gabe_hazleton_jazz_february_15_2026_6_00_pm",
+      "title": "Andy Mandabach\u00a0+ Gabe Hazleton (Jazz)",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "February 15, 2026",
+      "normalized_date": "2026-02-15T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM",
+      "description": "Both Andy and Gabe are CU Boulder music students with a deep musical connection, experimenting in new electronic sounds while also honoring the long tradition of jazz behind them.",
+      "additional_info": "",
+      "link": "https://www.tridentcafe.com/events/2026/2/15/andy-mandabachnbsp-gabe-hazleton-jazz",
+      "ticket_link": null,
+      "image": "trident.jpg",
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Books",
+        "Community"
+      ]
+    },
+    {
       "id": "trident_booksellers_cafe_language_exchange_night_february_16_2026_7_00_pm",
       "title": "Language Exchange Night",
       "venue": "Trident Booksellers & Cafe",
@@ -1660,15 +1658,15 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_elora_mccauley_february_20_2026_6_00_pm",
-      "title": "Elora McCauley",
+      "id": "trident_booksellers_cafe_lack_lazuli_dick_texas_february_20_2026_6_00_pm",
+      "title": "Lack Lazuli / Dick Texas",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "February 20, 2026",
       "normalized_date": "2026-02-20T00:00:00",
       "recurring": null,
       "time": "6:00 PM",
-      "description": "",
+      "description": "Lack Lazuli (Derek Pederson) is a local folk singer/songwriter who incorporates nature and playfulness into his tunes. He enjoys singing alongside poetry and over bird songs he's recorded.\u00a0 His rich guitar sounds come from his love for harmony of all things. New music is always brewing, you can chec...",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2026/2/20/elora-mccauley",
       "ticket_link": null,
@@ -2140,6 +2138,36 @@
       ]
     },
     {
+      "id": "trident_booksellers_cafe_jo_fuller_al_ameda_ronjo_v_march_20_2026_6_00_pm",
+      "title": "Jo Fuller/ Al Ameda/ Ronjo V",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "March 20, 2026",
+      "normalized_date": "2026-03-20T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM",
+      "description": "Jo Fuller is a Front Range-based singer-songwriter. She is joined in the studio and on stage by a full band- Tyler Kane (pedal steel), Davis Rowan (drums), Jackie Ames (electric guitar), and Parker Olney (bass guitar). Jo is in the process of releasing her debut album,Wood of the Grain. Her current ...",
+      "additional_info": "",
+      "link": "https://www.tridentcafe.com/events/2026/3/20/jo-fuller-al-ameda-ronjo-v",
+      "ticket_link": null,
+      "image": "trident.jpg",
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Books",
+        "Community"
+      ]
+    },
+    {
       "id": "trident_booksellers_cafe_jehovah_s_fitness_club_march_21_2026_6_00_pm",
       "title": "Jehovah's Fitness Club",
       "venue": "Trident Booksellers & Cafe",
@@ -2211,36 +2239,6 @@
       "description": "Aerik Francis is a Queer Black Latinx poet born & based Denver, CO, and is currently the Adams County Poet Laureate. They are the author of poetry chapbooks MISEDUCATION (New Delta Review, 2023) and BODYPOLITIC (Abode Press, 2026). Find more of their work on their websitephaentompoet.comor via socia...",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2026/1/25/trident-poetry-series-aerik-francis-adams-county-poet-laureate",
-      "ticket_link": null,
-      "image": "trident.jpg",
-      "source_url": "https://www.tridentcafe.com/events",
-      "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Books",
-        "Community"
-      ]
-    },
-    {
-      "id": "trident_booksellers_cafe_ok_i_love_you_west_egg_social_gush_march_27_2026_6_00_pm",
-      "title": "Ok I Love You/ West Egg Social/ Gush",
-      "venue": "Trident Booksellers & Cafe",
-      "location": "Boulder",
-      "date": "March 27, 2026",
-      "normalized_date": "2026-03-27T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM",
-      "description": "A night of alternative music headlined by Boulder\u2019s Ok I Love You are known for their music expert combination of shoegaze, emo, and alternative rock that they\u2019ve brought to audiences across Colorado. Joined by West Egg Social a genre bending indie/alternative rock band from Fort Collins and hometow...",
-      "additional_info": "",
-      "link": "https://www.tridentcafe.com/events/2026/3/28/ok-i-love-you-west-egg-social-gush",
       "ticket_link": null,
       "image": "trident.jpg",
       "source_url": "https://www.tridentcafe.com/events",
@@ -2440,6 +2438,36 @@
       ]
     },
     {
+      "id": "trident_booksellers_cafe_gracie_jay_vylla_april_16_2026_6_00_pm",
+      "title": "Gracie Jay / VYLLA",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "April 16, 2026",
+      "normalized_date": "2026-04-16T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM",
+      "description": "Multi talented arranger and vocalist, Gracie Jay has performed and recorded with artists including Cyrille Aimee, Nicholas Payton, Camille Thurman, Jamison Ross and more. Her written works have been performed by groups including the New Orleans Jazz Orchestra, Next Generation Big Band, and the New G...",
+      "additional_info": "",
+      "link": "https://www.tridentcafe.com/events/2026/4/16/gracie-jay-vylla",
+      "ticket_link": null,
+      "image": "trident.jpg",
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Books",
+        "Community"
+      ]
+    },
+    {
       "id": "trident_booksellers_cafe_juniper_blue_april_17_2026_6_00_pm",
       "title": "Juniper Blue",
       "venue": "Trident Booksellers & Cafe",
@@ -2448,7 +2476,7 @@
       "normalized_date": "2026-04-17T00:00:00",
       "recurring": null,
       "time": "6:00 PM",
-      "description": "",
+      "description": "Juniper Blue is an indie rock band from Colorado that loves to jam. We play from the heart, make music we love, and bring it to life on stage.",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2026/4/17/juniper-blue",
       "ticket_link": null,
@@ -2680,6 +2708,36 @@
       ]
     },
     {
+      "id": "trident_booksellers_cafe_ambient_day_2026_may_28_2026_8_00_am",
+      "title": "Ambient Day 2026",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "May 28, 2026",
+      "normalized_date": "2026-05-28T00:00:00",
+      "recurring": null,
+      "time": "8:00 AM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.tridentcafe.com/events/2026/5/2/ambient-day-2026",
+      "ticket_link": null,
+      "image": "trident.jpg",
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Books",
+        "Community"
+      ]
+    },
+    {
       "id": "trident_booksellers_cafe_language_exchange_night_may_11_2026_7_00_pm",
       "title": "Language Exchange Night",
       "venue": "Trident Booksellers & Cafe",
@@ -2691,6 +2749,36 @@
       "description": "Free!Every Monday evening, 7-9p.m.All languages welcome. Facilitated by Kelvin Tavarez.",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-s7a5x-brgdj-6jtkx-pwzma-es6f9",
+      "ticket_link": null,
+      "image": "trident.jpg",
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Books",
+        "Community"
+      ]
+    },
+    {
+      "id": "trident_booksellers_cafe_bitterroot_may_13_2026_6_00_pm",
+      "title": "Bitterroot",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "May 13, 2026",
+      "normalized_date": "2026-05-13T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.tridentcafe.com/events/2026/5/13/bitterroot",
       "ticket_link": null,
       "image": "trident.jpg",
       "source_url": "https://www.tridentcafe.com/events",
@@ -3100,6 +3188,36 @@
       ]
     },
     {
+      "id": "trident_booksellers_cafe_jehovah_s_fitness_club_june_27_2026_6_00_pm",
+      "title": "Jehovah's Fitness Club",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "June 27, 2026",
+      "normalized_date": "2026-06-27T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM",
+      "description": "\"With humble roots in an unheated backyard shed, Boulder-based Jehovah's Fitness Club brings an eclectic mix of jazz, funk, blues and Latin sounds to the local scene. With eight enthused musicians at its core, JFC has a budding track record of putting on a lighthearted and energetic show, drawing cr...",
+      "additional_info": "",
+      "link": "https://www.tridentcafe.com/events/2026/2/21/john-shepherd-xxa42-l2ggx-f7wc8",
+      "ticket_link": null,
+      "image": "trident.jpg",
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Books",
+        "Community"
+      ]
+    },
+    {
       "id": "trident_booksellers_cafe_boulder_old_time_jam_july_26_2026_6_00_pm",
       "title": "Boulder Old-Time Jam",
       "venue": "Trident Booksellers & Cafe",
@@ -3250,15 +3368,15 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_rebecca_folsom_august_28_2026_6_00_pm",
-      "title": "Rebecca Folsom",
+      "id": "trident_booksellers_cafe_rebecca_folsom_host_s_the_liberated_singer_songwriters_showcase_august_28_2026_6_00_pm",
+      "title": "Rebecca Folsom host\u2019s the Liberated Singer Songwriters Showcase!",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "August 28, 2026",
       "normalized_date": "2026-08-28T00:00:00",
       "recurring": null,
       "time": "6:00 PM",
-      "description": "",
+      "description": "Join us for The Liberated Songwriting Showcase in the awesome bohemian back courtyard at the Trident Caf\u00e9 6pm-8:30pm, A diverse group of Troubadours will take the stage and share their original music. This is a culmination of a songwriting class\u00a0the group has been sharing in all summer. Spectacular!",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2026/8/28/rebecca-folsom",
       "ticket_link": null,
@@ -5577,12 +5695,12 @@
       ]
     },
     {
-      "id": "rosetta_hall_derek_dames_ohl_january_27_2026_6_00_pm",
+      "id": "rosetta_hall_derek_dames_ohl_january_27_2027_6_00_pm",
       "title": "DEREK DAMES OHL",
       "venue": "Rosetta Hall",
       "location": "Boulder",
-      "date": "January 27, 2026",
-      "normalized_date": "2026-01-27T00:00:00",
+      "date": "January 27, 2027",
+      "normalized_date": "2027-01-27T00:00:00",
       "recurring": null,
       "time": "6:00 PM",
       "description": "ACOUSTIC",
@@ -6118,35 +6236,6 @@
       ]
     },
     {
-      "id": "bricks_on_main_open_mic_night_january_27_2026_5_30_pm_8_30_pm",
-      "title": "Open Mic Night",
-      "venue": "Bricks on Main",
-      "location": "Longmont",
-      "date": "January 27, 2026",
-      "normalized_date": "2026-01-27T00:00:00",
-      "recurring": null,
-      "time": "5:30 PM - 8:30 PM",
-      "description": "Music open mic, sign up at 5:30, about 15 minute time slots, often runs till 8:30 or a little later but general timeline is 6-8. Come down and eat dinner and have drinks and enjoy the music community here!",
-      "additional_info": "",
-      "link": "https://www.bricksretail.com/event-details/open-mic-night-2026-01-27-17-30",
-      "ticket_link": null,
-      "image": "https://static.wixstatic.com/media/f119ff_930ac49a2c5d4e0aa220b93515ba6ee3~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/f119ff_930ac49a2c5d4e0aa220b93515ba6ee3~mv2.jpg",
-      "source_url": "https://www.bricksretail.com/events-calendar",
-      "age_restriction": null,
-      "venue_tag": "Bricks on Main",
-      "location_tag": "Longmont",
-      "venue_type_tags": [
-        "Community",
-        "Retail",
-        "Entertainment"
-      ],
-      "event_type_tags": [
-        "Open Mic",
-        "Music",
-        "Community"
-      ]
-    },
-    {
       "id": "bricks_on_main_niwot_hs_band_performance_january_28_2026_7_00_pm_9_00_pm",
       "title": "Niwot HS Band Performance",
       "venue": "Bricks on Main",
@@ -6509,32 +6598,6 @@
       "event_type_tags": [
         "Live Music",
         "Entertainment"
-      ]
-    },
-    {
-      "id": "roots_music_project_workshop_series_roots_on_the_road_pro_audio_and_live_sound_january_27_2026_6_30_pm_8_00_pm",
-      "title": "Workshop Series: Roots on the Road - Pro Audio and Live Sound",
-      "venue": "Roots Music Project",
-      "location": "Boulder",
-      "date": "January 27, 2026",
-      "normalized_date": "2026-01-27T00:00:00",
-      "recurring": null,
-      "time": "6:30 PM - 8:00 PM",
-      "description": "Roots on the Road brings professional live music production to community events, supporting local artists & training audio volunteers",
-      "additional_info": "",
-      "link": "https://www.eventbrite.com/e/workshop-series-roots-on-the-road-pro-audio-and-live-sound-tickets-1979890068492",
-      "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175879096%2F1125606624043%2F1%2Foriginal.20260126-202904?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=c104fde8fdb008d950598b3fd4df3eb7",
-      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
-      "age_restriction": "21+",
-      "venue_tag": "Roots Music Project",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Community"
-      ],
-      "event_type_tags": [
-        "Live Music"
       ]
     },
     {
@@ -7032,19 +7095,19 @@
       ]
     },
     {
-      "id": "roots_music_project_rmp_workshop_logic_pro_workshop_basic_recording_techniques_march_03_2026_6_30_pm_8_00_pm",
+      "id": "roots_music_project_rmp_workshop_logic_pro_workshop_basic_recording_techniques_march_03_2026_5_00_pm_6_30_pm",
       "title": "RMP Workshop: Logic Pro Workshop: Basic Recording Techniques",
       "venue": "Roots Music Project",
       "location": "Boulder",
       "date": "March 03, 2026",
       "normalized_date": "2026-03-03T00:00:00",
       "recurring": null,
-      "time": "6:30 PM - 8:00 PM",
+      "time": "5:00 PM - 6:30 PM",
       "description": "Learn recording & mixing basics in Logic Pro: setup, gain staging, EQ & compression. Beginner-friendly, skills transfer to other DAWs.",
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/rmp-workshop-logic-pro-workshop-basic-recording-techniques-tickets-1981533827018",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175782712%2F1125606624043%2F1%2Foriginal.20260125-200725?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=7961cf8393ea75340e00d107fbcbc14d",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176011051%2F1125606624043%2F1%2Foriginal.20260127-235941?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=cf6ea20501fe1174e7efece9b2a308b4",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -7123,6 +7186,32 @@
       "link": "https://www.eventbrite.com/e/college-showcase-w-abernathy-shagnaster-words-of-mouth-and-red-revival-tickets-1980901767511",
       "ticket_link": null,
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175270585%2F1125606624043%2F1%2Foriginal.20260119-195609?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=1f3b5539fe3648964b257dcca37699f8",
+      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_rmp_vinyl_release_gen3_fruta_brutal_march_20_2026_8_00_pm_11_00_pm",
+      "title": "RMP Vinyl Release: GEN3, Fruta Brutal",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": "March 20, 2026",
+      "normalized_date": "2026-03-20T00:00:00",
+      "recurring": null,
+      "time": "8:00 PM - 11:00 PM",
+      "description": "Celebrate the Release of RMP On The Rise Vol. 1 with live performances from GEN3 and Fruta Brutal!",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/rmp-vinyl-release-gen3-fruta-brutal-tickets-1981789415490",
+      "ticket_link": null,
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175971300%2F1125606624043%2F1%2Foriginal.20260127-174610?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=8d4170fe920a976f2ecb378057061879",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -8064,31 +8153,6 @@
         "All Ages",
         "Free"
       ]
-    },
-    {
-      "id": "boulder_theater_welcome_to_night_vale_murder_night_in_blood_forest_with_musical_guest_mal_blum_jan_27_2026_none",
-      "title": "Welcome to Night Vale: Murder Night in Blood Forest with musical guest Mal Blum",
-      "venue": "Boulder Theater",
-      "location": "Boulder",
-      "date": "Jan 27, 2026",
-      "normalized_date": "2026-01-27",
-      "recurring": null,
-      "time": null,
-      "description": null,
-      "additional_info": "",
-      "link": "https://www.z2ent.com/events/detail/night-vale-2026-bt",
-      "ticket_link": "https://www.axs.com/events/908670/?skin=bouldertheater",
-      "image": "images/z2/welcome-to-night-vale-murder-night-in-blood-forest-bdd2345d.jpg",
-      "source_url": null,
-      "age_restriction": null,
-      "venue_tag": "Boulder Theater",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Concert",
-        "Theater"
-      ],
-      "event_type_tags": []
     },
     {
       "id": "fox_theatre_boulder_room_battle_of_the_houses_jan_29_2026_none",

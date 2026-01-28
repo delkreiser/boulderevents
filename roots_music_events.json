@@ -1,25 +1,5 @@
 [
   {
-    "title": "Workshop Series: Roots on the Road - Pro Audio and Live Sound",
-    "description": "Roots on the Road brings professional live music production to community events, supporting local artists & training audio volunteers",
-    "link": "https://www.eventbrite.com/e/workshop-series-roots-on-the-road-pro-audio-and-live-sound-tickets-1979890068492",
-    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175879096%2F1125606624043%2F1%2Foriginal.20260126-202904?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=c104fde8fdb008d950598b3fd4df3eb7",
-    "date": "January 27, 2026",
-    "time": "6:30 PM - 8:00 PM",
-    "venue": "Roots Music Project",
-    "location": "Boulder",
-    "category": "Music",
-    "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
-    "event_type_tags": [
-      "Live Music"
-    ],
-    "venue_type_tags": [
-      "Live Music",
-      "Community"
-    ],
-    "age_restriction": "21+"
-  },
-  {
     "title": "Dana Kyle Stokes, Dave Boylan & Steve Koppe: Songwriters In the Round",
     "description": "Three legendary Colorado songwriters share stories and songs in an intimate acoustic evening celebrating 50 years of craft and community.",
     "link": "https://www.eventbrite.com/e/dana-kyle-stokes-dave-boylan-steve-koppe-songwriters-in-the-round-tickets-1979886555986",
@@ -403,9 +383,9 @@
     "title": "RMP Workshop: Logic Pro Workshop: Basic Recording Techniques",
     "description": "Learn recording & mixing basics in Logic Pro: setup, gain staging, EQ & compression. Beginner-friendly, skills transfer to other DAWs.",
     "link": "https://www.eventbrite.com/e/rmp-workshop-logic-pro-workshop-basic-recording-techniques-tickets-1981533827018",
-    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175782712%2F1125606624043%2F1%2Foriginal.20260125-200725?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=7961cf8393ea75340e00d107fbcbc14d",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176011051%2F1125606624043%2F1%2Foriginal.20260127-235941?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=cf6ea20501fe1174e7efece9b2a308b4",
     "date": "March 03, 2026",
-    "time": "6:30 PM - 8:00 PM",
+    "time": "5:00 PM - 6:30 PM",
     "venue": "Roots Music Project",
     "location": "Boulder",
     "category": "Music",
@@ -466,6 +446,26 @@
     "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175270585%2F1125606624043%2F1%2Foriginal.20260119-195609?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=1f3b5539fe3648964b257dcca37699f8",
     "date": "March 07, 2026",
     "time": "8:00 PM - 11:30 PM",
+    "venue": "Roots Music Project",
+    "location": "Boulder",
+    "category": "Music",
+    "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
+    "event_type_tags": [
+      "Live Music"
+    ],
+    "venue_type_tags": [
+      "Live Music",
+      "Community"
+    ],
+    "age_restriction": "21+"
+  },
+  {
+    "title": "RMP Vinyl Release: GEN3, Fruta Brutal",
+    "description": "Celebrate the Release of RMP On The Rise Vol. 1 with live performances from GEN3 and Fruta Brutal!",
+    "link": "https://www.eventbrite.com/e/rmp-vinyl-release-gen3-fruta-brutal-tickets-1981789415490",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175971300%2F1125606624043%2F1%2Foriginal.20260127-174610?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=8d4170fe920a976f2ecb378057061879",
+    "date": "March 20, 2026",
+    "time": "8:00 PM - 11:00 PM",
     "venue": "Roots Music Project",
     "location": "Boulder",
     "category": "Music",

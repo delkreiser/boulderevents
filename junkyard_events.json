@@ -1,32 +1,5 @@
 [
   {
-    "title": "Flow Jam",
-    "categories": [
-      "Community",
-      "Dance/Music",
-      "Educational"
-    ],
-    "date": "Tuesday, January 27, 2026",
-    "time": "6:00 -9:00 PM",
-    "link": "https://junkyardsocialclub.org/drop-in-event/flow-jam/",
-    "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/09/FlowJam-2025-768x768.jpg",
-    "venue": "Junkyard Social Club",
-    "source_url": "https://junkyardsocialclub.org/events/"
-  },
-  {
-    "title": "Drop-In Mahjongg \u2013 Tuesdays",
-    "categories": [
-      "Community",
-      "Games"
-    ],
-    "date": "Tuesday, January 27, 2026",
-    "time": "12:00 - 2:00 PM",
-    "link": "https://junkyardsocialclub.org/drop-in-event/drop-in-mahjongg-tuesdays/",
-    "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/08/Drop-In-MahJongg-Tuesday.jpg",
-    "venue": "Junkyard Social Club",
-    "source_url": "https://junkyardsocialclub.org/events/"
-  },
-  {
     "title": "Speed Dating with The Big Dream",
     "categories": [
       "Community"
@@ -308,9 +281,9 @@
     "date": "Sunday, February 22, 2026",
     "time": "4:30 - 5:30: Writing Workshop | 6:00 - 8:00: Open Mic",
     "link": "https://junkyardsocialclub.org/drop-in-event/queer-art-organics-open-mic/",
+    "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/07/QAO-monthly.jpg",
     "venue": "Junkyard Social Club",
-    "source_url": "https://junkyardsocialclub.org/events/",
-    "image": "junkyard.jpg"
+    "source_url": "https://junkyardsocialclub.org/events/"
   },
   {
     "title": "Fresh A La Mode",
