@@ -1,25 +1,5 @@
 [
   {
-    "title": "Back to the 2000s: Nostalgic Dance Party Fundraiser",
-    "description": "Dance to 2000s hits while supporting young musicians through TEMPO. Every ticket helps the next generation of artists shine.",
-    "link": "https://www.eventbrite.com/e/back-to-the-2000s-nostalgic-dance-party-fundraiser-tickets-1963304920869",
-    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1170207805%2F1125606624043%2F1%2Foriginal.20251105-142633?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=b319148df868e3a8d70afdbd82f4c3ae",
-    "date": "January 29, 2026",
-    "time": "8:00 PM - 11:00 PM",
-    "venue": "Roots Music Project",
-    "location": "Boulder",
-    "category": "Music",
-    "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
-    "event_type_tags": [
-      "Live Music"
-    ],
-    "venue_type_tags": [
-      "Live Music",
-      "Community"
-    ],
-    "age_restriction": "21+"
-  },
-  {
     "title": "The Gentlethem’s Club: A Mystic Moonlit Cabaret",
     "description": "Welcome to The Gentlethem’s Club, a sensual evening  with the vintage charm of cabaret.",
     "link": "https://www.eventbrite.com/e/the-gentlethems-club-a-mystic-moonlit-cabaret-tickets-1979414771867",
@@ -346,6 +326,26 @@
     "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174246812%2F1125606624043%2F1%2Foriginal.20260107-204920?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=0b6d4cf4543dbfad344af605632aa73c",
     "date": "February 28, 2026",
     "time": "7:00 PM - 10:00 PM",
+    "venue": "Roots Music Project",
+    "location": "Boulder",
+    "category": "Music",
+    "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
+    "event_type_tags": [
+      "Live Music"
+    ],
+    "venue_type_tags": [
+      "Live Music",
+      "Community"
+    ],
+    "age_restriction": "21+"
+  },
+  {
+    "title": "Back to the 2000s: Nostalgic Dance Party Fundraiser",
+    "description": "Dance to 2000s hits while supporting young musicians through TEMPO. Every ticket helps the next generation of artists shine.",
+    "link": "https://www.eventbrite.com/e/back-to-the-2000s-nostalgic-dance-party-fundraiser-tickets-1963304920869",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1170207805%2F1125606624043%2F1%2Foriginal.20251105-142633?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=b319148df868e3a8d70afdbd82f4c3ae",
+    "date": "February 28, 2026",
+    "time": "8:00 PM - 11:00 PM",
     "venue": "Roots Music Project",
     "location": "Boulder",
     "category": "Music",

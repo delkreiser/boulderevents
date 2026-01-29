@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T08:40:17.365712",
-  "total_events": 332,
+  "generated_at": "2026-01-29T18:44:53.903911",
+  "total_events": 311,
   "tags": {
     "venues": [
       "300 Suns Brewing",
@@ -9,7 +9,6 @@
       "Bricks on Main",
       "Fox Theatre",
       "Jungle",
-      "Junkyard Social Club",
       "License No 1",
       "Longs Peak Pub",
       "Louisville Street Faire",
@@ -52,7 +51,6 @@
       "Live Music",
       "Music",
       "Nightlife",
-      "Performance",
       "Pub",
       "Retail",
       "Theater",
@@ -66,7 +64,6 @@
       "Community",
       "DJ",
       "Dance",
-      "Educational",
       "Entertainment",
       "Family Friendly",
       "Free",
@@ -77,8 +74,7 @@
       "Live Music",
       "Music",
       "Nightlife",
-      "Open Mic",
-      "Performance"
+      "Open Mic"
     ]
   },
   "events": [
@@ -370,628 +366,6 @@
       "event_type_tags": [
         "Live Music",
         "Nightlife"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_drop_in_mahjongg_thursdays_thursday_january_29_2026_3_30_5_30_pm",
-      "title": "Drop-In Mahjongg \u2013 Thursdays",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Thursday, January 29, 2026",
-      "normalized_date": "2026-01-29T00:00:00",
-      "recurring": null,
-      "time": "3:30 - 5:30 PM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://junkyardsocialclub.org/drop-in-event/drop-in-mahjongg-thursdays/",
-      "ticket_link": null,
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/08/Drop-In-Mah-Jongg-Thursday.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Games",
-        "Community"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_poletry_friday_january_30_2026_7_00_pm_doors_and_market_8_00_pm_show",
-      "title": "Poletry",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Friday, January 30, 2026",
-      "normalized_date": "2026-01-30T00:00:00",
-      "recurring": null,
-      "time": "7:00 PM Doors and Market | 8:00 PM Show",
-      "description": "",
-      "additional_info": "Must be age 18+",
-      "link": "https://junkyardsocialclub.org/event/poletry/",
-      "ticket_link": null,
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/12/poletry-768x768.jpeg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Performance",
-        "Music",
-        "Community"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_cathartic_compost_saturday_night_saturday_january_31_2026_6_00_pm_doors_7_00_pm_show",
-      "title": "cathARTic compost \u2013 Saturday Night",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Saturday, January 31, 2026",
-      "normalized_date": "2026-01-31T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM Doors | 7:00 PM Show",
-      "description": "",
-      "additional_info": "Ages 18+",
-      "link": "https://junkyardsocialclub.org/product/cathartic-compost-saturday/",
-      "ticket_link": null,
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/10/cathARTic-compost.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Performance",
-        "Music",
-        "Community"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_cathartic_compost_sunday_night_sunday_february_1_2026_6_00_pm_doors_7_00_pm_show",
-      "title": "cathARTic compost \u2013 Sunday Night",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Sunday, February 1, 2026",
-      "normalized_date": "2026-02-01T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM Doors | 7:00 PM Show",
-      "description": "",
-      "additional_info": "Ages 18+",
-      "link": "https://junkyardsocialclub.org/product/cathartic-compost-sunday/",
-      "ticket_link": null,
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/10/cathARTic-compost.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Performance",
-        "Music",
-        "Community"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_community_craft_night_wednesday_february_4_2026_6_00_8_30_pm",
-      "title": "Community Craft Night",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Wednesday, February 4, 2026",
-      "normalized_date": "2026-02-04T00:00:00",
-      "recurring": null,
-      "time": "6:00 - 8:30 PM",
-      "description": "",
-      "additional_info": "All Ages are Welcome",
-      "link": "https://junkyardsocialclub.org/drop-in-event/community-craft-night/",
-      "ticket_link": null,
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/10/Community-Craft-Night.jpeg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": "All Ages",
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "All Ages",
-        "Community"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_stage_party_thursday_february_5_2026_7_00_pm_doors_8_00_pm_show",
-      "title": "Stage Party",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Thursday, February 5, 2026",
-      "normalized_date": "2026-02-05T00:00:00",
-      "recurring": null,
-      "time": "7:00 PM Doors | 8:00 PM  Show",
-      "description": "",
-      "additional_info": "All Ages are Welcome",
-      "link": "https://junkyardsocialclub.org/drop-in-event/stage-party/",
-      "ticket_link": null,
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/03/Boulder-Juggling-Stage-Party-768x402.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": "All Ages",
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Performance",
-        "Music",
-        "All Ages",
-        "Community"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_boulder_food_not_bombs_fundraiser_saturday_february_7_2026_7_00_pm_show_8_00_pm_show",
-      "title": "Boulder Food Not Bombs Fundraiser",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Saturday, February 7, 2026",
-      "normalized_date": "2026-02-07T00:00:00",
-      "recurring": null,
-      "time": "7:00 PM Show |  8:00 PM Show",
-      "description": "",
-      "additional_info": "Must be age 18+",
-      "link": "https://junkyardsocialclub.org/event/boulder-food-not-bombs-fundraiser/",
-      "ticket_link": null,
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2026/01/FoodNotBombs-Boulder.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Music",
-        "Community"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_making_better_friends_a_salon_for_deepening_your_relationships_monday_february_9_2026_5_00_pm_doors_5_30_start_8_00_end",
-      "title": "Making Better Friends: A Salon for Deepening Your Relationships",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Monday, February 9, 2026",
-      "normalized_date": "2026-02-09T00:00:00",
-      "recurring": null,
-      "time": "5:00 PM Doors | 5:30 Start | 8:00 End",
-      "description": "",
-      "additional_info": "Must be age 18+",
-      "link": "https://junkyardsocialclub.org/event/making-better-friends/",
-      "ticket_link": null,
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2026/01/making-better-friends-salon-Raman-Chadha-768x768.jpeg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Educational",
-        "Community"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_osmp_after_dark_a_valentine_s_day_trivia_event_tuesday_february_10_2026_6_00_8_00_pm",
-      "title": "OSMP After Dark: A Valentine\u2019s Day Trivia Event",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Tuesday, February 10, 2026",
-      "normalized_date": "2026-02-10T00:00:00",
-      "recurring": null,
-      "time": "6:00 - 8:00 PM",
-      "description": "",
-      "additional_info": "Must be age 18+",
-      "link": "https://junkyardsocialclub.org/drop-in-event/osmp-after-dark/",
-      "ticket_link": null,
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/12/OSMP-After-Dark-Flyer-768x993.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Educational",
-        "Games",
-        "Community"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_b_e_a_t_meet_up_wednesday_february_11_2026_6_00_7_00_pm",
-      "title": "B.E.A.T. Meet-Up",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Wednesday, February 11, 2026",
-      "normalized_date": "2026-02-11T00:00:00",
-      "recurring": null,
-      "time": "6:00 - 7:00 PM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://junkyardsocialclub.org/drop-in-event/b-e-a-t-meet-up/",
-      "ticket_link": null,
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/06/BEAT-768x768.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Community"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_boulder_burner_meet_up_wednesday_february_11_2026_6_30_8_30_pm",
-      "title": "Boulder Burner Meet-up",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Wednesday, February 11, 2026",
-      "normalized_date": "2026-02-11T00:00:00",
-      "recurring": null,
-      "time": "6:30 - 8:30 PM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://junkyardsocialclub.org/drop-in-event/burner/",
-      "ticket_link": null,
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/07/Burner-768x434.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Community"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_junkyard_game_night_thursday_february_12_2026_6_00_9_00_pm",
-      "title": "Junkyard Game Night",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Thursday, February 12, 2026",
-      "normalized_date": "2026-02-12T00:00:00",
-      "recurring": null,
-      "time": "6:00 - 9:00 PM",
-      "description": "",
-      "additional_info": "All Ages are Welcome",
-      "link": "https://junkyardsocialclub.org/drop-in-event/junkyard-game-night/",
-      "ticket_link": null,
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/06/Game-Night-768x768.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": "All Ages",
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Games",
-        "Family Friendly",
-        "All Ages",
-        "Community"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_fusion_partner_dance_thursday_february_12_2026_doors_6_30_class_6_45_pm_social_dance_7_15",
-      "title": "Fusion Partner Dance",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Thursday, February 12, 2026",
-      "normalized_date": "2026-02-12T00:00:00",
-      "recurring": null,
-      "time": "Doors 6:30 | Class 6:45 PM | Social Dance 7:15",
-      "description": "",
-      "additional_info": "",
-      "link": "https://junkyardsocialclub.org/product/fusion-partner-dance/",
-      "ticket_link": null,
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/06/Fusion-Dance-768x768.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Music",
-        "Community"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_salsaton_events_friday_february_13_2026_7_30_11_00_pm",
-      "title": "Salsaton Events",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Friday, February 13, 2026",
-      "normalized_date": "2026-02-13T00:00:00",
-      "recurring": null,
-      "time": "7:30 - 11:00 PM",
-      "description": "",
-      "additional_info": "Family Friendly",
-      "link": "https://junkyardsocialclub.org/product/salsaton-events/",
-      "ticket_link": null,
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/12/Salsaton-Dance-Party-768x644.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": "All Ages",
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Family Friendly",
-        "Performance",
-        "Community",
-        "Music",
-        "All Ages"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_unicorn_love_party_love_in_retrograde_saturday_february_14_2026_7_pm_unicorn_speed_bonding_10_add_on_ticket_8_pm_prompted_love_story_telling_8_30_12_30_dance_party_all_night_temple_of_lost_loves",
-      "title": "Unicorn Love Party: Love in Retrograde",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Saturday, February 14, 2026",
-      "normalized_date": "2026-02-14T00:00:00",
-      "recurring": null,
-      "time": "7 PM Unicorn Speed-Bonding ($10 add-on ticket) | 8 PM Prompted Love Story-telling | 8:30 - 12:30 Dance Party | All-Night: Temple of Lost Loves",
-      "description": "",
-      "additional_info": "Must be age 21+",
-      "link": "https://junkyardsocialclub.org/product/unicorn-love-party/",
-      "ticket_link": null,
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2026/01/Unicorn-Love-Party.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Performance",
-        "Music",
-        "Community"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_love_a_salon_on_a_central_human_experience_saturday_february_14_2026_8_00_am_doors_8_30_am_start_11_00_am_end",
-      "title": "Love: A Salon on a Central Human Experience",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Saturday, February 14, 2026",
-      "normalized_date": "2026-02-14T00:00:00",
-      "recurring": null,
-      "time": "8:00 AM Doors | 8:30 AM Start | 11:00 AM End",
-      "description": "",
-      "additional_info": "Must be age 18+",
-      "link": "https://junkyardsocialclub.org/event/love-salon/",
-      "ticket_link": null,
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2026/01/love-salon-Raman-Chadha-768x768.jpeg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Educational",
-        "Community"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_salsa_sunday_sunday_february_15_2026_5_00_pm_7_30_pm",
-      "title": "Salsa Sunday",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Sunday, February 15, 2026",
-      "normalized_date": "2026-02-15T00:00:00",
-      "recurring": null,
-      "time": "5:00 PM - 7:30 PM",
-      "description": "",
-      "additional_info": "Family Friendly",
-      "link": "https://junkyardsocialclub.org/drop-in-event/salsa-sunday/",
-      "ticket_link": null,
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/09/Salsa-Sunday-1.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": "All Ages",
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Music",
-        "All Ages",
-        "Community",
-        "Family Friendly"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_hot_nonsense_presents_hot_toasty_boogie_down_friday_february_20_2026_7_pm_doors_7_30_show_ends_at_midnight",
-      "title": "Hot Nonsense Presents: Hot Toasty Boogie Down",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Friday, February 20, 2026",
-      "normalized_date": "2026-02-20T00:00:00",
-      "recurring": null,
-      "time": "7 pm Doors | 7:30 Show | Ends at Midnight",
-      "description": "",
-      "additional_info": "Must be age 18+",
-      "link": "https://junkyardsocialclub.org/drop-in-event/hot-nonsense-presents/",
-      "ticket_link": null,
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2026/01/Hot-Nonsense-Hot-Toasty-Boogie-Down.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Performance",
-        "Music",
-        "Community"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_queer_art_organics_open_mic_sunday_february_22_2026_4_30_5_30_writing_workshop_6_00_8_00_open_mic",
-      "title": "Queer Art Organics Open Mic",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Sunday, February 22, 2026",
-      "normalized_date": "2026-02-22T00:00:00",
-      "recurring": null,
-      "time": "4:30 - 5:30: Writing Workshop | 6:00 - 8:00: Open Mic",
-      "description": "",
-      "additional_info": "",
-      "link": "https://junkyardsocialclub.org/drop-in-event/queer-art-organics-open-mic/",
-      "ticket_link": null,
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/07/QAO-monthly.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Performance",
-        "Community"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_fresh_a_la_mode_saturday_march_14_2026_7_00_11_00_pm",
-      "title": "Fresh A La Mode",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Saturday, March 14, 2026",
-      "normalized_date": "2026-03-14T00:00:00",
-      "recurring": null,
-      "time": "7:00 - 11:00 PM",
-      "description": "",
-      "additional_info": "Must be age 18+",
-      "link": "https://junkyardsocialclub.org/event/fresh-ala-mode/",
-      "ticket_link": null,
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2026/01/Fresh-A-La-Mode-768x1186.jpeg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Music",
-        "Community"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_blue_dime_cabaret_presents_2_blue_4_u_friday_april_3_2026_7_30_pm_doors_8_pm_curtain_ends_9_30pm",
-      "title": "Blue Dime Cabaret Presents: 2 Blue 4 U!",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Friday, April 3, 2026",
-      "normalized_date": "2026-04-03T00:00:00",
-      "recurring": null,
-      "time": "7:30 PM Doors | 8 PM Curtain | Ends 9:30pm",
-      "description": "",
-      "additional_info": "Must be age 18+",
-      "link": "https://junkyardsocialclub.org/event/blue-dime-cabaret-presents/",
-      "ticket_link": null,
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2026/01/Blue-Dime-Cabaret-768x848.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Performance",
-        "Music"
       ]
     },
     {
@@ -6995,32 +6369,6 @@
       ]
     },
     {
-      "id": "roots_music_project_back_to_the_2000s_nostalgic_dance_party_fundraiser_january_29_2026_8_00_pm_11_00_pm",
-      "title": "Back to the 2000s: Nostalgic Dance Party Fundraiser",
-      "venue": "Roots Music Project",
-      "location": "Boulder",
-      "date": "January 29, 2026",
-      "normalized_date": "2026-01-29T00:00:00",
-      "recurring": null,
-      "time": "8:00 PM - 11:00 PM",
-      "description": "Dance to 2000s hits while supporting young musicians through TEMPO. Every ticket helps the next generation of artists shine.",
-      "additional_info": "",
-      "link": "https://www.eventbrite.com/e/back-to-the-2000s-nostalgic-dance-party-fundraiser-tickets-1963304920869",
-      "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1170207805%2F1125606624043%2F1%2Foriginal.20251105-142633?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=b319148df868e3a8d70afdbd82f4c3ae",
-      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
-      "age_restriction": "21+",
-      "venue_tag": "Roots Music Project",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Community"
-      ],
-      "event_type_tags": [
-        "Live Music"
-      ]
-    },
-    {
       "id": "roots_music_project_the_gentlethem_s_club_a_mystic_moonlit_cabaret_january_30_2026_8_00_pm_11_00_pm",
       "title": "The Gentlethem\u2019s Club: A Mystic Moonlit Cabaret",
       "venue": "Roots Music Project",
@@ -7450,6 +6798,32 @@
       "link": "https://www.eventbrite.com/e/asteroid-please-bear-hat-rmp-vinyl-release-party-benefiting-ms-tickets-1980026672077",
       "ticket_link": null,
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174246812%2F1125606624043%2F1%2Foriginal.20260107-204920?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=0b6d4cf4543dbfad344af605632aa73c",
+      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_back_to_the_2000s_nostalgic_dance_party_fundraiser_february_28_2026_8_00_pm_11_00_pm",
+      "title": "Back to the 2000s: Nostalgic Dance Party Fundraiser",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": "February 28, 2026",
+      "normalized_date": "2026-02-28T00:00:00",
+      "recurring": null,
+      "time": "8:00 PM - 11:00 PM",
+      "description": "Dance to 2000s hits while supporting young musicians through TEMPO. Every ticket helps the next generation of artists shine.",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/back-to-the-2000s-nostalgic-dance-party-fundraiser-tickets-1963304920869",
+      "ticket_link": null,
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1170207805%2F1125606624043%2F1%2Foriginal.20251105-142633?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=b319148df868e3a8d70afdbd82f4c3ae",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
