@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T18:39:45.402952",
-  "total_events": 334,
+  "generated_at": "2026-01-29T08:40:17.365712",
+  "total_events": 332,
   "tags": {
     "venues": [
       "300 Suns Brewing",
@@ -373,34 +373,6 @@
       ]
     },
     {
-      "id": "junkyard_social_club_speed_dating_with_the_big_dream_wednesday_january_28_2026_6_30_8_30_pm",
-      "title": "Speed Dating with The Big Dream",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Wednesday, January 28, 2026",
-      "normalized_date": "2026-01-28T00:00:00",
-      "recurring": null,
-      "time": "6:30 - 8:30 PM",
-      "description": "",
-      "additional_info": "Must be age 18+",
-      "link": "https://junkyardsocialclub.org/event/speed-dating-with-the-big-dream-2/",
-      "ticket_link": null,
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2026/01/Speed-Dating-768x768.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Community"
-      ]
-    },
-    {
       "id": "junkyard_social_club_drop_in_mahjongg_thursdays_thursday_january_29_2026_3_30_5_30_pm",
       "title": "Drop-In Mahjongg \u2013 Thursdays",
       "venue": "Junkyard Social Club",
@@ -454,9 +426,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Performance",
-        "Music"
+        "Music",
+        "Community"
       ]
     },
     {
@@ -484,9 +456,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Performance",
-        "Music"
+        "Music",
+        "Community"
       ]
     },
     {
@@ -514,9 +486,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Performance",
-        "Music"
+        "Music",
+        "Community"
       ]
     },
     {
@@ -544,8 +516,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "All Ages"
+        "All Ages",
+        "Community"
       ]
     },
     {
@@ -573,10 +545,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "All Ages",
         "Performance",
-        "Music"
+        "Music",
+        "All Ages",
+        "Community"
       ]
     },
     {
@@ -604,8 +576,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Music"
+        "Music",
+        "Community"
       ]
     },
     {
@@ -633,8 +605,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Educational"
+        "Educational",
+        "Community"
       ]
     },
     {
@@ -662,9 +634,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Educational",
         "Games",
-        "Community",
-        "Educational"
+        "Community"
       ]
     },
     {
@@ -749,9 +721,9 @@
       ],
       "event_type_tags": [
         "Games",
-        "Community",
         "Family Friendly",
-        "All Ages"
+        "All Ages",
+        "Community"
       ]
     },
     {
@@ -779,8 +751,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Music"
+        "Music",
+        "Community"
       ]
     },
     {
@@ -808,11 +780,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "Family Friendly",
+        "Performance",
         "Community",
-        "All Ages",
-        "Music"
+        "Music",
+        "All Ages"
       ]
     },
     {
@@ -840,9 +812,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Performance",
-        "Music"
+        "Music",
+        "Community"
       ]
     },
     {
@@ -870,8 +842,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Educational"
+        "Educational",
+        "Community"
       ]
     },
     {
@@ -899,10 +871,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
+        "Music",
         "All Ages",
-        "Family Friendly",
-        "Music"
+        "Community",
+        "Family Friendly"
       ]
     },
     {
@@ -930,9 +902,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Performance",
-        "Music"
+        "Music",
+        "Community"
       ]
     },
     {
@@ -960,8 +932,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Performance"
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -989,8 +961,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Music"
+        "Music",
+        "Community"
       ]
     },
     {
@@ -4239,34 +4211,6 @@
       ]
     },
     {
-      "id": "license_no_1_live_music_with_george_nelson_band_wednesday_january_28_2026_8_00_pm_11_59_pm",
-      "title": "Live Music With George Nelson Band",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": "Wednesday, January 28, 2026",
-      "normalized_date": "2026-01-28T00:00:00",
-      "recurring": null,
-      "time": "8:00\u202fPM - 11:59\u202fPM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.license1boulderado.com/calendar/3pt6jf7dxsre2gpdp9t52mh2dt98n2",
-      "ticket_link": null,
-      "image": "licenseno1.jpg",
-      "source_url": "https://www.license1boulderado.com/calendar",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Nightlife"
-      ]
-    },
-    {
       "id": "license_no_1_the_underground_comedy_showcase_thursday_january_29_2026_8_00_pm_9_00_pm",
       "title": "The Underground Comedy Showcase",
       "venue": "License No 1",
@@ -6629,34 +6573,6 @@
       ]
     },
     {
-      "id": "bricks_on_main_niwot_hs_band_performance_january_28_2026_7_00_pm_9_00_pm",
-      "title": "Niwot HS Band Performance",
-      "venue": "Bricks on Main",
-      "location": "Longmont",
-      "date": "January 28, 2026",
-      "normalized_date": "2026-01-28T00:00:00",
-      "recurring": null,
-      "time": "7:00 PM - 9:00 PM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.bricksretail.com/event-details/niwot-hs-band-performance",
-      "ticket_link": null,
-      "image": "https://static.wixstatic.com/media/ea2d6f_ea03fa4a91a74d919959387107889367~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_ea03fa4a91a74d919959387107889367~mv2.jpg",
-      "source_url": "https://www.bricksretail.com/events-calendar",
-      "age_restriction": null,
-      "venue_tag": "Bricks on Main",
-      "location_tag": "Longmont",
-      "venue_type_tags": [
-        "Community",
-        "Retail",
-        "Entertainment"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Entertainment"
-      ]
-    },
-    {
       "id": "bricks_on_main_john_bunzli_cafe_con_leche_songs_january_29_2026_6_00_pm_9_00_pm",
       "title": "John Bunzli: Cafe Con Leche Songs",
       "venue": "Bricks on Main",
@@ -6911,6 +6827,34 @@
       ]
     },
     {
+      "id": "bricks_on_main_defunkt_railroad_february_12_2026_6_00_pm_8_00_pm",
+      "title": "Defunkt Railroad",
+      "venue": "Bricks on Main",
+      "location": "Longmont",
+      "date": "February 12, 2026",
+      "normalized_date": "2026-02-12T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM - 8:00 PM",
+      "description": "Defunkt Railroad plays a mix of New Orleans Funk, Zydeco, Blues, Rock, and R&B.",
+      "additional_info": "",
+      "link": "https://www.bricksretail.com/event-details/defunkt-railroad-1",
+      "ticket_link": null,
+      "image": "https://static.wixstatic.com/media/f119ff_474ffe9449e3435a86c6fea4340410a5~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/f119ff_474ffe9449e3435a86c6fea4340410a5~mv2.jpg",
+      "source_url": "https://www.bricksretail.com/events-calendar",
+      "age_restriction": null,
+      "venue_tag": "Bricks on Main",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Community",
+        "Retail",
+        "Entertainment"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Entertainment"
+      ]
+    },
+    {
       "id": "bricks_on_main_the_big_spenders_february_13_2026_6_00_pm_9_00_pm",
       "title": "The Big Spenders",
       "venue": "Bricks on Main",
@@ -6952,6 +6896,34 @@
       "link": "https://www.bricksretail.com/event-details/the-pamlico-sound-valentines-day-show",
       "ticket_link": null,
       "image": "https://static.wixstatic.com/media/ea2d6f_6fac67f7ef3e4e5e99f728a3fa8c8065~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_6fac67f7ef3e4e5e99f728a3fa8c8065~mv2.jpg",
+      "source_url": "https://www.bricksretail.com/events-calendar",
+      "age_restriction": null,
+      "venue_tag": "Bricks on Main",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Community",
+        "Retail",
+        "Entertainment"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "bricks_on_main_celebration_of_life_for_davy_allard_february_15_2026_4_00_pm_7_00_pm",
+      "title": "Celebration of Life for Davy Allard",
+      "venue": "Bricks on Main",
+      "location": "Longmont",
+      "date": "February 15, 2026",
+      "normalized_date": "2026-02-15T00:00:00",
+      "recurring": null,
+      "time": "4:00 PM - 7:00 PM",
+      "description": "Davy made an indelible mark on the music community of Longmont and across the front range. Come celebrate his life with music, food and friends. He will be sorely missed! Hosted by his family and friends. Open to all.",
+      "additional_info": "",
+      "link": "https://www.bricksretail.com/event-details/celebration-of-life-for-davy-allard",
+      "ticket_link": null,
+      "image": "https://static.wixstatic.com/media/f119ff_f6226ef0578f4462b317079b76ab19c4~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/f119ff_f6226ef0578f4462b317079b76ab19c4~mv2.jpg",
       "source_url": "https://www.bricksretail.com/events-calendar",
       "age_restriction": null,
       "venue_tag": "Bricks on Main",
@@ -7020,60 +6992,6 @@
       "event_type_tags": [
         "Live Music",
         "Entertainment"
-      ]
-    },
-    {
-      "id": "bricks_on_main_dj_drake_february_21_2026_7_00_pm_10_00_pm",
-      "title": "DJ Drake",
-      "venue": "Bricks on Main",
-      "location": "Longmont",
-      "date": "February 21, 2026",
-      "normalized_date": "2026-02-21T00:00:00",
-      "recurring": null,
-      "time": "7:00 PM - 10:00 PM",
-      "description": "Longmont's very own DJ Drake will share the stage with longtime friend and renowned DJ Uplifter (now based in Kona), for the ultimate tribute to our top two legends, Michael Jackson and Prince. Get ready to dance to the all the hits and some supporting artists, like The Jacksons & Morris Day.",
-      "additional_info": "",
-      "link": "https://www.bricksretail.com/event-details/dj-drake",
-      "ticket_link": null,
-      "image": "https://static.wixstatic.com/media/ea2d6f_f0a1df2f79694e98b9b192524b194061~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_f0a1df2f79694e98b9b192524b194061~mv2.jpg",
-      "source_url": "https://www.bricksretail.com/events-calendar",
-      "age_restriction": null,
-      "venue_tag": "Bricks on Main",
-      "location_tag": "Longmont",
-      "venue_type_tags": [
-        "Community",
-        "Retail",
-        "Entertainment"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Entertainment"
-      ]
-    },
-    {
-      "id": "roots_music_project_dana_kyle_stokes_dave_boylan_steve_koppe_songwriters_in_the_round_january_28_2026_7_00_pm_10_00_pm",
-      "title": "Dana Kyle Stokes, Dave Boylan & Steve Koppe: Songwriters In the Round",
-      "venue": "Roots Music Project",
-      "location": "Boulder",
-      "date": "January 28, 2026",
-      "normalized_date": "2026-01-28T00:00:00",
-      "recurring": null,
-      "time": "7:00 PM - 10:00 PM",
-      "description": "Three legendary Colorado songwriters share stories and songs in an intimate acoustic evening celebrating 50 years of craft and community.",
-      "additional_info": "",
-      "link": "https://www.eventbrite.com/e/dana-kyle-stokes-dave-boylan-steve-koppe-songwriters-in-the-round-tickets-1979886555986",
-      "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174119807%2F1125606624043%2F1%2Foriginal.20260106-172927?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=ee51173d4fd5b43bce53d99225501551",
-      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
-      "age_restriction": "21+",
-      "venue_tag": "Roots Music Project",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Community"
-      ],
-      "event_type_tags": [
-        "Live Music"
       ]
     },
     {
@@ -7297,7 +7215,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/stephen-kellogg-and-the-homecoming-wspecial-guest-gutter-sinatra-night-1-tickets-1730968386039",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1131586293%2F1125606624043%2F1%2Foriginal.20250922-165943?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=6d0a7dbfe4d4c1a4543850c9d3a9ff68",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1131586293%2F1125606624043%2F1%2Foriginal.20250922-165943?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=b68c107806a260e39f4b828e81b3fe50",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -7323,7 +7241,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/stephen-kellogg-and-the-homecoming-wspecial-guest-gutter-sinatra-night-2-tickets-1730981384919",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1131586293%2F1125606624043%2F1%2Foriginal.20250922-165943?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=6d0a7dbfe4d4c1a4543850c9d3a9ff68",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1131586293%2F1125606624043%2F1%2Foriginal.20250922-165943?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=b68c107806a260e39f4b828e81b3fe50",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -7662,6 +7580,32 @@
       "link": "https://www.eventbrite.com/e/rmp-vinyl-release-gen3-fruta-brutal-tickets-1981789415490",
       "ticket_link": null,
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175971300%2F1125606624043%2F1%2Foriginal.20260127-174610?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=8d4170fe920a976f2ecb378057061879",
+      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_roots_music_project_workshop_creative_production_techniques_march_23_2026_6_30_pm_8_00_pm",
+      "title": "Roots Music Project Workshop: Creative Production Techniques",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": "March 23, 2026",
+      "normalized_date": "2026-03-23T00:00:00",
+      "recurring": null,
+      "time": "6:30 PM - 8:00 PM",
+      "description": "Learn experimental production techniques in Ableton. Create ambient soundscapes. Beginner-intermediate. Bring laptop, MIDI controller",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/roots-music-project-workshop-creative-production-techniques-tickets-1981535896207",
+      "ticket_link": null,
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175786093%2F1125606624043%2F1%2Foriginal.20260125-205803?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=42e5a0348b57df3a97d1baac356bd137",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",

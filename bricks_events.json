@@ -1,25 +1,5 @@
 [
   {
-    "link": "https://www.bricksretail.com/event-details/niwot-hs-band-performance",
-    "title": "Niwot HS Band Performance",
-    "date": "January 28, 2026",
-    "time": "7:00 PM - 9:00 PM",
-    "image": "https://static.wixstatic.com/media/ea2d6f_ea03fa4a91a74d919959387107889367~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_ea03fa4a91a74d919959387107889367~mv2.jpg",
-    "venue": "Bricks on Main",
-    "location": "Longmont",
-    "category": "Music",
-    "source_url": "https://www.bricksretail.com/events-calendar",
-    "event_type_tags": [
-      "Live Music",
-      "Entertainment"
-    ],
-    "venue_type_tags": [
-      "Music Venue",
-      "Bar",
-      "Restaurant"
-    ]
-  },
-  {
     "link": "https://www.bricksretail.com/event-details/john-bunzli-cafe-con-leche-songs",
     "title": "John Bunzli: Cafe Con Leche Songs",
     "date": "January 29, 2026",
@@ -211,6 +191,27 @@
     ]
   },
   {
+    "link": "https://www.bricksretail.com/event-details/defunkt-railroad-1",
+    "title": "Defunkt Railroad",
+    "date": "February 12, 2026",
+    "time": "6:00 PM - 8:00 PM",
+    "description": "Defunkt Railroad plays a mix of New Orleans Funk, Zydeco, Blues, Rock, and R&B.",
+    "image": "https://static.wixstatic.com/media/f119ff_474ffe9449e3435a86c6fea4340410a5~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/f119ff_474ffe9449e3435a86c6fea4340410a5~mv2.jpg",
+    "venue": "Bricks on Main",
+    "location": "Longmont",
+    "category": "Music",
+    "source_url": "https://www.bricksretail.com/events-calendar",
+    "event_type_tags": [
+      "Live Music",
+      "Entertainment"
+    ],
+    "venue_type_tags": [
+      "Music Venue",
+      "Bar",
+      "Restaurant"
+    ]
+  },
+  {
     "link": "https://www.bricksretail.com/event-details/the-big-spenders",
     "title": "The Big Spenders",
     "date": "February 13, 2026",
@@ -253,6 +254,27 @@
     ]
   },
   {
+    "link": "https://www.bricksretail.com/event-details/celebration-of-life-for-davy-allard",
+    "title": "Celebration of Life for Davy Allard",
+    "date": "February 15, 2026",
+    "time": "4:00 PM - 7:00 PM",
+    "description": "Davy made an indelible mark on the music community of Longmont and across the front range. Come celebrate his life with music, food and friends. He will be sorely missed! Hosted by his family and friends. Open to all.",
+    "image": "https://static.wixstatic.com/media/f119ff_f6226ef0578f4462b317079b76ab19c4~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/f119ff_f6226ef0578f4462b317079b76ab19c4~mv2.jpg",
+    "venue": "Bricks on Main",
+    "location": "Longmont",
+    "category": "Music",
+    "source_url": "https://www.bricksretail.com/events-calendar",
+    "event_type_tags": [
+      "Live Music",
+      "Entertainment"
+    ],
+    "venue_type_tags": [
+      "Music Venue",
+      "Bar",
+      "Restaurant"
+    ]
+  },
+  {
     "link": "https://www.bricksretail.com/event-details/the-saints-7",
     "title": "The Saints",
     "date": "February 17, 2026",
@@ -280,27 +302,6 @@
     "time": "6:00 PM - 9:00 PM",
     "description": "The Steel Monkey Band is a tribute band dedicated to celebrating the music of Ian Anderson and Jethro Tull, known for their distinctive blend of progressive rock, folk, and classical influences. The bands dedication to authenticity and musicianship positions them as a noteworthy act as a tribute.",
     "image": "https://static.wixstatic.com/media/ea2d6f_4c595a26e44d47528d8c45d0fd62a0ca~mv2.jpeg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_4c595a26e44d47528d8c45d0fd62a0ca~mv2.jpeg",
-    "venue": "Bricks on Main",
-    "location": "Longmont",
-    "category": "Music",
-    "source_url": "https://www.bricksretail.com/events-calendar",
-    "event_type_tags": [
-      "Live Music",
-      "Entertainment"
-    ],
-    "venue_type_tags": [
-      "Music Venue",
-      "Bar",
-      "Restaurant"
-    ]
-  },
-  {
-    "link": "https://www.bricksretail.com/event-details/dj-drake",
-    "title": "DJ Drake",
-    "date": "February 21, 2026",
-    "time": "7:00 PM - 10:00 PM",
-    "description": "Longmont's very own DJ Drake will share the stage with longtime friend and renowned DJ Uplifter (now based in Kona), for the ultimate tribute to our top two legends, Michael Jackson and Prince. Get ready to dance to the all the hits and some supporting artists, like The Jacksons & Morris Day.",
-    "image": "https://static.wixstatic.com/media/ea2d6f_f0a1df2f79694e98b9b192524b194061~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_f0a1df2f79694e98b9b192524b194061~mv2.jpg",
     "venue": "Bricks on Main",
     "location": "Longmont",
     "category": "Music",
