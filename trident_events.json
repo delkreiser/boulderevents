@@ -1,27 +1,5 @@
 [
   {
-    "title": "Abigael Snyder / Christopher Morse",
-    "link": "https://www.tridentcafe.com/events/2026/1/29/abigael-snyder-christopher-morse",
-    "date": "January 29, 2027",
-    "time": "6:00 PM",
-    "description": "Abigael Elizabeth is an indie folk singer songwriter based in Colorado. Her music weaves a sonic tapestry of emotional storytelling exploring themes of love, loss, and healing. Embracing the full spectrum of human experience, Abigael's music is a reminder of the beauty that can emerge from feeling i...",
-    "venue": "Trident Booksellers & Cafe",
-    "location": "Boulder",
-    "category": "Books & Literary",
-    "source_url": "https://www.tridentcafe.com/events",
-    "image": "trident.jpg",
-    "event_type_tags": [
-      "Live Music",
-      "Books",
-      "Community"
-    ],
-    "venue_type_tags": [
-      "Cafe",
-      "Bookstore",
-      "Music Venue"
-    ]
-  },
-  {
     "title": "Third Turn & Jawa",
     "link": "https://www.tridentcafe.com/events/2026/1/30/third-turn-amp-jawa",
     "date": "January 30, 2026",
@@ -1592,6 +1570,28 @@
     "date": "October 16, 2026",
     "time": "6:00 PM",
     "description": "Bring an acoustic instrument and sit in with Boulder Old-Time Jam! Every first Thursday on the Trident Patio, starting at 6 p.m.",
+    "venue": "Trident Booksellers & Cafe",
+    "location": "Boulder",
+    "category": "Books & Literary",
+    "source_url": "https://www.tridentcafe.com/events",
+    "image": "trident.jpg",
+    "event_type_tags": [
+      "Live Music",
+      "Books",
+      "Community"
+    ],
+    "venue_type_tags": [
+      "Cafe",
+      "Bookstore",
+      "Music Venue"
+    ]
+  },
+  {
+    "title": "Abigael Snyder / Christopher Morse",
+    "link": "https://www.tridentcafe.com/events/2026/1/29/abigael-snyder-christopher-morse",
+    "date": "January 29, 2027",
+    "time": "6:00 PM",
+    "description": "Abigael Elizabeth is an indie folk singer songwriter based in Colorado. Her music weaves a sonic tapestry of emotional storytelling exploring themes of love, loss, and healing. Embracing the full spectrum of human experience, Abigael's music is a reminder of the beauty that can emerge from feeling i...",
     "venue": "Trident Booksellers & Cafe",
     "location": "Boulder",
     "category": "Books & Literary",

@@ -640,15 +640,15 @@
     "description": null
   },
   {
-    "title": "Chris Isaak",
-    "venue": "Boulder Theater",
+    "title": "Celebrating the Life & Music of Paa Kow: A Benefit Concert",
+    "venue": "Fox Theatre",
     "location": "Boulder",
-    "date": "Mar 10, 2026",
-    "normalized_date": "2026-03-10",
+    "date": "Mar 8, 2026",
+    "normalized_date": "2026-03-08",
     "time": null,
-    "image": "images/z2/chris-isaak-dc19364b.jpg",
-    "url": "https://www.z2ent.com/events/detail/chris-isaak-2026-bt",
-    "ticket_link": "https://www.axs.com/events/1240587/?skin=bouldertheater",
+    "image": "images/z2/celebrating-the-life-music-of-paa-kow-a-benefit-co-f346a285.jpg",
+    "url": "https://www.z2ent.com/events/detail/paa-kow-benefit-concert-2026-fox",
+    "ticket_link": "https://www.axs.com/events/1313703/?skin=foxtheatre",
     "tags": [
       "music",
       "concert"
