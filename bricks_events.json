@@ -1,26 +1,5 @@
 [
   {
-    "link": "https://www.bricksretail.com/event-details/john-bunzli-cafe-con-leche-songs",
-    "title": "John Bunzli: Cafe Con Leche Songs",
-    "date": "January 29, 2026",
-    "time": "6:00 PM - 9:00 PM",
-    "description": "John Bunzli is a Loveland based songwriter who has been writing a new song a week for 5 years.  To Celebrate year 5 of writing John has gathered some of the best singer/songwriters in the area and they will each perform one of his songs. It will be an evening of great playing and great singing!!",
-    "image": "https://static.wixstatic.com/media/ea2d6f_7aa2227020a84e5d9253e98538e53835~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_7aa2227020a84e5d9253e98538e53835~mv2.jpg",
-    "venue": "Bricks on Main",
-    "location": "Longmont",
-    "category": "Music",
-    "source_url": "https://www.bricksretail.com/events-calendar",
-    "event_type_tags": [
-      "Live Music",
-      "Entertainment"
-    ],
-    "venue_type_tags": [
-      "Music Venue",
-      "Bar",
-      "Restaurant"
-    ]
-  },
-  {
     "link": "https://www.bricksretail.com/event-details/mountain-reverb-2",
     "title": "Mountain ReVerb",
     "date": "January 30, 2026",
@@ -302,6 +281,27 @@
     "time": "6:00 PM - 9:00 PM",
     "description": "The Steel Monkey Band is a tribute band dedicated to celebrating the music of Ian Anderson and Jethro Tull, known for their distinctive blend of progressive rock, folk, and classical influences. The bands dedication to authenticity and musicianship positions them as a noteworthy act as a tribute.",
     "image": "https://static.wixstatic.com/media/ea2d6f_4c595a26e44d47528d8c45d0fd62a0ca~mv2.jpeg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_4c595a26e44d47528d8c45d0fd62a0ca~mv2.jpeg",
+    "venue": "Bricks on Main",
+    "location": "Longmont",
+    "category": "Music",
+    "source_url": "https://www.bricksretail.com/events-calendar",
+    "event_type_tags": [
+      "Live Music",
+      "Entertainment"
+    ],
+    "venue_type_tags": [
+      "Music Venue",
+      "Bar",
+      "Restaurant"
+    ]
+  },
+  {
+    "link": "https://www.bricksretail.com/event-details/dj-drake",
+    "title": "DJ Drake",
+    "date": "February 21, 2026",
+    "time": "7:00 PM - 10:00 PM",
+    "description": "Longmont's very own DJ Drake will share the stage with longtime friend and renowned DJ Uplifter (now based in Kona), for the ultimate tribute to our top two legends, Michael Jackson and Prince. Get ready to dance to the all the hits and some supporting artists, like The Jacksons & Morris Day.",
+    "image": "https://static.wixstatic.com/media/ea2d6f_f0a1df2f79694e98b9b192524b194061~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_f0a1df2f79694e98b9b192524b194061~mv2.jpg",
     "venue": "Bricks on Main",
     "location": "Longmont",
     "category": "Music",

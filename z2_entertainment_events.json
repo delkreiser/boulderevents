@@ -1,21 +1,5 @@
 [
   {
-    "title": "Boulder Room: Battle of the Houses",
-    "venue": "Fox Theatre",
-    "location": "Boulder",
-    "date": "Jan 29, 2026",
-    "normalized_date": "2026-01-29",
-    "time": null,
-    "image": "images/z2/boulder-room-battle-of-the-houses-510371a6.jpg",
-    "url": "https://www.z2ent.com/events/detail/boulder-room-2026-fox",
-    "ticket_link": "https://www.axs.com/events/1286406/?skin=foxtheatre",
-    "tags": [
-      "music",
-      "concert"
-    ],
-    "description": null
-  },
-  {
     "title": "Earlybirds Club",
     "venue": "Fox Theatre",
     "location": "Boulder",
@@ -649,6 +633,22 @@
     "image": "images/z2/heated-rivalry-night-61bf6631.jpg",
     "url": "https://www.z2ent.com/events/detail/heated-rivalry-2026-bt",
     "ticket_link": "https://www.axs.com/events/1290703/?skin=bouldertheater",
+    "tags": [
+      "music",
+      "concert"
+    ],
+    "description": null
+  },
+  {
+    "title": "Chris Isaak",
+    "venue": "Boulder Theater",
+    "location": "Boulder",
+    "date": "Mar 10, 2026",
+    "normalized_date": "2026-03-10",
+    "time": null,
+    "image": "images/z2/chris-isaak-dc19364b.jpg",
+    "url": "https://www.z2ent.com/events/detail/chris-isaak-2026-bt",
+    "ticket_link": "https://www.axs.com/events/1240587/?skin=bouldertheater",
     "tags": [
       "music",
       "concert"
