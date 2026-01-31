@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T18:43:32.036231",
-  "total_events": 332,
+  "generated_at": "2026-01-31T08:32:14.412325",
+  "total_events": 327,
   "tags": {
     "venues": [
       "300 Suns Brewing",
@@ -82,35 +82,6 @@
     ]
   },
   "events": [
-    {
-      "id": "velvet_elk_lounge_dig_deep_with_jake_leg_band_january_30_2026",
-      "title": "Dig Deep with Jake Leg Band",
-      "venue": "Velvet Elk Lounge",
-      "location": "Boulder",
-      "date": "January 30, 2026",
-      "normalized_date": "2026-01-30T00:00:00",
-      "recurring": null,
-      "time": null,
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.velvetelklounge.com/event/january-30th-dig-deep/",
-      "ticket_link": null,
-      "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/61780dig_deep.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
-      "source_url": "https://www.velvetelklounge.com/events/",
-      "age_restriction": null,
-      "venue_tag": "Velvet Elk Lounge",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Music",
-        "Live Music",
-        "Bar",
-        "Nightlife"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Nightlife"
-      ]
-    },
     {
       "id": "velvet_elk_lounge_donavon_frankenreiter_an_acoustic_evening_night_one_february_3_2026",
       "title": "Donavon Frankenreiter: An Acoustic Evening, Night One",
@@ -373,33 +344,32 @@
       ]
     },
     {
-      "id": "junkyard_social_club_poletry_friday_january_30_2026_7_00_pm_doors_and_market_8_00_pm_show",
-      "title": "Poletry",
-      "venue": "Junkyard Social Club",
+      "id": "velvet_elk_lounge_white_denim_may_31_2026",
+      "title": "WHITE DENIM",
+      "venue": "Velvet Elk Lounge",
       "location": "Boulder",
-      "date": "Friday, January 30, 2026",
-      "normalized_date": "2026-01-30T00:00:00",
+      "date": "May 31, 2026",
+      "normalized_date": "2026-05-31T00:00:00",
       "recurring": null,
-      "time": "7:00 PM Doors and Market | 8:00 PM Show",
+      "time": null,
       "description": "",
-      "additional_info": "Must be age 18+",
-      "link": "https://junkyardsocialclub.org/event/poletry/",
+      "additional_info": "",
+      "link": "https://www.velvetelklounge.com/event/may-31st-white-denim/",
       "ticket_link": null,
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/12/poletry-768x768.jpeg",
-      "source_url": "https://junkyardsocialclub.org/events/",
+      "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/6289000366570015.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+      "source_url": "https://www.velvetelklounge.com/events/",
       "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
+      "venue_tag": "Velvet Elk Lounge",
       "location_tag": "Boulder",
       "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
+        "Music",
+        "Live Music",
+        "Bar",
+        "Nightlife"
       ],
       "event_type_tags": [
-        "Performance",
-        "Music",
-        "Community"
+        "Live Music",
+        "Nightlife"
       ]
     },
     {
@@ -427,9 +397,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
+        "Community",
         "Music",
-        "Community"
+        "Performance"
       ]
     },
     {
@@ -457,9 +427,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
+        "Community",
         "Music",
-        "Community"
+        "Performance"
       ]
     },
     {
@@ -574,10 +544,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Music",
         "All Ages",
-        "Community"
+        "Community",
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -607,10 +577,10 @@
       "event_type_tags": [
         "Educational",
         "Community",
-        "Family Friendly",
         "Performance",
-        "Music",
-        "All Ages"
+        "Family Friendly",
+        "All Ages",
+        "Music"
       ]
     },
     {
@@ -638,8 +608,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
@@ -667,8 +637,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Educational",
-        "Community"
+        "Community",
+        "Educational"
       ]
     },
     {
@@ -696,9 +666,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Educational",
         "Games",
-        "Community"
+        "Community",
+        "Educational"
       ]
     },
     {
@@ -783,9 +753,9 @@
       ],
       "event_type_tags": [
         "Games",
-        "All Ages",
         "Family Friendly",
-        "Community"
+        "Community",
+        "All Ages"
       ]
     },
     {
@@ -813,8 +783,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
@@ -843,10 +813,10 @@
       ],
       "event_type_tags": [
         "Community",
-        "Family Friendly",
         "Performance",
-        "Music",
-        "All Ages"
+        "Family Friendly",
+        "All Ages",
+        "Music"
       ]
     },
     {
@@ -874,9 +844,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
+        "Community",
         "Music",
-        "Community"
+        "Performance"
       ]
     },
     {
@@ -904,21 +874,21 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Educational",
-        "Community"
+        "Community",
+        "Educational"
       ]
     },
     {
-      "id": "junkyard_social_club_salsa_sunday_sunday_february_15_2026_5_00_pm_7_30_pm",
+      "id": "junkyard_social_club_salsa_sunday_sunday_february_15_2026",
       "title": "Salsa Sunday",
       "venue": "Junkyard Social Club",
       "location": "Boulder",
       "date": "Sunday, February 15, 2026",
       "normalized_date": "2026-02-15T00:00:00",
       "recurring": null,
-      "time": "5:00 PM - 7:30 PM",
+      "time": null,
       "description": "",
-      "additional_info": "Family Friendly",
+      "additional_info": "Family Friendly | NO SALSA SUNDAY IN FEBRUARY",
       "link": "https://junkyardsocialclub.org/drop-in-event/salsa-sunday/",
       "ticket_link": null,
       "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/09/Salsa-Sunday-1.jpg",
@@ -933,10 +903,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Music",
         "Family Friendly",
-        "Community"
+        "Community",
+        "Music",
+        "All Ages"
       ]
     },
     {
@@ -964,9 +934,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
+        "Community",
         "Music",
-        "Community"
+        "Performance"
       ]
     },
     {
@@ -994,8 +964,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -1023,9 +993,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Educational",
+        "Community",
         "Music",
-        "Community"
+        "Educational"
       ]
     },
     {
@@ -1053,8 +1023,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
@@ -1082,8 +1052,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Music"
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -1219,34 +1189,6 @@
       "event_type_tags": []
     },
     {
-      "id": "st_julien_hotel_spa_housecats_funk_soul_january_30_2026_6_00_pm_9_00_pm",
-      "title": "HouseCats Funk/Soul",
-      "venue": "St Julien Hotel & Spa",
-      "location": "Boulder",
-      "date": "January 30, 2026",
-      "normalized_date": "2026-01-30T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM - 9:00 PM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://stjulien.com/event/housecats-funk-soul-8/",
-      "ticket_link": null,
-      "image": "stjulien.jpg",
-      "source_url": "https://stjulien.com/boulder-colorado-events/month/?tribe_eventcategory%5B0%5D=83",
-      "age_restriction": null,
-      "venue_tag": "St Julien Hotel & Spa",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Entertainment",
-        "Hotel",
-        "Upscale"
-      ],
-      "event_type_tags": [
-        "Entertainment",
-        "Hotel Events"
-      ]
-    },
-    {
       "id": "st_julien_hotel_spa_rachel_alena_january_31_2026_6_00_pm_9_00_pm",
       "title": "Rachel Alena",
       "venue": "St Julien Hotel & Spa",
@@ -1275,12 +1217,12 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_third_turn_jawa_january_30_2026_6_00_pm",
+      "id": "trident_booksellers_cafe_third_turn_jawa_january_30_2027_6_00_pm",
       "title": "Third Turn & Jawa",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
-      "date": "January 30, 2026",
-      "normalized_date": "2026-01-30T00:00:00",
+      "date": "January 30, 2027",
+      "normalized_date": "2027-01-30T00:00:00",
       "recurring": null,
       "time": "6:00 PM",
       "description": "Three lefts makes it right, right? We\u2019re Third Turn, a three-piece jam group from Fort Collins, Colorado. We fuse rock, jazz, reggae, funk, disco, and more with our singer/songwriter style tunes, and throw in some tasteful covers as well. Each set is completely different so you\u2019ll never see anything...",
@@ -4275,62 +4217,6 @@
       ]
     },
     {
-      "id": "license_no_1_the_underground_comedy_showcase_friday_january_30_2026_8_00_pm_9_00_pm",
-      "title": "The Underground Comedy Showcase",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": "Friday, January 30, 2026",
-      "normalized_date": "2026-01-30T00:00:00",
-      "recurring": null,
-      "time": "8:00\u202fPM - 9:00\u202fPM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.license1boulderado.com/calendar/the-underground-comedy-showcase-4",
-      "ticket_link": null,
-      "image": "licenseno1.jpg",
-      "source_url": "https://www.license1boulderado.com/calendar",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+"
-      ],
-      "event_type_tags": [
-        "Comedy",
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "license_no_1_live_music_with_blove_friday_january_30_2026_9_00_pm_11_59_pm",
-      "title": "Live Music With BLove",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": "Friday, January 30, 2026",
-      "normalized_date": "2026-01-30T00:00:00",
-      "recurring": null,
-      "time": "9:00\u202fPM - 11:59\u202fPM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.license1boulderado.com/calendar/live-music-with-blove-1",
-      "ticket_link": null,
-      "image": "licenseno1.jpg",
-      "source_url": "https://www.license1boulderado.com/calendar",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Nightlife"
-      ]
-    },
-    {
       "id": "license_no_1_the_underground_comedy_showcase_saturday_january_31_2026_7_30_pm_8_30_pm",
       "title": "The Underground Comedy Showcase",
       "venue": "License No 1",
@@ -6104,12 +5990,12 @@
       ]
     },
     {
-      "id": "rosetta_hall_holda_january_30_2026_10_00_pm",
+      "id": "rosetta_hall_holda_january_30_2027_10_00_pm",
       "title": "HOLDA",
       "venue": "Rosetta Hall",
       "location": "Boulder",
-      "date": "January 30, 2026",
-      "normalized_date": "2026-01-30T00:00:00",
+      "date": "January 30, 2027",
+      "normalized_date": "2027-01-30T00:00:00",
       "recurring": null,
       "time": "10:00 PM",
       "description": "HOUSE",
@@ -6581,34 +6467,6 @@
       ]
     },
     {
-      "id": "bricks_on_main_mountain_reverb_january_30_2026_6_00_pm_9_00_pm",
-      "title": "Mountain ReVerb",
-      "venue": "Bricks on Main",
-      "location": "Longmont",
-      "date": "January 30, 2026",
-      "normalized_date": "2026-01-30T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM - 9:00 PM",
-      "description": "Tony will be SHREDDING some Tedeschi Trucks, Jimmy Hendrix, Pink Floyd, Prince and Big Head Todd solos among others. For those of you who know Tony - you know!!",
-      "additional_info": "",
-      "link": "https://www.bricksretail.com/event-details/mountain-reverb-2",
-      "ticket_link": null,
-      "image": "https://static.wixstatic.com/media/ea2d6f_f7a3e60a73414ccebf942add639a6b98~mv2.png/v1/fill/w_400,h_400,al_c,q_85,enc_auto/ea2d6f_f7a3e60a73414ccebf942add639a6b98~mv2.png",
-      "source_url": "https://www.bricksretail.com/events-calendar",
-      "age_restriction": null,
-      "venue_tag": "Bricks on Main",
-      "location_tag": "Longmont",
-      "venue_type_tags": [
-        "Community",
-        "Retail",
-        "Entertainment"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Entertainment"
-      ]
-    },
-    {
       "id": "bricks_on_main_tenbucksixer_january_31_2026_6_00_pm_9_00_pm",
       "title": "Tenbucksixer",
       "venue": "Bricks on Main",
@@ -7003,32 +6861,6 @@
       ]
     },
     {
-      "id": "roots_music_project_the_gentlethem_s_club_a_mystic_moonlit_cabaret_january_30_2026_8_00_pm_11_00_pm",
-      "title": "The Gentlethem\u2019s Club: A Mystic Moonlit Cabaret",
-      "venue": "Roots Music Project",
-      "location": "Boulder",
-      "date": "January 30, 2026",
-      "normalized_date": "2026-01-30T00:00:00",
-      "recurring": null,
-      "time": "8:00 PM - 11:00 PM",
-      "description": "Welcome to The Gentlethem\u2019s Club, a sensual evening  with the vintage charm of cabaret.",
-      "additional_info": "",
-      "link": "https://www.eventbrite.com/e/the-gentlethems-club-a-mystic-moonlit-cabaret-tickets-1979414771867",
-      "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173775271%2F1125606624043%2F1%2Foriginal.20251231-201009?w=382&auto=format%2Ccompress&q=75&sharp=10&s=7637a49c8a553202e82f9aa8e3a03294",
-      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
-      "age_restriction": "21+",
-      "venue_tag": "Roots Music Project",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Community"
-      ],
-      "event_type_tags": [
-        "Live Music"
-      ]
-    },
-    {
       "id": "roots_music_project_house_of_fire_cosmic_glow_january_31_2026_8_00_pm_2_00_am",
       "title": "HOUSE of FIRE: COSMIC GLOW",
       "venue": "Roots Music Project",
@@ -7041,7 +6873,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/house-of-fire-cosmic-glow-tickets-1980045564585",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174641598%2F1125606624043%2F1%2Foriginal.20260112-173533?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=cfc1ea08913f42c605a12e7a833065c2",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174641598%2F1125606624043%2F1%2Foriginal.20260112-173533?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=fef95631c1bcd664725503a650fe2899",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -7093,7 +6925,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/sober-night-live-1055-the-colorado-sound-presents-tickets-1980129179680",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171681178%2F1125606624043%2F1%2Foriginal.20251124-221112?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d5ebb1565147fced78ce25fdf2f1d537",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171681178%2F1125606624043%2F1%2Foriginal.20251124-221112?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=98887b4a971be63a95e24d16b4cd962e",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -7171,7 +7003,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/face-vocal-band-a-valentines-night-of-harmony-heart-tickets-1975614440975",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171737840%2F1125606624043%2F1%2Foriginal.20251125-170141?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=65f92e2108cb53de97501e0ea14f5891",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171737840%2F1125606624043%2F1%2Foriginal.20251125-170141?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=9aa66c945dcdc7431a2ea5d03a14881c",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -7341,6 +7173,32 @@
       ]
     },
     {
+      "id": "roots_music_project_house_of_fire_velvet_vibez_february_21_2026_8_00_pm_2_00_am",
+      "title": "HOUSE of FIRE VELVET VIBEZ",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": "February 21, 2026",
+      "normalized_date": "2026-02-21T00:00:00",
+      "recurring": null,
+      "time": "8:00 PM - 2:00 AM",
+      "description": "GET READY TO INDULGE YOUR SENSES",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/house-of-fire-velvet-vibez-tickets-1982053528459",
+      "ticket_link": null,
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176307433%2F1125606624043%2F1%2Foriginal.20260131-004039?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=21593d9cd15a531a3cebda761e9e17c9",
+      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
       "id": "roots_music_project_tempo_program_february_23rd_through_april_26th_2026_february_23_2026_12_00_am_6_00_pm",
       "title": "TEMPO Program (February 23rd through April 26th, 2026)",
       "venue": "Roots Music Project",
@@ -7431,7 +7289,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/asteroid-please-bear-hat-rmp-vinyl-release-party-benefiting-ms-tickets-1980026672077",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174246812%2F1125606624043%2F1%2Foriginal.20260107-204920?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=0b6d4cf4543dbfad344af605632aa73c",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174246812%2F1125606624043%2F1%2Foriginal.20260107-204920?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=13b87eb1fc8adb9373b8a62c19e49789",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -7457,7 +7315,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/back-to-the-2000s-nostalgic-dance-party-fundraiser-tickets-1963304920869",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1170207805%2F1125606624043%2F1%2Foriginal.20251105-142633?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=b319148df868e3a8d70afdbd82f4c3ae",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1170207805%2F1125606624043%2F1%2Foriginal.20251105-142633?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=1f388c8ee55cb946fbc91a084eaaae2d",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -7483,7 +7341,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/rmp-workshop-logic-pro-workshop-basic-recording-techniques-tickets-1981533827018",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176011051%2F1125606624043%2F1%2Foriginal.20260127-235941?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=cf6ea20501fe1174e7efece9b2a308b4",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176011051%2F1125606624043%2F1%2Foriginal.20260127-235941?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=c385504e706d24c73aec59f3ebe2fbda",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -7509,7 +7367,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/roots-music-project-workshop-classic-songwriting-transformation-4-weeks-tickets-1981534591304",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175784553%2F1125606624043%2F1%2Foriginal.20260125-203735?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a58caff02fb94187299554458c93ad13",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175784553%2F1125606624043%2F1%2Foriginal.20260125-203735?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=902705064e2e913572985479a10d2ce3",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -7561,7 +7419,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/college-showcase-w-abernathy-shagnaster-words-of-mouth-and-red-revival-tickets-1980901767511",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175270585%2F1125606624043%2F1%2Foriginal.20260119-195609?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=1f3b5539fe3648964b257dcca37699f8",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175270585%2F1125606624043%2F1%2Foriginal.20260119-195609?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d276c817d0a750271b9f84a41a79ec2b",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -7587,7 +7445,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/rmp-vinyl-release-gen3-fruta-brutal-tickets-1981789415490",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175971300%2F1125606624043%2F1%2Foriginal.20260127-174610?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=8d4170fe920a976f2ecb378057061879",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175971300%2F1125606624043%2F1%2Foriginal.20260127-174610?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=ba4c617bcf1783d2fb0b0a86e1e0c1ec",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -7613,7 +7471,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/roots-music-project-workshop-creative-production-techniques-tickets-1981535896207",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175786093%2F1125606624043%2F1%2Foriginal.20260125-205803?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=42e5a0348b57df3a97d1baac356bd137",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175786093%2F1125606624043%2F1%2Foriginal.20260125-205803?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=60eb27019c42d8e9f42ec3f68cc36a80",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -8555,56 +8413,6 @@
         "All Ages",
         "Free"
       ]
-    },
-    {
-      "id": "fox_theatre_earlybirds_club_jan_30_2026_none",
-      "title": "Earlybirds Club",
-      "venue": "Fox Theatre",
-      "location": "Boulder",
-      "date": "Jan 30, 2026",
-      "normalized_date": "2026-01-30",
-      "recurring": null,
-      "time": null,
-      "description": null,
-      "additional_info": "",
-      "link": "https://www.z2ent.com/events/detail/early-birds-club-2026-fox",
-      "ticket_link": "https://www.axs.com/events/1131534/?skin=foxtheatre",
-      "image": "images/z2/earlybirds-club-58e44a6d.jpg",
-      "source_url": null,
-      "age_restriction": null,
-      "venue_tag": "Fox Theatre",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Concert",
-        "Theater"
-      ],
-      "event_type_tags": []
-    },
-    {
-      "id": "boulder_theater_the_man_who_saves_the_world_jan_30_2026_none",
-      "title": "The Man Who Saves the World?",
-      "venue": "Boulder Theater",
-      "location": "Boulder",
-      "date": "Jan 30, 2026",
-      "normalized_date": "2026-01-30",
-      "recurring": null,
-      "time": null,
-      "description": null,
-      "additional_info": "",
-      "link": "https://www.z2ent.com/events/detail/who-saves-the-world-2026-bt",
-      "ticket_link": "https://www.axs.com/events/1253179/?skin=bouldetheater",
-      "image": "images/z2/the-man-who-saves-the-world--ad5a0bf1.jpg",
-      "source_url": null,
-      "age_restriction": null,
-      "venue_tag": "Boulder Theater",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Concert",
-        "Theater"
-      ],
-      "event_type_tags": []
     },
     {
       "id": "boulder_theater_fitz_and_the_tantrums_with_juno_rossa_jan_31_2026_none",
@@ -9570,6 +9378,56 @@
       "link": "https://www.z2ent.com/events/detail/paa-kow-benefit-concert-2026-fox",
       "ticket_link": "https://www.axs.com/events/1313703/?skin=foxtheatre",
       "image": "images/z2/celebrating-the-life-music-of-paa-kow-a-benefit-co-f346a285.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Fox Theatre",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "boulder_theater_chris_isaak_mar_10_2026_none",
+      "title": "Chris Isaak",
+      "venue": "Boulder Theater",
+      "location": "Boulder",
+      "date": "Mar 10, 2026",
+      "normalized_date": "2026-03-10",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": "https://www.z2ent.com/events/detail/chris-isaak-2026-bt",
+      "ticket_link": "https://www.axs.com/events/1240587/?skin=bouldertheater",
+      "image": "images/z2/chris-isaak-dc19364b.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Boulder Theater",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "fox_theatre_jigitz_mar_12_2026_none",
+      "title": "jigitz",
+      "venue": "Fox Theatre",
+      "location": "Boulder",
+      "date": "Mar 12, 2026",
+      "normalized_date": "2026-03-12",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": "https://www.z2ent.com/events/detail/jigitz-2026-fox",
+      "ticket_link": "https://www.axs.com/events/1288836/?skin=foxtheatre",
+      "image": "images/z2/jigitz-f7437c28.jpg",
       "source_url": null,
       "age_restriction": null,
       "venue_tag": "Fox Theatre",

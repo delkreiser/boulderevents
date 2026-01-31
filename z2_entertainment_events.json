@@ -1,37 +1,5 @@
 [
   {
-    "title": "Earlybirds Club",
-    "venue": "Fox Theatre",
-    "location": "Boulder",
-    "date": "Jan 30, 2026",
-    "normalized_date": "2026-01-30",
-    "time": null,
-    "image": "images/z2/earlybirds-club-58e44a6d.jpg",
-    "url": "https://www.z2ent.com/events/detail/early-birds-club-2026-fox",
-    "ticket_link": "https://www.axs.com/events/1131534/?skin=foxtheatre",
-    "tags": [
-      "music",
-      "concert"
-    ],
-    "description": null
-  },
-  {
-    "title": "The Man Who Saves the World?",
-    "venue": "Boulder Theater",
-    "location": "Boulder",
-    "date": "Jan 30, 2026",
-    "normalized_date": "2026-01-30",
-    "time": null,
-    "image": "images/z2/the-man-who-saves-the-world--ad5a0bf1.jpg",
-    "url": "https://www.z2ent.com/events/detail/who-saves-the-world-2026-bt",
-    "ticket_link": "https://www.axs.com/events/1253179/?skin=bouldetheater",
-    "tags": [
-      "music",
-      "concert"
-    ],
-    "description": null
-  },
-  {
     "title": "Fitz and the Tantrums with Juno Rossa",
     "venue": "Boulder Theater",
     "location": "Boulder",
@@ -649,6 +617,38 @@
     "image": "images/z2/celebrating-the-life-music-of-paa-kow-a-benefit-co-f346a285.jpg",
     "url": "https://www.z2ent.com/events/detail/paa-kow-benefit-concert-2026-fox",
     "ticket_link": "https://www.axs.com/events/1313703/?skin=foxtheatre",
+    "tags": [
+      "music",
+      "concert"
+    ],
+    "description": null
+  },
+  {
+    "title": "Chris Isaak",
+    "venue": "Boulder Theater",
+    "location": "Boulder",
+    "date": "Mar 10, 2026",
+    "normalized_date": "2026-03-10",
+    "time": null,
+    "image": "images/z2/chris-isaak-dc19364b.jpg",
+    "url": "https://www.z2ent.com/events/detail/chris-isaak-2026-bt",
+    "ticket_link": "https://www.axs.com/events/1240587/?skin=bouldertheater",
+    "tags": [
+      "music",
+      "concert"
+    ],
+    "description": null
+  },
+  {
+    "title": "jigitz",
+    "venue": "Fox Theatre",
+    "location": "Boulder",
+    "date": "Mar 12, 2026",
+    "normalized_date": "2026-03-12",
+    "time": null,
+    "image": "images/z2/jigitz-f7437c28.jpg",
+    "url": "https://www.z2ent.com/events/detail/jigitz-2026-fox",
+    "ticket_link": "https://www.axs.com/events/1288836/?skin=foxtheatre",
     "tags": [
       "music",
       "concert"
