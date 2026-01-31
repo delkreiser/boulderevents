@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T08:32:14.412325",
-  "total_events": 327,
+  "generated_at": "2026-01-31T18:31:52.750934",
+  "total_events": 328,
   "tags": {
     "venues": [
       "300 Suns Brewing",
@@ -397,9 +397,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Music",
-        "Performance"
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -427,9 +427,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Music",
-        "Performance"
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -545,9 +545,9 @@
       ],
       "event_type_tags": [
         "All Ages",
-        "Community",
         "Music",
-        "Performance"
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -575,12 +575,12 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Educational",
         "Community",
-        "Performance",
         "Family Friendly",
+        "Educational",
+        "Music",
         "All Ages",
-        "Music"
+        "Performance"
       ]
     },
     {
@@ -608,8 +608,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Music"
+        "Music",
+        "Community"
       ]
     },
     {
@@ -637,8 +637,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Educational"
+        "Educational",
+        "Community"
       ]
     },
     {
@@ -667,8 +667,8 @@
       ],
       "event_type_tags": [
         "Games",
-        "Community",
-        "Educational"
+        "Educational",
+        "Community"
       ]
     },
     {
@@ -754,8 +754,8 @@
       "event_type_tags": [
         "Games",
         "Family Friendly",
-        "Community",
-        "All Ages"
+        "All Ages",
+        "Community"
       ]
     },
     {
@@ -783,8 +783,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Music"
+        "Music",
+        "Community"
       ]
     },
     {
@@ -813,10 +813,10 @@
       ],
       "event_type_tags": [
         "Community",
-        "Performance",
         "Family Friendly",
+        "Music",
         "All Ages",
-        "Music"
+        "Performance"
       ]
     },
     {
@@ -844,9 +844,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Music",
-        "Performance"
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -874,8 +874,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Educational"
+        "Educational",
+        "Community"
       ]
     },
     {
@@ -903,10 +903,10 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "All Ages",
         "Family Friendly",
-        "Community",
         "Music",
-        "All Ages"
+        "Community"
       ]
     },
     {
@@ -934,9 +934,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Music",
-        "Performance"
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -964,8 +964,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Performance"
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -993,9 +993,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Music",
-        "Educational"
+        "Educational",
+        "Community"
       ]
     },
     {
@@ -1023,8 +1023,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Music"
+        "Music",
+        "Community"
       ]
     },
     {
@@ -1052,8 +1052,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "Performance"
+        "Performance",
+        "Music"
       ]
     },
     {
@@ -6858,6 +6858,34 @@
       "event_type_tags": [
         "Live Music",
         "Entertainment"
+      ]
+    },
+    {
+      "id": "bricks_on_main_asteria_jazz_collective_february_22_2026_5_00_pm_8_00_pm",
+      "title": "Asteria Jazz Collective",
+      "venue": "Bricks on Main",
+      "location": "Longmont",
+      "date": "February 22, 2026",
+      "normalized_date": "2026-02-22T00:00:00",
+      "recurring": null,
+      "time": "5:00 PM - 8:00 PM",
+      "description": "Asteria Jazz Collective is a dynamic ensemble led by the captivating vocalist Stephany Prodromos and masterful bassist and musical director John Sleet Johnson.",
+      "additional_info": "",
+      "link": "https://www.bricksretail.com/event-details/asteria-jazz-collective-10",
+      "ticket_link": null,
+      "image": "https://static.wixstatic.com/media/ea2d6f_f50561f2677a45abb17c37065897251a~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_f50561f2677a45abb17c37065897251a~mv2.jpg",
+      "source_url": "https://www.bricksretail.com/events-calendar",
+      "age_restriction": null,
+      "venue_tag": "Bricks on Main",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Community",
+        "Retail",
+        "Entertainment"
+      ],
+      "event_type_tags": [
+        "Jazz",
+        "Live Music"
       ]
     },
     {
