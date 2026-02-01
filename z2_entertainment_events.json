@@ -1,37 +1,5 @@
 [
   {
-    "title": "Fitz and the Tantrums with Juno Rossa",
-    "venue": "Boulder Theater",
-    "location": "Boulder",
-    "date": "Jan 31, 2026",
-    "normalized_date": "2026-01-31",
-    "time": null,
-    "image": "images/z2/fitz-and-the-tantrums-with-juno-rossa-55fb6f18.jpg",
-    "url": "https://www.z2ent.com/events/detail/fitz-and-the-tantrums-2026-bt",
-    "ticket_link": "https://www.axs.com/events/1183880/?skin=bouldertheater",
-    "tags": [
-      "music",
-      "concert"
-    ],
-    "description": null
-  },
-  {
-    "title": "Josh Teed with DMVU, absnt, Beanz",
-    "venue": "Fox Theatre",
-    "location": "Boulder",
-    "date": "Jan 31, 2026",
-    "normalized_date": "2026-01-31",
-    "time": null,
-    "image": "images/z2/josh-teed-with-dmvu-absnt-beanz-d4e1f77e.jpg",
-    "url": "https://www.z2ent.com/events/detail/josh-teed-2026-fox",
-    "ticket_link": "https://www.axs.com/events/1154886/?skin=foxtheatre",
-    "tags": [
-      "music",
-      "concert"
-    ],
-    "description": null
-  },
-  {
     "title": "Jane and Matthews with Tidepool, NU Bass Theory",
     "venue": "Fox Theatre",
     "location": "Boulder",
@@ -649,6 +617,38 @@
     "image": "images/z2/jigitz-f7437c28.jpg",
     "url": "https://www.z2ent.com/events/detail/jigitz-2026-fox",
     "ticket_link": "https://www.axs.com/events/1288836/?skin=foxtheatre",
+    "tags": [
+      "music",
+      "concert"
+    ],
+    "description": null
+  },
+  {
+    "title": "Pure Prairie League + Pablo Cruise",
+    "venue": "Boulder Theater",
+    "location": "Boulder",
+    "date": "Mar 13, 2026",
+    "normalized_date": "2026-03-13",
+    "time": null,
+    "image": "images/z2/pure-prairie-league-pablo-cruise-e0399f75.jpg",
+    "url": "https://www.z2ent.com/events/detail/pure-prairie-league-pablo-cruise-2026-bt",
+    "ticket_link": "https://www.axs.com/events/1253150/?skin=bouldertheater",
+    "tags": [
+      "music",
+      "concert"
+    ],
+    "description": null
+  },
+  {
+    "title": "The Barr Brothers with Benjamin Lazar Davis",
+    "venue": "Fox Theatre",
+    "location": "Boulder",
+    "date": "Mar 13, 2026",
+    "normalized_date": "2026-03-13",
+    "time": null,
+    "image": "images/z2/the-barr-brothers-with-benjamin-lazar-davis-73d535e6.jpg",
+    "url": "https://www.z2ent.com/events/detail/barr-brothers-2026-fox",
+    "ticket_link": "https://www.axs.com/events/1178397/?skin=foxtheatre",
     "tags": [
       "music",
       "concert"

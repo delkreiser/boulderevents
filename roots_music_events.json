@@ -1,25 +1,5 @@
 [
   {
-    "title": "HOUSE of FIRE: COSMIC GLOW",
-    "description": "GET READY TO BLAST OFF INTO ANOTHER GALAXY!",
-    "link": "https://www.eventbrite.com/e/house-of-fire-cosmic-glow-tickets-1980045564585",
-    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174641598%2F1125606624043%2F1%2Foriginal.20260112-173533?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=fef95631c1bcd664725503a650fe2899",
-    "date": "January 31, 2026",
-    "time": "8:00 PM - 2:00 AM",
-    "venue": "Roots Music Project",
-    "location": "Boulder",
-    "category": "Music",
-    "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
-    "event_type_tags": [
-      "Live Music"
-    ],
-    "venue_type_tags": [
-      "Live Music",
-      "Community"
-    ],
-    "age_restriction": "21+"
-  },
-  {
     "title": "Open Mic with Steve Koppe at Roots Music Project",
     "description": "Roots Music Project Community Open Mic with host Steve Koppe",
     "link": "https://www.eventbrite.com/e/open-mic-with-steve-koppe-at-roots-music-project-tickets-1981259973916",
@@ -340,26 +320,6 @@
     "age_restriction": "21+"
   },
   {
-    "title": "Back to the 2000s: Nostalgic Dance Party Fundraiser",
-    "description": "Dance to 2000s hits while supporting young musicians through TEMPO. Every ticket helps the next generation of artists shine.",
-    "link": "https://www.eventbrite.com/e/back-to-the-2000s-nostalgic-dance-party-fundraiser-tickets-1963304920869",
-    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1170207805%2F1125606624043%2F1%2Foriginal.20251105-142633?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=1f388c8ee55cb946fbc91a084eaaae2d",
-    "date": "February 28, 2026",
-    "time": "8:00 PM - 11:00 PM",
-    "venue": "Roots Music Project",
-    "location": "Boulder",
-    "category": "Music",
-    "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
-    "event_type_tags": [
-      "Live Music"
-    ],
-    "venue_type_tags": [
-      "Live Music",
-      "Community"
-    ],
-    "age_restriction": "21+"
-  },
-  {
     "title": "RMP Workshop: Logic Pro Workshop: Basic Recording Techniques",
     "description": "Learn recording & mixing basics in Logic Pro: setup, gain staging, EQ & compression. Beginner-friendly, skills transfer to other DAWs.",
     "link": "https://www.eventbrite.com/e/rmp-workshop-logic-pro-workshop-basic-recording-techniques-tickets-1981533827018",
@@ -466,6 +426,26 @@
     "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175786093%2F1125606624043%2F1%2Foriginal.20260125-205803?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=60eb27019c42d8e9f42ec3f68cc36a80",
     "date": "March 23, 2026",
     "time": "6:30 PM - 8:00 PM",
+    "venue": "Roots Music Project",
+    "location": "Boulder",
+    "category": "Music",
+    "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
+    "event_type_tags": [
+      "Live Music"
+    ],
+    "venue_type_tags": [
+      "Live Music",
+      "Community"
+    ],
+    "age_restriction": "21+"
+  },
+  {
+    "title": "Boulder Philharmonic - JAZZ | explored",
+    "description": "Rhythm you can feel. Melodies you recognize. A journey into the sounds that shaped jazz.",
+    "link": "https://www.eventbrite.com/e/boulder-philharmonic-jazz-explored-tickets-1981436401616",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175659994%2F1125606624043%2F1%2Foriginal.20260123-165929?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=16726aa4c33baf29104d22284eb6c48f",
+    "date": "March 27, 2026",
+    "time": "7:00 PM - 10:00 PM",
     "venue": "Roots Music Project",
     "location": "Boulder",
     "category": "Music",
