@@ -458,5 +458,25 @@
       "Community"
     ],
     "age_restriction": "21+"
+  },
+  {
+    "title": "In Bloom: RMP Silent Auction Spring Fundraiser",
+    "description": "Turn up the music, bid for the future! Live indie/funk, folk & alt-rock across two rooms. Silent auction. All proceeds support local music.",
+    "link": "https://www.eventbrite.com/e/in-bloom-rmp-silent-auction-spring-fundraiser-tickets-1980905379314",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175276529%2F1125606624043%2F1%2Foriginal.20260119-205725?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d2829d054f2b91d8f0810a53a22a8c65",
+    "date": "March 28, 2026",
+    "time": "6:30 PM - 10:30 PM",
+    "venue": "Roots Music Project",
+    "location": "Boulder",
+    "category": "Music",
+    "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
+    "event_type_tags": [
+      "Live Music"
+    ],
+    "venue_type_tags": [
+      "Live Music",
+      "Community"
+    ],
+    "age_restriction": "21+"
   }
 ]

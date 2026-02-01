@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T08:36:02.298102",
-  "total_events": 333,
+  "generated_at": "2026-02-01T18:36:54.813904",
+  "total_events": 334,
   "tags": {
     "venues": [
       "300 Suns Brewing",
@@ -373,8 +373,8 @@
       ]
     },
     {
-      "id": "junkyard_social_club_cathartic_compost_sunday_night_sunday_february_1_2026_6_00_pm_doors_7_00_pm_show",
-      "title": "cathARTic compost \u2013 Sunday Night",
+      "id": "junkyard_social_club_cathartic_compost_sunday_night_sold_out_sunday_february_1_2026_6_00_pm_doors_7_00_pm_show",
+      "title": "cathARTic compost \u2013 Sunday Night (SOLD OUT)",
       "venue": "Junkyard Social Club",
       "location": "Boulder",
       "date": "Sunday, February 1, 2026",
@@ -397,9 +397,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "Community",
-        "Music"
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -427,8 +427,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
-        "Community"
+        "Community",
+        "Games"
       ]
     },
     {
@@ -485,8 +485,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
-        "Community"
+        "Community",
+        "Games"
       ]
     },
     {
@@ -514,10 +514,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "Community",
+        "Music",
         "All Ages",
-        "Music"
+        "Performance"
       ]
     },
     {
@@ -545,12 +545,12 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Family Friendly",
-        "Educational",
         "Community",
-        "All Ages",
-        "Music"
+        "Music",
+        "Family Friendly",
+        "Performance",
+        "Educational",
+        "All Ages"
       ]
     },
     {
@@ -607,8 +607,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Educational",
-        "Community"
+        "Community",
+        "Educational"
       ]
     },
     {
@@ -636,9 +636,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Community",
         "Games",
-        "Educational",
-        "Community"
+        "Educational"
       ]
     },
     {
@@ -722,9 +722,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
-        "Games",
         "Community",
+        "Games",
+        "Family Friendly",
         "All Ages"
       ]
     },
@@ -782,11 +782,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Family Friendly",
         "Community",
-        "All Ages",
-        "Music"
+        "Music",
+        "Family Friendly",
+        "Performance",
+        "All Ages"
       ]
     },
     {
@@ -814,9 +814,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "Community",
-        "Music"
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -844,8 +844,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Educational",
-        "Community"
+        "Community",
+        "Educational"
       ]
     },
     {
@@ -873,10 +873,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
         "Community",
-        "All Ages",
-        "Music"
+        "Music",
+        "Family Friendly",
+        "All Ages"
       ]
     },
     {
@@ -904,9 +904,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "Community",
-        "Music"
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -934,8 +934,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -963,9 +963,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Educational",
         "Community",
-        "Music"
+        "Music",
+        "Educational"
       ]
     },
     {
@@ -1022,8 +1022,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Music"
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -7640,6 +7640,32 @@
       "link": "https://www.eventbrite.com/e/boulder-philharmonic-jazz-explored-tickets-1981436401616",
       "ticket_link": null,
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175659994%2F1125606624043%2F1%2Foriginal.20260123-165929?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=16726aa4c33baf29104d22284eb6c48f",
+      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_in_bloom_rmp_silent_auction_spring_fundraiser_march_28_2026_6_30_pm_10_30_pm",
+      "title": "In Bloom: RMP Silent Auction Spring Fundraiser",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": "March 28, 2026",
+      "normalized_date": "2026-03-28T00:00:00",
+      "recurring": null,
+      "time": "6:30 PM - 10:30 PM",
+      "description": "Turn up the music, bid for the future! Live indie/funk, folk & alt-rock across two rooms. Silent auction. All proceeds support local music.",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/in-bloom-rmp-silent-auction-spring-fundraiser-tickets-1980905379314",
+      "ticket_link": null,
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175276529%2F1125606624043%2F1%2Foriginal.20260119-205725?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d2829d054f2b91d8f0810a53a22a8c65",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
