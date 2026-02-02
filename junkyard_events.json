@@ -1,20 +1,5 @@
 [
   {
-    "title": "cathARTic compost \u2013 Sunday Night (SOLD OUT)",
-    "categories": [
-      "Community",
-      "Dance/Music",
-      "Performance"
-    ],
-    "date": "Sunday, February 1, 2026",
-    "time": "6:00 PM Doors | 7:00 PM Show",
-    "additional_info": "Ages 18+",
-    "link": "https://junkyardsocialclub.org/product/cathartic-compost-sunday/",
-    "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/10/cathARTic-compost.jpg",
-    "venue": "Junkyard Social Club",
-    "source_url": "https://junkyardsocialclub.org/events/"
-  },
-  {
     "title": "Drop-In Mahjongg \u2013 Tuesdays",
     "categories": [
       "Community",
@@ -99,6 +84,23 @@
     "additional_info": "Must be age 18+",
     "link": "https://junkyardsocialclub.org/event/boulder-food-not-bombs-fundraiser/",
     "image": "https://junkyardsocialclub.org/wp-content/uploads/2026/01/FoodNotBombs-Boulder.jpg",
+    "venue": "Junkyard Social Club",
+    "source_url": "https://junkyardsocialclub.org/events/"
+  },
+  {
+    "title": "Roda de Choro \u2013 Brazilian Choro Jam",
+    "categories": [
+      "Community",
+      "Dance/Music",
+      "Performance",
+      "Family Fun"
+    ],
+    "date": "Sunday, February 8, 2026",
+    "time": "5:00 PM - 7:00 PM",
+    "additional_info": "All Ages are Welcome",
+    "age_restriction": "All Ages",
+    "link": "https://junkyardsocialclub.org/drop-in-event/roda-de-choro/",
+    "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/05/Roda-De-Choro.jpg",
     "venue": "Junkyard Social Club",
     "source_url": "https://junkyardsocialclub.org/events/"
   },

@@ -1,109 +1,5 @@
 [
   {
-    "title": "DEREK DAMES OHL",
-    "description": "ACOUSTIC",
-    "time": "6:00 PM",
-    "date": "January 27, 2027",
-    "venue": "Rosetta Hall",
-    "location": "Boulder",
-    "category": "Music",
-    "source_url": "https://rosettahall.com/live-music/",
-    "link": "https://rosettahall.com/live-music/",
-    "image": "rosettahall.jpg",
-    "age_restriction": "21+",
-    "event_type_tags": [
-      "Music",
-      "Nightlife",
-      "Dance",
-      "DJ"
-    ],
-    "venue_type_tags": [
-      "Music",
-      "Nightlife",
-      "Dance",
-      "DJ",
-      "21+"
-    ]
-  },
-  {
-    "title": "CORBIN GLOVER",
-    "description": "LIVE VIOLIN / HOUSE",
-    "time": "10:00 PM",
-    "date": "January 29, 2027",
-    "venue": "Rosetta Hall",
-    "location": "Boulder",
-    "category": "Music",
-    "source_url": "https://rosettahall.com/live-music/",
-    "link": "https://rosettahall.com/live-music/",
-    "image": "rosettahall.jpg",
-    "age_restriction": "21+",
-    "event_type_tags": [
-      "Music",
-      "Nightlife",
-      "Dance",
-      "DJ"
-    ],
-    "venue_type_tags": [
-      "Music",
-      "Nightlife",
-      "Dance",
-      "DJ",
-      "21+"
-    ]
-  },
-  {
-    "title": "HOLDA",
-    "description": "HOUSE",
-    "time": "10:00 PM",
-    "date": "January 30, 2027",
-    "venue": "Rosetta Hall",
-    "location": "Boulder",
-    "category": "Music",
-    "source_url": "https://rosettahall.com/live-music/",
-    "link": "https://rosettahall.com/live-music/",
-    "image": "rosettahall.jpg",
-    "age_restriction": "21+",
-    "event_type_tags": [
-      "Music",
-      "Nightlife",
-      "Dance",
-      "DJ"
-    ],
-    "venue_type_tags": [
-      "Music",
-      "Nightlife",
-      "Dance",
-      "DJ",
-      "21+"
-    ]
-  },
-  {
-    "title": "TEZ",
-    "description": "HOUSE",
-    "time": "10:00 PM",
-    "date": "January 31, 2027",
-    "venue": "Rosetta Hall",
-    "location": "Boulder",
-    "category": "Music",
-    "source_url": "https://rosettahall.com/live-music/",
-    "link": "https://rosettahall.com/live-music/",
-    "image": "rosettahall.jpg",
-    "age_restriction": "21+",
-    "event_type_tags": [
-      "Music",
-      "Nightlife",
-      "Dance",
-      "DJ"
-    ],
-    "venue_type_tags": [
-      "Music",
-      "Nightlife",
-      "Dance",
-      "DJ",
-      "21+"
-    ]
-  },
-  {
     "title": "RYAN BENTHALL",
     "description": "JAZZ KEYBOARD",
     "time": "6:00 PM",
@@ -394,6 +290,110 @@
     "description": "HOUSE",
     "time": "10:00 PM",
     "date": "February 21, 2026",
+    "venue": "Rosetta Hall",
+    "location": "Boulder",
+    "category": "Music",
+    "source_url": "https://rosettahall.com/live-music/",
+    "link": "https://rosettahall.com/live-music/",
+    "image": "rosettahall.jpg",
+    "age_restriction": "21+",
+    "event_type_tags": [
+      "Music",
+      "Nightlife",
+      "Dance",
+      "DJ"
+    ],
+    "venue_type_tags": [
+      "Music",
+      "Nightlife",
+      "Dance",
+      "DJ",
+      "21+"
+    ]
+  },
+  {
+    "title": "IZZEBELLA",
+    "description": "ACOUSTIC",
+    "time": "6:00 PM",
+    "date": "February 24, 2026",
+    "venue": "Rosetta Hall",
+    "location": "Boulder",
+    "category": "Music",
+    "source_url": "https://rosettahall.com/live-music/",
+    "link": "https://rosettahall.com/live-music/",
+    "image": "rosettahall.jpg",
+    "age_restriction": "21+",
+    "event_type_tags": [
+      "Music",
+      "Nightlife",
+      "Dance",
+      "DJ"
+    ],
+    "venue_type_tags": [
+      "Music",
+      "Nightlife",
+      "Dance",
+      "DJ",
+      "21+"
+    ]
+  },
+  {
+    "title": "TLOOP",
+    "description": "OPEN FORMAT",
+    "time": "10:00 PM",
+    "date": "February 26, 2026",
+    "venue": "Rosetta Hall",
+    "location": "Boulder",
+    "category": "Music",
+    "source_url": "https://rosettahall.com/live-music/",
+    "link": "https://rosettahall.com/live-music/",
+    "image": "rosettahall.jpg",
+    "age_restriction": "21+",
+    "event_type_tags": [
+      "Music",
+      "Nightlife",
+      "Dance",
+      "DJ"
+    ],
+    "venue_type_tags": [
+      "Music",
+      "Nightlife",
+      "Dance",
+      "DJ",
+      "21+"
+    ]
+  },
+  {
+    "title": "CYZZ",
+    "description": "HOUSE",
+    "time": "10:00 PM",
+    "date": "February 27, 2026",
+    "venue": "Rosetta Hall",
+    "location": "Boulder",
+    "category": "Music",
+    "source_url": "https://rosettahall.com/live-music/",
+    "link": "https://rosettahall.com/live-music/",
+    "image": "rosettahall.jpg",
+    "age_restriction": "21+",
+    "event_type_tags": [
+      "Music",
+      "Nightlife",
+      "Dance",
+      "DJ"
+    ],
+    "venue_type_tags": [
+      "Music",
+      "Nightlife",
+      "Dance",
+      "DJ",
+      "21+"
+    ]
+  },
+  {
+    "title": "BERG",
+    "description": "TECH HOUSE",
+    "time": "10:00 PM",
+    "date": "February 28, 2026",
     "venue": "Rosetta Hall",
     "location": "Boulder",
     "category": "Music",

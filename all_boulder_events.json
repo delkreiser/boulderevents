@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T18:36:54.813904",
-  "total_events": 334,
+  "generated_at": "2026-02-02T08:44:04.835851",
+  "total_events": 333,
   "tags": {
     "venues": [
       "300 Suns Brewing",
@@ -373,36 +373,6 @@
       ]
     },
     {
-      "id": "junkyard_social_club_cathartic_compost_sunday_night_sold_out_sunday_february_1_2026_6_00_pm_doors_7_00_pm_show",
-      "title": "cathARTic compost \u2013 Sunday Night (SOLD OUT)",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Sunday, February 1, 2026",
-      "normalized_date": "2026-02-01T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM Doors | 7:00 PM Show",
-      "description": "",
-      "additional_info": "Ages 18+",
-      "link": "https://junkyardsocialclub.org/product/cathartic-compost-sunday/",
-      "ticket_link": null,
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/10/cathARTic-compost.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Community",
-        "Music",
-        "Performance"
-      ]
-    },
-    {
       "id": "junkyard_social_club_drop_in_mahjongg_tuesdays_tuesday_february_3_2026_12_00_2_00_pm",
       "title": "Drop-In Mahjongg \u2013 Tuesdays",
       "venue": "Junkyard Social Club",
@@ -456,8 +426,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "All Ages"
+        "All Ages",
+        "Community"
       ]
     },
     {
@@ -514,9 +484,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Music",
         "All Ages",
+        "Music",
+        "Community",
         "Performance"
       ]
     },
@@ -545,12 +515,12 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Music",
         "Family Friendly",
+        "Music",
         "Performance",
-        "Educational",
-        "All Ages"
+        "All Ages",
+        "Community",
+        "Educational"
       ]
     },
     {
@@ -578,8 +548,40 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Music",
+        "Community"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_roda_de_choro_brazilian_choro_jam_sunday_february_8_2026_5_00_pm_7_00_pm",
+      "title": "Roda de Choro \u2013 Brazilian Choro Jam",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Sunday, February 8, 2026",
+      "normalized_date": "2026-02-08T00:00:00",
+      "recurring": null,
+      "time": "5:00 PM - 7:00 PM",
+      "description": "",
+      "additional_info": "All Ages are Welcome",
+      "link": "https://junkyardsocialclub.org/drop-in-event/roda-de-choro/",
+      "ticket_link": null,
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/05/Roda-De-Choro.jpg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": "All Ages",
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
         "Community",
-        "Music"
+        "Arts",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Family Friendly",
+        "Music",
+        "Performance",
+        "All Ages",
+        "Community"
       ]
     },
     {
@@ -722,10 +724,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Games",
+        "All Ages",
         "Family Friendly",
-        "All Ages"
+        "Community",
+        "Games"
       ]
     },
     {
@@ -753,8 +755,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Music"
+        "Music",
+        "Community"
       ]
     },
     {
@@ -782,11 +784,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Music",
         "Family Friendly",
+        "Music",
         "Performance",
-        "All Ages"
+        "All Ages",
+        "Community"
       ]
     },
     {
@@ -814,8 +816,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Music",
+        "Community",
         "Performance"
       ]
     },
@@ -873,10 +875,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
+        "All Ages",
         "Music",
         "Family Friendly",
-        "All Ages"
+        "Community"
       ]
     },
     {
@@ -904,8 +906,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Music",
+        "Community",
         "Performance"
       ]
     },
@@ -963,8 +965,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Music",
+        "Community",
         "Educational"
       ]
     },
@@ -993,8 +995,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Music"
+        "Music",
+        "Community"
       ]
     },
     {
@@ -6120,134 +6122,6 @@
       ]
     },
     {
-      "id": "rosetta_hall_derek_dames_ohl_january_27_2027_6_00_pm",
-      "title": "DEREK DAMES OHL",
-      "venue": "Rosetta Hall",
-      "location": "Boulder",
-      "date": "January 27, 2027",
-      "normalized_date": "2027-01-27T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM",
-      "description": "ACOUSTIC",
-      "additional_info": "",
-      "link": "https://rosettahall.com/live-music/",
-      "ticket_link": null,
-      "image": "rosettahall.jpg",
-      "source_url": "https://rosettahall.com/live-music/",
-      "age_restriction": "21+",
-      "venue_tag": "Rosetta Hall",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Music",
-        "Nightlife",
-        "Dance",
-        "DJ",
-        "21+"
-      ],
-      "event_type_tags": [
-        "Music",
-        "Nightlife",
-        "Dance",
-        "DJ"
-      ]
-    },
-    {
-      "id": "rosetta_hall_corbin_glover_january_29_2027_10_00_pm",
-      "title": "CORBIN GLOVER",
-      "venue": "Rosetta Hall",
-      "location": "Boulder",
-      "date": "January 29, 2027",
-      "normalized_date": "2027-01-29T00:00:00",
-      "recurring": null,
-      "time": "10:00 PM",
-      "description": "LIVE VIOLIN / HOUSE",
-      "additional_info": "",
-      "link": "https://rosettahall.com/live-music/",
-      "ticket_link": null,
-      "image": "rosettahall.jpg",
-      "source_url": "https://rosettahall.com/live-music/",
-      "age_restriction": "21+",
-      "venue_tag": "Rosetta Hall",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Music",
-        "Nightlife",
-        "Dance",
-        "DJ",
-        "21+"
-      ],
-      "event_type_tags": [
-        "Music",
-        "Nightlife",
-        "Dance",
-        "DJ"
-      ]
-    },
-    {
-      "id": "rosetta_hall_holda_january_30_2027_10_00_pm",
-      "title": "HOLDA",
-      "venue": "Rosetta Hall",
-      "location": "Boulder",
-      "date": "January 30, 2027",
-      "normalized_date": "2027-01-30T00:00:00",
-      "recurring": null,
-      "time": "10:00 PM",
-      "description": "HOUSE",
-      "additional_info": "",
-      "link": "https://rosettahall.com/live-music/",
-      "ticket_link": null,
-      "image": "rosettahall.jpg",
-      "source_url": "https://rosettahall.com/live-music/",
-      "age_restriction": "21+",
-      "venue_tag": "Rosetta Hall",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Music",
-        "Nightlife",
-        "Dance",
-        "DJ",
-        "21+"
-      ],
-      "event_type_tags": [
-        "Music",
-        "Nightlife",
-        "Dance",
-        "DJ"
-      ]
-    },
-    {
-      "id": "rosetta_hall_tez_january_31_2027_10_00_pm",
-      "title": "TEZ",
-      "venue": "Rosetta Hall",
-      "location": "Boulder",
-      "date": "January 31, 2027",
-      "normalized_date": "2027-01-31T00:00:00",
-      "recurring": null,
-      "time": "10:00 PM",
-      "description": "HOUSE",
-      "additional_info": "",
-      "link": "https://rosettahall.com/live-music/",
-      "ticket_link": null,
-      "image": "rosettahall.jpg",
-      "source_url": "https://rosettahall.com/live-music/",
-      "age_restriction": "21+",
-      "venue_tag": "Rosetta Hall",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Music",
-        "Nightlife",
-        "Dance",
-        "DJ",
-        "21+"
-      ],
-      "event_type_tags": [
-        "Music",
-        "Nightlife",
-        "Dance",
-        "DJ"
-      ]
-    },
-    {
       "id": "rosetta_hall_ryan_benthall_february_3_2026_6_00_pm",
       "title": "RYAN BENTHALL",
       "venue": "Rosetta Hall",
@@ -6632,6 +6506,134 @@
       ]
     },
     {
+      "id": "rosetta_hall_izzebella_february_24_2026_6_00_pm",
+      "title": "IZZEBELLA",
+      "venue": "Rosetta Hall",
+      "location": "Boulder",
+      "date": "February 24, 2026",
+      "normalized_date": "2026-02-24T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM",
+      "description": "ACOUSTIC",
+      "additional_info": "",
+      "link": "https://rosettahall.com/live-music/",
+      "ticket_link": null,
+      "image": "rosettahall.jpg",
+      "source_url": "https://rosettahall.com/live-music/",
+      "age_restriction": "21+",
+      "venue_tag": "Rosetta Hall",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Nightlife",
+        "Dance",
+        "DJ",
+        "21+"
+      ],
+      "event_type_tags": [
+        "Music",
+        "Nightlife",
+        "Dance",
+        "DJ"
+      ]
+    },
+    {
+      "id": "rosetta_hall_tloop_february_26_2026_10_00_pm",
+      "title": "TLOOP",
+      "venue": "Rosetta Hall",
+      "location": "Boulder",
+      "date": "February 26, 2026",
+      "normalized_date": "2026-02-26T00:00:00",
+      "recurring": null,
+      "time": "10:00 PM",
+      "description": "OPEN FORMAT",
+      "additional_info": "",
+      "link": "https://rosettahall.com/live-music/",
+      "ticket_link": null,
+      "image": "rosettahall.jpg",
+      "source_url": "https://rosettahall.com/live-music/",
+      "age_restriction": "21+",
+      "venue_tag": "Rosetta Hall",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Nightlife",
+        "Dance",
+        "DJ",
+        "21+"
+      ],
+      "event_type_tags": [
+        "Music",
+        "Nightlife",
+        "Dance",
+        "DJ"
+      ]
+    },
+    {
+      "id": "rosetta_hall_cyzz_february_27_2026_10_00_pm",
+      "title": "CYZZ",
+      "venue": "Rosetta Hall",
+      "location": "Boulder",
+      "date": "February 27, 2026",
+      "normalized_date": "2026-02-27T00:00:00",
+      "recurring": null,
+      "time": "10:00 PM",
+      "description": "HOUSE",
+      "additional_info": "",
+      "link": "https://rosettahall.com/live-music/",
+      "ticket_link": null,
+      "image": "rosettahall.jpg",
+      "source_url": "https://rosettahall.com/live-music/",
+      "age_restriction": "21+",
+      "venue_tag": "Rosetta Hall",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Nightlife",
+        "Dance",
+        "DJ",
+        "21+"
+      ],
+      "event_type_tags": [
+        "Music",
+        "Nightlife",
+        "Dance",
+        "DJ"
+      ]
+    },
+    {
+      "id": "rosetta_hall_berg_february_28_2026_10_00_pm",
+      "title": "BERG",
+      "venue": "Rosetta Hall",
+      "location": "Boulder",
+      "date": "February 28, 2026",
+      "normalized_date": "2026-02-28T00:00:00",
+      "recurring": null,
+      "time": "10:00 PM",
+      "description": "TECH HOUSE",
+      "additional_info": "",
+      "link": "https://rosettahall.com/live-music/",
+      "ticket_link": null,
+      "image": "rosettahall.jpg",
+      "source_url": "https://rosettahall.com/live-music/",
+      "age_restriction": "21+",
+      "venue_tag": "Rosetta Hall",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Nightlife",
+        "Dance",
+        "DJ",
+        "21+"
+      ],
+      "event_type_tags": [
+        "Music",
+        "Nightlife",
+        "Dance",
+        "DJ"
+      ]
+    },
+    {
       "id": "300_suns_brewing_jake_edmoundson_february_7_2026_6_00_8_00_pm",
       "title": "Jake Edmoundson",
       "venue": "300 Suns Brewing",
@@ -6658,34 +6660,6 @@
         "Live Music",
         "Brewery",
         "Family Friendly"
-      ]
-    },
-    {
-      "id": "bricks_on_main_mmb3_organ_trio_february_01_2026_5_00_pm_8_00_pm",
-      "title": "MMB3 Organ Trio",
-      "venue": "Bricks on Main",
-      "location": "Longmont",
-      "date": "February 01, 2026",
-      "normalized_date": "2026-02-01T00:00:00",
-      "recurring": null,
-      "time": "5:00 PM - 8:00 PM",
-      "description": "MMB3 Organ Trio feature Ryan McCurry on Hammond Organ and vocals, John Massone on guitar and vocals, and Steve Balgooyen on drums and vocals. MMB3 plays a mix of classic funk, soul and blues\u2014originals and creative takes on classic covers\u2014with a New Orleans sensibility.",
-      "additional_info": "",
-      "link": "https://www.bricksretail.com/event-details/mmb3-organ-trio",
-      "ticket_link": null,
-      "image": "https://static.wixstatic.com/media/ea2d6f_e8e865cc985742ea9cf3100ceec76cac~mv2.jpeg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_e8e865cc985742ea9cf3100ceec76cac~mv2.jpeg",
-      "source_url": "https://www.bricksretail.com/events-calendar",
-      "age_restriction": null,
-      "venue_tag": "Bricks on Main",
-      "location_tag": "Longmont",
-      "venue_type_tags": [
-        "Community",
-        "Retail",
-        "Entertainment"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Entertainment"
       ]
     },
     {
