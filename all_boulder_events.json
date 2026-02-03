@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T08:40:30.452161",
-  "total_events": 330,
+  "generated_at": "2026-02-03T18:56:41.809133",
+  "total_events": 317,
   "tags": {
     "venues": [
       "300 Suns Brewing",
@@ -153,7 +153,7 @@
       "additional_info": "",
       "link": "https://www.velvetelklounge.com/event/february-5th-hot-like-mars/",
       "ticket_link": null,
-      "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/58610Hot_Like_Mars.jpeg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+      "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/55385VEL-HotLikeMars-SanLeandro.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
       "source_url": "https://www.velvetelklounge.com/events/",
       "age_restriction": null,
       "venue_tag": "Velvet Elk Lounge",
@@ -426,8 +426,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Community"
+        "Community",
+        "All Ages"
       ]
     },
     {
@@ -484,10 +484,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
         "Community",
-        "Performance",
-        "Music"
+        "All Ages",
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -516,11 +516,11 @@
       ],
       "event_type_tags": [
         "Family Friendly",
-        "All Ages",
-        "Performance",
-        "Music",
         "Community",
-        "Educational"
+        "Educational",
+        "Performance",
+        "All Ages",
+        "Music"
       ]
     },
     {
@@ -578,9 +578,9 @@
       ],
       "event_type_tags": [
         "Family Friendly",
+        "Community",
         "All Ages",
         "Performance",
-        "Community",
         "Music"
       ]
     },
@@ -724,10 +724,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
         "Community",
+        "Family Friendly",
         "Games",
-        "Family Friendly"
+        "All Ages"
       ]
     },
     {
@@ -785,9 +785,9 @@
       ],
       "event_type_tags": [
         "Family Friendly",
+        "Community",
         "All Ages",
         "Performance",
-        "Community",
         "Music"
       ]
     },
@@ -817,8 +817,8 @@
       ],
       "event_type_tags": [
         "Community",
-        "Performance",
-        "Music"
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -875,10 +875,38 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
         "Community",
+        "Family Friendly",
         "Music",
-        "Family Friendly"
+        "All Ages"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_creativemornings_friday_february_20_2026_8_00_am_10_00_am",
+      "title": "CreativeMornings",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Friday, February 20, 2026",
+      "normalized_date": "2026-02-20T00:00:00",
+      "recurring": null,
+      "time": "8:00 AM  - 10:00 AM",
+      "description": "",
+      "additional_info": "Family Friendly",
+      "link": "https://junkyardsocialclub.org/event/creative-mornings/",
+      "ticket_link": null,
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/09/CreativeMornings-Johathon-Stalls.png",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": null,
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Community"
       ]
     },
     {
@@ -907,8 +935,8 @@
       ],
       "event_type_tags": [
         "Community",
-        "Performance",
-        "Music"
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -1024,8 +1052,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Music"
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -1494,36 +1522,6 @@
       "event_type_tags": [
         "Entertainment",
         "Hotel Events"
-      ]
-    },
-    {
-      "id": "trident_booksellers_cafe_language_exchange_night_february_27_2026_7_00_pm",
-      "title": "Language Exchange Night",
-      "venue": "Trident Booksellers & Cafe",
-      "location": "Boulder",
-      "date": "February 27, 2026",
-      "normalized_date": "2026-02-27T00:00:00",
-      "recurring": null,
-      "time": "7:00 PM",
-      "description": "Lively conversation for language learners, native speakers, and everyone in between. We regularly have 10+ languages spoken and always have spirited discussions!",
-      "additional_info": "",
-      "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-s7a5x-brgdj-p3rzz-bg8wm",
-      "ticket_link": null,
-      "image": "trident.jpg",
-      "source_url": "https://www.tridentcafe.com/events",
-      "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Books",
-        "Community"
       ]
     },
     {
@@ -2015,7 +2013,7 @@
       "normalized_date": "2026-02-27T00:00:00",
       "recurring": null,
       "time": "6:00 PM",
-      "description": "",
+      "description": "Synths: A vinyl DJ night showcasing a melange of synthetic sounds, including the sounds of synth-pop, minimal synth, and kraut, among other sounds! Come dance or, otherwise, sit very still!",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2026/2/27/synths",
       "ticket_link": null,
@@ -2607,8 +2605,8 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_juniper_blue_april_17_2026_6_00_pm",
-      "title": "Juniper Blue",
+      "id": "trident_booksellers_cafe_juniper_blue_koion_kitten_april_17_2026_6_00_pm",
+      "title": "Juniper Blue/ Koion Kitten",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "April 17, 2026",
@@ -2915,7 +2913,7 @@
       "normalized_date": "2026-05-13T00:00:00",
       "recurring": null,
       "time": "6:00 PM",
-      "description": "",
+      "description": "Bitterroot began as a Boulder-based trio comprised of songwriter/vocalist/guitarist Caroline Quine, bassist/vocalist Matt Cantor, and guitarist/vocalist Kevin Johnson. The project has welcomed additional local and national artists as they add studio recordings to their songcraft, including producer/...",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2026/5/13/bitterroot",
       "ticket_link": null,
@@ -3057,6 +3055,36 @@
       ]
     },
     {
+      "id": "trident_booksellers_cafe_brody_schenk_may_24_2026_6_00_pm",
+      "title": "Brody Schenk",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "May 24, 2026",
+      "normalized_date": "2026-05-24T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.tridentcafe.com/events/2026/5/24/brody-schenk",
+      "ticket_link": null,
+      "image": "trident.jpg",
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Books",
+        "Community"
+      ]
+    },
+    {
       "id": "trident_booksellers_cafe_language_exchange_night_may_25_2026_7_00_pm",
       "title": "Language Exchange Night",
       "venue": "Trident Booksellers & Cafe",
@@ -3087,8 +3115,8 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_mark_winters_may_28_2026_6_00_pm",
-      "title": "Mark Winters",
+      "id": "trident_booksellers_cafe_mark_winters_emily_barnes_bridgette_benson_may_28_2026_6_00_pm",
+      "title": "Mark Winters/ Emily Barnes/ Bridgette Benson",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "May 28, 2026",
@@ -3578,6 +3606,36 @@
       "description": "Bring an acoustic instrument and sit in with Boulder Old-Time Jam! Every first Thursday on the Trident Patio, starting at 6 p.m.",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2022/12/8/boulder-old-time-jam-a64x2-aw5n6-sa228-pyc6f-je84d-hgpe2-ckm9k-dddm2-dpm37-pm79k-n36jh-zsm5r-2bazp-4ftff-4ahc9-l7she-a7lex-s5sxa-wmanr-z6myr-y4pf6-lajhx",
+      "ticket_link": null,
+      "image": "trident.jpg",
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Books",
+        "Community"
+      ]
+    },
+    {
+      "id": "trident_booksellers_cafe_language_exchange_night_february_27_2026_7_00_pm",
+      "title": "Language Exchange Night",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "February 27, 2026",
+      "normalized_date": "2026-02-27T00:00:00",
+      "recurring": null,
+      "time": "7:00 PM",
+      "description": "Lively conversation for language learners, native speakers, and everyone in between. We regularly have 10+ languages spoken and always have spirited discussions!",
+      "additional_info": "",
+      "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-s7a5x-brgdj-p3rzz-bg8wm",
       "ticket_link": null,
       "image": "trident.jpg",
       "source_url": "https://www.tridentcafe.com/events",
@@ -4358,36 +4416,6 @@
       "description": "",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2025/12/14/death-cafe-a-conversation-on-dealing-with-death",
-      "ticket_link": null,
-      "image": "trident.jpg",
-      "source_url": "https://www.tridentcafe.com/events",
-      "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Books",
-        "Community"
-      ]
-    },
-    {
-      "id": "trident_booksellers_cafe_jazzetry_w_von_disco_december_13_2026_6_00_pm",
-      "title": "Jazzetry W/ Von Disco",
-      "venue": "Trident Booksellers & Cafe",
-      "location": "Boulder",
-      "date": "December 13, 2026",
-      "normalized_date": "2026-12-13T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.tridentcafe.com/events/2025/9/13/jazzetry-w-von-disco-5w3sd-rrblg",
       "ticket_link": null,
       "image": "trident.jpg",
       "source_url": "https://www.tridentcafe.com/events",
@@ -9093,8 +9121,8 @@
       "event_type_tags": []
     },
     {
-      "id": "fox_theatre_penelope_road_feb_27_2026_none",
-      "title": "Penelope Road",
+      "id": "fox_theatre_penelope_road_with_benny_g_feb_27_2026_none",
+      "title": "Penelope Road with Benny G",
       "venue": "Fox Theatre",
       "location": "Boulder",
       "date": "Feb 27, 2026",
@@ -9105,7 +9133,7 @@
       "additional_info": "",
       "link": "https://www.z2ent.com/events/detail/penelope-road-2026-fox",
       "ticket_link": "https://www.axs.com/events/1206428/?skin=foxtheatre",
-      "image": "images/z2/penelope-road-72e887db.jpg",
+      "image": "images/z2/penelope-road-with-benny-g-72e887db.jpg",
       "source_url": null,
       "age_restriction": null,
       "venue_tag": "Fox Theatre",
@@ -9156,356 +9184,6 @@
       "link": "https://www.z2ent.com/events/detail/tauk-2026-fox",
       "ticket_link": "https://www.axs.com/events/1259246/?skin=foxtheatre",
       "image": "images/z2/tauk-with-sqwerv-b42b98f1.jpg",
-      "source_url": null,
-      "age_restriction": null,
-      "venue_tag": "Fox Theatre",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Concert",
-        "Theater"
-      ],
-      "event_type_tags": []
-    },
-    {
-      "id": "boulder_theater_the_devil_makes_three_with_lightnin_luke_mar_1_2026_none",
-      "title": "The Devil Makes Three with Lightnin' Luke",
-      "venue": "Boulder Theater",
-      "location": "Boulder",
-      "date": "Mar 1, 2026",
-      "normalized_date": "2026-03-01",
-      "recurring": null,
-      "time": null,
-      "description": null,
-      "additional_info": "",
-      "link": "https://www.z2ent.com/events/detail/devil-makes-three-2026-bt",
-      "ticket_link": "https://www.axs.com/events/1206772/?skin=bouldertheater",
-      "image": "images/z2/the-devil-makes-three-with-lightnin-luke-78f6f054.jpg",
-      "source_url": null,
-      "age_restriction": null,
-      "venue_tag": "Boulder Theater",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Concert",
-        "Theater"
-      ],
-      "event_type_tags": []
-    },
-    {
-      "id": "boulder_theater_3oh_3_mar_3_2026_none",
-      "title": "3OH!3",
-      "venue": "Boulder Theater",
-      "location": "Boulder",
-      "date": "Mar 3, 2026",
-      "normalized_date": "2026-03-03",
-      "recurring": null,
-      "time": null,
-      "description": null,
-      "additional_info": "",
-      "link": "https://www.z2ent.com/events/detail/3oh3-2026-bt",
-      "ticket_link": "https://www.axs.com/events/1267632/?skin=bouldertheater",
-      "image": "images/z2/3oh-3-a9fc108a.jpg",
-      "source_url": null,
-      "age_restriction": null,
-      "venue_tag": "Boulder Theater",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Concert",
-        "Theater"
-      ],
-      "event_type_tags": []
-    },
-    {
-      "id": "boulder_theater_yacht_rock_revue_mar_4_2026_none",
-      "title": "Yacht Rock Revue",
-      "venue": "Boulder Theater",
-      "location": "Boulder",
-      "date": "Mar 4, 2026",
-      "normalized_date": "2026-03-04",
-      "recurring": null,
-      "time": null,
-      "description": null,
-      "additional_info": "",
-      "link": "https://www.z2ent.com/events/detail/yacht-rock-revue-2026-bt",
-      "ticket_link": "https://www.axs.com/events/1152517/?skin=bouldertheater",
-      "image": "images/z2/yacht-rock-revue-47442709.jpg",
-      "source_url": null,
-      "age_restriction": null,
-      "venue_tag": "Boulder Theater",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Concert",
-        "Theater"
-      ],
-      "event_type_tags": []
-    },
-    {
-      "id": "fox_theatre_daft_disko_french_house_disco_party_mar_5_2026_none",
-      "title": "Daft Disko [french house & disco party]",
-      "venue": "Fox Theatre",
-      "location": "Boulder",
-      "date": "Mar 5, 2026",
-      "normalized_date": "2026-03-05",
-      "recurring": null,
-      "time": null,
-      "description": null,
-      "additional_info": "",
-      "link": "https://www.z2ent.com/events/detail/daft-disko-2026-fox",
-      "ticket_link": "https://www.axs.com/events/1303206/?skin=foxtheatre",
-      "image": "images/z2/daft-disko-french-house-disco-party--cf6d051b.jpg",
-      "source_url": null,
-      "age_restriction": null,
-      "venue_tag": "Fox Theatre",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Concert",
-        "Theater"
-      ],
-      "event_type_tags": []
-    },
-    {
-      "id": "fox_theatre_summer_camp_on_the_road_tour_mar_6_2026_none",
-      "title": "Summer Camp: On The Road Tour",
-      "venue": "Fox Theatre",
-      "location": "Boulder",
-      "date": "Mar 6, 2026",
-      "normalized_date": "2026-03-06",
-      "recurring": null,
-      "time": null,
-      "description": null,
-      "additional_info": "",
-      "link": "https://www.z2ent.com/events/detail/scamp-on-the-road-tour-2026-fox",
-      "ticket_link": "https://www.axs.com/events/1304865/summer-camp-on-the-road-tickets",
-      "image": "images/z2/summer-camp-on-the-road-tour-a0059d8a.jpg",
-      "source_url": null,
-      "age_restriction": null,
-      "venue_tag": "Fox Theatre",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Concert",
-        "Theater"
-      ],
-      "event_type_tags": []
-    },
-    {
-      "id": "boulder_theater_the_bad_plus_chris_potter_and_craig_taborn_mar_6_2026_none",
-      "title": "The Bad Plus Chris Potter and Craig Taborn",
-      "venue": "Boulder Theater",
-      "location": "Boulder",
-      "date": "Mar 6, 2026",
-      "normalized_date": "2026-03-06",
-      "recurring": null,
-      "time": null,
-      "description": null,
-      "additional_info": "",
-      "link": "https://www.z2ent.com/events/detail/the-bad-plus-2026-bt",
-      "ticket_link": "https://www.axs.com/events/1240577/?skin=bouldertheater",
-      "image": "images/z2/the-bad-plus-chris-potter-and-craig-taborn-e738277f.jpg",
-      "source_url": null,
-      "age_restriction": null,
-      "venue_tag": "Boulder Theater",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Concert",
-        "Theater"
-      ],
-      "event_type_tags": []
-    },
-    {
-      "id": "fox_theatre_easy_jim_mar_7_2026_none",
-      "title": "Easy Jim",
-      "venue": "Fox Theatre",
-      "location": "Boulder",
-      "date": "Mar 7, 2026",
-      "normalized_date": "2026-03-07",
-      "recurring": null,
-      "time": null,
-      "description": null,
-      "additional_info": "",
-      "link": "https://www.z2ent.com/events/detail/easy-jim-2026-fox",
-      "ticket_link": "https://www.axs.com/events/1289774/?skin=foxtheatre",
-      "image": "images/z2/easy-jim-a861dcc1.jpg",
-      "source_url": null,
-      "age_restriction": null,
-      "venue_tag": "Fox Theatre",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Concert",
-        "Theater"
-      ],
-      "event_type_tags": []
-    },
-    {
-      "id": "fox_theatre_natalie_jane_mar_7_2026_none",
-      "title": "Natalie Jane",
-      "venue": "Fox Theatre",
-      "location": "Boulder",
-      "date": "Mar 7, 2026",
-      "normalized_date": "2026-03-07",
-      "recurring": null,
-      "time": null,
-      "description": null,
-      "additional_info": "",
-      "link": "https://www.z2ent.com/events/detail/natalie-jane-2026-fox",
-      "ticket_link": "https://etix.com/ticket/p/81526052",
-      "image": "images/z2/natalie-jane-7c3336d3.jpg",
-      "source_url": null,
-      "age_restriction": null,
-      "venue_tag": "Fox Theatre",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Concert",
-        "Theater"
-      ],
-      "event_type_tags": []
-    },
-    {
-      "id": "boulder_theater_heated_rivalry_night_mar_7_2026_none",
-      "title": "Heated Rivalry Night",
-      "venue": "Boulder Theater",
-      "location": "Boulder",
-      "date": "Mar 7, 2026",
-      "normalized_date": "2026-03-07",
-      "recurring": null,
-      "time": null,
-      "description": null,
-      "additional_info": "",
-      "link": "https://www.z2ent.com/events/detail/heated-rivalry-2026-bt",
-      "ticket_link": "https://www.axs.com/events/1290703/?skin=bouldertheater",
-      "image": "images/z2/heated-rivalry-night-61bf6631.jpg",
-      "source_url": null,
-      "age_restriction": null,
-      "venue_tag": "Boulder Theater",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Concert",
-        "Theater"
-      ],
-      "event_type_tags": []
-    },
-    {
-      "id": "fox_theatre_celebrating_the_life_music_of_paa_kow_a_benefit_concert_mar_8_2026_none",
-      "title": "Celebrating the Life & Music of Paa Kow: A Benefit Concert",
-      "venue": "Fox Theatre",
-      "location": "Boulder",
-      "date": "Mar 8, 2026",
-      "normalized_date": "2026-03-08",
-      "recurring": null,
-      "time": null,
-      "description": null,
-      "additional_info": "",
-      "link": "https://www.z2ent.com/events/detail/paa-kow-benefit-concert-2026-fox",
-      "ticket_link": "https://www.axs.com/events/1313703/?skin=foxtheatre",
-      "image": "images/z2/celebrating-the-life-music-of-paa-kow-a-benefit-co-f346a285.jpg",
-      "source_url": null,
-      "age_restriction": null,
-      "venue_tag": "Fox Theatre",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Concert",
-        "Theater"
-      ],
-      "event_type_tags": []
-    },
-    {
-      "id": "boulder_theater_chris_isaak_mar_10_2026_none",
-      "title": "Chris Isaak",
-      "venue": "Boulder Theater",
-      "location": "Boulder",
-      "date": "Mar 10, 2026",
-      "normalized_date": "2026-03-10",
-      "recurring": null,
-      "time": null,
-      "description": null,
-      "additional_info": "",
-      "link": "https://www.z2ent.com/events/detail/chris-isaak-2026-bt",
-      "ticket_link": "https://www.axs.com/events/1240587/?skin=bouldertheater",
-      "image": "images/z2/chris-isaak-dc19364b.jpg",
-      "source_url": null,
-      "age_restriction": null,
-      "venue_tag": "Boulder Theater",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Concert",
-        "Theater"
-      ],
-      "event_type_tags": []
-    },
-    {
-      "id": "fox_theatre_jigitz_mar_12_2026_none",
-      "title": "jigitz",
-      "venue": "Fox Theatre",
-      "location": "Boulder",
-      "date": "Mar 12, 2026",
-      "normalized_date": "2026-03-12",
-      "recurring": null,
-      "time": null,
-      "description": null,
-      "additional_info": "",
-      "link": "https://www.z2ent.com/events/detail/jigitz-2026-fox",
-      "ticket_link": "https://www.axs.com/events/1288836/?skin=foxtheatre",
-      "image": "images/z2/jigitz-f7437c28.jpg",
-      "source_url": null,
-      "age_restriction": null,
-      "venue_tag": "Fox Theatre",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Concert",
-        "Theater"
-      ],
-      "event_type_tags": []
-    },
-    {
-      "id": "boulder_theater_pure_prairie_league_pablo_cruise_mar_13_2026_none",
-      "title": "Pure Prairie League + Pablo Cruise",
-      "venue": "Boulder Theater",
-      "location": "Boulder",
-      "date": "Mar 13, 2026",
-      "normalized_date": "2026-03-13",
-      "recurring": null,
-      "time": null,
-      "description": null,
-      "additional_info": "",
-      "link": "https://www.z2ent.com/events/detail/pure-prairie-league-pablo-cruise-2026-bt",
-      "ticket_link": "https://www.axs.com/events/1253150/?skin=bouldertheater",
-      "image": "images/z2/pure-prairie-league-pablo-cruise-e0399f75.jpg",
-      "source_url": null,
-      "age_restriction": null,
-      "venue_tag": "Boulder Theater",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Concert",
-        "Theater"
-      ],
-      "event_type_tags": []
-    },
-    {
-      "id": "fox_theatre_the_barr_brothers_with_benjamin_lazar_davis_mar_13_2026_none",
-      "title": "The Barr Brothers with Benjamin Lazar Davis",
-      "venue": "Fox Theatre",
-      "location": "Boulder",
-      "date": "Mar 13, 2026",
-      "normalized_date": "2026-03-13",
-      "recurring": null,
-      "time": null,
-      "description": null,
-      "additional_info": "",
-      "link": "https://www.z2ent.com/events/detail/barr-brothers-2026-fox",
-      "ticket_link": "https://www.axs.com/events/1178397/?skin=foxtheatre",
-      "image": "images/z2/the-barr-brothers-with-benjamin-lazar-davis-73d535e6.jpg",
       "source_url": null,
       "age_restriction": null,
       "venue_tag": "Fox Theatre",
