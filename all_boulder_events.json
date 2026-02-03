@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T18:43:33.365628",
-  "total_events": 331,
+  "generated_at": "2026-02-03T08:40:30.452161",
+  "total_events": 330,
   "tags": {
     "venues": [
       "300 Suns Brewing",
@@ -154,6 +154,35 @@
       "link": "https://www.velvetelklounge.com/event/february-5th-hot-like-mars/",
       "ticket_link": null,
       "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/58610Hot_Like_Mars.jpeg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+      "source_url": "https://www.velvetelklounge.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Velvet Elk Lounge",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Live Music",
+        "Bar",
+        "Nightlife"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "velvet_elk_lounge_the_revivalists_pre_show_happy_hour_february_10_2026",
+      "title": "The Revivalists Pre-Show Happy Hour",
+      "venue": "Velvet Elk Lounge",
+      "location": "Boulder",
+      "date": "February 10, 2026",
+      "normalized_date": "2026-02-10T00:00:00",
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.velvetelklounge.com/event/the-revivalists-pre-show-happy-hour/",
+      "ticket_link": null,
+      "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/55875JamForGood_BoulderHappyHourv05_v3-IGS.png?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
       "source_url": "https://www.velvetelklounge.com/events/",
       "age_restriction": null,
       "venue_tag": "Velvet Elk Lounge",
@@ -344,35 +373,6 @@
       ]
     },
     {
-      "id": "velvet_elk_lounge_white_denim_may_31_2026",
-      "title": "WHITE DENIM",
-      "venue": "Velvet Elk Lounge",
-      "location": "Boulder",
-      "date": "May 31, 2026",
-      "normalized_date": "2026-05-31T00:00:00",
-      "recurring": null,
-      "time": null,
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.velvetelklounge.com/event/may-31st-white-denim/",
-      "ticket_link": null,
-      "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/6289000366570015.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
-      "source_url": "https://www.velvetelklounge.com/events/",
-      "age_restriction": null,
-      "venue_tag": "Velvet Elk Lounge",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Music",
-        "Live Music",
-        "Bar",
-        "Nightlife"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Nightlife"
-      ]
-    },
-    {
       "id": "junkyard_social_club_drop_in_mahjongg_tuesdays_tuesday_february_3_2026_12_00_2_00_pm",
       "title": "Drop-In Mahjongg \u2013 Tuesdays",
       "venue": "Junkyard Social Club",
@@ -426,8 +426,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "All Ages"
+        "All Ages",
+        "Community"
       ]
     },
     {
@@ -515,10 +515,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Music",
         "Family Friendly",
+        "All Ages",
         "Performance",
+        "Music",
         "Community",
         "Educational"
       ]
@@ -577,11 +577,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Music",
         "Family Friendly",
+        "All Ages",
         "Performance",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
@@ -639,8 +639,8 @@
       ],
       "event_type_tags": [
         "Community",
-        "Games",
-        "Educational"
+        "Educational",
+        "Games"
       ]
     },
     {
@@ -724,9 +724,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
-        "Community",
         "All Ages",
+        "Community",
+        "Games",
         "Family Friendly"
       ]
     },
@@ -784,11 +784,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Music",
         "Family Friendly",
+        "All Ages",
         "Performance",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
@@ -875,8 +875,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "All Ages",
+        "Community",
         "Music",
         "Family Friendly"
       ]
@@ -966,8 +966,8 @@
       ],
       "event_type_tags": [
         "Community",
-        "Music",
-        "Educational"
+        "Educational",
+        "Music"
       ]
     },
     {
@@ -1598,36 +1598,6 @@
       "description": "Morgan McHugh is an indie folk singer-songwriter from Bellingham WA. Growing up, immersed in a family and community of musicians, he has been playing the piano, the guitar, and writing songs from a young age.\u00a0His music has been inspired by artists like\u00a0Neil Young, John Prine, and Gregory Alan Isakov...",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2026/2/12/morgan-mchugh",
-      "ticket_link": null,
-      "image": "trident.jpg",
-      "source_url": "https://www.tridentcafe.com/events",
-      "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Books",
-        "Community"
-      ]
-    },
-    {
-      "id": "trident_booksellers_cafe_salads_sunbeams_february_13_2026_6_00_pm",
-      "title": "Salads & Sunbeams",
-      "venue": "Trident Booksellers & Cafe",
-      "location": "Boulder",
-      "date": "February 13, 2026",
-      "normalized_date": "2026-02-13T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.tridentcafe.com/events/2026/2/13/salads-amp-sunbeams",
       "ticket_link": null,
       "image": "trident.jpg",
       "source_url": "https://www.tridentcafe.com/events",
@@ -6969,32 +6939,6 @@
       ]
     },
     {
-      "id": "roots_music_project_open_mic_with_steve_koppe_at_roots_music_project_february_02_2026_6_00_pm_9_00_pm",
-      "title": "Open Mic with Steve Koppe at Roots Music Project",
-      "venue": "Roots Music Project",
-      "location": "Boulder",
-      "date": "February 02, 2026",
-      "normalized_date": "2026-02-02T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM - 9:00 PM",
-      "description": "Roots Music Project Community Open Mic with host Steve Koppe",
-      "additional_info": "",
-      "link": "https://www.eventbrite.com/e/open-mic-with-steve-koppe-at-roots-music-project-tickets-1981259973916",
-      "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175499932%2F1125606624043%2F1%2Foriginal.20240520-162949?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=84d56400e2a29e5ab25e09d9297de890",
-      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
-      "age_restriction": "21+",
-      "venue_tag": "Roots Music Project",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Community"
-      ],
-      "event_type_tags": [
-        "Live Music"
-      ]
-    },
-    {
       "id": "roots_music_project_sober_night_live_105_5_the_colorado_sound_presents_february_03_2026_6_30_pm_8_30_pm",
       "title": "Sober Night Live! 105.5 The Colorado Sound Presents",
       "venue": "Roots Music Project",
@@ -7007,7 +6951,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/sober-night-live-1055-the-colorado-sound-presents-tickets-1980129179680",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171681178%2F1125606624043%2F1%2Foriginal.20251124-221112?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=98887b4a971be63a95e24d16b4cd962e",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171681178%2F1125606624043%2F1%2Foriginal.20251124-221112?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=aee611725c314da3aea4f1387333934a",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -7021,19 +6965,19 @@
       ]
     },
     {
-      "id": "roots_music_project_tim_cook_godson_an_intimate_soul_roots_evening_february_06_2026_7_30_pm_10_30_pm",
-      "title": "Tim Cook &  Godson - An Intimate Soul & Roots Evening",
+      "id": "roots_music_project_tim_cook_godson_an_intimate_soul_roots_evening_w_drew_stevens_february_06_2026_7_30_pm_10_30_pm",
+      "title": "Tim Cook &  Godson - An Intimate Soul & Roots Evening w/ Drew Stevens",
       "venue": "Roots Music Project",
       "location": "Boulder",
       "date": "February 06, 2026",
       "normalized_date": "2026-02-06T00:00:00",
       "recurring": null,
       "time": "7:30 PM - 10:30 PM",
-      "description": "Subdudes bassist Tim Cook + Godson Seth Strickland of Green Buddha perform intimate originals & classics.",
+      "description": "Subdudes bassist Tim Cook + Godson Seth Strickland of Green Buddha perform intimate originals & classics. w/ Drew Stevens opening",
       "additional_info": "",
-      "link": "https://www.eventbrite.com/e/tim-cook-godson-an-intimate-soul-roots-evening-tickets-1977324060493",
+      "link": "https://www.eventbrite.com/e/tim-cook-godson-an-intimate-soul-roots-evening-w-drew-stevens-tickets-1977324060493",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172573132%2F1125606624043%2F1%2Foriginal.20251209-005808?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=23b271b87b30e1e72005a8b626e197f2",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172573132%2F1125606624043%2F1%2Foriginal.20251209-005808?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=75a79d5b5ef5302334df9f5e40750acb",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -7059,7 +7003,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/roots-soul-an-evening-with-hazel-miller-jack-hadley-tickets-1976353960899",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172329391%2F1125606624043%2F1%2Foriginal.20251204-175611?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=37b712d42eedc93333c4f3df8e1da02b",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172329391%2F1125606624043%2F1%2Foriginal.20251204-175611?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d1c035aaef8e36b83d9959dbc1a67a78",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -7085,7 +7029,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/face-vocal-band-a-valentines-night-of-harmony-heart-tickets-1975614440975",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171737840%2F1125606624043%2F1%2Foriginal.20251125-170141?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=9aa66c945dcdc7431a2ea5d03a14881c",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171737840%2F1125606624043%2F1%2Foriginal.20251125-170141?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=060b5a53818ec829f48c3ddeff018646",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -7319,7 +7263,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/resonance-ritual-featuring-tim-snider-kayla-diana-tickets-1979120897882",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173575342%2F1125606624043%2F1%2Foriginal.20251227-192139?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=3486d6f05b1c0706efece0eb259f1d64",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173575342%2F1125606624043%2F1%2Foriginal.20251227-192139?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a9b1346061bb34aca9129ef99096c44d",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -7371,7 +7315,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/asteroid-please-bear-hat-rmp-vinyl-release-party-benefiting-ms-tickets-1980026672077",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174246812%2F1125606624043%2F1%2Foriginal.20260107-204920?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=13b87eb1fc8adb9373b8a62c19e49789",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174246812%2F1125606624043%2F1%2Foriginal.20260107-204920?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a67b19e6e5dd0c250aa06e23974a429c",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -7397,7 +7341,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/rmp-workshop-logic-pro-workshop-basic-recording-techniques-tickets-1981533827018",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176011051%2F1125606624043%2F1%2Foriginal.20260127-235941?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=c385504e706d24c73aec59f3ebe2fbda",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176011051%2F1125606624043%2F1%2Foriginal.20260127-235941?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=0a43e5d529ce8311e4acd4982ec89c11",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -7423,7 +7367,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/roots-music-project-workshop-classic-songwriting-transformation-4-weeks-tickets-1981534591304",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175784553%2F1125606624043%2F1%2Foriginal.20260125-203735?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=902705064e2e913572985479a10d2ce3",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175784553%2F1125606624043%2F1%2Foriginal.20260125-203735?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=dcd2619aabfafde54ed5c8f9fab28ac9",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -7475,7 +7419,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/college-showcase-w-abernathy-shagnaster-words-of-mouth-and-red-revival-tickets-1980901767511",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175270585%2F1125606624043%2F1%2Foriginal.20260119-195609?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d276c817d0a750271b9f84a41a79ec2b",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175270585%2F1125606624043%2F1%2Foriginal.20260119-195609?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d976a55290b57296dea6983abc85952e",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -7501,7 +7445,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/rmp-vinyl-release-gen3-fruta-brutal-tickets-1981789415490",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175971300%2F1125606624043%2F1%2Foriginal.20260127-174610?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=ba4c617bcf1783d2fb0b0a86e1e0c1ec",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175971300%2F1125606624043%2F1%2Foriginal.20260127-174610?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=1f3589a57c4c4b8fa7050750ecc01866",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -7527,7 +7471,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/roots-music-project-workshop-creative-production-techniques-tickets-1981535896207",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175786093%2F1125606624043%2F1%2Foriginal.20260125-205803?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=60eb27019c42d8e9f42ec3f68cc36a80",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175786093%2F1125606624043%2F1%2Foriginal.20260125-205803?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d739aa5ebab758044487168a8f3058db",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -7553,7 +7497,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/boulder-philharmonic-jazz-explored-tickets-1981436401616",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175659994%2F1125606624043%2F1%2Foriginal.20260123-165929?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=16726aa4c33baf29104d22284eb6c48f",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175659994%2F1125606624043%2F1%2Foriginal.20260123-165929?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=8e4c49e2ab5eb020b184cfc87df57208",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -7579,7 +7523,33 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/in-bloom-rmp-silent-auction-spring-fundraiser-tickets-1980905379314",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175276529%2F1125606624043%2F1%2Foriginal.20260119-205725?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d2829d054f2b91d8f0810a53a22a8c65",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175276529%2F1125606624043%2F1%2Foriginal.20260119-205725?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=1dfeb7449fbcb4467270e41c38212917",
+      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_roots_music_project_workshop_intro_to_music_theory_4_week_course_march_30_2026_6_30_pm_8_00_pm",
+      "title": "Roots Music Project Workshop: Intro to Music Theory (4 Week Course)",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": "March 30, 2026",
+      "normalized_date": "2026-03-30T00:00:00",
+      "recurring": null,
+      "time": "6:30 PM - 8:00 PM",
+      "description": "Demystify music theory with practical lessons. Learn scales, chords & progressions on your instrument. All levels welcome. Guitar-friendly f",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/roots-music-project-workshop-intro-to-music-theory-4-week-course-tickets-1981537102816",
+      "ticket_link": null,
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175788440%2F1125606624043%2F1%2Foriginal.20260125-213618?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=ff4a1719bbaa5decc9ef85308332768d",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
