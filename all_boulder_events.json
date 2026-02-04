@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T18:56:41.809133",
-  "total_events": 317,
+  "generated_at": "2026-02-04T08:42:06.666672",
+  "total_events": 304,
   "tags": {
     "venues": [
       "300 Suns Brewing",
@@ -83,12 +83,12 @@
   },
   "events": [
     {
-      "id": "velvet_elk_lounge_donavon_frankenreiter_an_acoustic_evening_night_one_february_3_2026",
+      "id": "velvet_elk_lounge_donavon_frankenreiter_an_acoustic_evening_night_one_february_3_2027",
       "title": "Donavon Frankenreiter: An Acoustic Evening, Night One",
       "venue": "Velvet Elk Lounge",
       "location": "Boulder",
-      "date": "February 3, 2026",
-      "normalized_date": "2026-02-03T00:00:00",
+      "date": "February 3, 2027",
+      "normalized_date": "2027-02-03T00:00:00",
       "recurring": null,
       "time": null,
       "description": "",
@@ -373,35 +373,6 @@
       ]
     },
     {
-      "id": "junkyard_social_club_drop_in_mahjongg_tuesdays_tuesday_february_3_2026_12_00_2_00_pm",
-      "title": "Drop-In Mahjongg \u2013 Tuesdays",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Tuesday, February 3, 2026",
-      "normalized_date": "2026-02-03T00:00:00",
-      "recurring": null,
-      "time": "12:00 - 2:00 PM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://junkyardsocialclub.org/drop-in-event/drop-in-mahjongg-tuesdays/",
-      "ticket_link": null,
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/08/Drop-In-MahJongg-Tuesday.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Community",
-        "Games"
-      ]
-    },
-    {
       "id": "junkyard_social_club_community_craft_night_wednesday_february_4_2026_6_00_8_30_pm",
       "title": "Community Craft Night",
       "venue": "Junkyard Social Club",
@@ -485,9 +456,9 @@
       ],
       "event_type_tags": [
         "Community",
-        "All Ages",
         "Music",
-        "Performance"
+        "Performance",
+        "All Ages"
       ]
     },
     {
@@ -515,12 +486,12 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
-        "Community",
-        "Educational",
         "Performance",
-        "All Ages",
-        "Music"
+        "Community",
+        "Music",
+        "Educational",
+        "Family Friendly",
+        "All Ages"
       ]
     },
     {
@@ -577,11 +548,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
-        "Community",
-        "All Ages",
         "Performance",
-        "Music"
+        "Community",
+        "Music",
+        "Family Friendly",
+        "All Ages"
       ]
     },
     {
@@ -639,8 +610,8 @@
       ],
       "event_type_tags": [
         "Community",
-        "Educational",
-        "Games"
+        "Games",
+        "Educational"
       ]
     },
     {
@@ -725,8 +696,8 @@
       ],
       "event_type_tags": [
         "Community",
-        "Family Friendly",
         "Games",
+        "Family Friendly",
         "All Ages"
       ]
     },
@@ -784,11 +755,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
-        "Community",
-        "All Ages",
         "Performance",
-        "Music"
+        "Community",
+        "Music",
+        "Family Friendly",
+        "All Ages"
       ]
     },
     {
@@ -876,8 +847,8 @@
       ],
       "event_type_tags": [
         "Community",
-        "Family Friendly",
         "Music",
+        "Family Friendly",
         "All Ages"
       ]
     },
@@ -994,8 +965,8 @@
       ],
       "event_type_tags": [
         "Community",
-        "Educational",
-        "Music"
+        "Music",
+        "Educational"
       ]
     },
     {
@@ -1052,8 +1023,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "Performance"
+        "Performance",
+        "Music"
       ]
     },
     {
@@ -6060,12 +6031,12 @@
       ]
     },
     {
-      "id": "rosetta_hall_ryan_benthall_february_3_2026_6_00_pm",
+      "id": "rosetta_hall_ryan_benthall_february_3_2027_6_00_pm",
       "title": "RYAN BENTHALL",
       "venue": "Rosetta Hall",
       "location": "Boulder",
-      "date": "February 3, 2026",
-      "normalized_date": "2026-02-03T00:00:00",
+      "date": "February 3, 2027",
+      "normalized_date": "2027-02-03T00:00:00",
       "recurring": null,
       "time": "6:00 PM",
       "description": "JAZZ KEYBOARD",
@@ -6601,35 +6572,6 @@
       ]
     },
     {
-      "id": "bricks_on_main_open_mic_night_february_03_2026_5_30_pm_8_30_pm",
-      "title": "Open Mic Night",
-      "venue": "Bricks on Main",
-      "location": "Longmont",
-      "date": "February 03, 2026",
-      "normalized_date": "2026-02-03T00:00:00",
-      "recurring": null,
-      "time": "5:30 PM - 8:30 PM",
-      "description": "Music open mic, sign up at 5:30, about 15 minute time slots, often runs till 8:30 or a little later but general timeline is 6-8. Come down and eat dinner and have drinks and enjoy the music community here!",
-      "additional_info": "",
-      "link": "https://www.bricksretail.com/event-details/open-mic-night-2026-02-03-17-30",
-      "ticket_link": null,
-      "image": "https://static.wixstatic.com/media/f119ff_930ac49a2c5d4e0aa220b93515ba6ee3~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/f119ff_930ac49a2c5d4e0aa220b93515ba6ee3~mv2.jpg",
-      "source_url": "https://www.bricksretail.com/events-calendar",
-      "age_restriction": null,
-      "venue_tag": "Bricks on Main",
-      "location_tag": "Longmont",
-      "venue_type_tags": [
-        "Community",
-        "Retail",
-        "Entertainment"
-      ],
-      "event_type_tags": [
-        "Open Mic",
-        "Music",
-        "Community"
-      ]
-    },
-    {
       "id": "bricks_on_main_karaoke_night_february_04_2026_6_00_pm_8_00_pm",
       "title": "Karaoke Night",
       "venue": "Bricks on Main",
@@ -6740,6 +6682,35 @@
       "event_type_tags": [
         "Live Music",
         "Entertainment"
+      ]
+    },
+    {
+      "id": "bricks_on_main_open_mic_night_february_10_2026_5_30_pm_8_30_pm",
+      "title": "Open Mic Night",
+      "venue": "Bricks on Main",
+      "location": "Longmont",
+      "date": "February 10, 2026",
+      "normalized_date": "2026-02-10T00:00:00",
+      "recurring": null,
+      "time": "5:30 PM - 8:30 PM",
+      "description": "Music open mic, sign up at 5:30, about 15 minute time slots, often runs till 8:30 or a little later but general timeline is 6-8. Come down and eat dinner and have drinks and enjoy the music community here!",
+      "additional_info": "",
+      "link": "https://www.bricksretail.com/event-details/open-mic-night-2026-02-10-17-30",
+      "ticket_link": null,
+      "image": "https://static.wixstatic.com/media/f119ff_930ac49a2c5d4e0aa220b93515ba6ee3~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/f119ff_930ac49a2c5d4e0aa220b93515ba6ee3~mv2.jpg",
+      "source_url": "https://www.bricksretail.com/events-calendar",
+      "age_restriction": null,
+      "venue_tag": "Bricks on Main",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Community",
+        "Retail",
+        "Entertainment"
+      ],
+      "event_type_tags": [
+        "Open Mic",
+        "Music",
+        "Community"
       ]
     },
     {
@@ -6967,29 +6938,31 @@
       ]
     },
     {
-      "id": "roots_music_project_sober_night_live_105_5_the_colorado_sound_presents_february_03_2026_6_30_pm_8_30_pm",
-      "title": "Sober Night Live! 105.5 The Colorado Sound Presents",
-      "venue": "Roots Music Project",
-      "location": "Boulder",
-      "date": "February 03, 2026",
-      "normalized_date": "2026-02-03T00:00:00",
+      "id": "bricks_on_main_wandering_roads_february_26_2026_6_00_pm_8_00_pm",
+      "title": "Wandering Roads",
+      "venue": "Bricks on Main",
+      "location": "Longmont",
+      "date": "February 26, 2026",
+      "normalized_date": "2026-02-26T00:00:00",
       "recurring": null,
-      "time": "6:30 PM - 8:30 PM",
-      "description": "Monthly open mic for sober creatives. Share your art, find your community, perform in a supportive space. Free admission, donations welcome.",
+      "time": "6:00 PM - 8:00 PM",
+      "description": "The Southern Rock Experience - Essential cuts from legends like The Allman Brothers, Blackberry Smoke, Lynyrd Skynyrd, Marshall Tucker, Molly Hatchet, ZZ Top and more seamlessly blended with hard-hitting originals forged in the same timeless southern rock spirit.",
       "additional_info": "",
-      "link": "https://www.eventbrite.com/e/sober-night-live-1055-the-colorado-sound-presents-tickets-1980129179680",
+      "link": "https://www.bricksretail.com/event-details/wandering-roads-2",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171681178%2F1125606624043%2F1%2Foriginal.20251124-221112?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=aee611725c314da3aea4f1387333934a",
-      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
-      "age_restriction": "21+",
-      "venue_tag": "Roots Music Project",
-      "location_tag": "Boulder",
+      "image": "https://static.wixstatic.com/media/ea2d6f_5d55eb3ea467466bbaabd1fbad1ad98a~mv2.png/v1/fill/w_400,h_400,al_c,q_85,enc_auto/ea2d6f_5d55eb3ea467466bbaabd1fbad1ad98a~mv2.png",
+      "source_url": "https://www.bricksretail.com/events-calendar",
+      "age_restriction": null,
+      "venue_tag": "Bricks on Main",
+      "location_tag": "Longmont",
       "venue_type_tags": [
-        "Live Music",
-        "Community"
+        "Community",
+        "Retail",
+        "Entertainment"
       ],
       "event_type_tags": [
-        "Live Music"
+        "Live Music",
+        "Entertainment"
       ]
     },
     {
@@ -7578,6 +7551,32 @@
       "link": "https://www.eventbrite.com/e/roots-music-project-workshop-intro-to-music-theory-4-week-course-tickets-1981537102816",
       "ticket_link": null,
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175788440%2F1125606624043%2F1%2Foriginal.20260125-213618?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=ff4a1719bbaa5decc9ef85308332768d",
+      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_jay_nash_garrison_starr_swamp_gospel_heartfelt_storytelling_april_03_2026_8_00_pm_10_30_pm",
+      "title": "Jay Nash & Garrison Starr: Swamp Gospel & Heartfelt Storytelling",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": "April 03, 2026",
+      "normalized_date": "2026-04-03T00:00:00",
+      "recurring": null,
+      "time": "8:00 PM - 10:30 PM",
+      "description": "Two masterful singer-songwriters unite for an intimate evening of poignant melodies, rough-hewn vocals, and stories that heal the soul.",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/jay-nash-garrison-starr-swamp-gospel-heartfelt-storytelling-tickets-1980821634832",
+      "ticket_link": null,
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175185057%2F1125606624043%2F1%2Foriginal.20260118-193247?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=dbbcedc5e1ebaff491aabd66fcb6a8d5",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -8833,7 +8832,7 @@
       "additional_info": "",
       "link": "https://www.z2ent.com/events/detail/devotchka-2026-bt",
       "ticket_link": "https://www.axs.com/events/1216453/?skin=bouldertheater",
-      "image": "images/z2/devotchka-3edb154d.jpg",
+      "image": "images/z2/devotchka-6a8b7090.jpg",
       "source_url": null,
       "age_restriction": null,
       "venue_tag": "Boulder Theater",
@@ -8862,331 +8861,6 @@
       "source_url": null,
       "age_restriction": null,
       "venue_tag": "Boulder Theater",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Concert",
-        "Theater"
-      ],
-      "event_type_tags": []
-    },
-    {
-      "id": "boulder_theater_atmosphere_feb_20_2026_none",
-      "title": "Atmosphere",
-      "venue": "Boulder Theater",
-      "location": "Boulder",
-      "date": "Feb 20, 2026",
-      "normalized_date": "2026-02-20",
-      "recurring": null,
-      "time": null,
-      "description": null,
-      "additional_info": "",
-      "link": "https://www.z2ent.com/events/detail/atmosphere-2026-bt",
-      "ticket_link": "https://www.axs.com/events/1180679/?skin=bouldertheater",
-      "image": "images/z2/atmosphere-f9353645.jpg",
-      "source_url": null,
-      "age_restriction": null,
-      "venue_tag": "Boulder Theater",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Concert",
-        "Theater"
-      ],
-      "event_type_tags": []
-    },
-    {
-      "id": "fox_theatre_young_and_dead_feat_liquid_jpeg_light_show_feb_20_2026_none",
-      "title": "Young and Dead feat. Liquid JPEG Light Show",
-      "venue": "Fox Theatre",
-      "location": "Boulder",
-      "date": "Feb 20, 2026",
-      "normalized_date": "2026-02-20",
-      "recurring": null,
-      "time": null,
-      "description": null,
-      "additional_info": "",
-      "link": "https://www.z2ent.com/events/detail/young-and-dead-2026-fox",
-      "ticket_link": "https://www.axs.com/events/1232775/?skin=foxtheatre",
-      "image": "images/z2/young-and-dead-feat-liquid-jpeg-light-show-f5f381fc.jpg",
-      "source_url": null,
-      "age_restriction": null,
-      "venue_tag": "Fox Theatre",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Concert",
-        "Theater"
-      ],
-      "event_type_tags": []
-    },
-    {
-      "id": "fox_theatre_dennett_with_papajay_dubv_feb_21_2026_none",
-      "title": "DENNETT with PAPAJAY, DUBV",
-      "venue": "Fox Theatre",
-      "location": "Boulder",
-      "date": "Feb 21, 2026",
-      "normalized_date": "2026-02-21",
-      "recurring": null,
-      "time": null,
-      "description": null,
-      "additional_info": "",
-      "link": "https://www.z2ent.com/events/detail/dennett-2026-fox",
-      "ticket_link": "https://www.axs.com/events/1216459/?skin=foxtheatre",
-      "image": "images/z2/dennett-with-papajay-dubv-05c96f54.jpg",
-      "source_url": null,
-      "age_restriction": null,
-      "venue_tag": "Fox Theatre",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Concert",
-        "Theater"
-      ],
-      "event_type_tags": []
-    },
-    {
-      "id": "boulder_theater_heated_rivalry_night_feb_21_2026_none",
-      "title": "Heated Rivalry Night",
-      "venue": "Boulder Theater",
-      "location": "Boulder",
-      "date": "Feb 21, 2026",
-      "normalized_date": "2026-02-21",
-      "recurring": null,
-      "time": null,
-      "description": null,
-      "additional_info": "",
-      "link": "https://www.z2ent.com/events/detail/heated-rivalry-2-2026-bt",
-      "ticket_link": "https://www.axs.com/events/1304794/?skin=bouldertheater",
-      "image": "images/z2/heated-rivalry-night-7fc5de0a.jpg",
-      "source_url": null,
-      "age_restriction": null,
-      "venue_tag": "Boulder Theater",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Concert",
-        "Theater"
-      ],
-      "event_type_tags": []
-    },
-    {
-      "id": "fox_theatre_the_502s_with_harf_feb_22_2026_none",
-      "title": "The 502s with harf.",
-      "venue": "Fox Theatre",
-      "location": "Boulder",
-      "date": "Feb 22, 2026",
-      "normalized_date": "2026-02-22",
-      "recurring": null,
-      "time": null,
-      "description": null,
-      "additional_info": "",
-      "link": "https://www.z2ent.com/events/detail/502s-2026-fox",
-      "ticket_link": "https://www.axs.com/events/1206402/the-502s-tickets",
-      "image": "images/z2/the-502s-with-harf--e2f4098c.jpg",
-      "source_url": null,
-      "age_restriction": null,
-      "venue_tag": "Fox Theatre",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Concert",
-        "Theater"
-      ],
-      "event_type_tags": []
-    },
-    {
-      "id": "boulder_theater_the_human_advantage_summit_feb_23_2026_none",
-      "title": "The Human Advantage Summit",
-      "venue": "Boulder Theater",
-      "location": "Boulder",
-      "date": "Feb 23, 2026",
-      "normalized_date": "2026-02-23",
-      "recurring": null,
-      "time": null,
-      "description": null,
-      "additional_info": "",
-      "link": "https://www.z2ent.com/events/detail/human-advantage-summit-2026-bt",
-      "ticket_link": "https://www.axs.com/events/1281681/?skin=bouldertheater",
-      "image": "images/z2/the-human-advantage-summit-48c5a631.jpg",
-      "source_url": null,
-      "age_restriction": null,
-      "venue_tag": "Boulder Theater",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Concert",
-        "Theater"
-      ],
-      "event_type_tags": []
-    },
-    {
-      "id": "fox_theatre_daniel_donato_s_cosmic_country_feb_24_2026_none",
-      "title": "Daniel Donato's Cosmic Country",
-      "venue": "Fox Theatre",
-      "location": "Boulder",
-      "date": "Feb 24, 2026",
-      "normalized_date": "2026-02-24",
-      "recurring": null,
-      "time": null,
-      "description": null,
-      "additional_info": "",
-      "link": "https://www.z2ent.com/events/detail/daniel-donatos-2026-fox",
-      "ticket_link": "https://www.axs.com/au/events/1216476/daniel-donato-s-cosmic-country-night-1-tickets/promopage/75956?axssid=token_d8b11b26e5d1&locale=en-NZ&originalReferringURL=",
-      "image": "images/z2/daniel-donato-s-cosmic-country-8d2a9b39.jpg",
-      "source_url": null,
-      "age_restriction": null,
-      "venue_tag": "Fox Theatre",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Concert",
-        "Theater"
-      ],
-      "event_type_tags": []
-    },
-    {
-      "id": "boulder_theater_daniel_donato_s_cosmic_country_2_nights_feb_25_2026_none",
-      "title": "Daniel Donato's Cosmic Country (2 Nights!)",
-      "venue": "Boulder Theater",
-      "location": "Boulder",
-      "date": "Feb 25, 2026",
-      "normalized_date": "2026-02-25",
-      "recurring": null,
-      "time": null,
-      "description": null,
-      "additional_info": "",
-      "link": "https://www.z2ent.com/events/detail/daniel-donato-2026-bt",
-      "ticket_link": "https://www.axs.com/series/30335/daniel-donato-s-cosmic-country-2-nights-tickets/?skin=bouldertheater ",
-      "image": "images/z2/daniel-donato-s-cosmic-country-2-nights--62d8a633.jpg",
-      "source_url": null,
-      "age_restriction": null,
-      "venue_tag": "Boulder Theater",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Concert",
-        "Theater"
-      ],
-      "event_type_tags": []
-    },
-    {
-      "id": "fox_theatre_riot_with_beanz_slick_portal_feb_26_2026_none",
-      "title": "RIOT with Beanz, Slick Portal",
-      "venue": "Fox Theatre",
-      "location": "Boulder",
-      "date": "Feb 26, 2026",
-      "normalized_date": "2026-02-26",
-      "recurring": null,
-      "time": null,
-      "description": null,
-      "additional_info": "",
-      "link": "https://www.z2ent.com/events/detail/riot-2026-fox",
-      "ticket_link": "https://www.axs.com/events/1240594/?skin=foxtheatre",
-      "image": "images/z2/riot-with-beanz-slick-portal-235d6523.jpg",
-      "source_url": null,
-      "age_restriction": null,
-      "venue_tag": "Fox Theatre",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Concert",
-        "Theater"
-      ],
-      "event_type_tags": []
-    },
-    {
-      "id": "boulder_theater_the_mellow_film_tour_feb_27_2026_none",
-      "title": "The Mellow Film Tour",
-      "venue": "Boulder Theater",
-      "location": "Boulder",
-      "date": "Feb 27, 2026",
-      "normalized_date": "2026-02-27",
-      "recurring": null,
-      "time": null,
-      "description": null,
-      "additional_info": "",
-      "link": "https://www.z2ent.com/events/detail/mellow-film-2026-bt",
-      "ticket_link": "https://www.axs.com/events/1281686/?skin=bouldertheater",
-      "image": "images/z2/the-mellow-film-tour-0f14d048.jpg",
-      "source_url": null,
-      "age_restriction": null,
-      "venue_tag": "Boulder Theater",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Concert",
-        "Theater"
-      ],
-      "event_type_tags": []
-    },
-    {
-      "id": "fox_theatre_penelope_road_with_benny_g_feb_27_2026_none",
-      "title": "Penelope Road with Benny G",
-      "venue": "Fox Theatre",
-      "location": "Boulder",
-      "date": "Feb 27, 2026",
-      "normalized_date": "2026-02-27",
-      "recurring": null,
-      "time": null,
-      "description": null,
-      "additional_info": "",
-      "link": "https://www.z2ent.com/events/detail/penelope-road-2026-fox",
-      "ticket_link": "https://www.axs.com/events/1206428/?skin=foxtheatre",
-      "image": "images/z2/penelope-road-with-benny-g-72e887db.jpg",
-      "source_url": null,
-      "age_restriction": null,
-      "venue_tag": "Fox Theatre",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Concert",
-        "Theater"
-      ],
-      "event_type_tags": []
-    },
-    {
-      "id": "boulder_theater_all_them_witches_with_king_buffalo_feb_28_2026_none",
-      "title": "All Them Witches with King Buffalo",
-      "venue": "Boulder Theater",
-      "location": "Boulder",
-      "date": "Feb 28, 2026",
-      "normalized_date": "2026-02-28",
-      "recurring": null,
-      "time": null,
-      "description": null,
-      "additional_info": "",
-      "link": "https://www.z2ent.com/events/detail/all-them-witches-2026-bt",
-      "ticket_link": "https://www.axs.com/events/1158172/?skin=bouldertheater",
-      "image": "images/z2/all-them-witches-with-king-buffalo-5b3ff17a.jpg",
-      "source_url": null,
-      "age_restriction": null,
-      "venue_tag": "Boulder Theater",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Concert",
-        "Theater"
-      ],
-      "event_type_tags": []
-    },
-    {
-      "id": "fox_theatre_tauk_with_sqwerv_feb_28_2026_none",
-      "title": "TAUK with Sqwerv",
-      "venue": "Fox Theatre",
-      "location": "Boulder",
-      "date": "Feb 28, 2026",
-      "normalized_date": "2026-02-28",
-      "recurring": null,
-      "time": null,
-      "description": null,
-      "additional_info": "",
-      "link": "https://www.z2ent.com/events/detail/tauk-2026-fox",
-      "ticket_link": "https://www.axs.com/events/1259246/?skin=foxtheatre",
-      "image": "images/z2/tauk-with-sqwerv-b42b98f1.jpg",
-      "source_url": null,
-      "age_restriction": null,
-      "venue_tag": "Fox Theatre",
       "location_tag": "Boulder",
       "venue_type_tags": [
         "Live Music",

@@ -1,25 +1,5 @@
 [
   {
-    "title": "Sober Night Live! 105.5 The Colorado Sound Presents",
-    "description": "Monthly open mic for sober creatives. Share your art, find your community, perform in a supportive space. Free admission, donations welcome.",
-    "link": "https://www.eventbrite.com/e/sober-night-live-1055-the-colorado-sound-presents-tickets-1980129179680",
-    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171681178%2F1125606624043%2F1%2Foriginal.20251124-221112?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=aee611725c314da3aea4f1387333934a",
-    "date": "February 03, 2026",
-    "time": "6:30 PM - 8:30 PM",
-    "venue": "Roots Music Project",
-    "location": "Boulder",
-    "category": "Music",
-    "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
-    "event_type_tags": [
-      "Live Music"
-    ],
-    "venue_type_tags": [
-      "Live Music",
-      "Community"
-    ],
-    "age_restriction": "21+"
-  },
-  {
     "title": "Tim Cook &  Godson - An Intimate Soul & Roots Evening w/ Drew Stevens",
     "description": "Subdudes bassist Tim Cook + Godson Seth Strickland of Green Buddha perform intimate originals & classics. w/ Drew Stevens opening",
     "link": "https://www.eventbrite.com/e/tim-cook-godson-an-intimate-soul-roots-evening-w-drew-stevens-tickets-1977324060493",
@@ -466,6 +446,26 @@
     "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175788440%2F1125606624043%2F1%2Foriginal.20260125-213618?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=ff4a1719bbaa5decc9ef85308332768d",
     "date": "March 30, 2026",
     "time": "6:30 PM - 8:00 PM",
+    "venue": "Roots Music Project",
+    "location": "Boulder",
+    "category": "Music",
+    "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
+    "event_type_tags": [
+      "Live Music"
+    ],
+    "venue_type_tags": [
+      "Live Music",
+      "Community"
+    ],
+    "age_restriction": "21+"
+  },
+  {
+    "title": "Jay Nash & Garrison Starr: Swamp Gospel & Heartfelt Storytelling",
+    "description": "Two masterful singer-songwriters unite for an intimate evening of poignant melodies, rough-hewn vocals, and stories that heal the soul.",
+    "link": "https://www.eventbrite.com/e/jay-nash-garrison-starr-swamp-gospel-heartfelt-storytelling-tickets-1980821634832",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175185057%2F1125606624043%2F1%2Foriginal.20260118-193247?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=dbbcedc5e1ebaff491aabd66fcb6a8d5",
+    "date": "April 03, 2026",
+    "time": "8:00 PM - 10:30 PM",
     "venue": "Roots Music Project",
     "location": "Boulder",
     "category": "Music",
