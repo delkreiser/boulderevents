@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T08:42:06.666672",
-  "total_events": 304,
+  "generated_at": "2026-02-04T18:50:26.882593",
+  "total_events": 330,
   "tags": {
     "venues": [
       "300 Suns Brewing",
@@ -397,8 +397,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "All Ages"
+        "All Ages",
+        "Community"
       ]
     },
     {
@@ -426,8 +426,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Games"
+        "Games",
+        "Community"
       ]
     },
     {
@@ -455,10 +455,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Music",
+        "All Ages",
         "Performance",
-        "All Ages"
+        "Community"
       ]
     },
     {
@@ -486,11 +486,11 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Family Friendly",
+        "Music",
         "Performance",
         "Community",
-        "Music",
         "Educational",
-        "Family Friendly",
         "All Ages"
       ]
     },
@@ -519,8 +519,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Music"
+        "Music",
+        "Community"
       ]
     },
     {
@@ -548,10 +548,10 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Family Friendly",
+        "Music",
         "Performance",
         "Community",
-        "Music",
-        "Family Friendly",
         "All Ages"
       ]
     },
@@ -609,8 +609,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Games",
+        "Community",
         "Educational"
       ]
     },
@@ -695,10 +695,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Games",
         "Family Friendly",
-        "All Ages"
+        "All Ages",
+        "Community",
+        "Games"
       ]
     },
     {
@@ -726,8 +726,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Music"
+        "Music",
+        "Community"
       ]
     },
     {
@@ -755,10 +755,10 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Family Friendly",
+        "Music",
         "Performance",
         "Community",
-        "Music",
-        "Family Friendly",
         "All Ages"
       ]
     },
@@ -787,9 +787,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Music",
-        "Performance"
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -846,10 +846,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Music",
+        "All Ages",
         "Family Friendly",
-        "All Ages"
+        "Community"
       ]
     },
     {
@@ -905,9 +905,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Music",
-        "Performance"
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -935,8 +935,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Performance"
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -964,8 +964,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Music",
+        "Community",
         "Educational"
       ]
     },
@@ -994,8 +994,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Music"
+        "Music",
+        "Community"
       ]
     },
     {
@@ -1023,8 +1023,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Music"
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -4376,36 +4376,6 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_death_cafe_a_conversation_on_dealing_with_death_december_14_2026_2_00_pm",
-      "title": "Death Cafe: A Conversation On Dealing with Death",
-      "venue": "Trident Booksellers & Cafe",
-      "location": "Boulder",
-      "date": "December 14, 2026",
-      "normalized_date": "2026-12-14T00:00:00",
-      "recurring": null,
-      "time": "2:00 PM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.tridentcafe.com/events/2025/12/14/death-cafe-a-conversation-on-dealing-with-death",
-      "ticket_link": null,
-      "image": "trident.jpg",
-      "source_url": "https://www.tridentcafe.com/events",
-      "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Books",
-        "Community"
-      ]
-    },
-    {
       "id": "license_no_1_live_music_with_george_nelson_band_wednesday_february_4_2026_8_00_pm_11_59_pm",
       "title": "Live Music With George Nelson Band",
       "venue": "License No 1",
@@ -6978,7 +6948,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/tim-cook-godson-an-intimate-soul-roots-evening-w-drew-stevens-tickets-1977324060493",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172573132%2F1125606624043%2F1%2Foriginal.20251209-005808?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=75a79d5b5ef5302334df9f5e40750acb",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172573132%2F1125606624043%2F1%2Foriginal.20251209-005808?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=6cbdd2b1cd09bc3286504cab7dbff2ca",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -7004,7 +6974,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/roots-soul-an-evening-with-hazel-miller-jack-hadley-tickets-1976353960899",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172329391%2F1125606624043%2F1%2Foriginal.20251204-175611?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d1c035aaef8e36b83d9959dbc1a67a78",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172329391%2F1125606624043%2F1%2Foriginal.20251204-175611?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=93e7405e27a399886c37b4fb1dc28494",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -7030,7 +7000,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/face-vocal-band-a-valentines-night-of-harmony-heart-tickets-1975614440975",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171737840%2F1125606624043%2F1%2Foriginal.20251125-170141?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=060b5a53818ec829f48c3ddeff018646",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171737840%2F1125606624043%2F1%2Foriginal.20251125-170141?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=2e3d2d8db9c2528ad305125799fc7545",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -7056,7 +7026,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/stephen-kellogg-and-the-homecoming-wspecial-guest-gutter-sinatra-night-1-tickets-1730968386039",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1131586293%2F1125606624043%2F1%2Foriginal.20250922-165943?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=b68c107806a260e39f4b828e81b3fe50",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1131586293%2F1125606624043%2F1%2Foriginal.20250922-165943?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=33c5584bf97d4f0210d1d5b5c78c5405",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -7082,7 +7052,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/stephen-kellogg-and-the-homecoming-wspecial-guest-gutter-sinatra-night-2-tickets-1730981384919",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1131586293%2F1125606624043%2F1%2Foriginal.20250922-165943?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=b68c107806a260e39f4b828e81b3fe50",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1131586293%2F1125606624043%2F1%2Foriginal.20250922-165943?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=33c5584bf97d4f0210d1d5b5c78c5405",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -7134,7 +7104,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/tempo-music-industry-program-info-session-free-open-house-registration-1980830362938",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175197778%2F1125606624043%2F1%2Foriginal.20260118-231743?w=400&auto=format%2Ccompress&q=75&sharp=10&s=ca9bd98cd8412368c41eb76e9ad88f29",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176700302%2F1125606624043%2F1%2Foriginal.20260204-184544?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=c616ff5c6588cc520dcc612268f6b041",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -7160,7 +7130,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/rmps-monthly-jazz-soul-and-groove-jam-sessions-tickets-1980479658973",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F954537953%2F1125606624043%2F1%2Foriginal.20250206-174854?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=ef5db859e24afae7187d27cedd45ef19",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F954537953%2F1125606624043%2F1%2Foriginal.20250206-174854?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=e6697e534a6f2fddc6b7e9d404724717",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -7186,7 +7156,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/cosmic-smoke-wagon-howlin-goatz-guest-bovine-intervention-tickets-1981387251607",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175603594%2F1125606624043%2F1%2Foriginal.20260122-230916?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=45e1fd547b125821024ea530a12c148e",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175603594%2F1125606624043%2F1%2Foriginal.20260122-230916?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=7b30f3ab911dfc209549e2b8e0dd1436",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -7212,7 +7182,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/house-of-fire-velvet-vibez-tickets-1982053528459",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176307433%2F1125606624043%2F1%2Foriginal.20260131-004039?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=21593d9cd15a531a3cebda761e9e17c9",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176307433%2F1125606624043%2F1%2Foriginal.20260131-004039?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=423e32379a0cbd77dbba54eca0f65bb8",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -7264,7 +7234,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/resonance-ritual-featuring-tim-snider-kayla-diana-tickets-1979120897882",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173575342%2F1125606624043%2F1%2Foriginal.20251227-192139?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a9b1346061bb34aca9129ef99096c44d",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173575342%2F1125606624043%2F1%2Foriginal.20251227-192139?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=f4d37a9f80462cddc986c4f4a747f16b",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -7290,7 +7260,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/dave-watts-and-friends-w-big-ol-pig-tickets-1980440011386",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174701753%2F1408677475953%2F1%2Foriginal.20260113-044232?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=801e2c9a335eb9e270451ce26ee921c0",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174701753%2F1408677475953%2F1%2Foriginal.20260113-044232?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=7416c1e7cc9bb56be3e8c0d80accc99c",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -7316,7 +7286,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/asteroid-please-bear-hat-rmp-vinyl-release-party-benefiting-ms-tickets-1980026672077",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174246812%2F1125606624043%2F1%2Foriginal.20260107-204920?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a67b19e6e5dd0c250aa06e23974a429c",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174246812%2F1125606624043%2F1%2Foriginal.20260107-204920?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=9ba07adc5c3be461c0ceaae2b0868b7b",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -7342,7 +7312,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/rmp-workshop-logic-pro-workshop-basic-recording-techniques-tickets-1981533827018",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176011051%2F1125606624043%2F1%2Foriginal.20260127-235941?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=0a43e5d529ce8311e4acd4982ec89c11",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176011051%2F1125606624043%2F1%2Foriginal.20260127-235941?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=9785d1f1337fd1ace2e81576baedad4c",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -7368,7 +7338,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/roots-music-project-workshop-classic-songwriting-transformation-4-weeks-tickets-1981534591304",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175784553%2F1125606624043%2F1%2Foriginal.20260125-203735?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=dcd2619aabfafde54ed5c8f9fab28ac9",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175784553%2F1125606624043%2F1%2Foriginal.20260125-203735?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=4a59c587f3f365278ef2db8d4f87ec36",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -7420,7 +7390,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/college-showcase-w-abernathy-shagnaster-words-of-mouth-and-red-revival-tickets-1980901767511",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175270585%2F1125606624043%2F1%2Foriginal.20260119-195609?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d976a55290b57296dea6983abc85952e",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175270585%2F1125606624043%2F1%2Foriginal.20260119-195609?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=ba20e3191c227e63b28bcecdc6c0e542",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -7446,7 +7416,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/rmp-vinyl-release-gen3-fruta-brutal-tickets-1981789415490",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175971300%2F1125606624043%2F1%2Foriginal.20260127-174610?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=1f3589a57c4c4b8fa7050750ecc01866",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175971300%2F1125606624043%2F1%2Foriginal.20260127-174610?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=26dc60f98b40e3267609afd82700c393",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -7472,7 +7442,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/roots-music-project-workshop-creative-production-techniques-tickets-1981535896207",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175786093%2F1125606624043%2F1%2Foriginal.20260125-205803?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d739aa5ebab758044487168a8f3058db",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175786093%2F1125606624043%2F1%2Foriginal.20260125-205803?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=fda216ea680017ec147d4346ab3b247a",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -7498,7 +7468,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/boulder-philharmonic-jazz-explored-tickets-1981436401616",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175659994%2F1125606624043%2F1%2Foriginal.20260123-165929?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=8e4c49e2ab5eb020b184cfc87df57208",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175659994%2F1125606624043%2F1%2Foriginal.20260123-165929?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=eac7df022463345fddbb3e99cfb9e4c3",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -7524,7 +7494,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/in-bloom-rmp-silent-auction-spring-fundraiser-tickets-1980905379314",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175276529%2F1125606624043%2F1%2Foriginal.20260119-205725?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=1dfeb7449fbcb4467270e41c38212917",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175276529%2F1125606624043%2F1%2Foriginal.20260119-205725?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=637cdfcda02d393607f0af12f02e02b2",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -7550,7 +7520,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/roots-music-project-workshop-intro-to-music-theory-4-week-course-tickets-1981537102816",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175788440%2F1125606624043%2F1%2Foriginal.20260125-213618?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=ff4a1719bbaa5decc9ef85308332768d",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175788440%2F1125606624043%2F1%2Foriginal.20260125-213618?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=370ce3a13fc789e300ebc814221edd0f",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -7576,7 +7546,7 @@
       "additional_info": "",
       "link": "https://www.eventbrite.com/e/jay-nash-garrison-starr-swamp-gospel-heartfelt-storytelling-tickets-1980821634832",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175185057%2F1125606624043%2F1%2Foriginal.20260118-193247?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=dbbcedc5e1ebaff491aabd66fcb6a8d5",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175185057%2F1125606624043%2F1%2Foriginal.20260118-193247?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=76bd3c30a82489372a17bc247cdd3fca",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -8861,6 +8831,681 @@
       "source_url": null,
       "age_restriction": null,
       "venue_tag": "Boulder Theater",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "boulder_theater_atmosphere_feb_20_2026_none",
+      "title": "Atmosphere",
+      "venue": "Boulder Theater",
+      "location": "Boulder",
+      "date": "Feb 20, 2026",
+      "normalized_date": "2026-02-20",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": "https://www.z2ent.com/events/detail/atmosphere-2026-bt",
+      "ticket_link": "https://www.axs.com/events/1180679/?skin=bouldertheater",
+      "image": "images/z2/atmosphere-f9353645.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Boulder Theater",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "fox_theatre_young_and_dead_feat_liquid_jpeg_light_show_feb_20_2026_none",
+      "title": "Young and Dead feat. Liquid JPEG Light Show",
+      "venue": "Fox Theatre",
+      "location": "Boulder",
+      "date": "Feb 20, 2026",
+      "normalized_date": "2026-02-20",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": "https://www.z2ent.com/events/detail/young-and-dead-2026-fox",
+      "ticket_link": "https://www.axs.com/events/1232775/?skin=foxtheatre",
+      "image": "images/z2/young-and-dead-feat-liquid-jpeg-light-show-f5f381fc.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Fox Theatre",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "fox_theatre_dennett_with_papajay_dubv_feb_21_2026_none",
+      "title": "DENNETT with PAPAJAY, DUBV",
+      "venue": "Fox Theatre",
+      "location": "Boulder",
+      "date": "Feb 21, 2026",
+      "normalized_date": "2026-02-21",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": "https://www.z2ent.com/events/detail/dennett-2026-fox",
+      "ticket_link": "https://www.axs.com/events/1216459/?skin=foxtheatre",
+      "image": "images/z2/dennett-with-papajay-dubv-05c96f54.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Fox Theatre",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "boulder_theater_heated_rivalry_night_feb_21_2026_none",
+      "title": "Heated Rivalry Night",
+      "venue": "Boulder Theater",
+      "location": "Boulder",
+      "date": "Feb 21, 2026",
+      "normalized_date": "2026-02-21",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": "https://www.z2ent.com/events/detail/heated-rivalry-2-2026-bt",
+      "ticket_link": "https://www.axs.com/events/1304794/?skin=bouldertheater",
+      "image": "images/z2/heated-rivalry-night-7fc5de0a.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Boulder Theater",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "fox_theatre_the_502s_with_harf_feb_22_2026_none",
+      "title": "The 502s with harf.",
+      "venue": "Fox Theatre",
+      "location": "Boulder",
+      "date": "Feb 22, 2026",
+      "normalized_date": "2026-02-22",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": "https://www.z2ent.com/events/detail/502s-2026-fox",
+      "ticket_link": "https://www.axs.com/events/1206402/the-502s-tickets",
+      "image": "images/z2/the-502s-with-harf--e2f4098c.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Fox Theatre",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "boulder_theater_the_human_advantage_summit_feb_23_2026_none",
+      "title": "The Human Advantage Summit",
+      "venue": "Boulder Theater",
+      "location": "Boulder",
+      "date": "Feb 23, 2026",
+      "normalized_date": "2026-02-23",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": "https://www.z2ent.com/events/detail/human-advantage-summit-2026-bt",
+      "ticket_link": "https://www.axs.com/events/1281681/?skin=bouldertheater",
+      "image": "images/z2/the-human-advantage-summit-48c5a631.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Boulder Theater",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "fox_theatre_daniel_donato_s_cosmic_country_feb_24_2026_none",
+      "title": "Daniel Donato's Cosmic Country",
+      "venue": "Fox Theatre",
+      "location": "Boulder",
+      "date": "Feb 24, 2026",
+      "normalized_date": "2026-02-24",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": "https://www.z2ent.com/events/detail/daniel-donatos-2026-fox",
+      "ticket_link": "https://www.axs.com/au/events/1216476/daniel-donato-s-cosmic-country-night-1-tickets/promopage/75956?axssid=token_d8b11b26e5d1&locale=en-NZ&originalReferringURL=",
+      "image": "images/z2/daniel-donato-s-cosmic-country-8d2a9b39.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Fox Theatre",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "boulder_theater_daniel_donato_s_cosmic_country_2_nights_feb_25_2026_none",
+      "title": "Daniel Donato's Cosmic Country (2 Nights!)",
+      "venue": "Boulder Theater",
+      "location": "Boulder",
+      "date": "Feb 25, 2026",
+      "normalized_date": "2026-02-25",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": "https://www.z2ent.com/events/detail/daniel-donato-2026-bt",
+      "ticket_link": "https://www.axs.com/series/30335/daniel-donato-s-cosmic-country-2-nights-tickets/?skin=bouldertheater ",
+      "image": "images/z2/daniel-donato-s-cosmic-country-2-nights--62d8a633.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Boulder Theater",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "fox_theatre_riot_with_beanz_slick_portal_feb_26_2026_none",
+      "title": "RIOT with Beanz, Slick Portal",
+      "venue": "Fox Theatre",
+      "location": "Boulder",
+      "date": "Feb 26, 2026",
+      "normalized_date": "2026-02-26",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": "https://www.z2ent.com/events/detail/riot-2026-fox",
+      "ticket_link": "https://www.axs.com/events/1240594/?skin=foxtheatre",
+      "image": "images/z2/riot-with-beanz-slick-portal-235d6523.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Fox Theatre",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "boulder_theater_the_mellow_film_tour_feb_27_2026_none",
+      "title": "The Mellow Film Tour",
+      "venue": "Boulder Theater",
+      "location": "Boulder",
+      "date": "Feb 27, 2026",
+      "normalized_date": "2026-02-27",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": "https://www.z2ent.com/events/detail/mellow-film-2026-bt",
+      "ticket_link": "https://www.axs.com/events/1281686/?skin=bouldertheater",
+      "image": "images/z2/the-mellow-film-tour-0f14d048.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Boulder Theater",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "fox_theatre_penelope_road_with_benny_g_feb_27_2026_none",
+      "title": "Penelope Road with Benny G",
+      "venue": "Fox Theatre",
+      "location": "Boulder",
+      "date": "Feb 27, 2026",
+      "normalized_date": "2026-02-27",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": "https://www.z2ent.com/events/detail/penelope-road-2026-fox",
+      "ticket_link": "https://www.axs.com/events/1206428/?skin=foxtheatre",
+      "image": "images/z2/penelope-road-with-benny-g-72e887db.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Fox Theatre",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "boulder_theater_all_them_witches_with_king_buffalo_feb_28_2026_none",
+      "title": "All Them Witches with King Buffalo",
+      "venue": "Boulder Theater",
+      "location": "Boulder",
+      "date": "Feb 28, 2026",
+      "normalized_date": "2026-02-28",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": "https://www.z2ent.com/events/detail/all-them-witches-2026-bt",
+      "ticket_link": "https://www.axs.com/events/1158172/?skin=bouldertheater",
+      "image": "images/z2/all-them-witches-with-king-buffalo-5b3ff17a.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Boulder Theater",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "fox_theatre_tauk_with_sqwerv_feb_28_2026_none",
+      "title": "TAUK with Sqwerv",
+      "venue": "Fox Theatre",
+      "location": "Boulder",
+      "date": "Feb 28, 2026",
+      "normalized_date": "2026-02-28",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": "https://www.z2ent.com/events/detail/tauk-2026-fox",
+      "ticket_link": "https://www.axs.com/events/1259246/?skin=foxtheatre",
+      "image": "images/z2/tauk-with-sqwerv-b42b98f1.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Fox Theatre",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "boulder_theater_the_devil_makes_three_with_lightnin_luke_mar_1_2026_none",
+      "title": "The Devil Makes Three with Lightnin' Luke",
+      "venue": "Boulder Theater",
+      "location": "Boulder",
+      "date": "Mar 1, 2026",
+      "normalized_date": "2026-03-01",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": "https://www.z2ent.com/events/detail/devil-makes-three-2026-bt",
+      "ticket_link": "https://www.axs.com/events/1206772/?skin=bouldertheater",
+      "image": "images/z2/the-devil-makes-three-with-lightnin-luke-78f6f054.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Boulder Theater",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "boulder_theater_3oh_3_mar_3_2026_none",
+      "title": "3OH!3",
+      "venue": "Boulder Theater",
+      "location": "Boulder",
+      "date": "Mar 3, 2026",
+      "normalized_date": "2026-03-03",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": "https://www.z2ent.com/events/detail/3oh3-2026-bt",
+      "ticket_link": "https://www.axs.com/events/1267632/?skin=bouldertheater",
+      "image": "images/z2/3oh-3-a9fc108a.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Boulder Theater",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "boulder_theater_yacht_rock_revue_mar_4_2026_none",
+      "title": "Yacht Rock Revue",
+      "venue": "Boulder Theater",
+      "location": "Boulder",
+      "date": "Mar 4, 2026",
+      "normalized_date": "2026-03-04",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": "https://www.z2ent.com/events/detail/yacht-rock-revue-2026-bt",
+      "ticket_link": "https://www.axs.com/events/1152517/?skin=bouldertheater",
+      "image": "images/z2/yacht-rock-revue-47442709.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Boulder Theater",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "fox_theatre_daft_disko_french_house_disco_party_mar_5_2026_none",
+      "title": "Daft Disko [french house & disco party]",
+      "venue": "Fox Theatre",
+      "location": "Boulder",
+      "date": "Mar 5, 2026",
+      "normalized_date": "2026-03-05",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": "https://www.z2ent.com/events/detail/daft-disko-2026-fox",
+      "ticket_link": "https://www.axs.com/events/1303206/?skin=foxtheatre",
+      "image": "images/z2/daft-disko-french-house-disco-party--cf6d051b.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Fox Theatre",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "fox_theatre_summer_camp_on_the_road_tour_mar_6_2026_none",
+      "title": "Summer Camp: On The Road Tour",
+      "venue": "Fox Theatre",
+      "location": "Boulder",
+      "date": "Mar 6, 2026",
+      "normalized_date": "2026-03-06",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": "https://www.z2ent.com/events/detail/scamp-on-the-road-tour-2026-fox",
+      "ticket_link": "https://www.axs.com/events/1304865/summer-camp-on-the-road-tickets",
+      "image": "images/z2/summer-camp-on-the-road-tour-a0059d8a.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Fox Theatre",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "boulder_theater_the_bad_plus_chris_potter_and_craig_taborn_mar_6_2026_none",
+      "title": "The Bad Plus Chris Potter and Craig Taborn",
+      "venue": "Boulder Theater",
+      "location": "Boulder",
+      "date": "Mar 6, 2026",
+      "normalized_date": "2026-03-06",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": "https://www.z2ent.com/events/detail/the-bad-plus-2026-bt",
+      "ticket_link": "https://www.axs.com/events/1240577/?skin=bouldertheater",
+      "image": "images/z2/the-bad-plus-chris-potter-and-craig-taborn-e738277f.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Boulder Theater",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "fox_theatre_easy_jim_mar_7_2026_none",
+      "title": "Easy Jim",
+      "venue": "Fox Theatre",
+      "location": "Boulder",
+      "date": "Mar 7, 2026",
+      "normalized_date": "2026-03-07",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": "https://www.z2ent.com/events/detail/easy-jim-2026-fox",
+      "ticket_link": "https://www.axs.com/events/1289774/?skin=foxtheatre",
+      "image": "images/z2/easy-jim-a861dcc1.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Fox Theatre",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "fox_theatre_natalie_jane_mar_7_2026_none",
+      "title": "Natalie Jane",
+      "venue": "Fox Theatre",
+      "location": "Boulder",
+      "date": "Mar 7, 2026",
+      "normalized_date": "2026-03-07",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": "https://www.z2ent.com/events/detail/natalie-jane-2026-fox",
+      "ticket_link": "https://etix.com/ticket/p/81526052",
+      "image": "images/z2/natalie-jane-7c3336d3.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Fox Theatre",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "boulder_theater_heated_rivalry_night_mar_7_2026_none",
+      "title": "Heated Rivalry Night",
+      "venue": "Boulder Theater",
+      "location": "Boulder",
+      "date": "Mar 7, 2026",
+      "normalized_date": "2026-03-07",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": "https://www.z2ent.com/events/detail/heated-rivalry-2026-bt",
+      "ticket_link": "https://www.axs.com/events/1290703/?skin=bouldertheater",
+      "image": "images/z2/heated-rivalry-night-61bf6631.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Boulder Theater",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "fox_theatre_celebrating_the_life_music_of_paa_kow_a_benefit_concert_mar_8_2026_none",
+      "title": "Celebrating the Life & Music of Paa Kow: A Benefit Concert",
+      "venue": "Fox Theatre",
+      "location": "Boulder",
+      "date": "Mar 8, 2026",
+      "normalized_date": "2026-03-08",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": "https://www.z2ent.com/events/detail/paa-kow-benefit-concert-2026-fox",
+      "ticket_link": "https://www.axs.com/events/1313703/?skin=foxtheatre",
+      "image": "images/z2/celebrating-the-life-music-of-paa-kow-a-benefit-co-f346a285.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Fox Theatre",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "boulder_theater_chris_isaak_mar_10_2026_none",
+      "title": "Chris Isaak",
+      "venue": "Boulder Theater",
+      "location": "Boulder",
+      "date": "Mar 10, 2026",
+      "normalized_date": "2026-03-10",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": "https://www.z2ent.com/events/detail/chris-isaak-2026-bt",
+      "ticket_link": "https://www.axs.com/events/1240587/?skin=bouldertheater",
+      "image": "images/z2/chris-isaak-dc19364b.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Boulder Theater",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "fox_theatre_jigitz_mar_12_2026_none",
+      "title": "jigitz",
+      "venue": "Fox Theatre",
+      "location": "Boulder",
+      "date": "Mar 12, 2026",
+      "normalized_date": "2026-03-12",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": "https://www.z2ent.com/events/detail/jigitz-2026-fox",
+      "ticket_link": "https://www.axs.com/events/1288836/?skin=foxtheatre",
+      "image": "images/z2/jigitz-f7437c28.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Fox Theatre",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "boulder_theater_pure_prairie_league_pablo_cruise_mar_13_2026_none",
+      "title": "Pure Prairie League + Pablo Cruise",
+      "venue": "Boulder Theater",
+      "location": "Boulder",
+      "date": "Mar 13, 2026",
+      "normalized_date": "2026-03-13",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": "https://www.z2ent.com/events/detail/pure-prairie-league-pablo-cruise-2026-bt",
+      "ticket_link": "https://www.axs.com/events/1253150/?skin=bouldertheater",
+      "image": "images/z2/pure-prairie-league-pablo-cruise-e0399f75.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Boulder Theater",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "fox_theatre_the_barr_brothers_with_benjamin_lazar_davis_mar_13_2026_none",
+      "title": "The Barr Brothers with Benjamin Lazar Davis",
+      "venue": "Fox Theatre",
+      "location": "Boulder",
+      "date": "Mar 13, 2026",
+      "normalized_date": "2026-03-13",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": "https://www.z2ent.com/events/detail/barr-brothers-2026-fox",
+      "ticket_link": "https://www.axs.com/events/1178397/?skin=foxtheatre",
+      "image": "images/z2/the-barr-brothers-with-benjamin-lazar-davis-73d535e6.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Fox Theatre",
       "location_tag": "Boulder",
       "venue_type_tags": [
         "Live Music",
