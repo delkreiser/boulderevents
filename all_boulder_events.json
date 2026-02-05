@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T08:43:58.308154",
-  "total_events": 328,
+  "generated_at": "2026-02-05T18:48:45.080651",
+  "total_events": 332,
   "tags": {
     "venues": [
       "300 Suns Brewing",
@@ -397,8 +397,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
-        "Community"
+        "Community",
+        "Games"
       ]
     },
     {
@@ -426,10 +426,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
+        "Community",
         "Performance",
         "All Ages",
-        "Community"
+        "Music"
       ]
     },
     {
@@ -458,11 +458,11 @@
       ],
       "event_type_tags": [
         "Performance",
-        "All Ages",
-        "Music",
         "Family Friendly",
+        "All Ages",
         "Community",
-        "Educational"
+        "Educational",
+        "Music"
       ]
     },
     {
@@ -490,8 +490,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
@@ -520,10 +520,10 @@
       ],
       "event_type_tags": [
         "Performance",
-        "All Ages",
-        "Music",
         "Family Friendly",
-        "Community"
+        "All Ages",
+        "Community",
+        "Music"
       ]
     },
     {
@@ -551,8 +551,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Educational",
-        "Community"
+        "Community",
+        "Educational"
       ]
     },
     {
@@ -580,9 +580,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Educational",
+        "Community",
         "Games",
-        "Community"
+        "Educational"
       ]
     },
     {
@@ -666,10 +666,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
-        "Family Friendly",
+        "Community",
         "All Ages",
-        "Community"
+        "Games",
+        "Family Friendly"
       ]
     },
     {
@@ -697,8 +697,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
@@ -727,10 +727,10 @@
       ],
       "event_type_tags": [
         "Performance",
-        "All Ages",
-        "Music",
         "Family Friendly",
-        "Community"
+        "All Ages",
+        "Community",
+        "Music"
       ]
     },
     {
@@ -758,9 +758,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
+        "Community",
         "Performance",
-        "Community"
+        "Music"
       ]
     },
     {
@@ -788,8 +788,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Educational",
-        "Community"
+        "Community",
+        "Educational"
       ]
     },
     {
@@ -817,10 +817,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "Family Friendly",
+        "Community",
         "All Ages",
-        "Community"
+        "Family Friendly",
+        "Music"
       ]
     },
     {
@@ -876,9 +876,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
+        "Community",
         "Performance",
-        "Community"
+        "Music"
       ]
     },
     {
@@ -906,8 +906,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -935,9 +935,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Community",
         "Educational",
-        "Music",
-        "Community"
+        "Music"
       ]
     },
     {
@@ -965,8 +965,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
@@ -1737,8 +1737,8 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_lack_lazuli_dick_texas_february_20_2026_6_00_pm",
-      "title": "Lack Lazuli / Dick Texas",
+      "id": "trident_booksellers_cafe_lack_lazuli_dick_texas_jacob_t_simons_february_20_2026_6_00_pm",
+      "title": "Lack Lazuli / Dick Texas / Jacob T. Simons",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "February 20, 2026",
@@ -2127,6 +2127,36 @@
       ]
     },
     {
+      "id": "trident_booksellers_cafe_tough_knucle_teddy_the_bucket_brigade_march_13_2026_6_00_pm",
+      "title": "Tough Knucle Teddy & The Bucket Brigade",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "March 13, 2026",
+      "normalized_date": "2026-03-13T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM",
+      "description": "Boulder\u2019s newest breakout bluegrass phenomenon is here! Youthful, energetic, and fiery\u2014yet surprisingly grounded in tradition, Tough Knuckle Teddy and the Bucket Brigade puts on a show you won\u2019t forget. Soaring harmonies, raging instrumentals, and tight form make this band a must-see.Featuring membe...",
+      "additional_info": "",
+      "link": "https://www.tridentcafe.com/events/2026/3/13/tough-knucle-teddy-amp-the-bucket-brigade",
+      "ticket_link": null,
+      "image": "trident.jpg",
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Books",
+        "Community"
+      ]
+    },
+    {
       "id": "trident_booksellers_cafe_jazzetry_w_von_disco_march_14_2026_6_00_pm",
       "title": "Jazzetry W/ Von Disco",
       "venue": "Trident Booksellers & Cafe",
@@ -2487,6 +2517,36 @@
       ]
     },
     {
+      "id": "trident_booksellers_cafe_lookin_for_louie_april_12_2026_6_00_pm",
+      "title": "Lookin For Louie'",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "April 12, 2026",
+      "normalized_date": "2026-04-12T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.tridentcafe.com/events/2026/4/12/lookin-for-louie",
+      "ticket_link": null,
+      "image": "trident.jpg",
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Books",
+        "Community"
+      ]
+    },
+    {
       "id": "trident_booksellers_cafe_language_exchange_night_april_13_2026_7_00_pm",
       "title": "Language Exchange Night",
       "venue": "Trident Booksellers & Cafe",
@@ -2708,6 +2768,36 @@
       "description": "Bailey Pope (She/Her/Etc) is a New York based Comedian, writer, and pigeon-holed actor, providing the overly-tattooed, failed rock star transgender woman comedy that everyone has been searching centuries for. Bailey has shared stages with Roy Wood Jr, Sam Jay, Mark Normand and Ashley Gavin. As an ac...",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2026/4/24/bailey-popenoah-lekas",
+      "ticket_link": null,
+      "image": "trident.jpg",
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Books",
+        "Community"
+      ]
+    },
+    {
+      "id": "trident_booksellers_cafe_the_dollhouse_theives_april_25_2026_6_00_pm",
+      "title": "The Dollhouse Theives",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "April 25, 2026",
+      "normalized_date": "2026-04-25T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.tridentcafe.com/events/2026/4/25/the-dollhouse-theives",
       "ticket_link": null,
       "image": "trident.jpg",
       "source_url": "https://www.tridentcafe.com/events",
@@ -2997,15 +3087,15 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_brody_schenk_may_24_2026_6_00_pm",
-      "title": "Brody Schenk",
+      "id": "trident_booksellers_cafe_brody_schenk_morgan_mchugh_singing_bones_may_24_2026_6_00_pm",
+      "title": "Brody Schenk/ Morgan McHugh/ Singing Bones",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "May 24, 2026",
       "normalized_date": "2026-05-24T00:00:00",
       "recurring": null,
       "time": "6:00 PM",
-      "description": "",
+      "description": "Brody Schenk is a rising Nashville singer-songwriter whose music blends heartfelt storytelling with a variety of musical influences. Brody's songs are deeply rooted in humanity, nature, the universe and the beauty found in honest moments.Fans of artists such as The Meters, Bob Dylan, The Grateful De...",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2026/5/24/brody-schenk",
       "ticket_link": null,
@@ -3278,6 +3368,36 @@
       "description": "JOE GORKA: With his keenly observant lyrics and blend of dynamic guitar and piano work, Chicago-based singer-songwriter Joe Gorka has made a name for himself in the Midwest music scene. He has played such well-loved Chicago rooms such as Schubas Tavern, City Winery, and Uncommon Ground, along with v...",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2026/6/20/joe-gorka-lucy-isabel",
+      "ticket_link": null,
+      "image": "trident.jpg",
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Books",
+        "Community"
+      ]
+    },
+    {
+      "id": "trident_booksellers_cafe_penelope_harriman_june_25_2026_6_00_pm",
+      "title": "Penelope Harriman",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "June 25, 2026",
+      "normalized_date": "2026-06-25T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM",
+      "description": "Penelope Jane is a mandolin player, singer, and songwriter from Boulder, CO, currently attending Berklee College of Music. Shaped by growing up in the Colorado music scene playing with her family band, her music is a blend of modern and traditional bluegrass, folk, and Americana inspired by artists ...",
+      "additional_info": "",
+      "link": "https://www.tridentcafe.com/events/2026/6/25/penelope-harriman",
       "ticket_link": null,
       "image": "trident.jpg",
       "source_url": "https://www.tridentcafe.com/events",
