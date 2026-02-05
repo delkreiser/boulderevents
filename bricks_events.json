@@ -1,27 +1,5 @@
 [
   {
-    "link": "https://www.bricksretail.com/event-details/karaoke-night-2026-02-04-18-00",
-    "title": "Karaoke Night",
-    "date": "February 04, 2026",
-    "time": "6:00 PM - 8:00 PM",
-    "description": "Take the Bricks Main Stage ... you're the headliner!",
-    "image": "https://static.wixstatic.com/media/0f3cdb_cc11739aca8043a8a8cbdf5cdc8f3661~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/0f3cdb_cc11739aca8043a8a8cbdf5cdc8f3661~mv2.jpg",
-    "venue": "Bricks on Main",
-    "location": "Longmont",
-    "category": "Music",
-    "source_url": "https://www.bricksretail.com/events-calendar",
-    "event_type_tags": [
-      "Karaoke",
-      "Music",
-      "Entertainment"
-    ],
-    "venue_type_tags": [
-      "Music Venue",
-      "Bar",
-      "Restaurant"
-    ]
-  },
-  {
     "link": "https://www.bricksretail.com/event-details/main-st-laughs-free-stand-up-comedy-ft-mentalist-magician",
     "title": "Main St Laughs - FREE Stand Up Comedy Ft. Mentalist/Magician",
     "date": "February 05, 2026",
@@ -99,6 +77,28 @@
       "Open Mic",
       "Music",
       "Community"
+    ],
+    "venue_type_tags": [
+      "Music Venue",
+      "Bar",
+      "Restaurant"
+    ]
+  },
+  {
+    "link": "https://www.bricksretail.com/event-details/karaoke-night-2026-02-11-18-00",
+    "title": "Karaoke Night",
+    "date": "February 11, 2026",
+    "time": "6:00 PM - 8:00 PM",
+    "description": "Take the Bricks Main Stage ... you're the headliner!",
+    "image": "https://static.wixstatic.com/media/0f3cdb_cc11739aca8043a8a8cbdf5cdc8f3661~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/0f3cdb_cc11739aca8043a8a8cbdf5cdc8f3661~mv2.jpg",
+    "venue": "Bricks on Main",
+    "location": "Longmont",
+    "category": "Music",
+    "source_url": "https://www.bricksretail.com/events-calendar",
+    "event_type_tags": [
+      "Karaoke",
+      "Music",
+      "Entertainment"
     ],
     "venue_type_tags": [
       "Music Venue",
@@ -281,6 +281,27 @@
     "time": "6:00 PM - 8:00 PM",
     "description": "The Southern Rock Experience - Essential cuts from legends like The Allman Brothers, Blackberry Smoke, Lynyrd Skynyrd, Marshall Tucker, Molly Hatchet, ZZ Top and more seamlessly blended with hard-hitting originals forged in the same timeless southern rock spirit.",
     "image": "https://static.wixstatic.com/media/ea2d6f_5d55eb3ea467466bbaabd1fbad1ad98a~mv2.png/v1/fill/w_400,h_400,al_c,q_85,enc_auto/ea2d6f_5d55eb3ea467466bbaabd1fbad1ad98a~mv2.png",
+    "venue": "Bricks on Main",
+    "location": "Longmont",
+    "category": "Music",
+    "source_url": "https://www.bricksretail.com/events-calendar",
+    "event_type_tags": [
+      "Live Music",
+      "Entertainment"
+    ],
+    "venue_type_tags": [
+      "Music Venue",
+      "Bar",
+      "Restaurant"
+    ]
+  },
+  {
+    "link": "https://www.bricksretail.com/event-details/als-hwy50-1",
+    "title": "Al's Hwy50",
+    "date": "February 27, 2026",
+    "time": "6:00 PM - 9:00 PM",
+    "description": "Al Laughlin, an original member of the Samples, plays original reggae and ska music for the masses! Join us on the dancefloor with Al's Hwy50.",
+    "image": "https://static.wixstatic.com/media/ea2d6f_bb8b7d0861f04023ab82ff0a868986ff~mv2.png/v1/fill/w_400,h_400,al_c,q_85,enc_auto/ea2d6f_bb8b7d0861f04023ab82ff0a868986ff~mv2.png",
     "venue": "Bricks on Main",
     "location": "Longmont",
     "category": "Music",

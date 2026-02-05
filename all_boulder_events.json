@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T18:50:26.882593",
-  "total_events": 330,
+  "generated_at": "2026-02-05T08:43:58.308154",
+  "total_events": 328,
   "tags": {
     "venues": [
       "300 Suns Brewing",
@@ -112,12 +112,12 @@
       ]
     },
     {
-      "id": "velvet_elk_lounge_donavon_frankenreiter_an_acoustic_evening_night_two_february_4_2026",
+      "id": "velvet_elk_lounge_donavon_frankenreiter_an_acoustic_evening_night_two_february_4_2027",
       "title": "Donavon Frankenreiter: An Acoustic Evening, Night Two",
       "venue": "Velvet Elk Lounge",
       "location": "Boulder",
-      "date": "February 4, 2026",
-      "normalized_date": "2026-02-04T00:00:00",
+      "date": "February 4, 2027",
+      "normalized_date": "2027-02-04T00:00:00",
       "recurring": null,
       "time": null,
       "description": "",
@@ -373,35 +373,6 @@
       ]
     },
     {
-      "id": "junkyard_social_club_community_craft_night_wednesday_february_4_2026_6_00_8_30_pm",
-      "title": "Community Craft Night",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Wednesday, February 4, 2026",
-      "normalized_date": "2026-02-04T00:00:00",
-      "recurring": null,
-      "time": "6:00 - 8:30 PM",
-      "description": "",
-      "additional_info": "All Ages are Welcome",
-      "link": "https://junkyardsocialclub.org/drop-in-event/community-craft-night/",
-      "ticket_link": null,
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/10/Community-Craft-Night.jpeg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": "All Ages",
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "All Ages",
-        "Community"
-      ]
-    },
-    {
       "id": "junkyard_social_club_drop_in_mahjongg_thursdays_thursday_february_5_2026_3_30_5_30_pm",
       "title": "Drop-In Mahjongg \u2013 Thursdays",
       "venue": "Junkyard Social Club",
@@ -456,8 +427,8 @@
       ],
       "event_type_tags": [
         "Music",
-        "All Ages",
         "Performance",
+        "All Ages",
         "Community"
       ]
     },
@@ -486,12 +457,12 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
-        "Music",
         "Performance",
+        "All Ages",
+        "Music",
+        "Family Friendly",
         "Community",
-        "Educational",
-        "All Ages"
+        "Educational"
       ]
     },
     {
@@ -548,11 +519,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
-        "Music",
         "Performance",
-        "Community",
-        "All Ages"
+        "All Ages",
+        "Music",
+        "Family Friendly",
+        "Community"
       ]
     },
     {
@@ -580,8 +551,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Educational"
+        "Educational",
+        "Community"
       ]
     },
     {
@@ -609,9 +580,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Educational",
         "Games",
-        "Community",
-        "Educational"
+        "Community"
       ]
     },
     {
@@ -695,10 +666,10 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Games",
         "Family Friendly",
         "All Ages",
-        "Community",
-        "Games"
+        "Community"
       ]
     },
     {
@@ -755,11 +726,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
-        "Music",
         "Performance",
-        "Community",
-        "All Ages"
+        "All Ages",
+        "Music",
+        "Family Friendly",
+        "Community"
       ]
     },
     {
@@ -817,8 +788,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Educational"
+        "Educational",
+        "Community"
       ]
     },
     {
@@ -847,8 +818,8 @@
       ],
       "event_type_tags": [
         "Music",
-        "All Ages",
         "Family Friendly",
+        "All Ages",
         "Community"
       ]
     },
@@ -964,9 +935,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Educational",
         "Music",
-        "Community",
-        "Educational"
+        "Community"
       ]
     },
     {
@@ -1023,8 +994,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "Performance"
+        "Performance",
+        "Music"
       ]
     },
     {
@@ -4346,64 +4317,6 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_language_exchange_night_december_15_2026_7_00_pm",
-      "title": "Language Exchange Night",
-      "venue": "Trident Booksellers & Cafe",
-      "location": "Boulder",
-      "date": "December 15, 2026",
-      "normalized_date": "2026-12-15T00:00:00",
-      "recurring": null,
-      "time": "7:00 PM",
-      "description": "Free!Every Monday evening, 7-9p.m.All languages welcome. Facilitated by Kelvin Tavarez.",
-      "additional_info": "",
-      "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-s7a5x-sb4ks",
-      "ticket_link": null,
-      "image": "trident.jpg",
-      "source_url": "https://www.tridentcafe.com/events",
-      "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Books",
-        "Community"
-      ]
-    },
-    {
-      "id": "license_no_1_live_music_with_george_nelson_band_wednesday_february_4_2026_8_00_pm_11_59_pm",
-      "title": "Live Music With George Nelson Band",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": "Wednesday, February 4, 2026",
-      "normalized_date": "2026-02-04T00:00:00",
-      "recurring": null,
-      "time": "8:00\u202fPM - 11:59\u202fPM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.license1boulderado.com/calendar/b5nh3sewby7mga429yyk4659jfcz29",
-      "ticket_link": null,
-      "image": "licenseno1.jpg",
-      "source_url": "https://www.license1boulderado.com/calendar",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Nightlife"
-      ]
-    },
-    {
       "id": "license_no_1_the_underground_comedy_showcase_thursday_february_5_2026_8_00_pm_9_00_pm",
       "title": "The Underground Comedy Showcase",
       "venue": "License No 1",
@@ -6542,35 +6455,6 @@
       ]
     },
     {
-      "id": "bricks_on_main_karaoke_night_february_04_2026_6_00_pm_8_00_pm",
-      "title": "Karaoke Night",
-      "venue": "Bricks on Main",
-      "location": "Longmont",
-      "date": "February 04, 2026",
-      "normalized_date": "2026-02-04T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM - 8:00 PM",
-      "description": "Take the Bricks Main Stage ... you're the headliner!",
-      "additional_info": "",
-      "link": "https://www.bricksretail.com/event-details/karaoke-night-2026-02-04-18-00",
-      "ticket_link": null,
-      "image": "https://static.wixstatic.com/media/0f3cdb_cc11739aca8043a8a8cbdf5cdc8f3661~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/0f3cdb_cc11739aca8043a8a8cbdf5cdc8f3661~mv2.jpg",
-      "source_url": "https://www.bricksretail.com/events-calendar",
-      "age_restriction": null,
-      "venue_tag": "Bricks on Main",
-      "location_tag": "Longmont",
-      "venue_type_tags": [
-        "Community",
-        "Retail",
-        "Entertainment"
-      ],
-      "event_type_tags": [
-        "Karaoke",
-        "Music",
-        "Entertainment"
-      ]
-    },
-    {
       "id": "bricks_on_main_main_st_laughs_free_stand_up_comedy_ft_mentalist_magician_february_05_2026_6_00_pm_8_00_pm",
       "title": "Main St Laughs - FREE Stand Up Comedy Ft. Mentalist/Magician",
       "venue": "Bricks on Main",
@@ -6681,6 +6565,35 @@
         "Open Mic",
         "Music",
         "Community"
+      ]
+    },
+    {
+      "id": "bricks_on_main_karaoke_night_february_11_2026_6_00_pm_8_00_pm",
+      "title": "Karaoke Night",
+      "venue": "Bricks on Main",
+      "location": "Longmont",
+      "date": "February 11, 2026",
+      "normalized_date": "2026-02-11T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM - 8:00 PM",
+      "description": "Take the Bricks Main Stage ... you're the headliner!",
+      "additional_info": "",
+      "link": "https://www.bricksretail.com/event-details/karaoke-night-2026-02-11-18-00",
+      "ticket_link": null,
+      "image": "https://static.wixstatic.com/media/0f3cdb_cc11739aca8043a8a8cbdf5cdc8f3661~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/0f3cdb_cc11739aca8043a8a8cbdf5cdc8f3661~mv2.jpg",
+      "source_url": "https://www.bricksretail.com/events-calendar",
+      "age_restriction": null,
+      "venue_tag": "Bricks on Main",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Community",
+        "Retail",
+        "Entertainment"
+      ],
+      "event_type_tags": [
+        "Karaoke",
+        "Music",
+        "Entertainment"
       ]
     },
     {
@@ -6921,6 +6834,34 @@
       "link": "https://www.bricksretail.com/event-details/wandering-roads-2",
       "ticket_link": null,
       "image": "https://static.wixstatic.com/media/ea2d6f_5d55eb3ea467466bbaabd1fbad1ad98a~mv2.png/v1/fill/w_400,h_400,al_c,q_85,enc_auto/ea2d6f_5d55eb3ea467466bbaabd1fbad1ad98a~mv2.png",
+      "source_url": "https://www.bricksretail.com/events-calendar",
+      "age_restriction": null,
+      "venue_tag": "Bricks on Main",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Community",
+        "Retail",
+        "Entertainment"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "bricks_on_main_al_s_hwy50_february_27_2026_6_00_pm_9_00_pm",
+      "title": "Al's Hwy50",
+      "venue": "Bricks on Main",
+      "location": "Longmont",
+      "date": "February 27, 2026",
+      "normalized_date": "2026-02-27T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM - 9:00 PM",
+      "description": "Al Laughlin, an original member of the Samples, plays original reggae and ska music for the masses! Join us on the dancefloor with Al's Hwy50.",
+      "additional_info": "",
+      "link": "https://www.bricksretail.com/event-details/als-hwy50-1",
+      "ticket_link": null,
+      "image": "https://static.wixstatic.com/media/ea2d6f_bb8b7d0861f04023ab82ff0a868986ff~mv2.png/v1/fill/w_400,h_400,al_c,q_85,enc_auto/ea2d6f_bb8b7d0861f04023ab82ff0a868986ff~mv2.png",
       "source_url": "https://www.bricksretail.com/events-calendar",
       "age_restriction": null,
       "venue_tag": "Bricks on Main",
@@ -7222,17 +7163,17 @@
       ]
     },
     {
-      "id": "roots_music_project_resonance_ritual_featuring_tim_snider_kayla_diana_february_26_2026_7_30_pm_11_00_pm",
-      "title": "Resonance & Ritual featuring Tim Snider & Kayla Diana",
+      "id": "roots_music_project_resonance_ritual_feat_tim_snider_kayla_diana_february_26_2026_7_30_pm_11_00_pm",
+      "title": "Resonance & Ritual feat. Tim Snider & Kayla Diana",
       "venue": "Roots Music Project",
       "location": "Boulder",
       "date": "February 26, 2026",
       "normalized_date": "2026-02-26T00:00:00",
       "recurring": null,
       "time": "7:30 PM - 11:00 PM",
-      "description": "Step into an evening where sound becomes medicine and rhythm becomes ritual.",
+      "description": "A special showcase bringing together two masters of vibrational music & storytelling.",
       "additional_info": "",
-      "link": "https://www.eventbrite.com/e/resonance-ritual-featuring-tim-snider-kayla-diana-tickets-1979120897882",
+      "link": "https://www.eventbrite.com/e/resonance-ritual-feat-tim-snider-kayla-diana-tickets-1979120897882",
       "ticket_link": null,
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173575342%2F1125606624043%2F1%2Foriginal.20251227-192139?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=f4d37a9f80462cddc986c4f4a747f16b",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
