@@ -1,21 +1,5 @@
 [
   {
-    "title": "Jane and Matthews with Tidepool, NU Bass Theory",
-    "venue": "Fox Theatre",
-    "location": "Boulder",
-    "date": "Feb 5, 2026",
-    "normalized_date": "2026-02-05",
-    "time": null,
-    "image": "images/z2/jane-and-matthews-with-tidepool-nu-bass-theory-e5512c3b.jpg",
-    "url": "https://www.z2ent.com/events/detail/jane-and-matthews-2026-fox",
-    "ticket_link": "https://www.axs.com/events/1286659/?skin=foxtheatre",
-    "tags": [
-      "music",
-      "concert"
-    ],
-    "description": null
-  },
-  {
     "title": "Stella Cole with the Boulder Philharmonic",
     "venue": "Boulder Theater",
     "location": "Boulder",
@@ -649,6 +633,38 @@
     "image": "images/z2/the-barr-brothers-with-benjamin-lazar-davis-73d535e6.jpg",
     "url": "https://www.z2ent.com/events/detail/barr-brothers-2026-fox",
     "ticket_link": "https://www.axs.com/events/1178397/?skin=foxtheatre",
+    "tags": [
+      "music",
+      "concert"
+    ],
+    "description": null
+  },
+  {
+    "title": "Last Dinosaurs with elmjack",
+    "venue": "Fox Theatre",
+    "location": "Boulder",
+    "date": "Mar 14, 2026",
+    "normalized_date": "2026-03-14",
+    "time": null,
+    "image": "images/z2/last-dinosaurs-with-elmjack-bad4b1f8.jpg",
+    "url": "https://www.z2ent.com/events/detail/last-dinosaurs-2026-fox",
+    "ticket_link": "https://www.axs.com/events/1178403/?skin=foxtheatre",
+    "tags": [
+      "music",
+      "concert"
+    ],
+    "description": null
+  },
+  {
+    "title": "nimino",
+    "venue": "Boulder Theater",
+    "location": "Boulder",
+    "date": "Mar 14, 2026",
+    "normalized_date": "2026-03-14",
+    "time": null,
+    "image": "images/z2/nimino-208c826d.jpg",
+    "url": "https://www.z2ent.com/events/detail/nimino-2026-bt",
+    "ticket_link": "https://www.axs.com/events/1230259/?skin=bouldertheater",
     "tags": [
       "music",
       "concert"

@@ -1,34 +1,5 @@
 [
   {
-    "title": "Drop-In Mahjongg \u2013 Thursdays",
-    "categories": [
-      "Community",
-      "Games"
-    ],
-    "date": "Thursday, February 5, 2026",
-    "time": "3:30 - 5:30 PM",
-    "link": "https://junkyardsocialclub.org/drop-in-event/drop-in-mahjongg-thursdays/",
-    "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/08/Drop-In-Mah-Jongg-Thursday.jpg",
-    "venue": "Junkyard Social Club",
-    "source_url": "https://junkyardsocialclub.org/events/"
-  },
-  {
-    "title": "Stage Party",
-    "categories": [
-      "Community",
-      "Dance/Music",
-      "Performance"
-    ],
-    "date": "Thursday, February 5, 2026",
-    "time": "7:00 PM Doors | 8:00 PM  Show",
-    "additional_info": "All Ages are Welcome",
-    "age_restriction": "All Ages",
-    "link": "https://junkyardsocialclub.org/drop-in-event/stage-party/",
-    "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/03/Boulder-Juggling-Stage-Party-768x402.jpg",
-    "venue": "Junkyard Social Club",
-    "source_url": "https://junkyardsocialclub.org/events/"
-  },
-  {
     "title": "Friday Happy Hour",
     "categories": [
       "Community",
@@ -271,6 +242,22 @@
     "time": "6:00 -9:00 PM",
     "link": "https://junkyardsocialclub.org/drop-in-event/flow-jam/",
     "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/09/FlowJam-2025-768x768.jpg",
+    "venue": "Junkyard Social Club",
+    "source_url": "https://junkyardsocialclub.org/events/"
+  },
+  {
+    "title": "Stage Party",
+    "categories": [
+      "Community",
+      "Dance/Music",
+      "Performance"
+    ],
+    "date": "Thursday, March 5, 2026",
+    "time": "7:00 PM Doors | 8:00 PM  Show",
+    "additional_info": "All Ages are Welcome",
+    "age_restriction": "All Ages",
+    "link": "https://junkyardsocialclub.org/drop-in-event/stage-party/",
+    "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/03/Boulder-Juggling-Stage-Party-768x402.jpg",
     "venue": "Junkyard Social Club",
     "source_url": "https://junkyardsocialclub.org/events/"
   },

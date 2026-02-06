@@ -1,62 +1,5 @@
 [
   {
-    "title": "Donavon Frankenreiter: An Acoustic Evening, Night One",
-    "date": "February 3, 2027",
-    "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/81603DF_B.jpeg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
-    "venue": "Velvet Elk Lounge",
-    "location": "Boulder",
-    "category": "Music",
-    "source_url": "https://www.velvetelklounge.com/events/",
-    "event_type_tags": [
-      "Live Music",
-      "Nightlife"
-    ],
-    "venue_type_tags": [
-      "Bar",
-      "Music Venue",
-      "Nightlife"
-    ],
-    "link": "https://www.velvetelklounge.com/event/february-2nd-2026-donavon-frankenreiter-an-acoustic-evening-night-one/"
-  },
-  {
-    "title": "Donavon Frankenreiter: An Acoustic Evening, Night Two",
-    "date": "February 4, 2027",
-    "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/81603DF_B.jpeg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
-    "venue": "Velvet Elk Lounge",
-    "location": "Boulder",
-    "category": "Music",
-    "source_url": "https://www.velvetelklounge.com/events/",
-    "event_type_tags": [
-      "Live Music",
-      "Nightlife"
-    ],
-    "venue_type_tags": [
-      "Bar",
-      "Music Venue",
-      "Nightlife"
-    ],
-    "link": "https://www.velvetelklounge.com/event/february-3rd-donavon-frankenreiter-an-acoustic-evening-night-two/"
-  },
-  {
-    "title": "Hot Like Mars with San Leandro Band",
-    "date": "February 5, 2026",
-    "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/55385VEL-HotLikeMars-SanLeandro.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
-    "venue": "Velvet Elk Lounge",
-    "location": "Boulder",
-    "category": "Music",
-    "source_url": "https://www.velvetelklounge.com/events/",
-    "event_type_tags": [
-      "Live Music",
-      "Nightlife"
-    ],
-    "venue_type_tags": [
-      "Bar",
-      "Music Venue",
-      "Nightlife"
-    ],
-    "link": "https://www.velvetelklounge.com/event/february-5th-hot-like-mars/"
-  },
-  {
     "title": "The Revivalists Pre-Show Happy Hour",
     "date": "February 10, 2026",
     "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/55875JamForGood_BoulderHappyHourv05_v3-IGS.png?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
@@ -112,6 +55,25 @@
       "Nightlife"
     ],
     "link": "https://www.velvetelklounge.com/event/february-21st-pimps-of-joytime-with-gio-chamba/"
+  },
+  {
+    "title": "Float Like a Buffalo",
+    "date": "February 28, 2026",
+    "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/78403float-like-a-buffalo.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+    "venue": "Velvet Elk Lounge",
+    "location": "Boulder",
+    "category": "Music",
+    "source_url": "https://www.velvetelklounge.com/events/",
+    "event_type_tags": [
+      "Live Music",
+      "Nightlife"
+    ],
+    "venue_type_tags": [
+      "Bar",
+      "Music Venue",
+      "Nightlife"
+    ],
+    "link": "https://www.velvetelklounge.com/event/february-28th-float-like-a-buffalo/"
   },
   {
     "title": "Kendall Street Company with DJ Williams Band",
@@ -171,9 +133,9 @@
     "link": "https://www.velvetelklounge.com/event/march-6th-tinsley-ellis-labor-of-love-tour/"
   },
   {
-    "title": "2026 SURFER GIRL with Dylan Cotrone and Doublecamp",
-    "date": "April 23, 2026",
-    "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/32227SURFER_GIRL.jpeg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+    "title": "Mickey & the Motorcars",
+    "date": "March 11, 2026",
+    "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/89982Micky_and_the_Motorcars.avif?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
     "venue": "Velvet Elk Lounge",
     "location": "Boulder",
     "category": "Music",
@@ -187,6 +149,44 @@
       "Music Venue",
       "Nightlife"
     ],
-    "link": "https://www.velvetelklounge.com/event/april-23rd-2026-surfer-girl-with-dylan-cotrone-and-doublecamp/"
+    "link": "https://www.velvetelklounge.com/event/march-11th-mickey-the-motorcars/"
+  },
+  {
+    "title": "Victor Jones: The Construct Tour 2026",
+    "date": "March 23, 2026",
+    "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/77473Victor_Jones_2.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+    "venue": "Velvet Elk Lounge",
+    "location": "Boulder",
+    "category": "Music",
+    "source_url": "https://www.velvetelklounge.com/events/",
+    "event_type_tags": [
+      "Live Music",
+      "Nightlife"
+    ],
+    "venue_type_tags": [
+      "Bar",
+      "Music Venue",
+      "Nightlife"
+    ],
+    "link": "https://www.velvetelklounge.com/event/march-23rd-victor-jones-the-construct-tour-2026/"
+  },
+  {
+    "title": "Marfa: Bluebird Festival Kick Off Show",
+    "date": "April 17, 2026",
+    "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/64972KickoffGrahicFinalFinal_1.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+    "venue": "Velvet Elk Lounge",
+    "location": "Boulder",
+    "category": "Music",
+    "source_url": "https://www.velvetelklounge.com/events/",
+    "event_type_tags": [
+      "Live Music",
+      "Nightlife"
+    ],
+    "venue_type_tags": [
+      "Bar",
+      "Music Venue",
+      "Nightlife"
+    ],
+    "link": "https://www.velvetelklounge.com/event/april-17th-marfa-bluebird-festival-kick-off-show/"
   }
 ]
