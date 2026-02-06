@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T08:42:54.524293",
-  "total_events": 329,
+  "generated_at": "2026-02-06T18:49:24.065287",
+  "total_events": 328,
   "tags": {
     "venues": [
       "300 Suns Brewing",
@@ -125,6 +125,35 @@
       "link": "https://www.velvetelklounge.com/event/february-13th-rolling-harvest/",
       "ticket_link": null,
       "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/38918Rolling_Harvest_Nissis_Backstage_2024.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+      "source_url": "https://www.velvetelklounge.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Velvet Elk Lounge",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Live Music",
+        "Bar",
+        "Nightlife"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Nightlife"
+      ]
+    },
+    {
+      "id": "velvet_elk_lounge_mardi_gras_party_february_17_2026",
+      "title": "Mardi Gras Party!",
+      "venue": "Velvet Elk Lounge",
+      "location": "Boulder",
+      "date": "February 17, 2026",
+      "normalized_date": "2026-02-17T00:00:00",
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.velvetelklounge.com/event/february-17th-mardi-gras-party/",
+      "ticket_link": null,
+      "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/49554velvet_elk_promo_color.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
       "source_url": "https://www.velvetelklounge.com/events/",
       "age_restriction": null,
       "venue_tag": "Velvet Elk Lounge",
@@ -286,6 +315,35 @@
       ]
     },
     {
+      "id": "velvet_elk_lounge_peak_2_peak_march_7_2026",
+      "title": "Peak 2 Peak",
+      "venue": "Velvet Elk Lounge",
+      "location": "Boulder",
+      "date": "March 7, 2026",
+      "normalized_date": "2026-03-07T00:00:00",
+      "recurring": null,
+      "time": null,
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.velvetelklounge.com/event/march-7th-peak-2-peak/",
+      "ticket_link": null,
+      "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/73008peak2peak.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+      "source_url": "https://www.velvetelklounge.com/events/",
+      "age_restriction": null,
+      "venue_tag": "Velvet Elk Lounge",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Music",
+        "Live Music",
+        "Bar",
+        "Nightlife"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Nightlife"
+      ]
+    },
+    {
       "id": "velvet_elk_lounge_mickey_the_motorcars_march_11_2026",
       "title": "Mickey & the Motorcars",
       "venue": "Velvet Elk Lounge",
@@ -299,64 +357,6 @@
       "link": "https://www.velvetelklounge.com/event/march-11th-mickey-the-motorcars/",
       "ticket_link": null,
       "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/89982Micky_and_the_Motorcars.avif?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
-      "source_url": "https://www.velvetelklounge.com/events/",
-      "age_restriction": null,
-      "venue_tag": "Velvet Elk Lounge",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Music",
-        "Live Music",
-        "Bar",
-        "Nightlife"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "velvet_elk_lounge_victor_jones_the_construct_tour_2026_march_23_2026",
-      "title": "Victor Jones: The Construct Tour 2026",
-      "venue": "Velvet Elk Lounge",
-      "location": "Boulder",
-      "date": "March 23, 2026",
-      "normalized_date": "2026-03-23T00:00:00",
-      "recurring": null,
-      "time": null,
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.velvetelklounge.com/event/march-23rd-victor-jones-the-construct-tour-2026/",
-      "ticket_link": null,
-      "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/77473Victor_Jones_2.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
-      "source_url": "https://www.velvetelklounge.com/events/",
-      "age_restriction": null,
-      "venue_tag": "Velvet Elk Lounge",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Music",
-        "Live Music",
-        "Bar",
-        "Nightlife"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "velvet_elk_lounge_marfa_bluebird_festival_kick_off_show_april_17_2026",
-      "title": "Marfa: Bluebird Festival Kick Off Show",
-      "venue": "Velvet Elk Lounge",
-      "location": "Boulder",
-      "date": "April 17, 2026",
-      "normalized_date": "2026-04-17T00:00:00",
-      "recurring": null,
-      "time": null,
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.velvetelklounge.com/event/april-17th-marfa-bluebird-festival-kick-off-show/",
-      "ticket_link": null,
-      "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/64972KickoffGrahicFinalFinal_1.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
       "source_url": "https://www.velvetelklounge.com/events/",
       "age_restriction": null,
       "venue_tag": "Velvet Elk Lounge",
@@ -397,12 +397,12 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
+        "Family Friendly",
         "Music",
         "Educational",
-        "Performance",
+        "Community",
         "All Ages",
-        "Family Friendly"
+        "Performance"
       ]
     },
     {
@@ -459,11 +459,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
+        "Family Friendly",
         "Music",
-        "Performance",
+        "Community",
         "All Ages",
-        "Family Friendly"
+        "Performance"
       ]
     },
     {
@@ -607,9 +607,9 @@
       ],
       "event_type_tags": [
         "Community",
-        "Games",
         "All Ages",
-        "Family Friendly"
+        "Family Friendly",
+        "Games"
       ]
     },
     {
@@ -666,11 +666,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
+        "Family Friendly",
         "Music",
-        "Performance",
+        "Community",
         "All Ages",
-        "Family Friendly"
+        "Performance"
       ]
     },
     {
@@ -699,8 +699,8 @@
       ],
       "event_type_tags": [
         "Community",
-        "Music",
-        "Performance"
+        "Performance",
+        "Music"
       ]
     },
     {
@@ -759,8 +759,8 @@
       "event_type_tags": [
         "Community",
         "All Ages",
-        "Music",
-        "Family Friendly"
+        "Family Friendly",
+        "Music"
       ]
     },
     {
@@ -817,8 +817,8 @@
       ],
       "event_type_tags": [
         "Community",
-        "Music",
-        "Performance"
+        "Performance",
+        "Music"
       ]
     },
     {
@@ -907,8 +907,8 @@
       "event_type_tags": [
         "Community",
         "All Ages",
-        "Music",
-        "Performance"
+        "Performance",
+        "Music"
       ]
     },
     {
@@ -965,8 +965,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "Performance"
+        "Performance",
+        "Music"
       ]
     },
     {
@@ -4331,36 +4331,6 @@
       "description": "\"Through the efforts of local organizing groups, Students for Justice in Palestine and Earth Angels Act - as well as creatives from the Denver/Boulder area - presentCreatives for Palestine: A Benefit Show. This concert and art event will raise money for families in Gaza and build\u00a0solidarity within o...",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2025/12/17/creatives-for-palestine-featuring-diva-cup-nionea-calamity-fever",
-      "ticket_link": null,
-      "image": "trident.jpg",
-      "source_url": "https://www.tridentcafe.com/events",
-      "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Books",
-        "Community"
-      ]
-    },
-    {
-      "id": "trident_booksellers_cafe_trident_author_series_barbara_caver_a_little_piece_of_cuba_december_16_2026_6_30_pm",
-      "title": "Trident Author Series: Barbara Caver: A Little Piece of Cuba",
-      "venue": "Trident Booksellers & Cafe",
-      "location": "Boulder",
-      "date": "December 16, 2026",
-      "normalized_date": "2026-12-16T00:00:00",
-      "recurring": null,
-      "time": "6:30 PM",
-      "description": "About Barbara:Barbara Caver grew up in South Carolina where singing in the church choir, writing in her notebook with her friend at recess, studying ballet, and performing in community theater were her first introductions to the art of storytelling.An adventurer at heart, Barbara moved to New York a...",
-      "additional_info": "",
-      "link": "https://www.tridentcafe.com/events/2025/12/16/trident-author-series-barbara-caver-a-little-piece-of-cuba",
       "ticket_link": null,
       "image": "trident.jpg",
       "source_url": "https://www.tridentcafe.com/events",

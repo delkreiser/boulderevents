@@ -38,6 +38,25 @@
     "link": "https://www.velvetelklounge.com/event/february-13th-rolling-harvest/"
   },
   {
+    "title": "Mardi Gras Party!",
+    "date": "February 17, 2026",
+    "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/49554velvet_elk_promo_color.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+    "venue": "Velvet Elk Lounge",
+    "location": "Boulder",
+    "category": "Music",
+    "source_url": "https://www.velvetelklounge.com/events/",
+    "event_type_tags": [
+      "Live Music",
+      "Nightlife"
+    ],
+    "venue_type_tags": [
+      "Bar",
+      "Music Venue",
+      "Nightlife"
+    ],
+    "link": "https://www.velvetelklounge.com/event/february-17th-mardi-gras-party/"
+  },
+  {
     "title": "Pimps of Joytime with Gio Chamba",
     "date": "February 21, 2026",
     "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/19328Pimps_Press_Photo_2024_credit_Isaac_Nunn.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
@@ -133,6 +152,25 @@
     "link": "https://www.velvetelklounge.com/event/march-6th-tinsley-ellis-labor-of-love-tour/"
   },
   {
+    "title": "Peak 2 Peak",
+    "date": "March 7, 2026",
+    "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/73008peak2peak.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+    "venue": "Velvet Elk Lounge",
+    "location": "Boulder",
+    "category": "Music",
+    "source_url": "https://www.velvetelklounge.com/events/",
+    "event_type_tags": [
+      "Live Music",
+      "Nightlife"
+    ],
+    "venue_type_tags": [
+      "Bar",
+      "Music Venue",
+      "Nightlife"
+    ],
+    "link": "https://www.velvetelklounge.com/event/march-7th-peak-2-peak/"
+  },
+  {
     "title": "Mickey & the Motorcars",
     "date": "March 11, 2026",
     "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/89982Micky_and_the_Motorcars.avif?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
@@ -150,43 +188,5 @@
       "Nightlife"
     ],
     "link": "https://www.velvetelklounge.com/event/march-11th-mickey-the-motorcars/"
-  },
-  {
-    "title": "Victor Jones: The Construct Tour 2026",
-    "date": "March 23, 2026",
-    "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/77473Victor_Jones_2.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
-    "venue": "Velvet Elk Lounge",
-    "location": "Boulder",
-    "category": "Music",
-    "source_url": "https://www.velvetelklounge.com/events/",
-    "event_type_tags": [
-      "Live Music",
-      "Nightlife"
-    ],
-    "venue_type_tags": [
-      "Bar",
-      "Music Venue",
-      "Nightlife"
-    ],
-    "link": "https://www.velvetelklounge.com/event/march-23rd-victor-jones-the-construct-tour-2026/"
-  },
-  {
-    "title": "Marfa: Bluebird Festival Kick Off Show",
-    "date": "April 17, 2026",
-    "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/64972KickoffGrahicFinalFinal_1.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
-    "venue": "Velvet Elk Lounge",
-    "location": "Boulder",
-    "category": "Music",
-    "source_url": "https://www.velvetelklounge.com/events/",
-    "event_type_tags": [
-      "Live Music",
-      "Nightlife"
-    ],
-    "venue_type_tags": [
-      "Bar",
-      "Music Venue",
-      "Nightlife"
-    ],
-    "link": "https://www.velvetelklounge.com/event/april-17th-marfa-bluebird-festival-kick-off-show/"
   }
 ]
