@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T18:49:24.065287",
-  "total_events": 328,
+  "generated_at": "2026-02-07T08:33:17.401294",
+  "total_events": 325,
   "tags": {
     "venues": [
       "300 Suns Brewing",
@@ -373,39 +373,6 @@
       ]
     },
     {
-      "id": "junkyard_social_club_friday_happy_hour_friday_february_6_2026_4_00_6_00_pm",
-      "title": "Friday Happy Hour",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Friday, February 6, 2026",
-      "normalized_date": "2026-02-06T00:00:00",
-      "recurring": null,
-      "time": "4:00 - 6:00 PM",
-      "description": "",
-      "additional_info": "All Ages are Welcome",
-      "link": "https://junkyardsocialclub.org/drop-in-event/friday-happy-hour/",
-      "ticket_link": null,
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/04/Friday-Happy-Hour.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": "All Ages",
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Family Friendly",
-        "Music",
-        "Educational",
-        "Community",
-        "All Ages",
-        "Performance"
-      ]
-    },
-    {
       "id": "junkyard_social_club_boulder_food_not_bombs_fundraiser_saturday_february_7_2026_7_00_pm_show_8_00_pm_show",
       "title": "Boulder Food Not Bombs Fundraiser",
       "venue": "Junkyard Social Club",
@@ -459,11 +426,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
-        "Music",
         "Community",
+        "Family Friendly",
+        "Performance",
         "All Ages",
-        "Performance"
+        "Music"
       ]
     },
     {
@@ -496,6 +463,35 @@
       ]
     },
     {
+      "id": "junkyard_social_club_drop_in_mahjongg_tuesdays_tuesday_february_10_2026_12_00_2_00_pm",
+      "title": "Drop-In Mahjongg \u2013 Tuesdays",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Tuesday, February 10, 2026",
+      "normalized_date": "2026-02-10T00:00:00",
+      "recurring": null,
+      "time": "12:00 - 2:00 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://junkyardsocialclub.org/drop-in-event/drop-in-mahjongg-tuesdays/",
+      "ticket_link": null,
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/08/Drop-In-MahJongg-Tuesday.jpg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": null,
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Community",
+        "Games"
+      ]
+    },
+    {
       "id": "junkyard_social_club_osmp_after_dark_a_valentine_s_day_trivia_event_tuesday_february_10_2026_6_00_8_00_pm",
       "title": "OSMP After Dark: A Valentine\u2019s Day Trivia Event",
       "venue": "Junkyard Social Club",
@@ -521,8 +517,8 @@
       ],
       "event_type_tags": [
         "Community",
-        "Games",
-        "Educational"
+        "Educational",
+        "Games"
       ]
     },
     {
@@ -606,8 +602,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "All Ages",
+        "Community",
         "Family Friendly",
         "Games"
       ]
@@ -642,6 +638,35 @@
       ]
     },
     {
+      "id": "junkyard_social_club_drop_in_mahjongg_thursdays_thursday_february_12_2026_3_30_5_30_pm",
+      "title": "Drop-In Mahjongg \u2013 Thursdays",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Thursday, February 12, 2026",
+      "normalized_date": "2026-02-12T00:00:00",
+      "recurring": null,
+      "time": "3:30 - 5:30 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://junkyardsocialclub.org/drop-in-event/drop-in-mahjongg-thursdays/",
+      "ticket_link": null,
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/08/Drop-In-Mah-Jongg-Thursday.jpg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": null,
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Community",
+        "Games"
+      ]
+    },
+    {
       "id": "junkyard_social_club_salsaton_events_friday_february_13_2026_7_30_11_00_pm",
       "title": "Salsaton Events",
       "venue": "Junkyard Social Club",
@@ -666,11 +691,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
-        "Music",
         "Community",
+        "Family Friendly",
+        "Performance",
         "All Ages",
-        "Performance"
+        "Music"
       ]
     },
     {
@@ -699,8 +724,8 @@
       ],
       "event_type_tags": [
         "Community",
-        "Performance",
-        "Music"
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -757,10 +782,39 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "All Ages",
-        "Family Friendly",
-        "Music"
+        "Community",
+        "Music",
+        "Family Friendly"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_community_craft_night_wednesday_february_18_2026_6_00_8_30_pm",
+      "title": "Community Craft Night",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Wednesday, February 18, 2026",
+      "normalized_date": "2026-02-18T00:00:00",
+      "recurring": null,
+      "time": "6:00 - 8:30 PM",
+      "description": "",
+      "additional_info": "All Ages are Welcome",
+      "link": "https://junkyardsocialclub.org/drop-in-event/community-craft-night/",
+      "ticket_link": null,
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/10/Community-Craft-Night.jpeg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": "All Ages",
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "All Ages",
+        "Community"
       ]
     },
     {
@@ -817,8 +871,8 @@
       ],
       "event_type_tags": [
         "Community",
-        "Performance",
-        "Music"
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -905,10 +959,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "All Ages",
-        "Performance",
-        "Music"
+        "Community",
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -965,8 +1019,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Music"
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -1100,34 +1154,6 @@
         "Food & Drink"
       ],
       "event_type_tags": []
-    },
-    {
-      "id": "st_julien_hotel_spa_brazilian_nights_february_06_2026_6_00_pm_9_00_pm",
-      "title": "Brazilian Nights",
-      "venue": "St Julien Hotel & Spa",
-      "location": "Boulder",
-      "date": "February 06, 2026",
-      "normalized_date": "2026-02-06T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM - 9:00 PM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://stjulien.com/event/brazilian-nights/",
-      "ticket_link": null,
-      "image": "stjulien.jpg",
-      "source_url": "https://stjulien.com/boulder-colorado-events/month/?tribe_eventcategory%5B0%5D=83",
-      "age_restriction": null,
-      "venue_tag": "St Julien Hotel & Spa",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Entertainment",
-        "Hotel",
-        "Upscale"
-      ],
-      "event_type_tags": [
-        "Entertainment",
-        "Hotel Events"
-      ]
     },
     {
       "id": "st_julien_hotel_spa_pour_free_mountain_jam_february_07_2026_6_00_pm_9_00_pm",
@@ -4350,62 +4376,6 @@
       ]
     },
     {
-      "id": "license_no_1_the_underground_comedy_showcase_friday_february_6_2026_8_00_pm_9_00_pm",
-      "title": "The Underground Comedy Showcase",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": "Friday, February 6, 2026",
-      "normalized_date": "2026-02-06T00:00:00",
-      "recurring": null,
-      "time": "8:00\u202fPM - 9:00\u202fPM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.license1boulderado.com/calendar/p4xbwhd9h64nnsce9st9xlrxx8nztc",
-      "ticket_link": null,
-      "image": "licenseno1.jpg",
-      "source_url": "https://www.license1boulderado.com/calendar",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+"
-      ],
-      "event_type_tags": [
-        "Comedy",
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "license_no_1_live_music_with_von_disco_friday_february_6_2026_9_00_pm_11_59_pm",
-      "title": "Live Music With Von Disco",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": "Friday, February 6, 2026",
-      "normalized_date": "2026-02-06T00:00:00",
-      "recurring": null,
-      "time": "9:00\u202fPM - 11:59\u202fPM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.license1boulderado.com/calendar/live-music-with-von-disco-2",
-      "ticket_link": null,
-      "image": "licenseno1.jpg",
-      "source_url": "https://www.license1boulderado.com/calendar",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Nightlife"
-      ]
-    },
-    {
       "id": "license_no_1_the_underground_comedy_showcase_saturday_february_7_2026_7_30_pm_8_30_pm",
       "title": "The Underground Comedy Showcase",
       "venue": "License No 1",
@@ -5955,12 +5925,12 @@
       ]
     },
     {
-      "id": "rosetta_hall_lighthouse_february_6_2026_10_00_pm",
+      "id": "rosetta_hall_lighthouse_february_6_2027_10_00_pm",
       "title": "LIGHTHOUSE",
       "venue": "Rosetta Hall",
       "location": "Boulder",
-      "date": "February 6, 2026",
-      "normalized_date": "2026-02-06T00:00:00",
+      "date": "February 6, 2027",
+      "normalized_date": "2027-02-06T00:00:00",
       "recurring": null,
       "time": "10:00 PM",
       "description": "MELODIC TECHNO / TRANCE",
@@ -6432,34 +6402,6 @@
       ]
     },
     {
-      "id": "bricks_on_main_wylie_jones_february_06_2026_6_00_pm_9_00_pm",
-      "title": "Wylie Jones",
-      "venue": "Bricks on Main",
-      "location": "Longmont",
-      "date": "February 06, 2026",
-      "normalized_date": "2026-02-06T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM - 9:00 PM",
-      "description": "Wylie Jones is a multi instrumentalist one man band loop artist like the great Keller Williams, with the spirit of Toots, Bob Marley and Metallica wrapped into one.",
-      "additional_info": "",
-      "link": "https://www.bricksretail.com/event-details/wylie-jones",
-      "ticket_link": null,
-      "image": "https://static.wixstatic.com/media/ea2d6f_646feb49e2bf4f7b83030defc91a2cfb~mv2.jpeg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_646feb49e2bf4f7b83030defc91a2cfb~mv2.jpeg",
-      "source_url": "https://www.bricksretail.com/events-calendar",
-      "age_restriction": null,
-      "venue_tag": "Bricks on Main",
-      "location_tag": "Longmont",
-      "venue_type_tags": [
-        "Community",
-        "Retail",
-        "Entertainment"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Entertainment"
-      ]
-    },
-    {
       "id": "bricks_on_main_winter_walkabout_music_showcase_february_07_2026_2_00_pm_9_30_pm",
       "title": "Winter Walkabout Music Showcase",
       "venue": "Bricks on Main",
@@ -6851,32 +6793,6 @@
       "event_type_tags": [
         "Live Music",
         "Entertainment"
-      ]
-    },
-    {
-      "id": "roots_music_project_tim_cook_godson_an_intimate_soul_roots_evening_w_drew_stevens_february_06_2026_7_30_pm_10_30_pm",
-      "title": "Tim Cook &  Godson - An Intimate Soul & Roots Evening w/ Drew Stevens",
-      "venue": "Roots Music Project",
-      "location": "Boulder",
-      "date": "February 06, 2026",
-      "normalized_date": "2026-02-06T00:00:00",
-      "recurring": null,
-      "time": "7:30 PM - 10:30 PM",
-      "description": "Subdudes bassist Tim Cook + Godson Seth Strickland of Green Buddha perform intimate originals & classics. w/ Drew Stevens opening",
-      "additional_info": "",
-      "link": "https://www.eventbrite.com/e/tim-cook-godson-an-intimate-soul-roots-evening-w-drew-stevens-tickets-1977324060493",
-      "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172573132%2F1125606624043%2F1%2Foriginal.20251209-005808?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=6cbdd2b1cd09bc3286504cab7dbff2ca",
-      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
-      "age_restriction": "21+",
-      "venue_tag": "Roots Music Project",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Community"
-      ],
-      "event_type_tags": [
-        "Live Music"
       ]
     },
     {
@@ -7465,6 +7381,32 @@
       "link": "https://www.eventbrite.com/e/roots-music-project-workshop-intro-to-music-theory-4-week-course-tickets-1981537102816",
       "ticket_link": null,
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175788440%2F1125606624043%2F1%2Foriginal.20260125-213618?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=370ce3a13fc789e300ebc814221edd0f",
+      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_jay_nash_garrison_starr_swamp_gospel_heartfelt_storytelling_april_03_2026_8_00_pm_10_30_pm",
+      "title": "Jay Nash & Garrison Starr: Swamp Gospel & Heartfelt Storytelling",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": "April 03, 2026",
+      "normalized_date": "2026-04-03T00:00:00",
+      "recurring": null,
+      "time": "8:00 PM - 10:30 PM",
+      "description": "Two masterful singer-songwriters unite for an intimate evening of poignant melodies, rough-hewn vocals, and stories that heal the soul.",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/jay-nash-garrison-starr-swamp-gospel-heartfelt-storytelling-tickets-1980821634832",
+      "ticket_link": null,
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175185057%2F1125606624043%2F1%2Foriginal.20260118-193247?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=76bd3c30a82489372a17bc247cdd3fca",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -8406,56 +8348,6 @@
         "All Ages",
         "Free"
       ]
-    },
-    {
-      "id": "boulder_theater_stella_cole_with_the_boulder_philharmonic_feb_6_2026_none",
-      "title": "Stella Cole with the Boulder Philharmonic",
-      "venue": "Boulder Theater",
-      "location": "Boulder",
-      "date": "Feb 6, 2026",
-      "normalized_date": "2026-02-06",
-      "recurring": null,
-      "time": null,
-      "description": null,
-      "additional_info": "",
-      "link": "https://www.z2ent.com/events/detail/stella-cole-boulder-philharmonic-2026-bt",
-      "ticket_link": "https://www.axs.com/events/1074668/?skin=bouldertheater",
-      "image": "images/z2/stella-cole-with-the-boulder-philharmonic-72323a54.jpg",
-      "source_url": null,
-      "age_restriction": null,
-      "venue_tag": "Boulder Theater",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Concert",
-        "Theater"
-      ],
-      "event_type_tags": []
-    },
-    {
-      "id": "fox_theatre_jerro_with_luko_siixnights_feb_6_2026_none",
-      "title": "Jerro with LuKo, siixnights",
-      "venue": "Fox Theatre",
-      "location": "Boulder",
-      "date": "Feb 6, 2026",
-      "normalized_date": "2026-02-06",
-      "recurring": null,
-      "time": null,
-      "description": null,
-      "additional_info": "",
-      "link": "https://www.z2ent.com/events/detail/jerro-2026-fox",
-      "ticket_link": "https://www.axs.com/events/1175049/?skin=foxtheatre",
-      "image": "images/z2/jerro-with-luko-siixnights-24105f6a.jpg",
-      "source_url": null,
-      "age_restriction": null,
-      "venue_tag": "Fox Theatre",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Concert",
-        "Theater"
-      ],
-      "event_type_tags": []
     },
     {
       "id": "boulder_theater_shakedown_street_feb_7_2026_none",
@@ -9446,6 +9338,31 @@
       "link": "https://www.z2ent.com/events/detail/nimino-2026-bt",
       "ticket_link": "https://www.axs.com/events/1230259/?skin=bouldertheater",
       "image": "images/z2/nimino-208c826d.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Boulder Theater",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "boulder_theater_neko_case_with_destroyer_mar_15_2026_none",
+      "title": "Neko Case with Destroyer",
+      "venue": "Boulder Theater",
+      "location": "Boulder",
+      "date": "Mar 15, 2026",
+      "normalized_date": "2026-03-15",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": "https://www.z2ent.com/events/detail/neko-case-2026-bt",
+      "ticket_link": "https://www.axs.com/events/1253171/?skin=bouldertheater",
+      "image": "images/z2/neko-case-with-destroyer-0a062202.jpg",
       "source_url": null,
       "age_restriction": null,
       "venue_tag": "Boulder Theater",

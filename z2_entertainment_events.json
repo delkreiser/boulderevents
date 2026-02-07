@@ -1,37 +1,5 @@
 [
   {
-    "title": "Stella Cole with the Boulder Philharmonic",
-    "venue": "Boulder Theater",
-    "location": "Boulder",
-    "date": "Feb 6, 2026",
-    "normalized_date": "2026-02-06",
-    "time": null,
-    "image": "images/z2/stella-cole-with-the-boulder-philharmonic-72323a54.jpg",
-    "url": "https://www.z2ent.com/events/detail/stella-cole-boulder-philharmonic-2026-bt",
-    "ticket_link": "https://www.axs.com/events/1074668/?skin=bouldertheater",
-    "tags": [
-      "music",
-      "concert"
-    ],
-    "description": null
-  },
-  {
-    "title": "Jerro with LuKo, siixnights",
-    "venue": "Fox Theatre",
-    "location": "Boulder",
-    "date": "Feb 6, 2026",
-    "normalized_date": "2026-02-06",
-    "time": null,
-    "image": "images/z2/jerro-with-luko-siixnights-24105f6a.jpg",
-    "url": "https://www.z2ent.com/events/detail/jerro-2026-fox",
-    "ticket_link": "https://www.axs.com/events/1175049/?skin=foxtheatre",
-    "tags": [
-      "music",
-      "concert"
-    ],
-    "description": null
-  },
-  {
     "title": "Shakedown Street",
     "venue": "Boulder Theater",
     "location": "Boulder",
@@ -665,6 +633,22 @@
     "image": "images/z2/nimino-208c826d.jpg",
     "url": "https://www.z2ent.com/events/detail/nimino-2026-bt",
     "ticket_link": "https://www.axs.com/events/1230259/?skin=bouldertheater",
+    "tags": [
+      "music",
+      "concert"
+    ],
+    "description": null
+  },
+  {
+    "title": "Neko Case with Destroyer",
+    "venue": "Boulder Theater",
+    "location": "Boulder",
+    "date": "Mar 15, 2026",
+    "normalized_date": "2026-03-15",
+    "time": null,
+    "image": "images/z2/neko-case-with-destroyer-0a062202.jpg",
+    "url": "https://www.z2ent.com/events/detail/neko-case-2026-bt",
+    "ticket_link": "https://www.axs.com/events/1253171/?skin=bouldertheater",
     "tags": [
       "music",
       "concert"
