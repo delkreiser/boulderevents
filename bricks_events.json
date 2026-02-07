@@ -294,5 +294,25 @@
       "Bar",
       "Restaurant"
     ]
+  },
+  {
+    "link": "https://www.bricksretail.com/event-details/jordan-bass-2",
+    "title": "Jordan Bass",
+    "date": "March 01, 2026",
+    "time": "5:00 PM - 7:00 PM",
+    "image": "https://static.wixstatic.com/media/ea2d6f_ea03fa4a91a74d919959387107889367~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_ea03fa4a91a74d919959387107889367~mv2.jpg",
+    "venue": "Bricks on Main",
+    "location": "Longmont",
+    "category": "Music",
+    "source_url": "https://www.bricksretail.com/events-calendar",
+    "event_type_tags": [
+      "Live Music",
+      "Entertainment"
+    ],
+    "venue_type_tags": [
+      "Music Venue",
+      "Bar",
+      "Restaurant"
+    ]
   }
 ]

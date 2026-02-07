@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T08:33:17.401294",
-  "total_events": 325,
+  "generated_at": "2026-02-07T18:37:22.035839",
+  "total_events": 326,
   "tags": {
     "venues": [
       "300 Suns Brewing",
@@ -427,10 +427,10 @@
       ],
       "event_type_tags": [
         "Community",
-        "Family Friendly",
+        "Music",
         "Performance",
-        "All Ages",
-        "Music"
+        "Family Friendly",
+        "All Ages"
       ]
     },
     {
@@ -458,8 +458,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Educational"
+        "Educational",
+        "Community"
       ]
     },
     {
@@ -487,8 +487,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Games"
+        "Games",
+        "Community"
       ]
     },
     {
@@ -516,9 +516,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
+        "Games",
         "Educational",
-        "Games"
+        "Community"
       ]
     },
     {
@@ -602,10 +602,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Community",
+        "Games",
         "Family Friendly",
-        "Games"
+        "Community",
+        "All Ages"
       ]
     },
     {
@@ -662,8 +662,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Games"
+        "Games",
+        "Community"
       ]
     },
     {
@@ -692,10 +692,10 @@
       ],
       "event_type_tags": [
         "Community",
-        "Family Friendly",
+        "Music",
         "Performance",
-        "All Ages",
-        "Music"
+        "Family Friendly",
+        "All Ages"
       ]
     },
     {
@@ -723,9 +723,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Performance",
         "Community",
-        "Music",
-        "Performance"
+        "Music"
       ]
     },
     {
@@ -753,8 +753,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Educational"
+        "Educational",
+        "Community"
       ]
     },
     {
@@ -782,10 +782,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
+        "Family Friendly",
         "Community",
         "Music",
-        "Family Friendly"
+        "All Ages"
       ]
     },
     {
@@ -813,8 +813,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Community"
+        "Community",
+        "All Ages"
       ]
     },
     {
@@ -870,9 +870,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Performance",
         "Community",
-        "Music",
-        "Performance"
+        "Music"
       ]
     },
     {
@@ -900,8 +900,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Performance"
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -929,9 +929,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Educational",
         "Community",
-        "Music",
-        "Educational"
+        "Music"
       ]
     },
     {
@@ -959,10 +959,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
+        "Performance",
         "Community",
         "Music",
-        "Performance"
+        "All Ages"
       ]
     },
     {
@@ -1019,8 +1019,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "Performance"
+        "Performance",
+        "Music"
       ]
     },
     {
@@ -6781,6 +6781,34 @@
       "link": "https://www.bricksretail.com/event-details/rockin-horse-6",
       "ticket_link": null,
       "image": "https://static.wixstatic.com/media/ea2d6f_8cb9142d279343c9a705c709f41b629e~mv2.jpeg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_8cb9142d279343c9a705c709f41b629e~mv2.jpeg",
+      "source_url": "https://www.bricksretail.com/events-calendar",
+      "age_restriction": null,
+      "venue_tag": "Bricks on Main",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Community",
+        "Retail",
+        "Entertainment"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Entertainment"
+      ]
+    },
+    {
+      "id": "bricks_on_main_jordan_bass_march_01_2026_5_00_pm_7_00_pm",
+      "title": "Jordan Bass",
+      "venue": "Bricks on Main",
+      "location": "Longmont",
+      "date": "March 01, 2026",
+      "normalized_date": "2026-03-01T00:00:00",
+      "recurring": null,
+      "time": "5:00 PM - 7:00 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.bricksretail.com/event-details/jordan-bass-2",
+      "ticket_link": null,
+      "image": "https://static.wixstatic.com/media/ea2d6f_ea03fa4a91a74d919959387107889367~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_ea03fa4a91a74d919959387107889367~mv2.jpg",
       "source_url": "https://www.bricksretail.com/events-calendar",
       "age_restriction": null,
       "venue_tag": "Bricks on Main",
