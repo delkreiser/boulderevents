@@ -1,9 +1,8 @@
 {
-  "generated_at": "2026-02-07T18:37:22.035839",
-  "total_events": 326,
+  "generated_at": "2026-02-08T08:36:32.787886",
+  "total_events": 320,
   "tags": {
     "venues": [
-      "300 Suns Brewing",
       "Bands on the Bricks",
       "Boulder Theater",
       "Bricks on Main",
@@ -37,14 +36,12 @@
       "Arts",
       "Bar",
       "Books",
-      "Brewery",
       "Cafe",
       "Community",
       "Concert",
       "DJ",
       "Dance",
       "Entertainment",
-      "Family Friendly",
       "Food & Drink",
       "Free",
       "Hotel",
@@ -61,7 +58,6 @@
     "event_types": [
       "All Ages",
       "Books",
-      "Brewery",
       "Comedy",
       "Community",
       "DJ",
@@ -373,35 +369,6 @@
       ]
     },
     {
-      "id": "junkyard_social_club_boulder_food_not_bombs_fundraiser_saturday_february_7_2026_7_00_pm_show_8_00_pm_show",
-      "title": "Boulder Food Not Bombs Fundraiser",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Saturday, February 7, 2026",
-      "normalized_date": "2026-02-07T00:00:00",
-      "recurring": null,
-      "time": "7:00 PM Show |  8:00 PM Show",
-      "description": "",
-      "additional_info": "Must be age 18+",
-      "link": "https://junkyardsocialclub.org/event/boulder-food-not-bombs-fundraiser/",
-      "ticket_link": null,
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2026/01/FoodNotBombs-Boulder.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Community",
-        "Music"
-      ]
-    },
-    {
       "id": "junkyard_social_club_roda_de_choro_brazilian_choro_jam_sunday_february_8_2026_5_00_pm_7_00_pm",
       "title": "Roda de Choro \u2013 Brazilian Choro Jam",
       "venue": "Junkyard Social Club",
@@ -426,10 +393,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Music",
-        "Performance",
         "Family Friendly",
+        "Performance",
+        "Community",
         "All Ages"
       ]
     },
@@ -458,8 +425,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Educational",
-        "Community"
+        "Community",
+        "Educational"
       ]
     },
     {
@@ -517,8 +484,8 @@
       ],
       "event_type_tags": [
         "Games",
-        "Educational",
-        "Community"
+        "Community",
+        "Educational"
       ]
     },
     {
@@ -603,9 +570,9 @@
       ],
       "event_type_tags": [
         "Games",
-        "Family Friendly",
         "Community",
-        "All Ages"
+        "All Ages",
+        "Family Friendly"
       ]
     },
     {
@@ -691,10 +658,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Music",
-        "Performance",
         "Family Friendly",
+        "Performance",
+        "Community",
         "All Ages"
       ]
     },
@@ -723,9 +690,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "Community",
-        "Music"
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -753,8 +720,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Educational",
-        "Community"
+        "Community",
+        "Educational"
       ]
     },
     {
@@ -784,8 +751,8 @@
       "event_type_tags": [
         "Family Friendly",
         "Community",
-        "Music",
-        "All Ages"
+        "All Ages",
+        "Music"
       ]
     },
     {
@@ -870,9 +837,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "Community",
-        "Music"
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -900,8 +867,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -929,8 +896,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Educational",
         "Community",
+        "Educational",
         "Music"
       ]
     },
@@ -959,10 +926,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "Community",
+        "All Ages",
         "Music",
-        "All Ages"
+        "Performance"
       ]
     },
     {
@@ -1019,8 +986,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Music"
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -1154,34 +1121,6 @@
         "Food & Drink"
       ],
       "event_type_tags": []
-    },
-    {
-      "id": "st_julien_hotel_spa_pour_free_mountain_jam_february_07_2026_6_00_pm_9_00_pm",
-      "title": "Pour Free Mountain Jam",
-      "venue": "St Julien Hotel & Spa",
-      "location": "Boulder",
-      "date": "February 07, 2026",
-      "normalized_date": "2026-02-07T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM - 9:00 PM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://stjulien.com/event/pour-free-mountain-jam/",
-      "ticket_link": null,
-      "image": "stjulien.jpg",
-      "source_url": "https://stjulien.com/boulder-colorado-events/month/?tribe_eventcategory%5B0%5D=83",
-      "age_restriction": null,
-      "venue_tag": "St Julien Hotel & Spa",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Entertainment",
-        "Hotel",
-        "Upscale"
-      ],
-      "event_type_tags": [
-        "Entertainment",
-        "Hotel Events"
-      ]
     },
     {
       "id": "st_julien_hotel_spa_mezzo_mestizo_february_12_2026_6_00_pm_9_00_pm",
@@ -4376,90 +4315,6 @@
       ]
     },
     {
-      "id": "license_no_1_the_underground_comedy_showcase_saturday_february_7_2026_7_30_pm_8_30_pm",
-      "title": "The Underground Comedy Showcase",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": "Saturday, February 7, 2026",
-      "normalized_date": "2026-02-07T00:00:00",
-      "recurring": null,
-      "time": "7:30\u202fPM - 8:30\u202fPM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.license1boulderado.com/calendar/nmk6tgbsxpze36plhr2meay5lr7lf8",
-      "ticket_link": null,
-      "image": "licenseno1.jpg",
-      "source_url": "https://www.license1boulderado.com/calendar",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+"
-      ],
-      "event_type_tags": [
-        "Comedy",
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "license_no_1_live_music_with_voodoo_lily_saturday_february_7_2026_9_00_pm_11_59_pm",
-      "title": "Live Music With Voodoo Lily",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": "Saturday, February 7, 2026",
-      "normalized_date": "2026-02-07T00:00:00",
-      "recurring": null,
-      "time": "9:00\u202fPM - 11:59\u202fPM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.license1boulderado.com/calendar/live-music-with-voodoo-lily-3",
-      "ticket_link": null,
-      "image": "licenseno1.jpg",
-      "source_url": "https://www.license1boulderado.com/calendar",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "license_no_1_the_underground_comedy_showcase_saturday_february_7_2026_9_15_pm_10_15_pm",
-      "title": "The Underground Comedy Showcase",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": "Saturday, February 7, 2026",
-      "normalized_date": "2026-02-07T00:00:00",
-      "recurring": null,
-      "time": "9:15\u202fPM - 10:15\u202fPM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.license1boulderado.com/calendar/24ekhtdffj9fcpaj4kawmm5y7xlwmn",
-      "ticket_link": null,
-      "image": "licenseno1.jpg",
-      "source_url": "https://www.license1boulderado.com/calendar",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+"
-      ],
-      "event_type_tags": [
-        "Comedy",
-        "Nightlife"
-      ]
-    },
-    {
       "id": "license_no_1_live_music_with_george_nelson_wednesday_february_11_2026_8_00_pm_11_59_pm",
       "title": "Live Music With George Nelson",
       "venue": "License No 1",
@@ -5957,12 +5812,12 @@
       ]
     },
     {
-      "id": "rosetta_hall_shares_february_7_2026_10_00_pm",
+      "id": "rosetta_hall_shares_february_7_2027_10_00_pm",
       "title": "SHARES",
       "venue": "Rosetta Hall",
       "location": "Boulder",
-      "date": "February 7, 2026",
-      "normalized_date": "2026-02-07T00:00:00",
+      "date": "February 7, 2027",
+      "normalized_date": "2027-02-07T00:00:00",
       "recurring": null,
       "time": "10:00 PM",
       "description": "TECH HOUSE / TECHNO",
@@ -6373,63 +6228,6 @@
       ]
     },
     {
-      "id": "300_suns_brewing_jake_edmoundson_february_7_2026_6_00_8_00_pm",
-      "title": "Jake Edmoundson",
-      "venue": "300 Suns Brewing",
-      "location": "Longmont",
-      "date": "February 7, 2026",
-      "normalized_date": "2026-02-07T00:00:00",
-      "recurring": null,
-      "time": "6:00 - 8:00 PM",
-      "description": "Guitars, cadillacs, and hillbilly music from this singer/songwriter based in Lyons, CO",
-      "additional_info": "",
-      "link": "https://300sunsbrewing.com/uncategorized/jake-edmoundson/",
-      "ticket_link": null,
-      "image": "300suns.jpg",
-      "source_url": "https://300sunsbrewing.com/events/",
-      "age_restriction": "All Ages",
-      "venue_tag": "300 Suns Brewing",
-      "location_tag": "Longmont",
-      "venue_type_tags": [
-        "Brewery",
-        "Live Music",
-        "Family Friendly"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Brewery",
-        "Family Friendly"
-      ]
-    },
-    {
-      "id": "bricks_on_main_winter_walkabout_music_showcase_february_07_2026_2_00_pm_9_30_pm",
-      "title": "Winter Walkabout Music Showcase",
-      "venue": "Bricks on Main",
-      "location": "Longmont",
-      "date": "February 07, 2026",
-      "normalized_date": "2026-02-07T00:00:00",
-      "recurring": null,
-      "time": "2:00 PM - 9:30 PM",
-      "description": "An all-day, multi-venue music festival featuring local music, unique venues, good vibes & community spirit, and the best that Downtown Longmont has to offer!",
-      "additional_info": "",
-      "link": "https://www.bricksretail.com/event-details/winter-walkabout-music-showcase",
-      "ticket_link": null,
-      "image": "https://static.wixstatic.com/media/ea2d6f_2aecc47fd2824fb7af15be8eed337b15~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_2aecc47fd2824fb7af15be8eed337b15~mv2.jpg",
-      "source_url": "https://www.bricksretail.com/events-calendar",
-      "age_restriction": null,
-      "venue_tag": "Bricks on Main",
-      "location_tag": "Longmont",
-      "venue_type_tags": [
-        "Community",
-        "Retail",
-        "Entertainment"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Entertainment"
-      ]
-    },
-    {
       "id": "bricks_on_main_open_mic_night_february_10_2026_5_30_pm_8_30_pm",
       "title": "Open Mic Night",
       "venue": "Bricks on Main",
@@ -6821,32 +6619,6 @@
       "event_type_tags": [
         "Live Music",
         "Entertainment"
-      ]
-    },
-    {
-      "id": "roots_music_project_roots_soul_an_evening_with_hazel_miller_jack_hadley_february_07_2026_7_30_pm_10_30_pm",
-      "title": "Roots & Soul: An Evening with Hazel Miller & Jack Hadley",
-      "venue": "Roots Music Project",
-      "location": "Boulder",
-      "date": "February 07, 2026",
-      "normalized_date": "2026-02-07T00:00:00",
-      "recurring": null,
-      "time": "7:30 PM - 10:30 PM",
-      "description": "Colorado music legends, Hazel Miller and Jack Hadley join forces for a special evening of soul, heart, laughter and song.",
-      "additional_info": "",
-      "link": "https://www.eventbrite.com/e/roots-soul-an-evening-with-hazel-miller-jack-hadley-tickets-1976353960899",
-      "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176806100%2F1125606624043%2F1%2Foriginal.20260205-185522?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=1d9234860d70fd0a309b45bea08bf30c",
-      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
-      "age_restriction": "21+",
-      "venue_tag": "Roots Music Project",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Community"
-      ],
-      "event_type_tags": [
-        "Live Music"
       ]
     },
     {
@@ -7279,6 +7051,32 @@
       "link": "https://www.eventbrite.com/e/college-showcase-w-abernathy-shagnaster-words-of-mouth-and-red-revival-tickets-1980901767511",
       "ticket_link": null,
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175270585%2F1125606624043%2F1%2Foriginal.20260119-195609?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=ba20e3191c227e63b28bcecdc6c0e542",
+      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_breadbox_a_jgb_lover_band_w_mmb3_organ_trio_march_13_2026_8_00_pm_11_00_pm",
+      "title": "Breadbox : A JGB lover band w/ MMB3 Organ Trio",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": "March 13, 2026",
+      "normalized_date": "2026-03-13T00:00:00",
+      "recurring": null,
+      "time": "8:00 PM - 11:00 PM",
+      "description": "Jerry Garcia Band explorations meet classic funk & soul. Two powerhouse bands, one night of improvisational magic and infectious grooves.",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/breadbox-a-jgb-lover-band-w-mmb3-organ-trio-tickets-1982488751222",
+      "ticket_link": null,
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176854274%2F1408677475953%2F1%2Foriginal.20260206-064616?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.511&fp-y=0.392&s=3f00f02901f591f6bd80aad8a044dbb5",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -8378,56 +8176,6 @@
       ]
     },
     {
-      "id": "boulder_theater_shakedown_street_feb_7_2026_none",
-      "title": "Shakedown Street",
-      "venue": "Boulder Theater",
-      "location": "Boulder",
-      "date": "Feb 7, 2026",
-      "normalized_date": "2026-02-07",
-      "recurring": null,
-      "time": null,
-      "description": null,
-      "additional_info": "",
-      "link": "https://www.z2ent.com/events/detail/shakedown-street-bt-2026",
-      "ticket_link": "https://www.axs.com/events/1240787/?skin=bouldertheater",
-      "image": "images/z2/shakedown-street-402b4ae7.jpg",
-      "source_url": null,
-      "age_restriction": null,
-      "venue_tag": "Boulder Theater",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Concert",
-        "Theater"
-      ],
-      "event_type_tags": []
-    },
-    {
-      "id": "fox_theatre_the_ocean_blue_with_brian_tighe_of_the_hang_ups_feb_7_2026_none",
-      "title": "The Ocean Blue with Brian Tighe of The Hang Ups",
-      "venue": "Fox Theatre",
-      "location": "Boulder",
-      "date": "Feb 7, 2026",
-      "normalized_date": "2026-02-07",
-      "recurring": null,
-      "time": null,
-      "description": null,
-      "additional_info": "",
-      "link": "https://www.z2ent.com/events/detail/ocean-blue-2026-fox",
-      "ticket_link": "https://www.axs.com/events/1124125/?skin=foxtheatre",
-      "image": "images/z2/the-ocean-blue-with-brian-tighe-of-the-hang-ups-7f356f5c.jpg",
-      "source_url": null,
-      "age_restriction": null,
-      "venue_tag": "Fox Theatre",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Concert",
-        "Theater"
-      ],
-      "event_type_tags": []
-    },
-    {
       "id": "fox_theatre_say_she_she_with_katz_oso_feb_9_2026_none",
       "title": "Say She She with Katz\u00f9 Oso",
       "venue": "Fox Theatre",
@@ -9394,6 +9142,81 @@
       "source_url": null,
       "age_restriction": null,
       "venue_tag": "Boulder Theater",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "boulder_theater_emmet_cohen_presents_miles_and_coltrane_at_100_mar_17_2026_none",
+      "title": "Emmet Cohen presents: Miles and Coltrane at 100",
+      "venue": "Boulder Theater",
+      "location": "Boulder",
+      "date": "Mar 17, 2026",
+      "normalized_date": "2026-03-17",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": "https://www.z2ent.com/events/detail/emmet-cohen-2026-bt",
+      "ticket_link": "https://www.axs.com/events/1123951/?skin=bouldertheater",
+      "image": "images/z2/emmet-cohen-presents-miles-and-coltrane-at-100-08664a3c.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Boulder Theater",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "boulder_theater_an_evening_with_matisyahu_mar_19_2026_none",
+      "title": "An Evening with Matisyahu",
+      "venue": "Boulder Theater",
+      "location": "Boulder",
+      "date": "Mar 19, 2026",
+      "normalized_date": "2026-03-19",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": "https://www.z2ent.com/events/detail/matisyahu-2026-bt",
+      "ticket_link": "https://www.axs.com/events/1255756/?skin=bouldertheater",
+      "image": "images/z2/an-evening-with-matisyahu-82ca7c3c.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Boulder Theater",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "fox_theatre_an_evening_with_shadowgrass_mar_20_2026_none",
+      "title": "An Evening with Shadowgrass",
+      "venue": "Fox Theatre",
+      "location": "Boulder",
+      "date": "Mar 20, 2026",
+      "normalized_date": "2026-03-20",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": "https://www.z2ent.com/events/detail/shadowgrass-2026-fox",
+      "ticket_link": "https://www.axs.com/events/1195007/?skin=foxtheatre",
+      "image": "images/z2/an-evening-with-shadowgrass-21756c68.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Fox Theatre",
       "location_tag": "Boulder",
       "venue_type_tags": [
         "Live Music",

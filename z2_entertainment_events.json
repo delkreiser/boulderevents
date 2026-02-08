@@ -1,37 +1,5 @@
 [
   {
-    "title": "Shakedown Street",
-    "venue": "Boulder Theater",
-    "location": "Boulder",
-    "date": "Feb 7, 2026",
-    "normalized_date": "2026-02-07",
-    "time": null,
-    "image": "images/z2/shakedown-street-402b4ae7.jpg",
-    "url": "https://www.z2ent.com/events/detail/shakedown-street-bt-2026",
-    "ticket_link": "https://www.axs.com/events/1240787/?skin=bouldertheater",
-    "tags": [
-      "music",
-      "concert"
-    ],
-    "description": null
-  },
-  {
-    "title": "The Ocean Blue with Brian Tighe of The Hang Ups",
-    "venue": "Fox Theatre",
-    "location": "Boulder",
-    "date": "Feb 7, 2026",
-    "normalized_date": "2026-02-07",
-    "time": null,
-    "image": "images/z2/the-ocean-blue-with-brian-tighe-of-the-hang-ups-7f356f5c.jpg",
-    "url": "https://www.z2ent.com/events/detail/ocean-blue-2026-fox",
-    "ticket_link": "https://www.axs.com/events/1124125/?skin=foxtheatre",
-    "tags": [
-      "music",
-      "concert"
-    ],
-    "description": null
-  },
-  {
     "title": "Say She She with Katzù Oso",
     "venue": "Fox Theatre",
     "location": "Boulder",
@@ -649,6 +617,54 @@
     "image": "images/z2/neko-case-with-destroyer-0a062202.jpg",
     "url": "https://www.z2ent.com/events/detail/neko-case-2026-bt",
     "ticket_link": "https://www.axs.com/events/1253171/?skin=bouldertheater",
+    "tags": [
+      "music",
+      "concert"
+    ],
+    "description": null
+  },
+  {
+    "title": "Emmet Cohen presents: Miles and Coltrane at 100",
+    "venue": "Boulder Theater",
+    "location": "Boulder",
+    "date": "Mar 17, 2026",
+    "normalized_date": "2026-03-17",
+    "time": null,
+    "image": "images/z2/emmet-cohen-presents-miles-and-coltrane-at-100-08664a3c.jpg",
+    "url": "https://www.z2ent.com/events/detail/emmet-cohen-2026-bt",
+    "ticket_link": "https://www.axs.com/events/1123951/?skin=bouldertheater",
+    "tags": [
+      "music",
+      "concert"
+    ],
+    "description": null
+  },
+  {
+    "title": "An Evening with Matisyahu",
+    "venue": "Boulder Theater",
+    "location": "Boulder",
+    "date": "Mar 19, 2026",
+    "normalized_date": "2026-03-19",
+    "time": null,
+    "image": "images/z2/an-evening-with-matisyahu-82ca7c3c.jpg",
+    "url": "https://www.z2ent.com/events/detail/matisyahu-2026-bt",
+    "ticket_link": "https://www.axs.com/events/1255756/?skin=bouldertheater",
+    "tags": [
+      "music",
+      "concert"
+    ],
+    "description": null
+  },
+  {
+    "title": "An Evening with Shadowgrass",
+    "venue": "Fox Theatre",
+    "location": "Boulder",
+    "date": "Mar 20, 2026",
+    "normalized_date": "2026-03-20",
+    "time": null,
+    "image": "images/z2/an-evening-with-shadowgrass-21756c68.jpg",
+    "url": "https://www.z2ent.com/events/detail/shadowgrass-2026-fox",
+    "ticket_link": "https://www.axs.com/events/1195007/?skin=foxtheatre",
     "tags": [
       "music",
       "concert"
