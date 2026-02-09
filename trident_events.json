@@ -2090,48 +2090,5 @@
       "Bookstore",
       "Music Venue"
     ]
-  },
-  {
-    "title": "Variety Show: And Now Featuring...",
-    "link": "https://www.tridentcafe.com/events/2025/12/18/variety-show-and-now-featuring",
-    "date": "December 18, 2026",
-    "time": "6:00 PM",
-    "venue": "Trident Booksellers & Cafe",
-    "location": "Boulder",
-    "category": "Books & Literary",
-    "source_url": "https://www.tridentcafe.com/events",
-    "image": "trident.jpg",
-    "event_type_tags": [
-      "Live Music",
-      "Books",
-      "Community"
-    ],
-    "venue_type_tags": [
-      "Cafe",
-      "Bookstore",
-      "Music Venue"
-    ]
-  },
-  {
-    "title": "Creatives For Palestine: Featuring Diva Cup/ Nionea/ Calamity Fever",
-    "link": "https://www.tridentcafe.com/events/2025/12/17/creatives-for-palestine-featuring-diva-cup-nionea-calamity-fever",
-    "date": "December 17, 2026",
-    "time": "4:30 PM",
-    "description": "\"Through the efforts of local organizing groups, Students for Justice in Palestine and Earth Angels Act - as well as creatives from the Denver/Boulder area - presentCreatives for Palestine: A Benefit Show. This concert and art event will raise money for families in Gaza and build\u00a0solidarity within o...",
-    "venue": "Trident Booksellers & Cafe",
-    "location": "Boulder",
-    "category": "Books & Literary",
-    "source_url": "https://www.tridentcafe.com/events",
-    "image": "trident.jpg",
-    "event_type_tags": [
-      "Live Music",
-      "Books",
-      "Community"
-    ],
-    "venue_type_tags": [
-      "Cafe",
-      "Bookstore",
-      "Music Venue"
-    ]
   }
 ]
