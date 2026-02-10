@@ -1,21 +1,5 @@
 [
   {
-    "title": "Say She She with Katzù Oso",
-    "venue": "Fox Theatre",
-    "location": "Boulder",
-    "date": "Feb 9, 2026",
-    "normalized_date": "2026-02-09",
-    "time": null,
-    "image": "images/z2/say-she-she-with-katz-oso-56be1411.jpg",
-    "url": "https://www.z2ent.com/events/detail/say-she-she-2026-fox",
-    "ticket_link": "https://www.axs.com/events/1161885/?skin=foxtheatre",
-    "tags": [
-      "music",
-      "concert"
-    ],
-    "description": null
-  },
-  {
     "title": "The Revivalists",
     "venue": "Boulder Theater",
     "location": "Boulder",
@@ -665,6 +649,22 @@
     "image": "images/z2/an-evening-with-shadowgrass-21756c68.jpg",
     "url": "https://www.z2ent.com/events/detail/shadowgrass-2026-fox",
     "ticket_link": "https://www.axs.com/events/1195007/?skin=foxtheatre",
+    "tags": [
+      "music",
+      "concert"
+    ],
+    "description": null
+  },
+  {
+    "title": "Nick Lowe (solo) with The Cactus Blossoms (acoustic duo)",
+    "venue": "Boulder Theater",
+    "location": "Boulder",
+    "date": "Mar 20, 2026",
+    "normalized_date": "2026-03-20",
+    "time": null,
+    "image": "images/z2/nick-lowe-solo-with-the-cactus-blossoms-acoustic-d-c90aae32.jpg",
+    "url": "https://www.z2ent.com/events/detail/nick-lowe-2026-bt",
+    "ticket_link": "https://www.axs.com/events/1215505/?skin=bouldertheater",
     "tags": [
       "music",
       "concert"

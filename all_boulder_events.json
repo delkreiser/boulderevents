@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T08:57:13.795067",
-  "total_events": 317,
+  "generated_at": "2026-02-10T08:57:05.493725",
+  "total_events": 315,
   "tags": {
     "venues": [
       "Bands on the Bricks",
@@ -369,35 +369,6 @@
       ]
     },
     {
-      "id": "junkyard_social_club_making_better_friends_a_salon_for_deepening_your_relationships_monday_february_9_2026_5_00_pm_doors_5_30_start_8_00_end",
-      "title": "Making Better Friends: A Salon for Deepening Your Relationships",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Monday, February 9, 2026",
-      "normalized_date": "2026-02-09T00:00:00",
-      "recurring": null,
-      "time": "5:00 PM Doors | 5:30 Start | 8:00 End",
-      "description": "",
-      "additional_info": "Must be age 18+",
-      "link": "https://junkyardsocialclub.org/event/making-better-friends/",
-      "ticket_link": null,
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2026/01/making-better-friends-salon-Raman-Chadha-768x768.jpeg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Educational",
-        "Community"
-      ]
-    },
-    {
       "id": "junkyard_social_club_drop_in_mahjongg_tuesdays_tuesday_february_10_2026_12_00_2_00_pm",
       "title": "Drop-In Mahjongg \u2013 Tuesdays",
       "venue": "Junkyard Social Club",
@@ -422,8 +393,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
-        "Community"
+        "Community",
+        "Games"
       ]
     },
     {
@@ -451,9 +422,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
         "Educational",
-        "Community"
+        "Community",
+        "Games"
       ]
     },
     {
@@ -537,10 +508,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
+        "Family Friendly",
         "Community",
-        "All Ages",
-        "Family Friendly"
+        "Games",
+        "All Ages"
       ]
     },
     {
@@ -568,8 +539,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Music"
+        "Music",
+        "Community"
       ]
     },
     {
@@ -597,8 +568,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
-        "Community"
+        "Community",
+        "Games"
       ]
     },
     {
@@ -626,11 +597,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "All Ages",
+        "Community",
         "Music",
         "Family Friendly",
-        "Community"
+        "All Ages",
+        "Performance"
       ]
     },
     {
@@ -658,9 +629,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
+        "Music",
         "Community",
-        "Music"
+        "Performance"
       ]
     },
     {
@@ -717,9 +688,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Family Friendly",
         "Music",
+        "Family Friendly",
+        "Community",
         "All Ages"
       ]
     },
@@ -805,9 +776,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
+        "Music",
         "Community",
-        "Music"
+        "Performance"
       ]
     },
     {
@@ -835,8 +806,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -864,9 +835,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Music",
         "Educational",
-        "Community",
-        "Music"
+        "Community"
       ]
     },
     {
@@ -894,10 +865,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
+        "Music",
         "Community",
         "All Ages",
-        "Music"
+        "Performance"
       ]
     },
     {
@@ -925,8 +896,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Music"
+        "Music",
+        "Community"
       ]
     },
     {
@@ -954,8 +925,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Music"
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -4193,36 +4164,6 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_jackson_cloud_december_19_2026_6_00_pm",
-      "title": "Jackson Cloud",
-      "venue": "Trident Booksellers & Cafe",
-      "location": "Boulder",
-      "date": "December 19, 2026",
-      "normalized_date": "2026-12-19T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM",
-      "description": "Jackson Cloud is a new alternative artist out of Boulder Colorado. His newest releases \"Twisted Faces\" (album) \"I Love You Sometimes\" and \"Let On\" (singles) are produced entirely by Cloud. \"Twisted Faces\" offer's a wide range of genres from synth heavy electronic tracks, melancholic melodies with to...",
-      "additional_info": "",
-      "link": "https://www.tridentcafe.com/events/2025/12/19/jackson-cloud",
-      "ticket_link": null,
-      "image": "trident.jpg",
-      "source_url": "https://www.tridentcafe.com/events",
-      "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Books",
-        "Community"
-      ]
-    },
-    {
       "id": "license_no_1_live_music_with_george_nelson_wednesday_february_11_2026_8_00_pm_11_59_pm",
       "title": "Live Music With George Nelson",
       "venue": "License No 1",
@@ -6556,17 +6497,17 @@
       ]
     },
     {
-      "id": "roots_music_project_stephen_kellogg_and_the_homecoming_w_special_guest_gutter_sinatra_night_1_february_13_2026_8_00_pm_10_30_pm",
-      "title": "Stephen Kellogg and The Homecoming w/special guest gutter sinatra (Night 1)",
+      "id": "roots_music_project_stephen_kellogg_and_the_valentines_homecoming_w_gutter_sinatra_night_1_february_13_2026_8_00_pm_10_30_pm",
+      "title": "Stephen Kellogg and The Valentines Homecoming w/gutter sinatra (Night 1)",
       "venue": "Roots Music Project",
       "location": "Boulder",
       "date": "February 13, 2026",
       "normalized_date": "2026-02-13T00:00:00",
       "recurring": null,
       "time": "8:00 PM - 10:30 PM",
-      "description": "\"Two incredible songwriters bring nostalgia & heart to the stage. An unforgettable evening of soulful music & storytelling awaits!\"",
+      "description": "Two incredible songwriters bring nostalgia & heart to the stage. An unforgettable evening of soulful music & storytelling awaits!",
       "additional_info": "",
-      "link": "https://www.eventbrite.com/e/stephen-kellogg-and-the-homecoming-wspecial-guest-gutter-sinatra-night-1-tickets-1730968386039",
+      "link": "https://www.eventbrite.com/e/stephen-kellogg-and-the-valentines-homecoming-wgutter-sinatra-night-1-tickets-1730968386039",
       "ticket_link": null,
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1131586293%2F1125606624043%2F1%2Foriginal.20250922-165943?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=33c5584bf97d4f0210d1d5b5c78c5405",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
@@ -6582,17 +6523,17 @@
       ]
     },
     {
-      "id": "roots_music_project_stephen_kellogg_and_the_homecoming_w_special_guest_gutter_sinatra_night_2_february_14_2026_8_00_pm_10_30_pm",
-      "title": "Stephen Kellogg and The Homecoming w/special guest gutter sinatra (Night 2)",
+      "id": "roots_music_project_stephen_kellogg_and_the_valentines_homecoming_w_gutter_sinatra_night_2_february_14_2026_8_00_pm_10_30_pm",
+      "title": "Stephen Kellogg and The Valentines Homecoming w/gutter sinatra (Night 2)",
       "venue": "Roots Music Project",
       "location": "Boulder",
       "date": "February 14, 2026",
       "normalized_date": "2026-02-14T00:00:00",
       "recurring": null,
       "time": "8:00 PM - 10:30 PM",
-      "description": "\"Two incredible songwriters bring nostalgia & heart to the stage. An unforgettable evening of soulful music & storytelling awaits!\"",
+      "description": "Two incredible songwritrs bring nostalgia & heart to the stage. An unforgettable evening of soulful music & storytelling awaits!",
       "additional_info": "",
-      "link": "https://www.eventbrite.com/e/stephen-kellogg-and-the-homecoming-wspecial-guest-gutter-sinatra-night-2-tickets-1730981384919",
+      "link": "https://www.eventbrite.com/e/stephen-kellogg-and-the-valentines-homecoming-wgutter-sinatra-night-2-tickets-1730981384919",
       "ticket_link": null,
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1131586293%2F1125606624043%2F1%2Foriginal.20250922-165943?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=33c5584bf97d4f0210d1d5b5c78c5405",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
@@ -8084,31 +8025,6 @@
       ]
     },
     {
-      "id": "fox_theatre_say_she_she_with_katz_oso_feb_9_2026_none",
-      "title": "Say She She with Katz\u00f9 Oso",
-      "venue": "Fox Theatre",
-      "location": "Boulder",
-      "date": "Feb 9, 2026",
-      "normalized_date": "2026-02-09",
-      "recurring": null,
-      "time": null,
-      "description": null,
-      "additional_info": "",
-      "link": "https://www.z2ent.com/events/detail/say-she-she-2026-fox",
-      "ticket_link": "https://www.axs.com/events/1161885/?skin=foxtheatre",
-      "image": "images/z2/say-she-she-with-katz-oso-56be1411.jpg",
-      "source_url": null,
-      "age_restriction": null,
-      "venue_tag": "Fox Theatre",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Concert",
-        "Theater"
-      ],
-      "event_type_tags": []
-    },
-    {
       "id": "boulder_theater_the_revivalists_feb_10_2026_none",
       "title": "The Revivalists",
       "venue": "Boulder Theater",
@@ -9125,6 +9041,31 @@
       "source_url": null,
       "age_restriction": null,
       "venue_tag": "Fox Theatre",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "boulder_theater_nick_lowe_solo_with_the_cactus_blossoms_acoustic_duo_mar_20_2026_none",
+      "title": "Nick Lowe (solo) with The Cactus Blossoms (acoustic duo)",
+      "venue": "Boulder Theater",
+      "location": "Boulder",
+      "date": "Mar 20, 2026",
+      "normalized_date": "2026-03-20",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": "https://www.z2ent.com/events/detail/nick-lowe-2026-bt",
+      "ticket_link": "https://www.axs.com/events/1215505/?skin=bouldertheater",
+      "image": "images/z2/nick-lowe-solo-with-the-cactus-blossoms-acoustic-d-c90aae32.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Boulder Theater",
       "location_tag": "Boulder",
       "venue_type_tags": [
         "Live Music",

@@ -2068,27 +2068,5 @@
       "Bookstore",
       "Music Venue"
     ]
-  },
-  {
-    "title": "Jackson Cloud",
-    "link": "https://www.tridentcafe.com/events/2025/12/19/jackson-cloud",
-    "date": "December 19, 2026",
-    "time": "6:00 PM",
-    "description": "Jackson Cloud is a new alternative artist out of Boulder Colorado. His newest releases \"Twisted Faces\" (album) \"I Love You Sometimes\" and \"Let On\" (singles) are produced entirely by Cloud. \"Twisted Faces\" offer's a wide range of genres from synth heavy electronic tracks, melancholic melodies with to...",
-    "venue": "Trident Booksellers & Cafe",
-    "location": "Boulder",
-    "category": "Books & Literary",
-    "source_url": "https://www.tridentcafe.com/events",
-    "image": "trident.jpg",
-    "event_type_tags": [
-      "Live Music",
-      "Books",
-      "Community"
-    ],
-    "venue_type_tags": [
-      "Cafe",
-      "Bookstore",
-      "Music Venue"
-    ]
   }
 ]
