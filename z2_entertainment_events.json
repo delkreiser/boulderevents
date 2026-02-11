@@ -1,21 +1,5 @@
 [
   {
-    "title": "The Revivalists",
-    "venue": "Boulder Theater",
-    "location": "Boulder",
-    "date": "Feb 10, 2026",
-    "normalized_date": "2026-02-10",
-    "time": null,
-    "image": "images/z2/the-revivalists-d82a4d76.jpg",
-    "url": "https://www.z2ent.com/events/detail/revivalists-2026-bt",
-    "ticket_link": "https://www.axs.com/events/1228319/?skin=bouldertheater",
-    "tags": [
-      "music",
-      "concert"
-    ],
-    "description": null
-  },
-  {
     "title": "Grand Kyiv Ballet presents Swan Lake",
     "venue": "Boulder Theater",
     "location": "Boulder",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-10T20:11:23.757169",
-  "total_events": 315,
+  "generated_at": "2026-02-11T08:53:01.814052",
+  "total_events": 310,
   "tags": {
     "venues": [
       "Bands on the Bricks",
@@ -78,35 +78,6 @@
     ]
   },
   "events": [
-    {
-      "id": "velvet_elk_lounge_the_revivalists_pre_show_happy_hour_february_10_2026",
-      "title": "The Revivalists Pre-Show Happy Hour",
-      "venue": "Velvet Elk Lounge",
-      "location": "Boulder",
-      "date": "February 10, 2026",
-      "normalized_date": "2026-02-10T00:00:00",
-      "recurring": null,
-      "time": null,
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.velvetelklounge.com/event/the-revivalists-pre-show-happy-hour/",
-      "ticket_link": null,
-      "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/55875JamForGood_BoulderHappyHourv05_v3-IGS.png?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
-      "source_url": "https://www.velvetelklounge.com/events/",
-      "age_restriction": null,
-      "venue_tag": "Velvet Elk Lounge",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Music",
-        "Live Music",
-        "Bar",
-        "Nightlife"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Nightlife"
-      ]
-    },
     {
       "id": "velvet_elk_lounge_rolling_harvest_february_13_2026",
       "title": "Rolling Harvest",
@@ -369,62 +340,32 @@
       ]
     },
     {
-      "id": "junkyard_social_club_drop_in_mahjongg_tuesdays_tuesday_february_10_2026_12_00_2_00_pm",
-      "title": "Drop-In Mahjongg \u2013 Tuesdays",
-      "venue": "Junkyard Social Club",
+      "id": "velvet_elk_lounge_victor_jones_the_construct_tour_2026_march_23_2026",
+      "title": "Victor Jones: The Construct Tour 2026",
+      "venue": "Velvet Elk Lounge",
       "location": "Boulder",
-      "date": "Tuesday, February 10, 2026",
-      "normalized_date": "2026-02-10T00:00:00",
+      "date": "March 23, 2026",
+      "normalized_date": "2026-03-23T00:00:00",
       "recurring": null,
-      "time": "12:00 - 2:00 PM",
+      "time": null,
       "description": "",
       "additional_info": "",
-      "link": "https://junkyardsocialclub.org/drop-in-event/drop-in-mahjongg-tuesdays/",
+      "link": "https://www.velvetelklounge.com/event/march-23rd-victor-jones-the-construct-tour-2026/",
       "ticket_link": null,
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/08/Drop-In-MahJongg-Tuesday.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
+      "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/77473Victor_Jones_2.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+      "source_url": "https://www.velvetelklounge.com/events/",
       "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
+      "venue_tag": "Velvet Elk Lounge",
       "location_tag": "Boulder",
       "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
+        "Music",
+        "Live Music",
+        "Bar",
+        "Nightlife"
       ],
       "event_type_tags": [
-        "Community",
-        "Games"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_osmp_after_dark_a_valentine_s_day_trivia_event_tuesday_february_10_2026_6_00_8_00_pm",
-      "title": "OSMP After Dark: A Valentine\u2019s Day Trivia Event",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Tuesday, February 10, 2026",
-      "normalized_date": "2026-02-10T00:00:00",
-      "recurring": null,
-      "time": "6:00 - 8:00 PM",
-      "description": "",
-      "additional_info": "Must be age 18+",
-      "link": "https://junkyardsocialclub.org/drop-in-event/osmp-after-dark/",
-      "ticket_link": null,
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/12/OSMP-After-Dark-Flyer-768x993.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Community",
-        "Games",
-        "Educational"
+        "Live Music",
+        "Nightlife"
       ]
     },
     {
@@ -508,10 +449,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Family Friendly",
-        "Games",
-        "All Ages"
+        "Community",
+        "All Ages",
+        "Games"
       ]
     },
     {
@@ -568,8 +509,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Games"
+        "Games",
+        "Community"
       ]
     },
     {
@@ -597,10 +538,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
-        "Performance",
         "Music",
         "All Ages",
+        "Family Friendly",
+        "Performance",
         "Community"
       ]
     },
@@ -688,8 +629,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Family Friendly",
+        "Community",
         "Music",
         "All Ages"
       ]
@@ -867,8 +808,8 @@
       "event_type_tags": [
         "Performance",
         "Community",
-        "All Ages",
-        "Music"
+        "Music",
+        "All Ages"
       ]
     },
     {
@@ -1311,36 +1252,6 @@
       "event_type_tags": [
         "Entertainment",
         "Hotel Events"
-      ]
-    },
-    {
-      "id": "trident_booksellers_cafe_trident_author_series_amanda_mccracken_february_10_2026_6_30_pm",
-      "title": "Trident Author Series: Amanda McCracken",
-      "venue": "Trident Booksellers & Cafe",
-      "location": "Boulder",
-      "date": "February 10, 2026",
-      "normalized_date": "2026-02-10T00:00:00",
-      "recurring": null,
-      "time": "6:30 PM",
-      "description": "Author of the popular\u00a0New York Times\u00a0articles \"Is It a Crush or Have You Fallen Into Limerence?\" and \"Does My Virginity Have a Shelf Life?\" Amanda McCracken shares her honest, funny, and at times heartbreaking story of learning how to seek true love and intimacy.Journalist and late-in-life virgin Am...",
-      "additional_info": "",
-      "link": "https://www.tridentcafe.com/events/2026/2/10/trident-author-series-amanda-jane-mccracken",
-      "ticket_link": null,
-      "image": "trident.jpg",
-      "source_url": "https://www.tridentcafe.com/events",
-      "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Books",
-        "Community"
       ]
     },
     {
@@ -3534,6 +3445,36 @@
       ]
     },
     {
+      "id": "trident_booksellers_cafe_trident_author_series_amanda_mccracken_february_10_2027_6_30_pm",
+      "title": "Trident Author Series: Amanda McCracken",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "February 10, 2027",
+      "normalized_date": "2027-02-10T00:00:00",
+      "recurring": null,
+      "time": "6:30 PM",
+      "description": "Author of the popular\u00a0New York Times\u00a0articles \"Is It a Crush or Have You Fallen Into Limerence?\" and \"Does My Virginity Have a Shelf Life?\" Amanda McCracken shares her honest, funny, and at times heartbreaking story of learning how to seek true love and intimacy.Journalist and late-in-life virgin Am...",
+      "additional_info": "",
+      "link": "https://www.tridentcafe.com/events/2026/2/10/trident-author-series-amanda-jane-mccracken",
+      "ticket_link": null,
+      "image": "trident.jpg",
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Books",
+        "Community"
+      ]
+    },
+    {
       "id": "trident_booksellers_cafe_language_exchange_night_february_27_2026_7_00_pm",
       "title": "Language Exchange Night",
       "venue": "Trident Booksellers & Cafe",
@@ -4085,66 +4026,6 @@
       "description": "Free!Every Monday evening, 7-9p.m.All languages welcome. Facilitated by Kelvin Tavarez.",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-s7a5x-brgdj",
-      "ticket_link": null,
-      "image": "trident.jpg",
-      "source_url": "https://www.tridentcafe.com/events",
-      "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Books",
-        "Community"
-      ]
-    },
-    {
-      "id": "trident_booksellers_cafe_language_exchange_night_december_22_2026_7_00_pm",
-      "title": "Language Exchange Night",
-      "venue": "Trident Booksellers & Cafe",
-      "location": "Boulder",
-      "date": "December 22, 2026",
-      "normalized_date": "2026-12-22T00:00:00",
-      "recurring": null,
-      "time": "7:00 PM",
-      "description": "Free!Every Monday evening, 7-9p.m.All languages welcome. Facilitated by Kelvin Tavarez.",
-      "additional_info": "",
-      "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-s7a5x-sfh87",
-      "ticket_link": null,
-      "image": "trident.jpg",
-      "source_url": "https://www.tridentcafe.com/events",
-      "age_restriction": null,
-      "venue_tag": "Trident Booksellers & Cafe",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Books",
-        "Literary",
-        "Cafe",
-        "Arts"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Books",
-        "Community"
-      ]
-    },
-    {
-      "id": "trident_booksellers_cafe_light_technics_friends_ambient_electronic_improv_december_20_2026_6_00_pm",
-      "title": "Light Technics & Friends (Ambient & Electronic Improv)",
-      "venue": "Trident Booksellers & Cafe",
-      "location": "Boulder",
-      "date": "December 20, 2026",
-      "normalized_date": "2026-12-20T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM",
-      "description": "Light Technics is the experimental alias and project of Ted Stevens. He will be playing some tunes from his upcoming album as well as improvisations. Joining him will be his bandmates; Protorhythm (Will Tyson) doing an improv analog techno set, and WEIRDer (Ryan Schlichtman) doing something of a sim...",
-      "additional_info": "",
-      "link": "https://www.tridentcafe.com/events/2025/12/17/light-technics-amp-friends-ambient-amp-electronic-improv",
       "ticket_link": null,
       "image": "trident.jpg",
       "source_url": "https://www.tridentcafe.com/events",
@@ -5565,12 +5446,12 @@
       ]
     },
     {
-      "id": "rosetta_hall_rodrigo_arreguin_february_10_2026_6_00_pm",
+      "id": "rosetta_hall_rodrigo_arreguin_february_10_2027_6_00_pm",
       "title": "RODRIGO ARREGUIN",
       "venue": "Rosetta Hall",
       "location": "Boulder",
-      "date": "February 10, 2026",
-      "normalized_date": "2026-02-10T00:00:00",
+      "date": "February 10, 2027",
+      "normalized_date": "2027-02-10T00:00:00",
       "recurring": null,
       "time": "6:00 PM",
       "description": "ACOUSTIC GUITAR",
@@ -6077,35 +5958,6 @@
       ]
     },
     {
-      "id": "bricks_on_main_open_mic_night_february_10_2026_5_30_pm_8_30_pm",
-      "title": "Open Mic Night",
-      "venue": "Bricks on Main",
-      "location": "Longmont",
-      "date": "February 10, 2026",
-      "normalized_date": "2026-02-10T00:00:00",
-      "recurring": null,
-      "time": "5:30 PM - 8:30 PM",
-      "description": "Music open mic, sign up at 5:30, about 15 minute time slots, often runs till 8:30 or a little later but general timeline is 6-8. Come down and eat dinner and have drinks and enjoy the music community here!",
-      "additional_info": "",
-      "link": "https://www.bricksretail.com/event-details/open-mic-night-2026-02-10-17-30",
-      "ticket_link": null,
-      "image": "https://static.wixstatic.com/media/f119ff_930ac49a2c5d4e0aa220b93515ba6ee3~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/f119ff_930ac49a2c5d4e0aa220b93515ba6ee3~mv2.jpg",
-      "source_url": "https://www.bricksretail.com/events-calendar",
-      "age_restriction": null,
-      "venue_tag": "Bricks on Main",
-      "location_tag": "Longmont",
-      "venue_type_tags": [
-        "Community",
-        "Retail",
-        "Entertainment"
-      ],
-      "event_type_tags": [
-        "Open Mic",
-        "Music",
-        "Community"
-      ]
-    },
-    {
       "id": "bricks_on_main_karaoke_night_february_11_2026_6_00_pm_8_00_pm",
       "title": "Karaoke Night",
       "venue": "Bricks on Main",
@@ -6356,6 +6208,35 @@
       "event_type_tags": [
         "Jazz",
         "Live Music"
+      ]
+    },
+    {
+      "id": "bricks_on_main_open_mic_night_february_24_2026_5_30_pm_8_30_pm",
+      "title": "Open Mic Night",
+      "venue": "Bricks on Main",
+      "location": "Longmont",
+      "date": "February 24, 2026",
+      "normalized_date": "2026-02-24T00:00:00",
+      "recurring": null,
+      "time": "5:30 PM - 8:30 PM",
+      "description": "Music open mic, sign up at 5:30, about 15 minute time slots, often runs till 8:30 or a little later but general timeline is 6-8. Come down and eat dinner and have drinks and enjoy the music community here!",
+      "additional_info": "",
+      "link": "https://www.bricksretail.com/event-details/open-mic-night-2026-02-24-17-30",
+      "ticket_link": null,
+      "image": "https://static.wixstatic.com/media/f119ff_930ac49a2c5d4e0aa220b93515ba6ee3~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/f119ff_930ac49a2c5d4e0aa220b93515ba6ee3~mv2.jpg",
+      "source_url": "https://www.bricksretail.com/events-calendar",
+      "age_restriction": null,
+      "venue_tag": "Bricks on Main",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Community",
+        "Retail",
+        "Entertainment"
+      ],
+      "event_type_tags": [
+        "Open Mic",
+        "Music",
+        "Community"
       ]
     },
     {
@@ -8023,31 +7904,6 @@
         "All Ages",
         "Free"
       ]
-    },
-    {
-      "id": "boulder_theater_the_revivalists_feb_10_2026_none",
-      "title": "The Revivalists",
-      "venue": "Boulder Theater",
-      "location": "Boulder",
-      "date": "Feb 10, 2026",
-      "normalized_date": "2026-02-10",
-      "recurring": null,
-      "time": null,
-      "description": null,
-      "additional_info": "",
-      "link": "https://www.z2ent.com/events/detail/revivalists-2026-bt",
-      "ticket_link": "https://www.axs.com/events/1228319/?skin=bouldertheater",
-      "image": "images/z2/the-revivalists-d82a4d76.jpg",
-      "source_url": null,
-      "age_restriction": null,
-      "venue_tag": "Boulder Theater",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Concert",
-        "Theater"
-      ],
-      "event_type_tags": []
     },
     {
       "id": "boulder_theater_grand_kyiv_ballet_presents_swan_lake_feb_11_2026_none",
