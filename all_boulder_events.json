@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T04:11:42.888571",
-  "total_events": 335,
+  "generated_at": "2026-02-12T08:47:38.018061",
+  "total_events": 331,
   "tags": {
     "venues": [
       "Bands on the Bricks",
@@ -372,62 +372,6 @@
       ]
     },
     {
-      "id": "junkyard_social_club_b_e_a_t_meet_up_wednesday_february_11_2026_6_00_7_00_pm",
-      "title": "B.E.A.T. Meet-Up",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Wednesday, February 11, 2026",
-      "normalized_date": "2026-02-11T00:00:00",
-      "recurring": null,
-      "time": "6:00 - 7:00 PM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://junkyardsocialclub.org/drop-in-event/b-e-a-t-meet-up/",
-      "ticket_link": null,
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/06/BEAT-768x768.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Community"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_boulder_burner_meet_up_wednesday_february_11_2026_6_30_8_30_pm",
-      "title": "Boulder Burner Meet-up",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Wednesday, February 11, 2026",
-      "normalized_date": "2026-02-11T00:00:00",
-      "recurring": null,
-      "time": "6:30 - 8:30 PM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://junkyardsocialclub.org/drop-in-event/burner/",
-      "ticket_link": null,
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/07/Burner-768x434.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Community"
-      ]
-    },
-    {
       "id": "junkyard_social_club_junkyard_game_night_thursday_february_12_2026_6_00_9_00_pm",
       "title": "Junkyard Game Night",
       "venue": "Junkyard Social Club",
@@ -452,10 +396,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "All Ages",
         "Family Friendly",
-        "Games"
+        "Community",
+        "Games",
+        "All Ages"
       ]
     },
     {
@@ -541,10 +485,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Family Friendly",
         "Performance",
         "Community",
+        "Music",
         "All Ages"
       ]
     },
@@ -573,9 +517,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Performance",
         "Community",
-        "Music",
-        "Performance"
+        "Music"
       ]
     },
     {
@@ -603,8 +547,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Educational"
+        "Educational",
+        "Community"
       ]
     },
     {
@@ -632,9 +576,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Family Friendly",
         "Community",
         "Music",
-        "Family Friendly",
         "All Ages"
       ]
     },
@@ -720,9 +664,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Performance",
         "Community",
-        "Music",
-        "Performance"
+        "Music"
       ]
     },
     {
@@ -750,8 +694,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Performance"
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -779,9 +723,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Educational",
         "Community",
-        "Music",
-        "Educational"
+        "Music"
       ]
     },
     {
@@ -809,9 +753,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Performance",
         "Community",
         "Music",
-        "Performance",
         "All Ages"
       ]
     },
@@ -869,8 +813,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "Performance"
+        "Performance",
+        "Music"
       ]
     },
     {
@@ -1258,12 +1202,12 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_corsicana_mantisgrove_february_11_2026_6_00_pm",
+      "id": "trident_booksellers_cafe_corsicana_mantisgrove_february_11_2027_6_00_pm",
       "title": "Corsicana / Mantisgrove",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
-      "date": "February 11, 2026",
-      "normalized_date": "2026-02-11T00:00:00",
+      "date": "February 11, 2027",
+      "normalized_date": "2027-02-11T00:00:00",
       "recurring": null,
       "time": "6:00 PM",
       "description": "\"Corsicana\u2019s songs are soaring and magnetic. Bird bones aren\u2019t actually hollow, they are interwoven with pockets for air to flow through as an extension of the lungs. Language in Ben\u2019s music are those pockets of breath carrying us higher and higher, allowing us to take flight. And in the glide, ther...",
@@ -4045,34 +3989,6 @@
         "Live Music",
         "Books",
         "Community"
-      ]
-    },
-    {
-      "id": "license_no_1_live_music_with_george_nelson_wednesday_february_11_2026_8_00_pm_11_59_pm",
-      "title": "Live Music With George Nelson",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": "Wednesday, February 11, 2026",
-      "normalized_date": "2026-02-11T00:00:00",
-      "recurring": null,
-      "time": "8:00\u202fPM - 11:59\u202fPM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.license1boulderado.com/calendar/live-music-with-george-nelson",
-      "ticket_link": null,
-      "image": "licenseno1.jpg",
-      "source_url": "https://www.license1boulderado.com/calendar",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Nightlife"
       ]
     },
     {
@@ -7935,31 +7851,6 @@
         "All Ages",
         "Free"
       ]
-    },
-    {
-      "id": "boulder_theater_grand_kyiv_ballet_presents_swan_lake_feb_11_2026_none",
-      "title": "Grand Kyiv Ballet presents Swan Lake",
-      "venue": "Boulder Theater",
-      "location": "Boulder",
-      "date": "Feb 11, 2026",
-      "normalized_date": "2026-02-11",
-      "recurring": null,
-      "time": null,
-      "description": null,
-      "additional_info": "",
-      "link": "https://www.z2ent.com/events/detail/swan-lake-2026-bt",
-      "ticket_link": "https://www.axs.com/events/1286633/?skin=bouldertheater",
-      "image": "images/z2/grand-kyiv-ballet-presents-swan-lake-1b8c42a6.jpg",
-      "source_url": null,
-      "age_restriction": null,
-      "venue_tag": "Boulder Theater",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Concert",
-        "Theater"
-      ],
-      "event_type_tags": []
     },
     {
       "id": "fox_theatre_the_galentines_with_squash_desiderata_feb_12_2026_none",
