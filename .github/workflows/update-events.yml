@@ -47,7 +47,7 @@ jobs:
     
     - name: Install dependencies
       run: |
-        pip install playwright beautifulsoup4 requests pytz selenium
+        pip install playwright beautifulsoup4 requests pytz selenium brotli
         playwright install chromium
         playwright install-deps chromium
     
