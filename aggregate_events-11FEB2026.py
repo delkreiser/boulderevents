@@ -99,11 +99,6 @@ class EventAggregator:
                 'tags': ['Live Music', 'Concert', 'Theater'],
                 'scraper_output': 'z2_entertainment_events.json'
             },
-            'eTown Hall': {
-                'location': 'Boulder',
-                'tags': ['Live Music', 'Concert', 'Radio Show', 'Intimate Venue'],
-                'scraper_output': 'etown_events.json'
-            },
         }
     
     def load_events_from_file(self, filepath):
