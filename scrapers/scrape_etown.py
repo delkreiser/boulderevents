@@ -47,39 +47,23 @@ def scrape_page(page_num=1):
         # Get HTML content - requests should auto-handle decompression
         html_content = response.text
         
-        # Check if it's actually HTML
+        # Check if it's actually HTML (Brotli decompression check)
         if '<' not in html_content[:200]:
             try:
                 import brotli
                 html_content = brotli.decompress(response.content).decode('utf-8')
+                print(f"  Manually decompressed with Brotli")
             except ImportError:
+                print(f"  Warning: Brotli not installed")
             except Exception as e:
-        else:
-        
-        if page_num == 1:
-            try:
-                    f.write(html_content)
-            except Exception as e:
+                print(f"  Warning: Brotli decompress failed: {e}")
         
         soup = BeautifulSoup(html_content, 'html.parser')
         
         # Find all event items (they use class "event-wrapper")
         event_items = soup.find_all('div', class_='event-wrapper')
         
-        
         if not event_items:
-            # Check if the content is there at all
-            if "eTown Presents" in html_content:
-            else:
-                
-            if "event-wrapper" in html_content:
-            else:
-                
-            # Check response length
-            
-            # Show first 1000 chars
-            print(html_content[:1000])
-            
             print(f"  No events found on page {page_num}")
             return []
         
@@ -106,17 +90,13 @@ def parse_event(item):
             img_tag = image_div.find('img')
             if img_tag:
                 image_url = img_tag.get('src', '')
-        else:
         
         # Extract event data from event-data div
         event_data_div = item.find('div', class_='event-data')
         if not event_data_div:
             return None
-        else:
         
         # Extract title and URL
-        # The structure has an empty <a> before <h2>, and the real link inside <h2>
-        # Let's find the h2 first
         title_elem = event_data_div.find('h2')
         if not title_elem:
             return None
@@ -129,7 +109,7 @@ def parse_event(item):
             if not title_link or not title_link.get('href'):
                 return None
         
-        # Get title from h2 text (not from link, in case link is empty)
+        # Get title from h2 text
         title = title_elem.get_text(strip=True)
         url = title_link.get('href', '')
         
@@ -139,7 +119,6 @@ def parse_event(item):
         
         if not title:
             return None
-            
         
         # Extract date/time and other data from event-data-block divs
         data_blocks = event_data_div.find_all('div', class_='event-data-block')
@@ -158,11 +137,11 @@ def parse_event(item):
                 # Format: "February 14, 2026 - 7:00 pm - 9:30 pm"
                 parts = block_text.split(' - ')
                 if len(parts) >= 2:
-                    date_str = parts[0].strip()  # "February 14, 2026"
+                    date_str = parts[0].strip()
                     if len(parts) == 3:
-                        time_str = f"{parts[1].strip()} - {parts[2].strip()}"  # "7:00 pm - 9:30 pm"
+                        time_str = f"{parts[1].strip()} - {parts[2].strip()}"
                     else:
-                        time_str = parts[1].strip()  # Just start time
+                        time_str = parts[1].strip()
             
             # Check for venue (typically "eTOWN HALL")
             elif block_text.upper() == block_text and len(block_text) > 3:
@@ -181,21 +160,14 @@ def parse_event(item):
         normalized_date = None
         if date_str:
             try:
-                # Try parsing "February 14, 2026" format
                 parsed_date = datetime.strptime(date_str, "%B %d, %Y")
                 normalized_date = parsed_date.strftime("%Y-%m-%d")
             except ValueError:
                 try:
-                    # Try "Feb 14, 2026" format
                     parsed_date = datetime.strptime(date_str, "%b %d, %Y")
                     normalized_date = parsed_date.strftime("%Y-%m-%d")
                 except ValueError:
-                    try:
-                        # Try "March 05, 2026" format (with leading zero)
-                        parsed_date = datetime.strptime(date_str, "%B %d, %Y")
-                        normalized_date = parsed_date.strftime("%Y-%m-%d")
-                    except ValueError:
-                        print(f"  Could not parse date: {date_str}")
+                    print(f"  Could not parse date: {date_str}")
         
         event = {
             "title": title,
@@ -207,14 +179,14 @@ def parse_event(item):
             "image": image_url,
             "url": url,
             "categories": categories,
-            "tags": ["music", "live music", "concert"]  # eTown is primarily music venue
+            "tags": ["music", "live music", "concert"]
         }
         
         print(f"  ✓ Parsed: {title}")
         return event
         
     except Exception as e:
-        print(f"  ✗ Error parsing event: {e}")
+        print(f"  Error parsing event: {e}")
         return None
 
 def scrape_all_events():
@@ -259,7 +231,7 @@ def main():
         months = {}
         for event in events:
             if event.get('date'):
-                month = event['date'].split()[0]  # Get month name
+                month = event['date'].split()[0]
                 months[month] = months.get(month, 0) + 1
         
         if months:
