@@ -46,6 +46,12 @@ def scrape_page(page_num=1):
         
         soup = BeautifulSoup(response.text, 'html.parser')
         
+        # DEBUG: Save HTML to file to inspect
+        if page_num == 1:
+            with open('etown_debug.html', 'w', encoding='utf-8') as f:
+                f.write(response.text)
+            print(f"  DEBUG: Saved HTML to etown_debug.html for inspection")
+        
         # Find all event items (they use class "event-wrapper")
         event_items = soup.find_all('div', class_='event-wrapper')
         
@@ -54,12 +60,22 @@ def scrape_page(page_num=1):
         if not event_items:
             # Check if the content is there at all
             if "eTown Presents" in response.text:
-                print(f"  DEBUG: Content IS in HTML but wrapper not found")
-                print(f"  DEBUG: Trying to find any div with 'event' in class name...")
-                event_divs = soup.find_all('div', class_=lambda x: x and 'event' in x.lower())
-                print(f"  DEBUG: Found {len(event_divs)} divs with 'event' in class")
-                if event_divs:
-                    print(f"  DEBUG: First event div classes: {event_divs[0].get('class')}")
+                print(f"  DEBUG: ✓ 'eTown Presents' IS in HTML")
+            else:
+                print(f"  DEBUG: ✗ 'eTown Presents' NOT in HTML - site may be blocking")
+                
+            if "event-wrapper" in response.text:
+                print(f"  DEBUG: ✓ 'event-wrapper' text IS in HTML")
+            else:
+                print(f"  DEBUG: ✗ 'event-wrapper' text NOT in HTML")
+                
+            # Check response length
+            print(f"  DEBUG: HTML length: {len(response.text)} characters")
+            
+            # Show first 1000 chars
+            print(f"  DEBUG: First 1000 chars of HTML:")
+            print(response.text[:1000])
+            
             print(f"  No events found on page {page_num}")
             return []
         
