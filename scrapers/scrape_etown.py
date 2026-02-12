@@ -49,7 +49,17 @@ def scrape_page(page_num=1):
         # Find all event items (they use class "event-wrapper")
         event_items = soup.find_all('div', class_='event-wrapper')
         
+        print(f"  DEBUG: Found {len(event_items)} event-wrapper divs")
+        
         if not event_items:
+            # Check if the content is there at all
+            if "eTown Presents" in response.text:
+                print(f"  DEBUG: Content IS in HTML but wrapper not found")
+                print(f"  DEBUG: Trying to find any div with 'event' in class name...")
+                event_divs = soup.find_all('div', class_=lambda x: x and 'event' in x.lower())
+                print(f"  DEBUG: Found {len(event_divs)} divs with 'event' in class")
+                if event_divs:
+                    print(f"  DEBUG: First event div classes: {event_divs[0].get('class')}")
             print(f"  No events found on page {page_num}")
             return []
         
