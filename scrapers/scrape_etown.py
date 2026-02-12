@@ -141,18 +141,35 @@ def parse_event(item):
             print(f"    DEBUG: ✓ Found event-data div")
         
         # Extract title and URL
+        # The structure has an empty <a> before <h2>, and the real link inside <h2>
+        # Let's find the h2 first
         title_elem = event_data_div.find('h2')
         if not title_elem:
             print(f"    DEBUG: ✗ No h2 found - RETURNING None")
             return None
         
+        # Try to find link inside h2
         title_link = title_elem.find('a')
         if not title_link:
-            print(f"    DEBUG: ✗ No link in h2 - RETURNING None")
-            return None
+            # If no link in h2, try finding any link in event-data
+            print(f"    DEBUG: No link in h2, trying to find any link in event-data")
+            title_link = event_data_div.find('a', href=True)
+            if not title_link or not title_link.get('href'):
+                print(f"    DEBUG: ✗ No valid link found - RETURNING None")
+                return None
         
-        title = title_link.get_text(strip=True)
+        # Get title from h2 text (not from link, in case link is empty)
+        title = title_elem.get_text(strip=True)
         url = title_link.get('href', '')
+        
+        # Fallback: if title is empty, try getting from link
+        if not title and title_link:
+            title = title_link.get_text(strip=True)
+        
+        if not title:
+            print(f"    DEBUG: ✗ No title text found - RETURNING None")
+            return None
+            
         print(f"    DEBUG: ✓ Title: {title[:50]}")
         
         # Extract date/time and other data from event-data-block divs
