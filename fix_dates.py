@@ -73,6 +73,7 @@ def main():
         'velvet_elk_events.json',
         'junkyard_events.json',
         'mountain_sun_events.json',
+        'etown_events.json',
     ]
     
     for filename in files_to_fix:

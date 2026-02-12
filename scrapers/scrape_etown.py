@@ -41,65 +41,43 @@ def scrape_page(page_num=1):
     }
     
     try:
-        print(f"  DEBUG: Making request...")
         response = requests.get(url, headers=headers, timeout=10)
-        print(f"  DEBUG: Got response - Status: {response.status_code}")
-        print(f"  DEBUG: Content-Encoding: {response.headers.get('Content-Encoding', 'none')}")
-        print(f"  DEBUG: Content-Type: {response.headers.get('Content-Type', 'none')}")
         response.raise_for_status()
         
         # Get HTML content - requests should auto-handle decompression
         html_content = response.text
-        print(f"  DEBUG: HTML length: {len(html_content)}")
-        print(f"  DEBUG: First 100 chars (repr): {repr(html_content[:100])}")
         
         # Check if it's actually HTML
         if '<' not in html_content[:200]:
-            print(f"  DEBUG: ✗ Content doesn't look like HTML, trying Brotli decompression...")
             try:
                 import brotli
                 html_content = brotli.decompress(response.content).decode('utf-8')
-                print(f"  DEBUG: ✓ Manually decompressed with Brotli")
             except ImportError:
-                print(f"  DEBUG: ✗ Brotli not installed - pip install brotli")
             except Exception as e:
-                print(f"  DEBUG: ✗ Brotli decompress failed: {e}")
         else:
-            print(f"  DEBUG: ✓ Content appears to be HTML")
         
-        # DEBUG: Save HTML to file IMMEDIATELY
         if page_num == 1:
             try:
-                with open('etown_debug.html', 'w', encoding='utf-8') as f:
                     f.write(html_content)
-                print(f"  DEBUG: ✓ Saved HTML to etown_debug.html")
             except Exception as e:
-                print(f"  DEBUG: ✗ Failed to save HTML: {e}")
         
         soup = BeautifulSoup(html_content, 'html.parser')
         
         # Find all event items (they use class "event-wrapper")
         event_items = soup.find_all('div', class_='event-wrapper')
         
-        print(f"  DEBUG: Found {len(event_items)} event-wrapper divs")
         
         if not event_items:
             # Check if the content is there at all
             if "eTown Presents" in html_content:
-                print(f"  DEBUG: ✓ 'eTown Presents' IS in HTML")
             else:
-                print(f"  DEBUG: ✗ 'eTown Presents' NOT in HTML - site may be blocking")
                 
             if "event-wrapper" in html_content:
-                print(f"  DEBUG: ✓ 'event-wrapper' text IS in HTML")
             else:
-                print(f"  DEBUG: ✗ 'event-wrapper' text NOT in HTML")
                 
             # Check response length
-            print(f"  DEBUG: HTML length: {len(html_content)} characters")
             
             # Show first 1000 chars
-            print(f"  DEBUG: First 1000 chars of HTML:")
             print(html_content[:1000])
             
             print(f"  No events found on page {page_num}")
@@ -128,34 +106,27 @@ def parse_event(item):
             img_tag = image_div.find('img')
             if img_tag:
                 image_url = img_tag.get('src', '')
-                print(f"    DEBUG: Found image: {image_url[:50] if image_url else 'None'}")
         else:
-            print(f"    DEBUG: No event-image div found")
         
         # Extract event data from event-data div
         event_data_div = item.find('div', class_='event-data')
         if not event_data_div:
-            print(f"    DEBUG: ✗ No event-data div found - RETURNING None")
             return None
         else:
-            print(f"    DEBUG: ✓ Found event-data div")
         
         # Extract title and URL
         # The structure has an empty <a> before <h2>, and the real link inside <h2>
         # Let's find the h2 first
         title_elem = event_data_div.find('h2')
         if not title_elem:
-            print(f"    DEBUG: ✗ No h2 found - RETURNING None")
             return None
         
         # Try to find link inside h2
         title_link = title_elem.find('a')
         if not title_link:
             # If no link in h2, try finding any link in event-data
-            print(f"    DEBUG: No link in h2, trying to find any link in event-data")
             title_link = event_data_div.find('a', href=True)
             if not title_link or not title_link.get('href'):
-                print(f"    DEBUG: ✗ No valid link found - RETURNING None")
                 return None
         
         # Get title from h2 text (not from link, in case link is empty)
@@ -167,10 +138,8 @@ def parse_event(item):
             title = title_link.get_text(strip=True)
         
         if not title:
-            print(f"    DEBUG: ✗ No title text found - RETURNING None")
             return None
             
-        print(f"    DEBUG: ✓ Title: {title[:50]}")
         
         # Extract date/time and other data from event-data-block divs
         data_blocks = event_data_div.find_all('div', class_='event-data-block')
