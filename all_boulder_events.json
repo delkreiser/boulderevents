@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-12T03:04:37.113645",
+  "generated_at": "2026-02-12T03:15:23.391450",
   "total_events": 312,
   "tags": {
     "venues": [
@@ -450,9 +450,9 @@
       ],
       "event_type_tags": [
         "Family Friendly",
+        "Community",
         "Games",
-        "All Ages",
-        "Community"
+        "All Ages"
       ]
     },
     {
@@ -509,8 +509,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
-        "Community"
+        "Community",
+        "Games"
       ]
     },
     {
@@ -538,11 +538,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Family Friendly",
-        "Music",
+        "All Ages",
         "Community",
-        "All Ages"
+        "Performance",
+        "Music",
+        "Family Friendly"
       ]
     },
     {
@@ -600,8 +600,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Educational",
-        "Community"
+        "Community",
+        "Educational"
       ]
     },
     {
@@ -629,10 +629,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
         "Music",
-        "All Ages",
-        "Community"
+        "Family Friendly",
+        "Community",
+        "All Ages"
       ]
     },
     {
@@ -660,8 +660,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Community"
+        "Community",
+        "All Ages"
       ]
     },
     {
@@ -776,9 +776,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Educational",
         "Music",
-        "Community"
+        "Community",
+        "Educational"
       ]
     },
     {
@@ -806,10 +806,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
         "Music",
         "Performance",
-        "Community"
+        "Community",
+        "All Ages"
       ]
     },
     {
