@@ -48,23 +48,24 @@ def scrape_page(page_num=1):
         print(f"  DEBUG: Content-Type: {response.headers.get('Content-Type', 'none')}")
         response.raise_for_status()
         
-        # DEBUG: Check if content is compressed
-        html_content = html_content
+        # Get HTML content - requests should auto-handle decompression
+        html_content = response.text
         print(f"  DEBUG: HTML length: {len(html_content)}")
-        print(f"  DEBUG: First 100 chars: {html_content[:100]}")
+        print(f"  DEBUG: First 100 chars (repr): {repr(html_content[:100])}")
         
-        # If content looks garbled (binary), it might not be decompressed
-        if html_content[:10].isprintable():
-            print(f"  DEBUG: ✓ Content appears to be text")
-        else:
-            print(f"  DEBUG: ✗ Content appears to be binary/compressed")
-            # Try to manually decompress
-            import gzip
+        # Check if it's actually HTML
+        if '<' not in html_content[:200]:
+            print(f"  DEBUG: ✗ Content doesn't look like HTML, trying Brotli decompression...")
             try:
-                html_content = gzip.decompress(response.content).decode('utf-8')
-                print(f"  DEBUG: ✓ Manually decompressed with gzip")
-            except:
-                print(f"  DEBUG: ✗ Manual gzip decompress failed")
+                import brotli
+                html_content = brotli.decompress(response.content).decode('utf-8')
+                print(f"  DEBUG: ✓ Manually decompressed with Brotli")
+            except ImportError:
+                print(f"  DEBUG: ✗ Brotli not installed - pip install brotli")
+            except Exception as e:
+                print(f"  DEBUG: ✗ Brotli decompress failed: {e}")
+        else:
+            print(f"  DEBUG: ✓ Content appears to be HTML")
         
         # DEBUG: Save HTML to file IMMEDIATELY
         if page_num == 1:
