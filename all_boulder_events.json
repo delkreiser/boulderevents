@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T03:26:50.849906",
-  "total_events": 311,
+  "generated_at": "2026-02-12T03:46:59.163378",
+  "total_events": 310,
   "tags": {
     "venues": [
       "Bands on the Bricks",
@@ -449,10 +449,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
+        "All Ages",
         "Family Friendly",
-        "Community",
-        "All Ages"
+        "Games",
+        "Community"
       ]
     },
     {
@@ -538,11 +538,11 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Family Friendly",
         "Music",
         "All Ages",
         "Community",
-        "Performance",
-        "Family Friendly"
+        "Performance"
       ]
     },
     {
@@ -600,8 +600,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Educational",
-        "Community"
+        "Community",
+        "Educational"
       ]
     },
     {
@@ -629,10 +629,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
+        "All Ages",
         "Music",
         "Community",
-        "All Ages"
+        "Family Friendly"
       ]
     },
     {
@@ -660,8 +660,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "All Ages"
+        "All Ages",
+        "Community"
       ]
     },
     {
@@ -776,9 +776,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Educational",
         "Music",
-        "Community"
+        "Community",
+        "Educational"
       ]
     },
     {
@@ -5958,6 +5958,35 @@
       ]
     },
     {
+      "id": "bricks_on_main_karaoke_night_february_11_2026_6_00_pm_8_00_pm",
+      "title": "Karaoke Night",
+      "venue": "Bricks on Main",
+      "location": "Longmont",
+      "date": "February 11, 2026",
+      "normalized_date": "2026-02-11T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM - 8:00 PM",
+      "description": "Take the Bricks Main Stage ... you're the headliner!",
+      "additional_info": "",
+      "link": "https://www.bricksretail.com/event-details/karaoke-night-2026-02-11-18-00",
+      "ticket_link": null,
+      "image": "https://static.wixstatic.com/media/0f3cdb_cc11739aca8043a8a8cbdf5cdc8f3661~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/0f3cdb_cc11739aca8043a8a8cbdf5cdc8f3661~mv2.jpg",
+      "source_url": "https://www.bricksretail.com/events-calendar",
+      "age_restriction": null,
+      "venue_tag": "Bricks on Main",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Community",
+        "Retail",
+        "Entertainment"
+      ],
+      "event_type_tags": [
+        "Karaoke",
+        "Music",
+        "Entertainment"
+      ]
+    },
+    {
       "id": "bricks_on_main_defunkt_railroad_february_12_2026_6_00_pm_8_00_pm",
       "title": "Defunkt Railroad",
       "venue": "Bricks on Main",
@@ -6083,63 +6112,6 @@
       "link": "https://www.bricksretail.com/event-details/the-saints-7",
       "ticket_link": null,
       "image": "https://static.wixstatic.com/media/ea2d6f_07668fc709144c86b545694b2acc4267~mv2.jpeg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_07668fc709144c86b545694b2acc4267~mv2.jpeg",
-      "source_url": "https://www.bricksretail.com/events-calendar",
-      "age_restriction": null,
-      "venue_tag": "Bricks on Main",
-      "location_tag": "Longmont",
-      "venue_type_tags": [
-        "Community",
-        "Retail",
-        "Entertainment"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Entertainment"
-      ]
-    },
-    {
-      "id": "bricks_on_main_karaoke_night_february_18_2026_6_00_pm_8_00_pm",
-      "title": "Karaoke Night",
-      "venue": "Bricks on Main",
-      "location": "Longmont",
-      "date": "February 18, 2026",
-      "normalized_date": "2026-02-18T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM - 8:00 PM",
-      "description": "Take the Bricks Main Stage ... you're the headliner!",
-      "additional_info": "",
-      "link": "https://www.bricksretail.com/event-details/karaoke-night-2026-02-18-18-00",
-      "ticket_link": null,
-      "image": "https://static.wixstatic.com/media/0f3cdb_cc11739aca8043a8a8cbdf5cdc8f3661~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/0f3cdb_cc11739aca8043a8a8cbdf5cdc8f3661~mv2.jpg",
-      "source_url": "https://www.bricksretail.com/events-calendar",
-      "age_restriction": null,
-      "venue_tag": "Bricks on Main",
-      "location_tag": "Longmont",
-      "venue_type_tags": [
-        "Community",
-        "Retail",
-        "Entertainment"
-      ],
-      "event_type_tags": [
-        "Karaoke",
-        "Music",
-        "Entertainment"
-      ]
-    },
-    {
-      "id": "bricks_on_main_trivia_night_february_19_2026_6_00_pm_8_00_pm",
-      "title": "Trivia Night",
-      "venue": "Bricks on Main",
-      "location": "Longmont",
-      "date": "February 19, 2026",
-      "normalized_date": "2026-02-19T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM - 8:00 PM",
-      "description": "Ready to compete with you and your friends to see who knows the most about the Winter Olympics? Come join us February 19th for some trivia fun!",
-      "additional_info": "",
-      "link": "https://www.bricksretail.com/event-details/trivia-night",
-      "ticket_link": null,
-      "image": "https://static.wixstatic.com/media/ea2d6f_d6a70a4386644684a92b9b27a0e00f02~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_d6a70a4386644684a92b9b27a0e00f02~mv2.jpg",
       "source_url": "https://www.bricksretail.com/events-calendar",
       "age_restriction": null,
       "venue_tag": "Bricks on Main",
