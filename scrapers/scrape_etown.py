@@ -69,8 +69,21 @@ def scrape_page(page_num=1):
 def parse_event(item):
     """Parse individual event item"""
     try:
+        # Extract image from event-image div
+        image_div = item.find('div', class_='event-image')
+        image_url = None
+        if image_div:
+            img_tag = image_div.find('img')
+            if img_tag:
+                image_url = img_tag.get('src', '')
+        
+        # Extract event data from event-data div
+        event_data_div = item.find('div', class_='event-data')
+        if not event_data_div:
+            return None
+        
         # Extract title and URL
-        title_elem = item.find('h2')
+        title_elem = event_data_div.find('h2')
         if not title_elem:
             return None
         
@@ -81,20 +94,8 @@ def parse_event(item):
         title = title_link.get_text(strip=True)
         url = title_link.get('href', '')
         
-        # Extract image
-        image_elem = item.find('div', class_='event-image')
-        image_url = None
-        if image_elem:
-            img_tag = image_elem.find('img')
-            if img_tag:
-                image_url = img_tag.get('src', '')
-        
-        # Extract date/time from event-data-block
-        event_data = item.find('div', class_='event-data')
-        if not event_data:
-            return None
-        
-        data_blocks = event_data.find_all('div', class_='event-data-block')
+        # Extract date/time and other data from event-data-block divs
+        data_blocks = event_data_div.find_all('div', class_='event-data-block')
         
         date_str = None
         time_str = None
@@ -142,7 +143,12 @@ def parse_event(item):
                     parsed_date = datetime.strptime(date_str, "%b %d, %Y")
                     normalized_date = parsed_date.strftime("%Y-%m-%d")
                 except ValueError:
-                    print(f"  Could not parse date: {date_str}")
+                    try:
+                        # Try "March 05, 2026" format (with leading zero)
+                        parsed_date = datetime.strptime(date_str, "%B %d, %Y")
+                        normalized_date = parsed_date.strftime("%Y-%m-%d")
+                    except ValueError:
+                        print(f"  Could not parse date: {date_str}")
         
         event = {
             "title": title,
@@ -157,10 +163,11 @@ def parse_event(item):
             "tags": ["music", "live music", "concert"]  # eTown is primarily music venue
         }
         
+        print(f"  ✓ Parsed: {title}")
         return event
         
     except Exception as e:
-        print(f"  Error parsing event: {e}")
+        print(f"  ✗ Error parsing event: {e}")
         return None
 
 def scrape_all_events():
