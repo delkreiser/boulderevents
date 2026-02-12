@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T03:15:23.391450",
-  "total_events": 312,
+  "generated_at": "2026-02-12T03:26:50.849906",
+  "total_events": 311,
   "tags": {
     "venues": [
       "Bands on the Bricks",
@@ -449,9 +449,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Games",
         "Family Friendly",
         "Community",
-        "Games",
         "All Ages"
       ]
     },
@@ -509,8 +509,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Games"
+        "Games",
+        "Community"
       ]
     },
     {
@@ -538,10 +538,10 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Music",
         "All Ages",
         "Community",
         "Performance",
-        "Music",
         "Family Friendly"
       ]
     },
@@ -571,8 +571,8 @@
       ],
       "event_type_tags": [
         "Music",
-        "Performance",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -600,8 +600,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Educational"
+        "Educational",
+        "Community"
       ]
     },
     {
@@ -629,8 +629,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Family Friendly",
+        "Music",
         "Community",
         "All Ages"
       ]
@@ -718,8 +718,8 @@
       ],
       "event_type_tags": [
         "Music",
-        "Performance",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -747,8 +747,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -776,9 +776,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Educational",
         "Music",
-        "Community",
-        "Educational"
+        "Community"
       ]
     },
     {
@@ -806,10 +806,10 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "All Ages",
         "Music",
-        "Performance",
         "Community",
-        "All Ages"
+        "Performance"
       ]
     },
     {
@@ -5955,35 +5955,6 @@
         "Nightlife",
         "Dance",
         "DJ"
-      ]
-    },
-    {
-      "id": "bricks_on_main_karaoke_night_cancelled_february_11_2026_6_00_pm_8_00_pm",
-      "title": "Karaoke Night (Cancelled!)",
-      "venue": "Bricks on Main",
-      "location": "Longmont",
-      "date": "February 11, 2026",
-      "normalized_date": "2026-02-11T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM - 8:00 PM",
-      "description": "Unfortunately our lovely host is sick! We will see you next week!",
-      "additional_info": "",
-      "link": "https://www.bricksretail.com/event-details/karaoke-night-cancelled-2026-02-11-18-00",
-      "ticket_link": null,
-      "image": "https://static.wixstatic.com/media/0f3cdb_cc11739aca8043a8a8cbdf5cdc8f3661~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/0f3cdb_cc11739aca8043a8a8cbdf5cdc8f3661~mv2.jpg",
-      "source_url": "https://www.bricksretail.com/events-calendar",
-      "age_restriction": null,
-      "venue_tag": "Bricks on Main",
-      "location_tag": "Longmont",
-      "venue_type_tags": [
-        "Community",
-        "Retail",
-        "Entertainment"
-      ],
-      "event_type_tags": [
-        "Karaoke",
-        "Music",
-        "Entertainment"
       ]
     },
     {
