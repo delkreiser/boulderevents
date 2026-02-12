@@ -128,23 +128,32 @@ def parse_event(item):
             img_tag = image_div.find('img')
             if img_tag:
                 image_url = img_tag.get('src', '')
+                print(f"    DEBUG: Found image: {image_url[:50] if image_url else 'None'}")
+        else:
+            print(f"    DEBUG: No event-image div found")
         
         # Extract event data from event-data div
         event_data_div = item.find('div', class_='event-data')
         if not event_data_div:
+            print(f"    DEBUG: ✗ No event-data div found - RETURNING None")
             return None
+        else:
+            print(f"    DEBUG: ✓ Found event-data div")
         
         # Extract title and URL
         title_elem = event_data_div.find('h2')
         if not title_elem:
+            print(f"    DEBUG: ✗ No h2 found - RETURNING None")
             return None
         
         title_link = title_elem.find('a')
         if not title_link:
+            print(f"    DEBUG: ✗ No link in h2 - RETURNING None")
             return None
         
         title = title_link.get_text(strip=True)
         url = title_link.get('href', '')
+        print(f"    DEBUG: ✓ Title: {title[:50]}")
         
         # Extract date/time and other data from event-data-block divs
         data_blocks = event_data_div.find_all('div', class_='event-data-block')
