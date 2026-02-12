@@ -1,10 +1,10 @@
 [
   {
-    "link": "https://www.bricksretail.com/event-details/karaoke-night-2026-02-11-18-00",
-    "title": "Karaoke Night",
+    "link": "https://www.bricksretail.com/event-details/karaoke-night-cancelled-2026-02-11-18-00",
+    "title": "Karaoke Night (Cancelled!)",
     "date": "February 11, 2026",
     "time": "6:00 PM - 8:00 PM",
-    "description": "Take the Bricks Main Stage ... you're the headliner!",
+    "description": "Unfortunately our lovely host is sick! We will see you next week!",
     "image": "https://static.wixstatic.com/media/0f3cdb_cc11739aca8043a8a8cbdf5cdc8f3661~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/0f3cdb_cc11739aca8043a8a8cbdf5cdc8f3661~mv2.jpg",
     "venue": "Bricks on Main",
     "location": "Longmont",
@@ -112,6 +112,49 @@
     "time": "6:00 PM - 9:00 PM",
     "description": "The Saints is a 6-piece band that has an authentic New Orleans feel. We play a mix of funk, R&B, soul, and rock, featuring both original tunes and cover songs. We have three vocalists who all sing lead (providing a lot of variety), and we have tight 3-part harmonies, which are a huge crowd-pleaser.",
     "image": "https://static.wixstatic.com/media/ea2d6f_07668fc709144c86b545694b2acc4267~mv2.jpeg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_07668fc709144c86b545694b2acc4267~mv2.jpeg",
+    "venue": "Bricks on Main",
+    "location": "Longmont",
+    "category": "Music",
+    "source_url": "https://www.bricksretail.com/events-calendar",
+    "event_type_tags": [
+      "Live Music",
+      "Entertainment"
+    ],
+    "venue_type_tags": [
+      "Music Venue",
+      "Bar",
+      "Restaurant"
+    ]
+  },
+  {
+    "link": "https://www.bricksretail.com/event-details/karaoke-night-2026-02-18-18-00",
+    "title": "Karaoke Night",
+    "date": "February 18, 2026",
+    "time": "6:00 PM - 8:00 PM",
+    "description": "Take the Bricks Main Stage ... you're the headliner!",
+    "image": "https://static.wixstatic.com/media/0f3cdb_cc11739aca8043a8a8cbdf5cdc8f3661~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/0f3cdb_cc11739aca8043a8a8cbdf5cdc8f3661~mv2.jpg",
+    "venue": "Bricks on Main",
+    "location": "Longmont",
+    "category": "Music",
+    "source_url": "https://www.bricksretail.com/events-calendar",
+    "event_type_tags": [
+      "Karaoke",
+      "Music",
+      "Entertainment"
+    ],
+    "venue_type_tags": [
+      "Music Venue",
+      "Bar",
+      "Restaurant"
+    ]
+  },
+  {
+    "link": "https://www.bricksretail.com/event-details/trivia-night",
+    "title": "Trivia Night",
+    "date": "February 19, 2026",
+    "time": "6:00 PM - 8:00 PM",
+    "description": "Ready to compete with you and your friends to see who knows the most about the Winter Olympics? Come join us February 19th for some trivia fun!",
+    "image": "https://static.wixstatic.com/media/ea2d6f_d6a70a4386644684a92b9b27a0e00f02~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_d6a70a4386644684a92b9b27a0e00f02~mv2.jpg",
     "venue": "Bricks on Main",
     "location": "Longmont",
     "category": "Music",
