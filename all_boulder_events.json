@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T13:39:20.971574",
-  "total_events": 330,
+  "generated_at": "2026-02-12T19:05:01.192567",
+  "total_events": 334,
   "tags": {
     "venues": [
       "Bands on the Bricks",
@@ -396,10 +396,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
         "All Ages",
         "Games",
-        "Community"
+        "Community",
+        "Family Friendly"
       ]
     },
     {
@@ -486,10 +486,10 @@
       ],
       "event_type_tags": [
         "All Ages",
-        "Music",
-        "Performance",
         "Family Friendly",
-        "Community"
+        "Music",
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -517,9 +517,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "Music",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -547,8 +547,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Educational"
+        "Educational",
+        "Community"
       ]
     },
     {
@@ -576,9 +576,38 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
         "All Ages",
         "Music",
+        "Community",
+        "Family Friendly"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_drop_in_mahjongg_tuesdays_tuesday_february_17_2026_12_00_2_00_pm",
+      "title": "Drop-In Mahjongg \u2013 Tuesdays",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Tuesday, February 17, 2026",
+      "normalized_date": "2026-02-17T00:00:00",
+      "recurring": null,
+      "time": "12:00 - 2:00 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://junkyardsocialclub.org/drop-in-event/drop-in-mahjongg-tuesdays/",
+      "ticket_link": null,
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/08/Drop-In-MahJongg-Tuesday.jpg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": null,
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Games",
         "Community"
       ]
     },
@@ -607,8 +636,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Community"
+        "Community",
+        "All Ages"
       ]
     },
     {
@@ -664,9 +693,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
         "Music",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -694,8 +723,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -723,9 +752,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Educational",
         "Music",
-        "Community",
-        "Educational"
+        "Community"
       ]
     },
     {
@@ -753,9 +782,65 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "All Ages",
         "Music",
+        "Community",
+        "Performance",
+        "All Ages"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_b_e_a_t_meet_up_wednesday_march_11_2026_6_00_7_00_pm",
+      "title": "B.E.A.T. Meet-Up",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Wednesday, March 11, 2026",
+      "normalized_date": "2026-03-11T00:00:00",
+      "recurring": null,
+      "time": "6:00 - 7:00 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://junkyardsocialclub.org/drop-in-event/b-e-a-t-meet-up/",
+      "ticket_link": null,
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/06/BEAT-768x768.jpg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": null,
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Community"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_boulder_burner_meet_up_wednesday_march_11_2026_6_30_8_30_pm",
+      "title": "Boulder Burner Meet-up",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Wednesday, March 11, 2026",
+      "normalized_date": "2026-03-11T00:00:00",
+      "recurring": null,
+      "time": "6:30 - 8:30 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://junkyardsocialclub.org/drop-in-event/burner/",
+      "ticket_link": null,
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/07/Burner-768x434.jpg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": null,
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
         "Community"
       ]
     },
@@ -786,6 +871,36 @@
       "event_type_tags": [
         "Music",
         "Community"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_roda_de_choro_brazilian_choro_jam_sunday_march_15_2026_5_00_pm_7_00_pm",
+      "title": "Roda de Choro \u2013 Brazilian Choro Jam",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Sunday, March 15, 2026",
+      "normalized_date": "2026-03-15T00:00:00",
+      "recurring": null,
+      "time": "5:00 PM - 7:00 PM",
+      "description": "",
+      "additional_info": "All Ages are Welcome",
+      "link": "https://junkyardsocialclub.org/drop-in-event/roda-de-choro/",
+      "ticket_link": null,
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/05/Roda-de-Choro-March-15.jpg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": "All Ages",
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Music",
+        "Performance",
+        "All Ages"
       ]
     },
     {
