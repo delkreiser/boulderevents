@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T04:01:53.482603",
-  "total_events": 311,
+  "generated_at": "2026-02-12T04:11:42.888571",
+  "total_events": 335,
   "tags": {
     "venues": [
       "Bands on the Bricks",
@@ -21,7 +21,8 @@
       "Trident Booksellers & Cafe",
       "Velvet Elk Lounge",
       "Village at The Peaks - Summer Concert Series",
-      "Vine Street Pub"
+      "Vine Street Pub",
+      "eTown Hall"
     ],
     "locations": [
       "Boulder",
@@ -45,12 +46,14 @@
       "Food & Drink",
       "Free",
       "Hotel",
+      "Intimate Venue",
       "Literary",
       "Live Music",
       "Music",
       "Nightlife",
       "Performance",
       "Pub",
+      "Radio Show",
       "Retail",
       "Theater",
       "Upscale"
@@ -451,8 +454,8 @@
       "event_type_tags": [
         "Community",
         "All Ages",
-        "Games",
-        "Family Friendly"
+        "Family Friendly",
+        "Games"
       ]
     },
     {
@@ -538,11 +541,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Performance",
+        "Music",
         "Family Friendly",
-        "All Ages",
-        "Music"
+        "Performance",
+        "Community",
+        "All Ages"
       ]
     },
     {
@@ -571,8 +574,8 @@
       ],
       "event_type_tags": [
         "Community",
-        "Performance",
-        "Music"
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -630,9 +633,9 @@
       ],
       "event_type_tags": [
         "Community",
-        "All Ages",
         "Music",
-        "Family Friendly"
+        "Family Friendly",
+        "All Ages"
       ]
     },
     {
@@ -718,8 +721,8 @@
       ],
       "event_type_tags": [
         "Community",
-        "Performance",
-        "Music"
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -777,8 +780,8 @@
       ],
       "event_type_tags": [
         "Community",
-        "Educational",
-        "Music"
+        "Music",
+        "Educational"
       ]
     },
     {
@@ -807,8 +810,8 @@
       ],
       "event_type_tags": [
         "Community",
-        "Performance",
         "Music",
+        "Performance",
         "All Ages"
       ]
     },
@@ -866,8 +869,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Music"
+        "Music",
+        "Performance"
       ]
     },
     {
@@ -8955,6 +8958,630 @@
         "Live Music",
         "Concert",
         "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "etown_hall_etown_presents_david_wilcox_sold_out_february_14_2026_7_00_pm_9_30_pm",
+      "title": "eTown Presents David Wilcox \u2013 SOLD OUT",
+      "venue": "eTown Hall",
+      "location": "Boulder",
+      "date": "February 14, 2026",
+      "normalized_date": "2026-02-14",
+      "recurring": null,
+      "time": "7:00 pm - 9:30 pm",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.etown.org/events/february-14-etown-presents-david-wilcox/",
+      "ticket_link": null,
+      "image": "https://www.etown.org/wp-content/uploads/2025/09/David-Wilcox-2026-Web-Event.png",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "eTown Hall",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Radio Show",
+        "Intimate Venue"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "etown_hall_etown_taping_with_john_craigie_and_olive_klug_sold_out_february_17_2026_7_00_pm_9_30_pm",
+      "title": "eTown Taping with John Craigie and Olive Klug \u2013 SOLD OUT",
+      "venue": "eTown Hall",
+      "location": "Boulder",
+      "date": "February 17, 2026",
+      "normalized_date": "2026-02-17",
+      "recurring": null,
+      "time": "7:00 pm - 9:30 pm",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.etown.org/events/february-17-2026-etown-taping-with-john-craigie-and-olive-klug/",
+      "ticket_link": null,
+      "image": "https://www.etown.org/wp-content/uploads/2026/01/John-Craigie-Olive-Klug-Web-Event.png",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "eTown Hall",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Radio Show",
+        "Intimate Venue"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "etown_hall_etown_presents_calvin_arsenia_with_katie_wise_february_18_2026_7_00_pm_9_30_pm",
+      "title": "eTown Presents Calvin Arsenia with Katie Wise",
+      "venue": "eTown Hall",
+      "location": "Boulder",
+      "date": "February 18, 2026",
+      "normalized_date": "2026-02-18",
+      "recurring": null,
+      "time": "7:00 pm - 9:30 pm",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.etown.org/events/february-18-2026-etown-presents-calvin-arsenia-with-katie-wise/",
+      "ticket_link": null,
+      "image": "https://www.etown.org/wp-content/uploads/2025/12/Calvin-Arsenia-Katie-Wise-Web-Event-2.png",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "eTown Hall",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Radio Show",
+        "Intimate Venue"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "etown_hall_etown_taping_with_the_infamous_stringdusters_and_special_guest_sold_out_february_19_2026_7_00_pm_9_30_pm",
+      "title": "eTown Taping with The Infamous Stringdusters and special guest \u2013 SOLD OUT",
+      "venue": "eTown Hall",
+      "location": "Boulder",
+      "date": "February 19, 2026",
+      "normalized_date": "2026-02-19",
+      "recurring": null,
+      "time": "7:00 pm - 9:30 pm",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.etown.org/events/february-19-2026-etown-taping-with-the-infamous-stringdusters-and-special-guest/",
+      "ticket_link": null,
+      "image": "https://www.etown.org/wp-content/uploads/2026/01/The-Infamous-Stringdusters-Web-Event.png",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "eTown Hall",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Radio Show",
+        "Intimate Venue"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "etown_hall_etown_presents_damien_jurado_with_st_yuma_february_21_2026_7_00_pm_9_30_pm",
+      "title": "eTown Presents Damien Jurado with St. Yuma",
+      "venue": "eTown Hall",
+      "location": "Boulder",
+      "date": "February 21, 2026",
+      "normalized_date": "2026-02-21",
+      "recurring": null,
+      "time": "7:00 pm - 9:30 pm",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.etown.org/events/february-21-2026-etown-presents-damien-jurado-with-st-yuma/",
+      "ticket_link": null,
+      "image": "https://www.etown.org/wp-content/uploads/2025/11/Damien-Jurado-Web-Event.png",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "eTown Hall",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Radio Show",
+        "Intimate Venue"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "etown_hall_nick_forster_s_hippy_bluegrass_church_sold_out_february_22_2026_10_30_am_12_00_pm",
+      "title": "Nick Forster\u2019s Hippy Bluegrass Church \u2013 SOLD OUT",
+      "venue": "eTown Hall",
+      "location": "Boulder",
+      "date": "February 22, 2026",
+      "normalized_date": "2026-02-22",
+      "recurring": null,
+      "time": "10:30 am - 12:00 pm",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.etown.org/events/february-22-2026-nick-forsters-hippy-bluegrass-church/",
+      "ticket_link": null,
+      "image": "https://www.etown.org/wp-content/uploads/2024/09/HBC-Event.png",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "eTown Hall",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Radio Show",
+        "Intimate Venue"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "etown_hall_etown_presents_east_forest_february_27_2026_7_00_pm_9_30_pm",
+      "title": "eTown Presents East Forest",
+      "venue": "eTown Hall",
+      "location": "Boulder",
+      "date": "February 27, 2026",
+      "normalized_date": "2026-02-27",
+      "recurring": null,
+      "time": "7:00 pm - 9:30 pm",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.etown.org/events/february-27-2026-etown-presents-east-forest/",
+      "ticket_link": null,
+      "image": "https://www.etown.org/wp-content/uploads/2025/12/Feb-27-East-Forest-Web-Event.png",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "eTown Hall",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Radio Show",
+        "Intimate Venue"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "etown_hall_etown_presents_east_forest_sold_out_february_28_2026_7_00_pm_9_30_pm",
+      "title": "eTown Presents East Forest \u2013 SOLD OUT",
+      "venue": "eTown Hall",
+      "location": "Boulder",
+      "date": "February 28, 2026",
+      "normalized_date": "2026-02-28",
+      "recurring": null,
+      "time": "7:00 pm - 9:30 pm",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.etown.org/events/february-28-2026-etown-presents-east-forest/",
+      "ticket_link": null,
+      "image": "https://www.etown.org/wp-content/uploads/2025/12/Feb-28-EF-Web-Event.png",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "eTown Hall",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Radio Show",
+        "Intimate Venue"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "etown_hall_etown_presents_the_grahams_march_05_2026_7_00_pm_9_30_pm",
+      "title": "eTown Presents The Grahams",
+      "venue": "eTown Hall",
+      "location": "Boulder",
+      "date": "March 05, 2026",
+      "normalized_date": "2026-03-05",
+      "recurring": null,
+      "time": "7:00 pm - 9:30 pm",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.etown.org/events/march-5-2026-etown-presents-the-grahams/",
+      "ticket_link": null,
+      "image": "https://www.etown.org/wp-content/uploads/2025/12/The-Grahams-Web-Event.png",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "eTown Hall",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Radio Show",
+        "Intimate Venue"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "etown_hall_etown_presents_blessing_bled_chimanga_march_06_2026_7_00_pm_9_30_pm",
+      "title": "eTown Presents Blessing Bled Chimanga",
+      "venue": "eTown Hall",
+      "location": "Boulder",
+      "date": "March 06, 2026",
+      "normalized_date": "2026-03-06",
+      "recurring": null,
+      "time": "7:00 pm - 9:30 pm",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.etown.org/events/march-6-2026-etown-presents-blessing-bled-chimanga/",
+      "ticket_link": null,
+      "image": "https://www.etown.org/wp-content/uploads/2026/01/Blessing-Bled-Feb-6-2026-Web-Event.png",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "eTown Hall",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Radio Show",
+        "Intimate Venue"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "etown_hall_etown_presents_the_tapestry_band_playing_carole_king_march_07_2026_7_00_pm_9_30_pm",
+      "title": "eTown Presents The Tapestry Band playing Carole King",
+      "venue": "eTown Hall",
+      "location": "Boulder",
+      "date": "March 07, 2026",
+      "normalized_date": "2026-03-07",
+      "recurring": null,
+      "time": "7:00 pm - 9:30 pm",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.etown.org/events/march-7-2026-etown-presents-the-tapestry-band-playing-carole-king/",
+      "ticket_link": null,
+      "image": "https://www.etown.org/wp-content/uploads/2026/01/March-6-Tapestry-Web-Event-2.png",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "eTown Hall",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Radio Show",
+        "Intimate Venue"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "etown_hall_stepping_into_the_unknown_films_from_the_bob_dylan_center_march_08_2026_7_00_pm_9_00_pm",
+      "title": "Stepping Into the Unknown: Films from the Bob Dylan Center",
+      "venue": "eTown Hall",
+      "location": "Boulder",
+      "date": "March 08, 2026",
+      "normalized_date": "2026-03-08",
+      "recurring": null,
+      "time": "7:00 pm - 9:00 pm",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.etown.org/events/march-8-2026-stepping-into-the-unknown-films-from-the-bob-dylan-center/",
+      "ticket_link": null,
+      "image": "https://www.etown.org/wp-content/uploads/2026/01/Stepping-Into-the-Unknown-Web-Event.png",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "eTown Hall",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Radio Show",
+        "Intimate Venue"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "etown_hall_etown_taping_with_brett_dennen_and_marley_s_ghost_march_10_2026_7_00_pm_9_30_pm",
+      "title": "eTown Taping with Brett Dennen and Marley\u2019s Ghost",
+      "venue": "eTown Hall",
+      "location": "Boulder",
+      "date": "March 10, 2026",
+      "normalized_date": "2026-03-10",
+      "recurring": null,
+      "time": "7:00 pm - 9:30 pm",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.etown.org/events/march-10-2026-etown-taping-with-brett-dennen-and-marleys-ghost/",
+      "ticket_link": null,
+      "image": "https://www.etown.org/wp-content/uploads/2026/02/Web-Event.png",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "eTown Hall",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Radio Show",
+        "Intimate Venue"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "etown_hall_etown_presents_the_bow_tides_with_alexa_wildish_march_12_2026_7_00_pm_9_30_pm",
+      "title": "eTown Presents The Bow Tides with Alexa Wildish",
+      "venue": "eTown Hall",
+      "location": "Boulder",
+      "date": "March 12, 2026",
+      "normalized_date": "2026-03-12",
+      "recurring": null,
+      "time": "7:00 pm - 9:30 pm",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.etown.org/events/march-12-2026-etown-presents-the-bow-tides/",
+      "ticket_link": null,
+      "image": "https://www.etown.org/wp-content/uploads/2025/11/The-Bow-Tides-Web-Event.png",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "eTown Hall",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Radio Show",
+        "Intimate Venue"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "etown_hall_etown_presents_ellis_paul_march_21_2026_7_00_pm_9_30_pm",
+      "title": "eTown Presents Ellis Paul",
+      "venue": "eTown Hall",
+      "location": "Boulder",
+      "date": "March 21, 2026",
+      "normalized_date": "2026-03-21",
+      "recurring": null,
+      "time": "7:00 pm - 9:30 pm",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.etown.org/events/march-21-2026-etown-presents-ellis-paul/",
+      "ticket_link": null,
+      "image": "https://www.etown.org/wp-content/uploads/2025/12/Ellis-Paul-Web-Event.png",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "eTown Hall",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Radio Show",
+        "Intimate Venue"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "etown_hall_etown_presents_the_steel_wheels_march_24_2026_7_00_pm_9_30_pm",
+      "title": "eTown Presents The Steel Wheels",
+      "venue": "eTown Hall",
+      "location": "Boulder",
+      "date": "March 24, 2026",
+      "normalized_date": "2026-03-24",
+      "recurring": null,
+      "time": "7:00 pm - 9:30 pm",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.etown.org/events/march-24-2026-etown-presents-the-steel-wheels/",
+      "ticket_link": null,
+      "image": "https://www.etown.org/wp-content/uploads/2026/01/TSW-Web-Event.png",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "eTown Hall",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Radio Show",
+        "Intimate Venue"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "etown_hall_etown_presents_vienna_teng_march_28_2026_7_00_pm_9_30_pm",
+      "title": "eTown Presents Vienna Teng",
+      "venue": "eTown Hall",
+      "location": "Boulder",
+      "date": "March 28, 2026",
+      "normalized_date": "2026-03-28",
+      "recurring": null,
+      "time": "7:00 pm - 9:30 pm",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.etown.org/events/march-28-2026-etown-presents-vienna-teng/",
+      "ticket_link": null,
+      "image": "https://www.etown.org/wp-content/uploads/2025/12/Vienne-Teng-Web-Event.png",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "eTown Hall",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Radio Show",
+        "Intimate Venue"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "etown_hall_etown_taping_with_fruit_bats_solo_and_cat_clyde_march_29_2026_7_00_pm_9_30_pm",
+      "title": "eTown Taping with Fruit Bats (solo) and Cat Clyde",
+      "venue": "eTown Hall",
+      "location": "Boulder",
+      "date": "March 29, 2026",
+      "normalized_date": "2026-03-29",
+      "recurring": null,
+      "time": "7:00 pm - 9:30 pm",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.etown.org/events/march-28-2026-etown-taping-fruit-bats-solo-cat-clyde/",
+      "ticket_link": null,
+      "image": "https://www.etown.org/wp-content/uploads/2025/12/Fruit-Bats-Cat-Clyde-Web-Event.png",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "eTown Hall",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Radio Show",
+        "Intimate Venue"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "etown_hall_etown_taping_with_billie_marten_and_dean_johnson_march_31_2026_7_00_pm_9_30_pm",
+      "title": "eTown Taping with Billie Marten and Dean Johnson",
+      "venue": "eTown Hall",
+      "location": "Boulder",
+      "date": "March 31, 2026",
+      "normalized_date": "2026-03-31",
+      "recurring": null,
+      "time": "7:00 pm - 9:30 pm",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.etown.org/events/march-31-2026-etown-taping-with-billie-marten-and-dean-johnson/",
+      "ticket_link": null,
+      "image": "https://www.etown.org/wp-content/uploads/2026/01/Billie-Marten-Dean-Johnson-Web-Event.png",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "eTown Hall",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Radio Show",
+        "Intimate Venue"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "etown_hall_etown_taping_with_dar_williams_and_peter_mulvey_april_18_2026_7_00_pm_9_30_pm",
+      "title": "eTown Taping with Dar Williams and Peter Mulvey",
+      "venue": "eTown Hall",
+      "location": "Boulder",
+      "date": "April 18, 2026",
+      "normalized_date": "2026-04-18",
+      "recurring": null,
+      "time": "7:00 pm - 9:30 pm",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.etown.org/events/april-18-2026-etown-taping-with-dar-williams/",
+      "ticket_link": null,
+      "image": "https://www.etown.org/wp-content/uploads/2025/09/DW-PM-Web-Event.png",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "eTown Hall",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Radio Show",
+        "Intimate Venue"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "etown_hall_etown_taping_with_ocie_elliott_and_special_guest_april_20_2026_7_00_pm_9_30_pm",
+      "title": "eTown Taping with Ocie Elliott and special guest",
+      "venue": "eTown Hall",
+      "location": "Boulder",
+      "date": "April 20, 2026",
+      "normalized_date": "2026-04-20",
+      "recurring": null,
+      "time": "7:00 pm - 9:30 pm",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.etown.org/events/april-20-2026-etown-taping-with-ocie-elliott/",
+      "ticket_link": null,
+      "image": "https://www.etown.org/wp-content/uploads/2025/06/OE-Web-Event.png",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "eTown Hall",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Radio Show",
+        "Intimate Venue"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "etown_hall_etown_presents_jonatha_brooke_may_02_2026_7_00_pm_9_30_pm",
+      "title": "eTown Presents Jonatha Brooke",
+      "venue": "eTown Hall",
+      "location": "Boulder",
+      "date": "May 02, 2026",
+      "normalized_date": "2026-05-02",
+      "recurring": null,
+      "time": "7:00 pm - 9:30 pm",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.etown.org/events/may-2-2026-etown-presents-jonatha-brooke/",
+      "ticket_link": null,
+      "image": "https://www.etown.org/wp-content/uploads/2026/01/Jonatha-Brooke-Web-Event.png",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "eTown Hall",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Radio Show",
+        "Intimate Venue"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "etown_hall_etown_presents_andy_thorn_and_erik_deutsch_a_night_of_banjo_and_piano_explorations_may_06_2026_7_00_pm_9_30_pm",
+      "title": "eTown Presents Andy Thorn and Erik Deutsch: a Night of Banjo and Piano Explorations",
+      "venue": "eTown Hall",
+      "location": "Boulder",
+      "date": "May 06, 2026",
+      "normalized_date": "2026-05-06",
+      "recurring": null,
+      "time": "7:00 pm - 9:30 pm",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.etown.org/events/etown-presents-andy-thorn-and-erik-deutsch-a-night-of-banjo-and-piano-explorations/",
+      "ticket_link": null,
+      "image": "https://www.etown.org/wp-content/uploads/2026/01/Andy-Thorn-Erik-Deutsch-Web-Event.png",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "eTown Hall",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Radio Show",
+        "Intimate Venue"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "etown_hall_etown_presents_greg_schochet_little_america_record_release_show_may_08_2026_7_00_pm_9_30_pm",
+      "title": "eTown Presents Greg Schochet & Little America \u2013 Record Release Show",
+      "venue": "eTown Hall",
+      "location": "Boulder",
+      "date": "May 08, 2026",
+      "normalized_date": "2026-05-08",
+      "recurring": null,
+      "time": "7:00 pm - 9:30 pm",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.etown.org/events/etown-presents-greg-schochet-little-america-record-release-show/",
+      "ticket_link": null,
+      "image": "https://www.etown.org/wp-content/uploads/2026/01/Greg-Schochet-Little-America-Web-Event.png",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "eTown Hall",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Radio Show",
+        "Intimate Venue"
       ],
       "event_type_tags": []
     }
