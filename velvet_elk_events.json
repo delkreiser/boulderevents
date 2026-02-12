@@ -1,138 +1,5 @@
 [
   {
-    "title": "ATOMGA",
-    "date": "January 16, 2026",
-    "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/82931atomga.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
-    "venue": "Velvet Elk Lounge",
-    "location": "Boulder",
-    "category": "Music",
-    "source_url": "https://www.velvetelklounge.com/events/",
-    "event_type_tags": [
-      "Live Music",
-      "Nightlife"
-    ],
-    "venue_type_tags": [
-      "Bar",
-      "Music Venue",
-      "Nightlife"
-    ],
-    "link": "https://www.velvetelklounge.com/event/january-16th-atomga/"
-  },
-  {
-    "title": "Late Night with Cousin Eli: Andy Farag of Umphrey's McGee",
-    "date": "January 16, 2026",
-    "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/24556Cousin_Eli_Logo.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
-    "venue": "Velvet Elk Lounge",
-    "location": "Boulder",
-    "category": "Music",
-    "source_url": "https://www.velvetelklounge.com/events/",
-    "event_type_tags": [
-      "Live Music",
-      "Nightlife"
-    ],
-    "venue_type_tags": [
-      "Bar",
-      "Music Venue",
-      "Nightlife"
-    ],
-    "link": "https://www.velvetelklounge.com/event/january-16th-late-night-with-cousin-eli-andy-farag-of-umphreys-mcgee/"
-  },
-  {
-    "title": "Toubab Krewe with River Spell",
-    "date": "January 22, 2026",
-    "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/71905EchoPhoto.JPEG?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
-    "venue": "Velvet Elk Lounge",
-    "location": "Boulder",
-    "category": "Music",
-    "source_url": "https://www.velvetelklounge.com/events/",
-    "event_type_tags": [
-      "Live Music",
-      "Nightlife"
-    ],
-    "venue_type_tags": [
-      "Bar",
-      "Music Venue",
-      "Nightlife"
-    ],
-    "link": "https://www.velvetelklounge.com/event/january-22nd-toubab-krewe-with-river-spell/"
-  },
-  {
-    "title": "DUBLDRGN: Electro-dub duo Borahm Lee (Pretty Lights/Break Science) & Jeffrey James Franca (Thievery Corporation/ETHNO)",
-    "date": "January 23, 2026",
-    "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/1945DublDrgn-Graphic.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
-    "venue": "Velvet Elk Lounge",
-    "location": "Boulder",
-    "category": "Music",
-    "source_url": "https://www.velvetelklounge.com/events/",
-    "event_type_tags": [
-      "Live Music",
-      "Nightlife"
-    ],
-    "venue_type_tags": [
-      "Bar",
-      "Music Venue",
-      "Nightlife"
-    ],
-    "link": "https://www.velvetelklounge.com/event/january-23rd-dubldrgn-an-electro-dub-duo-featuring-borahm-lee-pretty-lightsbreak-science-and-jeffrey-james-franca-thievery-corporationethno/"
-  },
-  {
-    "title": "JIMKATA with Terrawave",
-    "date": "January 24, 2026",
-    "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/64045Jimkata_2024_2_1.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
-    "venue": "Velvet Elk Lounge",
-    "location": "Boulder",
-    "category": "Music",
-    "source_url": "https://www.velvetelklounge.com/events/",
-    "event_type_tags": [
-      "Live Music",
-      "Nightlife"
-    ],
-    "venue_type_tags": [
-      "Bar",
-      "Music Venue",
-      "Nightlife"
-    ],
-    "link": "https://www.velvetelklounge.com/event/jimkata-featuring-special-guest-january-24th/"
-  },
-  {
-    "title": "Dig Deep with Jake Leg Band",
-    "date": "January 30, 2026",
-    "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/61780dig_deep.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
-    "venue": "Velvet Elk Lounge",
-    "location": "Boulder",
-    "category": "Music",
-    "source_url": "https://www.velvetelklounge.com/events/",
-    "event_type_tags": [
-      "Live Music",
-      "Nightlife"
-    ],
-    "venue_type_tags": [
-      "Bar",
-      "Music Venue",
-      "Nightlife"
-    ],
-    "link": "https://www.velvetelklounge.com/event/january-30th-dig-deep/"
-  },
-  {
-    "title": "Hot Like Mars with San Leandro Band",
-    "date": "February 5, 2026",
-    "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/58610Hot_Like_Mars.jpeg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
-    "venue": "Velvet Elk Lounge",
-    "location": "Boulder",
-    "category": "Music",
-    "source_url": "https://www.velvetelklounge.com/events/",
-    "event_type_tags": [
-      "Live Music",
-      "Nightlife"
-    ],
-    "venue_type_tags": [
-      "Bar",
-      "Music Venue",
-      "Nightlife"
-    ],
-    "link": "https://www.velvetelklounge.com/event/february-5th-hot-like-mars/"
-  },
-  {
     "title": "Rolling Harvest",
     "date": "February 13, 2026",
     "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/38918Rolling_Harvest_Nissis_Backstage_2024.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
@@ -150,6 +17,25 @@
       "Nightlife"
     ],
     "link": "https://www.velvetelklounge.com/event/february-13th-rolling-harvest/"
+  },
+  {
+    "title": "Mardi Gras Party!",
+    "date": "February 17, 2026",
+    "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/49554velvet_elk_promo_color.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+    "venue": "Velvet Elk Lounge",
+    "location": "Boulder",
+    "category": "Music",
+    "source_url": "https://www.velvetelklounge.com/events/",
+    "event_type_tags": [
+      "Live Music",
+      "Nightlife"
+    ],
+    "venue_type_tags": [
+      "Bar",
+      "Music Venue",
+      "Nightlife"
+    ],
+    "link": "https://www.velvetelklounge.com/event/february-17th-mardi-gras-party/"
   },
   {
     "title": "Pimps of Joytime with Gio Chamba",
@@ -171,6 +57,25 @@
     "link": "https://www.velvetelklounge.com/event/february-21st-pimps-of-joytime-with-gio-chamba/"
   },
   {
+    "title": "Float Like a Buffalo",
+    "date": "February 28, 2026",
+    "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/78403float-like-a-buffalo.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+    "venue": "Velvet Elk Lounge",
+    "location": "Boulder",
+    "category": "Music",
+    "source_url": "https://www.velvetelklounge.com/events/",
+    "event_type_tags": [
+      "Live Music",
+      "Nightlife"
+    ],
+    "venue_type_tags": [
+      "Bar",
+      "Music Venue",
+      "Nightlife"
+    ],
+    "link": "https://www.velvetelklounge.com/event/february-28th-float-like-a-buffalo/"
+  },
+  {
     "title": "Kendall Street Company with DJ Williams Band",
     "date": "March 4, 2026",
     "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/15486KSC_Promo-59.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
@@ -188,5 +93,100 @@
       "Nightlife"
     ],
     "link": "https://www.velvetelklounge.com/event/march-4th-kendall-street-company-with-dj-williams-band/"
+  },
+  {
+    "title": "Tinsley Ellis: PRIVATE SOUND CHECK EXPERIENCE",
+    "date": "March 6, 2026",
+    "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/40988Tinsley_Ellis.png?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+    "venue": "Velvet Elk Lounge",
+    "location": "Boulder",
+    "category": "Music",
+    "source_url": "https://www.velvetelklounge.com/events/",
+    "event_type_tags": [
+      "Live Music",
+      "Nightlife"
+    ],
+    "venue_type_tags": [
+      "Bar",
+      "Music Venue",
+      "Nightlife"
+    ],
+    "link": "https://www.velvetelklounge.com/event/march-6th-tinsley-ellis-private-sound-check-experience/"
+  },
+  {
+    "title": "Tinsley Ellis: Labor of Love Tour",
+    "date": "March 6, 2026",
+    "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/40988Tinsley_Ellis.png?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+    "venue": "Velvet Elk Lounge",
+    "location": "Boulder",
+    "category": "Music",
+    "source_url": "https://www.velvetelklounge.com/events/",
+    "event_type_tags": [
+      "Live Music",
+      "Nightlife"
+    ],
+    "venue_type_tags": [
+      "Bar",
+      "Music Venue",
+      "Nightlife"
+    ],
+    "link": "https://www.velvetelklounge.com/event/march-6th-tinsley-ellis-labor-of-love-tour/"
+  },
+  {
+    "title": "Peak 2 Peak",
+    "date": "March 7, 2026",
+    "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/73008peak2peak.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+    "venue": "Velvet Elk Lounge",
+    "location": "Boulder",
+    "category": "Music",
+    "source_url": "https://www.velvetelklounge.com/events/",
+    "event_type_tags": [
+      "Live Music",
+      "Nightlife"
+    ],
+    "venue_type_tags": [
+      "Bar",
+      "Music Venue",
+      "Nightlife"
+    ],
+    "link": "https://www.velvetelklounge.com/event/march-7th-peak-2-peak/"
+  },
+  {
+    "title": "Mickey & the Motorcars",
+    "date": "March 11, 2026",
+    "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/89982Micky_and_the_Motorcars.avif?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+    "venue": "Velvet Elk Lounge",
+    "location": "Boulder",
+    "category": "Music",
+    "source_url": "https://www.velvetelklounge.com/events/",
+    "event_type_tags": [
+      "Live Music",
+      "Nightlife"
+    ],
+    "venue_type_tags": [
+      "Bar",
+      "Music Venue",
+      "Nightlife"
+    ],
+    "link": "https://www.velvetelklounge.com/event/march-11th-mickey-the-motorcars/"
+  },
+  {
+    "title": "Victor Jones: The Construct Tour 2026",
+    "date": "March 23, 2026",
+    "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/77473Victor_Jones_2.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+    "venue": "Velvet Elk Lounge",
+    "location": "Boulder",
+    "category": "Music",
+    "source_url": "https://www.velvetelklounge.com/events/",
+    "event_type_tags": [
+      "Live Music",
+      "Nightlife"
+    ],
+    "venue_type_tags": [
+      "Bar",
+      "Music Venue",
+      "Nightlife"
+    ],
+    "link": "https://www.velvetelklounge.com/event/march-23rd-victor-jones-the-construct-tour-2026/"
   }
 ]
