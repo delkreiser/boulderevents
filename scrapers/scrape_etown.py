@@ -46,8 +46,8 @@ def scrape_page(page_num=1):
         
         soup = BeautifulSoup(response.text, 'html.parser')
         
-        # Find all event items
-        event_items = soup.find_all('div', class_='event-item')
+        # Find all event items (they use class "event-wrapper")
+        event_items = soup.find_all('div', class_='event-wrapper')
         
         if not event_items:
             print(f"  No events found on page {page_num}")
