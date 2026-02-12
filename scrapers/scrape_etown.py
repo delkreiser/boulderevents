@@ -41,16 +41,41 @@ def scrape_page(page_num=1):
     }
     
     try:
+        print(f"  DEBUG: Making request...")
         response = requests.get(url, headers=headers, timeout=10)
+        print(f"  DEBUG: Got response - Status: {response.status_code}")
+        print(f"  DEBUG: Content-Encoding: {response.headers.get('Content-Encoding', 'none')}")
+        print(f"  DEBUG: Content-Type: {response.headers.get('Content-Type', 'none')}")
         response.raise_for_status()
         
-        soup = BeautifulSoup(response.text, 'html.parser')
+        # DEBUG: Check if content is compressed
+        html_content = html_content
+        print(f"  DEBUG: HTML length: {len(html_content)}")
+        print(f"  DEBUG: First 100 chars: {html_content[:100]}")
         
-        # DEBUG: Save HTML to file to inspect
+        # If content looks garbled (binary), it might not be decompressed
+        if html_content[:10].isprintable():
+            print(f"  DEBUG: ✓ Content appears to be text")
+        else:
+            print(f"  DEBUG: ✗ Content appears to be binary/compressed")
+            # Try to manually decompress
+            import gzip
+            try:
+                html_content = gzip.decompress(response.content).decode('utf-8')
+                print(f"  DEBUG: ✓ Manually decompressed with gzip")
+            except:
+                print(f"  DEBUG: ✗ Manual gzip decompress failed")
+        
+        # DEBUG: Save HTML to file IMMEDIATELY
         if page_num == 1:
-            with open('etown_debug.html', 'w', encoding='utf-8') as f:
-                f.write(response.text)
-            print(f"  DEBUG: Saved HTML to etown_debug.html for inspection")
+            try:
+                with open('etown_debug.html', 'w', encoding='utf-8') as f:
+                    f.write(html_content)
+                print(f"  DEBUG: ✓ Saved HTML to etown_debug.html")
+            except Exception as e:
+                print(f"  DEBUG: ✗ Failed to save HTML: {e}")
+        
+        soup = BeautifulSoup(html_content, 'html.parser')
         
         # Find all event items (they use class "event-wrapper")
         event_items = soup.find_all('div', class_='event-wrapper')
@@ -59,22 +84,22 @@ def scrape_page(page_num=1):
         
         if not event_items:
             # Check if the content is there at all
-            if "eTown Presents" in response.text:
+            if "eTown Presents" in html_content:
                 print(f"  DEBUG: ✓ 'eTown Presents' IS in HTML")
             else:
                 print(f"  DEBUG: ✗ 'eTown Presents' NOT in HTML - site may be blocking")
                 
-            if "event-wrapper" in response.text:
+            if "event-wrapper" in html_content:
                 print(f"  DEBUG: ✓ 'event-wrapper' text IS in HTML")
             else:
                 print(f"  DEBUG: ✗ 'event-wrapper' text NOT in HTML")
                 
             # Check response length
-            print(f"  DEBUG: HTML length: {len(response.text)} characters")
+            print(f"  DEBUG: HTML length: {len(html_content)} characters")
             
             # Show first 1000 chars
             print(f"  DEBUG: First 1000 chars of HTML:")
-            print(response.text[:1000])
+            print(html_content[:1000])
             
             print(f"  No events found on page {page_num}")
             return []
