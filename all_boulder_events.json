@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-13T08:43:17.927132",
+  "generated_at": "2026-02-13T18:46:29.711661",
   "total_events": 330,
   "tags": {
     "venues": [
@@ -396,11 +396,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Family Friendly",
         "Community",
-        "Music",
+        "All Ages",
         "Performance",
-        "All Ages"
+        "Music",
+        "Family Friendly"
       ]
     },
     {
@@ -428,9 +428,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Music",
-        "Performance"
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -458,8 +458,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Educational"
+        "Educational",
+        "Community"
       ]
     },
     {
@@ -487,10 +487,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Music",
-        "Family Friendly",
-        "All Ages"
+        "All Ages",
+        "Community",
+        "Family Friendly"
       ]
     },
     {
@@ -604,9 +604,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Music",
-        "Performance"
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -634,8 +634,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Performance"
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -663,9 +663,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Music",
-        "Educational"
+        "Educational",
+        "Community"
       ]
     },
     {
@@ -693,9 +693,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
         "Music",
         "Performance",
+        "Community",
         "All Ages"
       ]
     },
@@ -780,8 +780,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Music"
+        "Music",
+        "Community"
       ]
     },
     {
