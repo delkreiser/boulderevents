@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T19:05:01.192567",
-  "total_events": 334,
+  "generated_at": "2026-02-13T08:43:17.927132",
+  "total_events": 330,
   "tags": {
     "venues": [
       "Bands on the Bricks",
@@ -343,19 +343,19 @@
       ]
     },
     {
-      "id": "velvet_elk_lounge_victor_jones_the_construct_tour_2026_march_23_2026",
-      "title": "Victor Jones: The Construct Tour 2026",
+      "id": "velvet_elk_lounge_thirsty_ear_thursdays_march_12_2026",
+      "title": "Thirsty Ear Thursdays",
       "venue": "Velvet Elk Lounge",
       "location": "Boulder",
-      "date": "March 23, 2026",
-      "normalized_date": "2026-03-23T00:00:00",
+      "date": "March 12, 2026",
+      "normalized_date": "2026-03-12T00:00:00",
       "recurring": null,
       "time": null,
       "description": "",
       "additional_info": "",
-      "link": "https://www.velvetelklounge.com/event/march-23rd-victor-jones-the-construct-tour-2026/",
+      "link": "https://www.velvetelklounge.com/event/thirsty-ear-thursdays/",
       "ticket_link": null,
-      "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/77473Victor_Jones_2.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+      "image": "https://images.getbento.com/accounts/ecaa8e8f42deabad027a7392e9ce5335/media/images/32763VEL-ThirstEarThurs2026.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
       "source_url": "https://www.velvetelklounge.com/events/",
       "age_restriction": null,
       "venue_tag": "Velvet Elk Lounge",
@@ -369,95 +369,6 @@
       "event_type_tags": [
         "Live Music",
         "Nightlife"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_junkyard_game_night_thursday_february_12_2026_6_00_9_00_pm",
-      "title": "Junkyard Game Night",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Thursday, February 12, 2026",
-      "normalized_date": "2026-02-12T00:00:00",
-      "recurring": null,
-      "time": "6:00 - 9:00 PM",
-      "description": "",
-      "additional_info": "All Ages are Welcome",
-      "link": "https://junkyardsocialclub.org/drop-in-event/junkyard-game-night/",
-      "ticket_link": null,
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/06/Game-Night-768x768.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": "All Ages",
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "All Ages",
-        "Games",
-        "Community",
-        "Family Friendly"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_fusion_partner_dance_thursday_february_12_2026_doors_6_30_class_6_45_pm_social_dance_7_15",
-      "title": "Fusion Partner Dance",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Thursday, February 12, 2026",
-      "normalized_date": "2026-02-12T00:00:00",
-      "recurring": null,
-      "time": "Doors 6:30 | Class 6:45 PM | Social Dance 7:15",
-      "description": "",
-      "additional_info": "",
-      "link": "https://junkyardsocialclub.org/product/fusion-partner-dance/",
-      "ticket_link": null,
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/06/Fusion-Dance-768x768.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Music",
-        "Community"
-      ]
-    },
-    {
-      "id": "junkyard_social_club_drop_in_mahjongg_thursdays_thursday_february_12_2026_3_30_5_30_pm",
-      "title": "Drop-In Mahjongg \u2013 Thursdays",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Thursday, February 12, 2026",
-      "normalized_date": "2026-02-12T00:00:00",
-      "recurring": null,
-      "time": "3:30 - 5:30 PM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://junkyardsocialclub.org/drop-in-event/drop-in-mahjongg-thursdays/",
-      "ticket_link": null,
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/08/Drop-In-Mah-Jongg-Thursday.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": null,
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Games",
-        "Community"
       ]
     },
     {
@@ -485,11 +396,11 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
         "Family Friendly",
-        "Music",
         "Community",
-        "Performance"
+        "Music",
+        "Performance",
+        "All Ages"
       ]
     },
     {
@@ -517,8 +428,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Community",
+        "Music",
         "Performance"
       ]
     },
@@ -547,8 +458,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Educational",
-        "Community"
+        "Community",
+        "Educational"
       ]
     },
     {
@@ -576,10 +487,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Music",
         "Community",
-        "Family Friendly"
+        "Music",
+        "Family Friendly",
+        "All Ages"
       ]
     },
     {
@@ -607,8 +518,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
-        "Community"
+        "Community",
+        "Games"
       ]
     },
     {
@@ -693,8 +604,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Community",
+        "Music",
         "Performance"
       ]
     },
@@ -752,9 +663,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Educational",
+        "Community",
         "Music",
-        "Community"
+        "Educational"
       ]
     },
     {
@@ -782,8 +693,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Community",
+        "Music",
         "Performance",
         "All Ages"
       ]
@@ -869,8 +780,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
@@ -1063,34 +974,6 @@
         "Food & Drink"
       ],
       "event_type_tags": []
-    },
-    {
-      "id": "st_julien_hotel_spa_mezzo_mestizo_february_12_2026_6_00_pm_9_00_pm",
-      "title": "Mezzo Mestizo",
-      "venue": "St Julien Hotel & Spa",
-      "location": "Boulder",
-      "date": "February 12, 2026",
-      "normalized_date": "2026-02-12T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM - 9:00 PM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://stjulien.com/event/mezzo-mestizo-24/",
-      "ticket_link": null,
-      "image": "stjulien.jpg",
-      "source_url": "https://stjulien.com/boulder-colorado-events/month/?tribe_eventcategory%5B0%5D=83",
-      "age_restriction": null,
-      "venue_tag": "St Julien Hotel & Spa",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Entertainment",
-        "Hotel",
-        "Upscale"
-      ],
-      "event_type_tags": [
-        "Entertainment",
-        "Hotel Events"
-      ]
     },
     {
       "id": "st_julien_hotel_spa_the_maydays_february_13_2026_6_00_pm_9_00_pm",
@@ -1317,12 +1200,12 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_morgan_mchugh_february_12_2026_6_00_pm",
+      "id": "trident_booksellers_cafe_morgan_mchugh_february_12_2027_6_00_pm",
       "title": "Morgan McHugh",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
-      "date": "February 12, 2026",
-      "normalized_date": "2026-02-12T00:00:00",
+      "date": "February 12, 2027",
+      "normalized_date": "2027-02-12T00:00:00",
       "recurring": null,
       "time": "6:00 PM",
       "description": "Morgan McHugh is an indie folk singer-songwriter from Bellingham WA. Growing up, immersed in a family and community of musicians, he has been playing the piano, the guitar, and writing songs from a young age.\u00a0His music has been inspired by artists like\u00a0Neil Young, John Prine, and Gregory Alan Isakov...",
@@ -2097,6 +1980,36 @@
       ]
     },
     {
+      "id": "trident_booksellers_cafe_tony_domenick_march_22_2026_10_00_am",
+      "title": "Tony Domenick",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "March 22, 2026",
+      "normalized_date": "2026-03-22T00:00:00",
+      "recurring": null,
+      "time": "10:00 AM",
+      "description": "Tony Domenick is a singer, songwriter, teacher, choir director, and recording engineer; Cora Crisman is an orchestral & solo flutist, teacher, and adjunct faculty at Regis University. Together they've released an album of improvised music called \"Meditations \u2014 invitation to sadness.\" Tony & Cora are...",
+      "additional_info": "",
+      "link": "https://www.tridentcafe.com/events/2026/3/22/tony-domenick",
+      "ticket_link": null,
+      "image": "trident.jpg",
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Books",
+        "Community"
+      ]
+    },
+    {
       "id": "trident_booksellers_cafe_language_exchange_night_march_23_2026_7_00_pm",
       "title": "Language Exchange Night",
       "venue": "Trident Booksellers & Cafe",
@@ -2367,8 +2280,8 @@
       ]
     },
     {
-      "id": "trident_booksellers_cafe_gracie_jay_vylla_april_16_2026_6_00_pm",
-      "title": "Gracie Jay / VYLLA",
+      "id": "trident_booksellers_cafe_gracie_jay_april_16_2026_6_00_pm",
+      "title": "Gracie Jay",
       "venue": "Trident Booksellers & Cafe",
       "location": "Boulder",
       "date": "April 16, 2026",
@@ -2405,7 +2318,7 @@
       "normalized_date": "2026-04-17T00:00:00",
       "recurring": null,
       "time": "6:00 PM",
-      "description": "Juniper Blue is an indie rock band from Colorado that loves to jam. We play from the heart, make music we love, and bring it to life on stage.",
+      "description": "Juniper Blue is an indie rock band from Colorado that loves to jam. We play from the heart, make music we love, and bring it to life on stage.Kittens from the Planet Koion, here to play music for you Earthlings! Arriving to your world in 2015, Koion Kitten has had many amazing contributions from dif...",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2026/4/17/juniper-blue",
       "ticket_link": null,
@@ -2438,6 +2351,36 @@
       "description": "\"With humble roots in an unheated backyard shed, Boulder-based Jehovah's Fitness Club brings an eclectic mix of jazz, funk, blues and Latin sounds to the local scene. With eight enthused musicians at its core, JFC has a budding track record of putting on a lighthearted and energetic show, drawing cr...",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2026/2/21/john-shepherd-xxa42-a6kpg",
+      "ticket_link": null,
+      "image": "trident.jpg",
+      "source_url": "https://www.tridentcafe.com/events",
+      "age_restriction": null,
+      "venue_tag": "Trident Booksellers & Cafe",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Books",
+        "Literary",
+        "Cafe",
+        "Arts"
+      ],
+      "event_type_tags": [
+        "Live Music",
+        "Books",
+        "Community"
+      ]
+    },
+    {
+      "id": "trident_booksellers_cafe_dez_amis_april_19_2026_6_00_pm",
+      "title": "Dez Amis",
+      "venue": "Trident Booksellers & Cafe",
+      "location": "Boulder",
+      "date": "April 19, 2026",
+      "normalized_date": "2026-04-19T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM",
+      "description": "Dez Amis is an acoustic duo or trio featuring Robin Lopate on guitar and Cat Precourt on mandolin, sometimes joined by guest musicians. Rooted in Americana, folk, classic rock, and singer-songwriter traditions, their music draws heavily from the baby-boomer era.In addition to familiar favorites, Dez...",
+      "additional_info": "",
+      "link": "https://www.tridentcafe.com/events/2026/4/19/dez-amis",
       "ticket_link": null,
       "image": "trident.jpg",
       "source_url": "https://www.tridentcafe.com/events",
@@ -2585,7 +2528,7 @@
       "normalized_date": "2026-04-25T00:00:00",
       "recurring": null,
       "time": "6:00 PM",
-      "description": "",
+      "description": "Hi. We're a multi-instrumental, multi-genre band started by husband and wife team Niki and Luke Tredinnick that blends elements of rock with indie-folk, using jazz-influenced vocals and unconventional instruments such as accordion, clarinet, and trombone. We want to get you singing and dancing and f...",
       "additional_info": "",
       "link": "https://www.tridentcafe.com/events/2026/4/25/the-dollhouse-theives",
       "ticket_link": null,
@@ -4077,62 +4020,6 @@
       ]
     },
     {
-      "id": "license_no_1_the_underground_comedy_showcase_thursday_february_12_2026_8_00_pm_9_00_pm",
-      "title": "The Underground Comedy Showcase",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": "Thursday, February 12, 2026",
-      "normalized_date": "2026-02-12T00:00:00",
-      "recurring": null,
-      "time": "8:00\u202fPM - 9:00\u202fPM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.license1boulderado.com/calendar/k8323mmrc6xcae42s32j5x48gx5ywr",
-      "ticket_link": null,
-      "image": "licenseno1.jpg",
-      "source_url": "https://www.license1boulderado.com/calendar",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+"
-      ],
-      "event_type_tags": [
-        "Comedy",
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "license_no_1_live_music_with_hunter_stone_thursday_february_12_2026_9_00_pm_11_59_pm",
-      "title": "Live Music With Hunter Stone",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": "Thursday, February 12, 2026",
-      "normalized_date": "2026-02-12T00:00:00",
-      "recurring": null,
-      "time": "9:00\u202fPM - 11:59\u202fPM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.license1boulderado.com/calendar/live-music-with-hunter-stone-4",
-      "ticket_link": null,
-      "image": "licenseno1.jpg",
-      "source_url": "https://www.license1boulderado.com/calendar",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Nightlife"
-      ]
-    },
-    {
       "id": "license_no_1_the_underground_comedy_showcase_friday_february_13_2026_8_00_pm_9_00_pm",
       "title": "The Underground Comedy Showcase",
       "venue": "License No 1",
@@ -5482,12 +5369,12 @@
       ]
     },
     {
-      "id": "rosetta_hall_four_lives_february_12_2026_10_00_pm",
+      "id": "rosetta_hall_four_lives_february_12_2027_10_00_pm",
       "title": "FOUR LIVES",
       "venue": "Rosetta Hall",
       "location": "Boulder",
-      "date": "February 12, 2026",
-      "normalized_date": "2026-02-12T00:00:00",
+      "date": "February 12, 2027",
+      "normalized_date": "2027-02-12T00:00:00",
       "recurring": null,
       "time": "10:00 PM",
       "description": "TECH HOUSE",
@@ -5962,34 +5849,6 @@
       ]
     },
     {
-      "id": "bricks_on_main_defunkt_railroad_february_12_2026_6_00_pm_8_00_pm",
-      "title": "Defunkt Railroad",
-      "venue": "Bricks on Main",
-      "location": "Longmont",
-      "date": "February 12, 2026",
-      "normalized_date": "2026-02-12T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM - 8:00 PM",
-      "description": "Defunkt Railroad plays a mix of New Orleans Funk, Zydeco, Blues, Rock, and R&B. Defunkt Railroad features the soulful lead vocals of Ms DJ Mrugala who is also the drummer with the band.",
-      "additional_info": "",
-      "link": "https://www.bricksretail.com/event-details/defunkt-railroad-1",
-      "ticket_link": null,
-      "image": "https://static.wixstatic.com/media/ea2d6f_6c0d4302c0814134a00dea8798184450~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_6c0d4302c0814134a00dea8798184450~mv2.jpg",
-      "source_url": "https://www.bricksretail.com/events-calendar",
-      "age_restriction": null,
-      "venue_tag": "Bricks on Main",
-      "location_tag": "Longmont",
-      "venue_type_tags": [
-        "Community",
-        "Retail",
-        "Entertainment"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Entertainment"
-      ]
-    },
-    {
       "id": "bricks_on_main_the_big_spenders_february_13_2026_6_00_pm_9_00_pm",
       "title": "The Big Spenders",
       "venue": "Bricks on Main",
@@ -6384,29 +6243,31 @@
       ]
     },
     {
-      "id": "roots_music_project_face_vocal_band_a_valentine_s_night_of_harmony_heart_february_12_2026_7_00_pm_10_00_pm",
-      "title": "Face Vocal Band: A Valentine's Night of Harmony & Heart",
-      "venue": "Roots Music Project",
-      "location": "Boulder",
-      "date": "February 12, 2026",
-      "normalized_date": "2026-02-12T00:00:00",
+      "id": "bricks_on_main_ten_cent_prophet_march_06_2026_6_00_pm_9_00_pm",
+      "title": "Ten Cent Prophet",
+      "venue": "Bricks on Main",
+      "location": "Longmont",
+      "date": "March 06, 2026",
+      "normalized_date": "2026-03-06T00:00:00",
       "recurring": null,
-      "time": "7:00 PM - 10:00 PM",
-      "description": "Celebrate love in all forms with Face Vocal Band's stunning harmonies, heartfelt ballads & infectious energy. Valentine's magic awaits!",
+      "time": "6:00 PM - 9:00 PM",
+      "description": "Get ready to rock out with the dynamic sounds of Ten Cent Prophet, a versatile band hailing from the front range of Colorado. Whether you're a fan of classic rock, country, 90s hits, or dance tunes, these guys have got you covered.",
       "additional_info": "",
-      "link": "https://www.eventbrite.com/e/face-vocal-band-a-valentines-night-of-harmony-heart-tickets-1975614440975",
+      "link": "https://www.bricksretail.com/event-details/ten-cent-prophet-1",
       "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171737840%2F1125606624043%2F1%2Foriginal.20251125-170141?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=9aa66c945dcdc7431a2ea5d03a14881c",
-      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
-      "age_restriction": "21+",
-      "venue_tag": "Roots Music Project",
-      "location_tag": "Boulder",
+      "image": "https://static.wixstatic.com/media/ea2d6f_616e255b35054dedaa3e80bebaa2cf5c~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_616e255b35054dedaa3e80bebaa2cf5c~mv2.jpg",
+      "source_url": "https://www.bricksretail.com/events-calendar",
+      "age_restriction": null,
+      "venue_tag": "Bricks on Main",
+      "location_tag": "Longmont",
       "venue_type_tags": [
-        "Live Music",
-        "Community"
+        "Community",
+        "Retail",
+        "Entertainment"
       ],
       "event_type_tags": [
-        "Live Music"
+        "Live Music",
+        "Entertainment"
       ]
     },
     {
@@ -6995,6 +6856,32 @@
       "link": "https://www.eventbrite.com/e/in-bloom-rmp-silent-auction-spring-fundraiser-tickets-1980905379314",
       "ticket_link": null,
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175276529%2F1125606624043%2F1%2Foriginal.20260119-205725?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=637cdfcda02d393607f0af12f02e02b2",
+      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_roots_music_project_workshop_intro_to_music_theory_4_week_course_march_30_2026_6_30_pm_8_00_pm",
+      "title": "Roots Music Project Workshop: Intro to Music Theory (4 Week Course)",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": "March 30, 2026",
+      "normalized_date": "2026-03-30T00:00:00",
+      "recurring": null,
+      "time": "6:30 PM - 8:00 PM",
+      "description": "Demystify music theory with practical lessons. Learn scales, chords & progressions on your instrument. All levels welcome. Guitar-friendly f",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/roots-music-project-workshop-intro-to-music-theory-4-week-course-tickets-1981537102816",
+      "ticket_link": null,
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175788440%2F1125606624043%2F1%2Foriginal.20260125-213618?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=370ce3a13fc789e300ebc814221edd0f",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -7936,31 +7823,6 @@
         "All Ages",
         "Free"
       ]
-    },
-    {
-      "id": "fox_theatre_the_galentines_with_squash_desiderata_feb_12_2026_none",
-      "title": "The Galentines with Squash, Desiderata",
-      "venue": "Fox Theatre",
-      "location": "Boulder",
-      "date": "Feb 12, 2026",
-      "normalized_date": "2026-02-12",
-      "recurring": null,
-      "time": null,
-      "description": null,
-      "additional_info": "",
-      "link": "https://www.z2ent.com/events/detail/galentines-2026-fox",
-      "ticket_link": "https://www.axs.com/events/1259256/?skin=foxtheatre",
-      "image": "images/z2/the-galentines-with-squash-desiderata-72b0dddd.jpg",
-      "source_url": null,
-      "age_restriction": null,
-      "venue_tag": "Fox Theatre",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Concert",
-        "Theater"
-      ],
-      "event_type_tags": []
     },
     {
       "id": "boulder_theater_the_record_company_with_jontavious_willis_feb_13_2026_none",
@@ -8929,6 +8791,31 @@
       "source_url": null,
       "age_restriction": null,
       "venue_tag": "Boulder Theater",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "fox_theatre_jonah_kagen_with_anna_graves_mar_21_2026_none",
+      "title": "Jonah Kagen with Anna Graves",
+      "venue": "Fox Theatre",
+      "location": "Boulder",
+      "date": "Mar 21, 2026",
+      "normalized_date": "2026-03-21",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": "https://www.z2ent.com/events/detail/jonah-kagen-2026-fox",
+      "ticket_link": "https://www.axs.com/events/1149661/?skin=foxtheatre",
+      "image": "images/z2/jonah-kagen-with-anna-graves-7b7c1833.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Fox Theatre",
       "location_tag": "Boulder",
       "venue_type_tags": [
         "Live Music",

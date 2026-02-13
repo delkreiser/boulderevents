@@ -2,7 +2,7 @@
   {
     "title": "Morgan McHugh",
     "link": "https://www.tridentcafe.com/events/2026/2/12/morgan-mchugh",
-    "date": "February 12, 2026",
+    "date": "February 12, 2027",
     "time": "6:00 PM",
     "description": "Morgan McHugh is an indie folk singer-songwriter from Bellingham WA. Growing up, immersed in a family and community of musicians, he has been playing the piano, the guitar, and writing songs from a young age.\u00a0His music has been inspired by artists like\u00a0Neil Young, John Prine, and Gregory Alan Isakov...",
     "venue": "Trident Booksellers & Cafe",
@@ -569,6 +569,28 @@
     ]
   },
   {
+    "title": "Tony Domenick",
+    "link": "https://www.tridentcafe.com/events/2026/3/22/tony-domenick",
+    "date": "March 22, 2026",
+    "time": "10:00 AM",
+    "description": "Tony Domenick is a singer, songwriter, teacher, choir director, and recording engineer; Cora Crisman is an orchestral & solo flutist, teacher, and adjunct faculty at Regis University. Together they've released an album of improvised music called \"Meditations \u2014 invitation to sadness.\" Tony & Cora are...",
+    "venue": "Trident Booksellers & Cafe",
+    "location": "Boulder",
+    "category": "Books & Literary",
+    "source_url": "https://www.tridentcafe.com/events",
+    "image": "trident.jpg",
+    "event_type_tags": [
+      "Live Music",
+      "Books",
+      "Community"
+    ],
+    "venue_type_tags": [
+      "Cafe",
+      "Bookstore",
+      "Music Venue"
+    ]
+  },
+  {
     "title": "Language Exchange Night",
     "link": "https://www.tridentcafe.com/events/jtxxcfz2rmd4x3g-dxmzf-ldm97-rmfkz-k67bh-8tkb6-5bcx5-8al4f-9a9dp-6ysx6-ptzjr-dpfck-rlz5t-twtl3-93xj2-xs6p5-2zwns-hjbet-g4z5d-2n8jb-67r97-b4mtf-s7a5x-brgdj-p3rzz-kbhrm-5ehej",
     "date": "March 23, 2026",
@@ -765,7 +787,7 @@
     ]
   },
   {
-    "title": "Gracie Jay / VYLLA",
+    "title": "Gracie Jay",
     "link": "https://www.tridentcafe.com/events/2026/4/16/gracie-jay-vylla",
     "date": "April 16, 2026",
     "time": "6:00 PM",
@@ -791,7 +813,7 @@
     "link": "https://www.tridentcafe.com/events/2026/4/17/juniper-blue",
     "date": "April 17, 2026",
     "time": "6:00 PM",
-    "description": "Juniper Blue is an indie rock band from Colorado that loves to jam. We play from the heart, make music we love, and bring it to life on stage.",
+    "description": "Juniper Blue is an indie rock band from Colorado that loves to jam. We play from the heart, make music we love, and bring it to life on stage.Kittens from the Planet Koion, here to play music for you Earthlings! Arriving to your world in 2015, Koion Kitten has had many amazing contributions from dif...",
     "venue": "Trident Booksellers & Cafe",
     "location": "Boulder",
     "category": "Books & Literary",
@@ -814,6 +836,28 @@
     "date": "April 18, 2026",
     "time": "6:00 PM",
     "description": "\"With humble roots in an unheated backyard shed, Boulder-based Jehovah's Fitness Club brings an eclectic mix of jazz, funk, blues and Latin sounds to the local scene. With eight enthused musicians at its core, JFC has a budding track record of putting on a lighthearted and energetic show, drawing cr...",
+    "venue": "Trident Booksellers & Cafe",
+    "location": "Boulder",
+    "category": "Books & Literary",
+    "source_url": "https://www.tridentcafe.com/events",
+    "image": "trident.jpg",
+    "event_type_tags": [
+      "Live Music",
+      "Books",
+      "Community"
+    ],
+    "venue_type_tags": [
+      "Cafe",
+      "Bookstore",
+      "Music Venue"
+    ]
+  },
+  {
+    "title": "Dez Amis",
+    "link": "https://www.tridentcafe.com/events/2026/4/19/dez-amis",
+    "date": "April 19, 2026",
+    "time": "6:00 PM",
+    "description": "Dez Amis is an acoustic duo or trio featuring Robin Lopate on guitar and Cat Precourt on mandolin, sometimes joined by guest musicians. Rooted in Americana, folk, classic rock, and singer-songwriter traditions, their music draws heavily from the baby-boomer era.In addition to familiar favorites, Dez...",
     "venue": "Trident Booksellers & Cafe",
     "location": "Boulder",
     "category": "Books & Literary",
@@ -923,6 +967,7 @@
     "link": "https://www.tridentcafe.com/events/2026/4/25/the-dollhouse-theives",
     "date": "April 25, 2026",
     "time": "6:00 PM",
+    "description": "Hi. We're a multi-instrumental, multi-genre band started by husband and wife team Niki and Luke Tredinnick that blends elements of rock with indie-folk, using jazz-influenced vocals and unconventional instruments such as accordion, clarinet, and trombone. We want to get you singing and dancing and f...",
     "venue": "Trident Booksellers & Cafe",
     "location": "Boulder",
     "category": "Books & Literary",

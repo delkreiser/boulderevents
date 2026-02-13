@@ -1,21 +1,5 @@
 [
   {
-    "title": "The Galentines with Squash, Desiderata",
-    "venue": "Fox Theatre",
-    "location": "Boulder",
-    "date": "Feb 12, 2026",
-    "normalized_date": "2026-02-12",
-    "time": null,
-    "image": "images/z2/the-galentines-with-squash-desiderata-72b0dddd.jpg",
-    "url": "https://www.z2ent.com/events/detail/galentines-2026-fox",
-    "ticket_link": "https://www.axs.com/events/1259256/?skin=foxtheatre",
-    "tags": [
-      "music",
-      "concert"
-    ],
-    "description": null
-  },
-  {
     "title": "The Record Company with Jontavious Willis",
     "venue": "Boulder Theater",
     "location": "Boulder",
@@ -633,6 +617,22 @@
     "image": "images/z2/nick-lowe-solo-with-the-cactus-blossoms-acoustic-d-c90aae32.jpg",
     "url": "https://www.z2ent.com/events/detail/nick-lowe-2026-bt",
     "ticket_link": "https://www.axs.com/events/1215505/?skin=bouldertheater",
+    "tags": [
+      "music",
+      "concert"
+    ],
+    "description": null
+  },
+  {
+    "title": "Jonah Kagen with Anna Graves",
+    "venue": "Fox Theatre",
+    "location": "Boulder",
+    "date": "Mar 21, 2026",
+    "normalized_date": "2026-03-21",
+    "time": null,
+    "image": "images/z2/jonah-kagen-with-anna-graves-7b7c1833.jpg",
+    "url": "https://www.z2ent.com/events/detail/jonah-kagen-2026-fox",
+    "ticket_link": "https://www.axs.com/events/1149661/?skin=foxtheatre",
     "tags": [
       "music",
       "concert"
