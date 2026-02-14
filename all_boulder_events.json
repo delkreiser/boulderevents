@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T08:33:41.838925",
-  "total_events": 326,
+  "generated_at": "2026-02-14T18:34:32.420488",
+  "total_events": 329,
   "tags": {
     "venues": [
       "Bands on the Bricks",
@@ -396,9 +396,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
+        "Music",
         "Community",
-        "Music"
+        "Performance"
       ]
     },
     {
@@ -455,10 +455,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Community",
+        "Music",
         "Family Friendly",
-        "Music"
+        "Community",
+        "All Ages"
       ]
     },
     {
@@ -486,8 +486,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Games",
-        "Community"
+        "Community",
+        "Games"
       ]
     },
     {
@@ -515,8 +515,38 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Community",
+        "All Ages"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_claude_code_meetup_boulder_thursday_february_19_2026_6_00_pm_8_00_pm",
+      "title": "Claude Code Meetup \u2013 Boulder",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Thursday, February 19, 2026",
+      "normalized_date": "2026-02-19T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM - 8:00 PM",
+      "description": "",
+      "additional_info": "All Ages are Welcome",
+      "link": "https://junkyardsocialclub.org/event/claude-code-meetup-boulder/",
+      "ticket_link": null,
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2026/02/Claude-Boulder-768x768.jpeg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": "All Ages",
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Community",
         "All Ages",
-        "Community"
+        "Educational"
       ]
     },
     {
@@ -572,8 +602,36 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
+        "Music",
         "Community",
+        "Performance"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_pink_mammoth_presents_til_midnight_saturday_february_21_2026_7_00_pm_1_00_am",
+      "title": "Pink Mammoth Presents Til Midnight",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Saturday, February 21, 2026",
+      "normalized_date": "2026-02-21T00:00:00",
+      "recurring": null,
+      "time": "7:00 PM - 1:00 AM",
+      "description": "",
+      "additional_info": "Must be age 21+",
+      "link": "https://junkyardsocialclub.org/event/pink-mammoth-presents/",
+      "ticket_link": null,
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/01/TIL-MIDNIGHT-Feb-21-768x385.jpg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": null,
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
         "Music"
       ]
     },
@@ -602,8 +660,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Community"
+        "Community",
+        "Performance"
       ]
     },
     {
@@ -631,9 +689,41 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Music",
         "Community",
-        "Educational",
-        "Music"
+        "Educational"
+      ]
+    },
+    {
+      "id": "junkyard_social_club_junkyard_jams_friday_february_27_2026_5_00_pm_9_00_pm",
+      "title": "Junkyard Jams",
+      "venue": "Junkyard Social Club",
+      "location": "Boulder",
+      "date": "Friday, February 27, 2026",
+      "normalized_date": "2026-02-27T00:00:00",
+      "recurring": null,
+      "time": "5:00 PM - 9:00 PM",
+      "description": "",
+      "additional_info": "All-ages are welcome",
+      "link": "https://junkyardsocialclub.org/drop-in-event/junkyard-jams/",
+      "ticket_link": null,
+      "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/03/Junkyard-Jams-768x932.jpg",
+      "source_url": "https://junkyardsocialclub.org/events/",
+      "age_restriction": "All Ages",
+      "venue_tag": "Junkyard Social Club",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Community",
+        "Arts",
+        "Performance",
+        "All Ages"
+      ],
+      "event_type_tags": [
+        "Family Friendly",
+        "Music",
+        "All Ages",
+        "Performance",
+        "Community"
       ]
     },
     {
@@ -661,10 +751,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "All Ages",
-        "Performance",
+        "Music",
         "Community",
-        "Music"
+        "Performance",
+        "All Ages"
       ]
     },
     {
@@ -724,14 +814,14 @@
       ]
     },
     {
-      "id": "junkyard_social_club_fresh_a_la_mode_saturday_march_14_2026_7_00_11_00_pm",
+      "id": "junkyard_social_club_fresh_a_la_mode_saturday_march_14_2026_7_00_midnight",
       "title": "Fresh A La Mode",
       "venue": "Junkyard Social Club",
       "location": "Boulder",
       "date": "Saturday, March 14, 2026",
       "normalized_date": "2026-03-14T00:00:00",
       "recurring": null,
-      "time": "7:00 - 11:00 PM",
+      "time": "7:00 - Midnight",
       "description": "",
       "additional_info": "Must be age 18+",
       "link": "https://junkyardsocialclub.org/event/fresh-ala-mode/",
@@ -748,8 +838,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Music",
         "Community",
-        "Music"
+        "Performance"
       ]
     },
     {
@@ -777,9 +868,9 @@
         "All Ages"
       ],
       "event_type_tags": [
+        "Music",
         "All Ages",
-        "Performance",
-        "Music"
+        "Performance"
       ]
     },
     {
@@ -807,8 +898,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Performance",
-        "Music"
+        "Music",
+        "Performance"
       ]
     },
     {

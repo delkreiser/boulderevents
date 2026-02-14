@@ -71,6 +71,21 @@
     "source_url": "https://junkyardsocialclub.org/events/"
   },
   {
+    "title": "Claude Code Meetup \u2013 Boulder",
+    "categories": [
+      "Community",
+      "Educational"
+    ],
+    "date": "Thursday, February 19, 2026",
+    "time": "6:00 PM - 8:00 PM",
+    "additional_info": "All Ages are Welcome",
+    "age_restriction": "All Ages",
+    "link": "https://junkyardsocialclub.org/event/claude-code-meetup-boulder/",
+    "image": "https://junkyardsocialclub.org/wp-content/uploads/2026/02/Claude-Boulder-768x768.jpeg",
+    "venue": "Junkyard Social Club",
+    "source_url": "https://junkyardsocialclub.org/events/"
+  },
+  {
     "title": "CreativeMornings",
     "categories": [
       "Community"
@@ -99,6 +114,19 @@
     "source_url": "https://junkyardsocialclub.org/events/"
   },
   {
+    "title": "Pink Mammoth Presents Til Midnight",
+    "categories": [
+      "Dance/Music"
+    ],
+    "date": "Saturday, February 21, 2026",
+    "time": "7:00 PM - 1:00 AM",
+    "additional_info": "Must be age 21+",
+    "link": "https://junkyardsocialclub.org/event/pink-mammoth-presents/",
+    "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/01/TIL-MIDNIGHT-Feb-21-768x385.jpg",
+    "venue": "Junkyard Social Club",
+    "source_url": "https://junkyardsocialclub.org/events/"
+  },
+  {
     "title": "Queer Art Organics Open Mic",
     "categories": [
       "Community",
@@ -122,6 +150,23 @@
     "time": "6:00 -9:00 PM",
     "link": "https://junkyardsocialclub.org/drop-in-event/flow-jam/",
     "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/09/FlowJam-2025-768x768.jpg",
+    "venue": "Junkyard Social Club",
+    "source_url": "https://junkyardsocialclub.org/events/"
+  },
+  {
+    "title": "Junkyard Jams",
+    "categories": [
+      "Community",
+      "Dance/Music",
+      "Performance",
+      "Family Fun"
+    ],
+    "date": "Friday, February 27, 2026",
+    "time": "5:00 PM - 9:00 PM",
+    "additional_info": "All-ages are welcome",
+    "age_restriction": "All Ages",
+    "link": "https://junkyardsocialclub.org/drop-in-event/junkyard-jams/",
+    "image": "https://junkyardsocialclub.org/wp-content/uploads/2025/03/Junkyard-Jams-768x932.jpg",
     "venue": "Junkyard Social Club",
     "source_url": "https://junkyardsocialclub.org/events/"
   },
@@ -169,10 +214,11 @@
     "title": "Fresh A La Mode",
     "categories": [
       "Community",
-      "Dance/Music"
+      "Dance/Music",
+      "Performance"
     ],
     "date": "Saturday, March 14, 2026",
-    "time": "7:00 - 11:00 PM",
+    "time": "7:00 - Midnight",
     "additional_info": "Must be age 18+",
     "link": "https://junkyardsocialclub.org/event/fresh-ala-mode/",
     "image": "https://junkyardsocialclub.org/wp-content/uploads/2026/01/Fresh-A-La-Mode-768x1186.jpeg",
