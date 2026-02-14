@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T18:46:29.711661",
-  "total_events": 330,
+  "generated_at": "2026-02-14T08:33:41.838925",
+  "total_events": 326,
   "tags": {
     "venues": [
       "Bands on the Bricks",
@@ -82,12 +82,12 @@
   },
   "events": [
     {
-      "id": "velvet_elk_lounge_rolling_harvest_february_13_2026",
+      "id": "velvet_elk_lounge_rolling_harvest_february_13_2027",
       "title": "Rolling Harvest",
       "venue": "Velvet Elk Lounge",
       "location": "Boulder",
-      "date": "February 13, 2026",
-      "normalized_date": "2026-02-13T00:00:00",
+      "date": "February 13, 2027",
+      "normalized_date": "2027-02-13T00:00:00",
       "recurring": null,
       "time": null,
       "description": "",
@@ -372,38 +372,6 @@
       ]
     },
     {
-      "id": "junkyard_social_club_salsaton_events_friday_february_13_2026_7_30_11_00_pm",
-      "title": "Salsaton Events",
-      "venue": "Junkyard Social Club",
-      "location": "Boulder",
-      "date": "Friday, February 13, 2026",
-      "normalized_date": "2026-02-13T00:00:00",
-      "recurring": null,
-      "time": "7:30 - 11:00 PM",
-      "description": "",
-      "additional_info": "Family Friendly",
-      "link": "https://junkyardsocialclub.org/product/salsaton-events/",
-      "ticket_link": null,
-      "image": "https://junkyardsocialclub.org/wp-content/uploads/2024/12/Salsaton-Dance-Party-768x644.jpg",
-      "source_url": "https://junkyardsocialclub.org/events/",
-      "age_restriction": "All Ages",
-      "venue_tag": "Junkyard Social Club",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Community",
-        "Arts",
-        "Performance",
-        "All Ages"
-      ],
-      "event_type_tags": [
-        "Community",
-        "All Ages",
-        "Performance",
-        "Music",
-        "Family Friendly"
-      ]
-    },
-    {
       "id": "junkyard_social_club_unicorn_love_party_love_in_retrograde_saturday_february_14_2026_7_pm_unicorn_speed_bonding_10_add_on_ticket_8_pm_12_30_am_dance_party_all_night_temple_of_lost_loves_love_storytelling",
       "title": "Unicorn Love Party: Love in Retrograde",
       "venue": "Junkyard Social Club",
@@ -428,9 +396,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Performance",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
@@ -458,8 +426,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Educational",
-        "Community"
+        "Community",
+        "Educational"
       ]
     },
     {
@@ -487,10 +455,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "All Ages",
         "Community",
-        "Family Friendly"
+        "Family Friendly",
+        "Music"
       ]
     },
     {
@@ -518,8 +486,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "Games"
+        "Games",
+        "Community"
       ]
     },
     {
@@ -547,8 +515,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Community",
-        "All Ages"
+        "All Ages",
+        "Community"
       ]
     },
     {
@@ -604,9 +572,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
         "Performance",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
@@ -663,9 +631,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
+        "Community",
         "Educational",
-        "Community"
+        "Music"
       ]
     },
     {
@@ -693,10 +661,10 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
+        "All Ages",
         "Performance",
         "Community",
-        "All Ages"
+        "Music"
       ]
     },
     {
@@ -780,8 +748,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "Community"
+        "Community",
+        "Music"
       ]
     },
     {
@@ -809,9 +777,9 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
+        "All Ages",
         "Performance",
-        "All Ages"
+        "Music"
       ]
     },
     {
@@ -839,8 +807,8 @@
         "All Ages"
       ],
       "event_type_tags": [
-        "Music",
-        "Performance"
+        "Performance",
+        "Music"
       ]
     },
     {
@@ -974,34 +942,6 @@
         "Food & Drink"
       ],
       "event_type_tags": []
-    },
-    {
-      "id": "st_julien_hotel_spa_the_maydays_february_13_2026_6_00_pm_9_00_pm",
-      "title": "The Maydays",
-      "venue": "St Julien Hotel & Spa",
-      "location": "Boulder",
-      "date": "February 13, 2026",
-      "normalized_date": "2026-02-13T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM - 9:00 PM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://stjulien.com/event/the-maydays/",
-      "ticket_link": null,
-      "image": "stjulien.jpg",
-      "source_url": "https://stjulien.com/boulder-colorado-events/month/?tribe_eventcategory%5B0%5D=83",
-      "age_restriction": null,
-      "venue_tag": "St Julien Hotel & Spa",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Entertainment",
-        "Hotel",
-        "Upscale"
-      ],
-      "event_type_tags": [
-        "Entertainment",
-        "Hotel Events"
-      ]
     },
     {
       "id": "st_julien_hotel_spa_groove_holiday_february_14_2026_6_00_pm_9_00_pm",
@@ -4020,62 +3960,6 @@
       ]
     },
     {
-      "id": "license_no_1_the_underground_comedy_showcase_friday_february_13_2026_8_00_pm_9_00_pm",
-      "title": "The Underground Comedy Showcase",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": "Friday, February 13, 2026",
-      "normalized_date": "2026-02-13T00:00:00",
-      "recurring": null,
-      "time": "8:00\u202fPM - 9:00\u202fPM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.license1boulderado.com/calendar/a48648rd8d8zknswwa4dhdylp3p94x",
-      "ticket_link": null,
-      "image": "licenseno1.jpg",
-      "source_url": "https://www.license1boulderado.com/calendar",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+"
-      ],
-      "event_type_tags": [
-        "Comedy",
-        "Nightlife"
-      ]
-    },
-    {
-      "id": "license_no_1_live_music_with_phoebe_nix_friday_february_13_2026_9_00_pm_11_59_pm",
-      "title": "Live Music With Phoebe Nix",
-      "venue": "License No 1",
-      "location": "Boulder",
-      "date": "Friday, February 13, 2026",
-      "normalized_date": "2026-02-13T00:00:00",
-      "recurring": null,
-      "time": "9:00\u202fPM - 11:59\u202fPM",
-      "description": "",
-      "additional_info": "",
-      "link": "https://www.license1boulderado.com/calendar/live-music-with-phoebe-nix-3",
-      "ticket_link": null,
-      "image": "licenseno1.jpg",
-      "source_url": "https://www.license1boulderado.com/calendar",
-      "age_restriction": null,
-      "venue_tag": "License No 1",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Nightlife",
-        "Bar",
-        "21+"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Nightlife"
-      ]
-    },
-    {
       "id": "license_no_1_live_music_with_george_nelson_band_wednesday_february_18_2026_8_00_pm_11_59_pm",
       "title": "Live Music With George Nelson Band",
       "venue": "License No 1",
@@ -5401,12 +5285,12 @@
       ]
     },
     {
-      "id": "rosetta_hall_tba_february_13_2026_10_00_pm",
+      "id": "rosetta_hall_tba_february_13_2027_10_00_pm",
       "title": "TBA",
       "venue": "Rosetta Hall",
       "location": "Boulder",
-      "date": "February 13, 2026",
-      "normalized_date": "2026-02-13T00:00:00",
+      "date": "February 13, 2027",
+      "normalized_date": "2027-02-13T00:00:00",
       "recurring": null,
       "time": "10:00 PM",
       "description": "TBA",
@@ -5849,34 +5733,6 @@
       ]
     },
     {
-      "id": "bricks_on_main_the_big_spenders_february_13_2026_6_00_pm_9_00_pm",
-      "title": "The Big Spenders",
-      "venue": "Bricks on Main",
-      "location": "Longmont",
-      "date": "February 13, 2026",
-      "normalized_date": "2026-02-13T00:00:00",
-      "recurring": null,
-      "time": "6:00 PM - 9:00 PM",
-      "description": "The Big Spenders are an Alt-Country band from Denver, CO. A blend of the best songs, fine players, and great vocals, this band rocks and twangs for a really great time.",
-      "additional_info": "",
-      "link": "https://www.bricksretail.com/event-details/the-big-spenders",
-      "ticket_link": null,
-      "image": "https://static.wixstatic.com/media/ea2d6f_d1b6d51c369f47f68c388625e929b01b~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_d1b6d51c369f47f68c388625e929b01b~mv2.jpg",
-      "source_url": "https://www.bricksretail.com/events-calendar",
-      "age_restriction": null,
-      "venue_tag": "Bricks on Main",
-      "location_tag": "Longmont",
-      "venue_type_tags": [
-        "Community",
-        "Retail",
-        "Entertainment"
-      ],
-      "event_type_tags": [
-        "Live Music",
-        "Entertainment"
-      ]
-    },
-    {
       "id": "bricks_on_main_the_pamlico_sound_valentine_s_day_show_february_14_2026_7_00_pm_10_00_pm",
       "title": "The Pamlico Sound Valentine's Day Show",
       "venue": "Bricks on Main",
@@ -6243,6 +6099,34 @@
       ]
     },
     {
+      "id": "bricks_on_main_main_st_laughs_free_stand_up_comedy_march_05_2026_6_00_pm_8_00_pm",
+      "title": "Main St Laughs - FREE Stand Up Comedy",
+      "venue": "Bricks on Main",
+      "location": "Longmont",
+      "date": "March 05, 2026",
+      "normalized_date": "2026-03-05T00:00:00",
+      "recurring": null,
+      "time": "6:00 PM - 8:00 PM",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.bricksretail.com/event-details/main-st-laughs-free-stand-up-comedy",
+      "ticket_link": null,
+      "image": "https://static.wixstatic.com/media/ea2d6f_2e46408a2bb1489c8f6d0433ddee34b7~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_2e46408a2bb1489c8f6d0433ddee34b7~mv2.jpg",
+      "source_url": "https://www.bricksretail.com/events-calendar",
+      "age_restriction": null,
+      "venue_tag": "Bricks on Main",
+      "location_tag": "Longmont",
+      "venue_type_tags": [
+        "Community",
+        "Retail",
+        "Entertainment"
+      ],
+      "event_type_tags": [
+        "Comedy",
+        "Entertainment"
+      ]
+    },
+    {
       "id": "bricks_on_main_ten_cent_prophet_march_06_2026_6_00_pm_9_00_pm",
       "title": "Ten Cent Prophet",
       "venue": "Bricks on Main",
@@ -6268,32 +6152,6 @@
       "event_type_tags": [
         "Live Music",
         "Entertainment"
-      ]
-    },
-    {
-      "id": "roots_music_project_stephen_kellogg_and_the_valentines_homecoming_w_gutter_sinatra_night_1_february_13_2026_8_00_pm_10_30_pm",
-      "title": "Stephen Kellogg and The Valentines Homecoming w/gutter sinatra (Night 1)",
-      "venue": "Roots Music Project",
-      "location": "Boulder",
-      "date": "February 13, 2026",
-      "normalized_date": "2026-02-13T00:00:00",
-      "recurring": null,
-      "time": "8:00 PM - 10:30 PM",
-      "description": "Two incredible songwriters bring nostalgia & heart to the stage. An unforgettable evening of soulful music & storytelling awaits!",
-      "additional_info": "",
-      "link": "https://www.eventbrite.com/e/stephen-kellogg-and-the-valentines-homecoming-wgutter-sinatra-night-1-tickets-1730968386039",
-      "ticket_link": null,
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1131586293%2F1125606624043%2F1%2Foriginal.20250922-165943?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=33c5584bf97d4f0210d1d5b5c78c5405",
-      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
-      "age_restriction": "21+",
-      "venue_tag": "Roots Music Project",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Community"
-      ],
-      "event_type_tags": [
-        "Live Music"
       ]
     },
     {
@@ -6882,6 +6740,32 @@
       "link": "https://www.eventbrite.com/e/roots-music-project-workshop-intro-to-music-theory-4-week-course-tickets-1981537102816",
       "ticket_link": null,
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175788440%2F1125606624043%2F1%2Foriginal.20260125-213618?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=370ce3a13fc789e300ebc814221edd0f",
+      "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
+      "age_restriction": "21+",
+      "venue_tag": "Roots Music Project",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Community"
+      ],
+      "event_type_tags": [
+        "Live Music"
+      ]
+    },
+    {
+      "id": "roots_music_project_jay_nash_garrison_starr_swamp_gospel_heartfelt_storytelling_april_03_2026_8_00_pm_10_30_pm",
+      "title": "Jay Nash & Garrison Starr: Swamp Gospel & Heartfelt Storytelling",
+      "venue": "Roots Music Project",
+      "location": "Boulder",
+      "date": "April 03, 2026",
+      "normalized_date": "2026-04-03T00:00:00",
+      "recurring": null,
+      "time": "8:00 PM - 10:30 PM",
+      "description": "Two masterful singer-songwriters unite for an intimate evening of poignant melodies, rough-hewn vocals, and stories that heal the soul.",
+      "additional_info": "",
+      "link": "https://www.eventbrite.com/e/jay-nash-garrison-starr-swamp-gospel-heartfelt-storytelling-tickets-1980821634832",
+      "ticket_link": null,
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175185057%2F1125606624043%2F1%2Foriginal.20260118-193247?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=2a4c1970a188effba5d39a429de16398",
       "source_url": "https://www.eventbrite.com/cc/roots-music-project-168639",
       "age_restriction": "21+",
       "venue_tag": "Roots Music Project",
@@ -7823,56 +7707,6 @@
         "All Ages",
         "Free"
       ]
-    },
-    {
-      "id": "boulder_theater_the_record_company_with_jontavious_willis_feb_13_2026_none",
-      "title": "The Record Company with Jontavious Willis",
-      "venue": "Boulder Theater",
-      "location": "Boulder",
-      "date": "Feb 13, 2026",
-      "normalized_date": "2026-02-13",
-      "recurring": null,
-      "time": null,
-      "description": null,
-      "additional_info": "",
-      "link": "https://www.z2ent.com/events/detail/record-company-2026-bt",
-      "ticket_link": "https://www.axs.com/events/1183939/?skin=bouldertheater",
-      "image": "images/z2/the-record-company-with-jontavious-willis-ceb02006.jpg",
-      "source_url": null,
-      "age_restriction": null,
-      "venue_tag": "Boulder Theater",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Concert",
-        "Theater"
-      ],
-      "event_type_tags": []
-    },
-    {
-      "id": "fox_theatre_it_s_a_2000s_party_boulder_feb_13_2026_none",
-      "title": "It's A 2000s Party: Boulder",
-      "venue": "Fox Theatre",
-      "location": "Boulder",
-      "date": "Feb 13, 2026",
-      "normalized_date": "2026-02-13",
-      "recurring": null,
-      "time": null,
-      "description": null,
-      "additional_info": "",
-      "link": "https://www.z2ent.com/events/detail/2000s-party-2026-fox",
-      "ticket_link": "https://www.axs.com/events/1259263/?skin=foxtheatre",
-      "image": "images/z2/it-s-a-2000s-party-boulder-b943a3fb.jpg",
-      "source_url": null,
-      "age_restriction": null,
-      "venue_tag": "Fox Theatre",
-      "location_tag": "Boulder",
-      "venue_type_tags": [
-        "Live Music",
-        "Concert",
-        "Theater"
-      ],
-      "event_type_tags": []
     },
     {
       "id": "fox_theatre_daniel_rodriguez_with_special_guest_lvdy_feb_14_2026_none",
@@ -8825,6 +8659,31 @@
       "event_type_tags": []
     },
     {
+      "id": "boulder_theater_solas_with_moors_mccumber_mar_22_2026_none",
+      "title": "Solas with Moors & McCumber",
+      "venue": "Boulder Theater",
+      "location": "Boulder",
+      "date": "Mar 22, 2026",
+      "normalized_date": "2026-03-22",
+      "recurring": null,
+      "time": null,
+      "description": null,
+      "additional_info": "",
+      "link": "https://www.z2ent.com/events/detail/solas-2026-bt",
+      "ticket_link": "https://www.axs.com/events/1158179/?skin=bouldertheater",
+      "image": "images/z2/solas-with-moors-mccumber-5538e55a.jpg",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "Boulder Theater",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Theater"
+      ],
+      "event_type_tags": []
+    },
+    {
       "id": "etown_hall_etown_presents_david_wilcox_sold_out_february_14_2026_7_00_pm_9_30_pm",
       "title": "eTown Presents David Wilcox \u2013 SOLD OUT",
       "venue": "eTown Hall",
@@ -9124,6 +8983,32 @@
       "link": "https://www.etown.org/events/march-8-2026-stepping-into-the-unknown-films-from-the-bob-dylan-center/",
       "ticket_link": null,
       "image": "https://www.etown.org/wp-content/uploads/2026/01/Stepping-Into-the-Unknown-Web-Event.png",
+      "source_url": null,
+      "age_restriction": null,
+      "venue_tag": "eTown Hall",
+      "location_tag": "Boulder",
+      "venue_type_tags": [
+        "Live Music",
+        "Concert",
+        "Radio Show",
+        "Intimate Venue"
+      ],
+      "event_type_tags": []
+    },
+    {
+      "id": "etown_hall_etown_presents_she_s_green_with_tiny_tomboy_march_09_2026_7_00_pm_9_30_pm",
+      "title": "eTown Presents she\u2019s green with Tiny Tomboy",
+      "venue": "eTown Hall",
+      "location": "Boulder",
+      "date": "March 09, 2026",
+      "normalized_date": "2026-03-09",
+      "recurring": null,
+      "time": "7:00 pm - 9:30 pm",
+      "description": "",
+      "additional_info": "",
+      "link": "https://www.etown.org/events/march-9-2026-etown-presents-shes-green-with-tiny-tomboy/",
+      "ticket_link": null,
+      "image": "https://www.etown.org/wp-content/uploads/2026/02/shes-green-tiny-tomboy-web-event.png",
       "source_url": null,
       "age_restriction": null,
       "venue_tag": "eTown Hall",

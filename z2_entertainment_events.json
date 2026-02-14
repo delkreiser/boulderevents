@@ -1,37 +1,5 @@
 [
   {
-    "title": "The Record Company with Jontavious Willis",
-    "venue": "Boulder Theater",
-    "location": "Boulder",
-    "date": "Feb 13, 2026",
-    "normalized_date": "2026-02-13",
-    "time": null,
-    "image": "images/z2/the-record-company-with-jontavious-willis-ceb02006.jpg",
-    "url": "https://www.z2ent.com/events/detail/record-company-2026-bt",
-    "ticket_link": "https://www.axs.com/events/1183939/?skin=bouldertheater",
-    "tags": [
-      "music",
-      "concert"
-    ],
-    "description": null
-  },
-  {
-    "title": "It's A 2000s Party: Boulder",
-    "venue": "Fox Theatre",
-    "location": "Boulder",
-    "date": "Feb 13, 2026",
-    "normalized_date": "2026-02-13",
-    "time": null,
-    "image": "images/z2/it-s-a-2000s-party-boulder-b943a3fb.jpg",
-    "url": "https://www.z2ent.com/events/detail/2000s-party-2026-fox",
-    "ticket_link": "https://www.axs.com/events/1259263/?skin=foxtheatre",
-    "tags": [
-      "music",
-      "concert"
-    ],
-    "description": null
-  },
-  {
     "title": "Daniel Rodriguez with special guest LVDY",
     "venue": "Fox Theatre",
     "location": "Boulder",
@@ -633,6 +601,22 @@
     "image": "images/z2/jonah-kagen-with-anna-graves-7b7c1833.jpg",
     "url": "https://www.z2ent.com/events/detail/jonah-kagen-2026-fox",
     "ticket_link": "https://www.axs.com/events/1149661/?skin=foxtheatre",
+    "tags": [
+      "music",
+      "concert"
+    ],
+    "description": null
+  },
+  {
+    "title": "Solas with Moors & McCumber",
+    "venue": "Boulder Theater",
+    "location": "Boulder",
+    "date": "Mar 22, 2026",
+    "normalized_date": "2026-03-22",
+    "time": null,
+    "image": "images/z2/solas-with-moors-mccumber-5538e55a.jpg",
+    "url": "https://www.z2ent.com/events/detail/solas-2026-bt",
+    "ticket_link": "https://www.axs.com/events/1158179/?skin=bouldertheater",
     "tags": [
       "music",
       "concert"

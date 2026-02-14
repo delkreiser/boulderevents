@@ -1,26 +1,5 @@
 [
   {
-    "link": "https://www.bricksretail.com/event-details/the-big-spenders",
-    "title": "The Big Spenders",
-    "date": "February 13, 2026",
-    "time": "6:00 PM - 9:00 PM",
-    "description": "The Big Spenders are an Alt-Country band from Denver, CO. A blend of the best songs, fine players, and great vocals, this band rocks and twangs for a really great time.",
-    "image": "https://static.wixstatic.com/media/ea2d6f_d1b6d51c369f47f68c388625e929b01b~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_d1b6d51c369f47f68c388625e929b01b~mv2.jpg",
-    "venue": "Bricks on Main",
-    "location": "Longmont",
-    "category": "Music",
-    "source_url": "https://www.bricksretail.com/events-calendar",
-    "event_type_tags": [
-      "Live Music",
-      "Entertainment"
-    ],
-    "venue_type_tags": [
-      "Music Venue",
-      "Bar",
-      "Restaurant"
-    ]
-  },
-  {
     "link": "https://www.bricksretail.com/event-details/the-pamlico-sound-valentines-day-show",
     "title": "The Pamlico Sound Valentine's Day Show",
     "date": "February 14, 2026",
@@ -286,6 +265,26 @@
     "source_url": "https://www.bricksretail.com/events-calendar",
     "event_type_tags": [
       "Live Music",
+      "Entertainment"
+    ],
+    "venue_type_tags": [
+      "Music Venue",
+      "Bar",
+      "Restaurant"
+    ]
+  },
+  {
+    "link": "https://www.bricksretail.com/event-details/main-st-laughs-free-stand-up-comedy",
+    "title": "Main St Laughs - FREE Stand Up Comedy",
+    "date": "March 05, 2026",
+    "time": "6:00 PM - 8:00 PM",
+    "image": "https://static.wixstatic.com/media/ea2d6f_2e46408a2bb1489c8f6d0433ddee34b7~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,enc_auto/ea2d6f_2e46408a2bb1489c8f6d0433ddee34b7~mv2.jpg",
+    "venue": "Bricks on Main",
+    "location": "Longmont",
+    "category": "Music",
+    "source_url": "https://www.bricksretail.com/events-calendar",
+    "event_type_tags": [
+      "Comedy",
       "Entertainment"
     ],
     "venue_type_tags": [
